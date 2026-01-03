@@ -856,5 +856,347 @@
     "name": "St Thomas More, Alkrington",
     "deaneryId": "G",
     "status": "closed"
+  },
+  {
+    "id": "H001",
+    "name": "English Martyrs, Whalley",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H002",
+    "name": "Holy Family, Blackburn",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H004",
+    "name": "Our Lady and St Gerard Majella, Lostock Hall",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H005",
+    "name": "Our Lady and St Patrick, Walton-le-Dale",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H006",
+    "name": "Our Lady of Perpetual Succour, Blackburn",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H036",
+    "name": "Our Lady of the Valley, Clitheroe",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H035",
+    "name": "Sacred Heart, Darwen",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H039",
+    "name": "Sacred Heart and St Anne, Blackburn",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H011",
+    "name": "Ss Peter and Paul, Ribchester",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H037",
+    "name": "St Alban, Blackburn",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H016",
+    "name": "St Mary, Bamber Bridge",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H017",
+    "name": "St Mary, Chipping",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H018",
+    "name": "St Mary, Langho",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H019",
+    "name": "St Mary, Osbaldeston",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H010",
+    "name": "St Mary and St John Southworth, Samlesbury",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H038",
+    "name": "St Oscar Romero, Blackburn",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H022",
+    "name": "St Peter and St Joseph, Stonyhurst",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H025",
+    "name": "St Wilfrid, Longridge",
+    "deaneryId": "H",
+    "status": "current"
+  },
+  {
+    "id": "H028",
+    "name": "Holy Family and Our Lady of Perpetual Succour",
+    "deaneryId": "H",
+    "status": "proposed"
+  },
+  {
+    "id": "H033",
+    "name": "Our Lady and St Patrick and St Mary and St John Southworth",
+    "deaneryId": "H",
+    "status": "proposed"
+  },
+  {
+    "id": "H034",
+    "name": "St Mary, Langho, St Mary, Osbaldeston and English Martyrs",
+    "deaneryId": "H",
+    "status": "proposed"
+  },
+  {
+    "id": "H031",
+    "name": "St Wilfrid, Ss Peter and Paul and St Mary, Chipping",
+    "deaneryId": "H",
+    "status": "proposed"
+  },
+  {
+    "id": "H003",
+    "name": "Holy Souls, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H008",
+    "name": "Sacred Heart, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H009",
+    "name": "Sacred Heart and St Edward, Darwen",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H012",
+    "name": "St Alban and the Good Shepherd, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H013",
+    "name": "St Anne, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H007",
+    "name": "St Hubert, Dunsop Bridge",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H024",
+    "name": "St John Vianney, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H014",
+    "name": "St Joseph, Darwen",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H020",
+    "name": "St Mary, Sabden",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H015",
+    "name": "St Mary and St John, Pleasington Priory",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H021",
+    "name": "St Michael and St John, Clitheroe",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "H023",
+    "name": "St Peter in Chains, Blackburn",
+    "deaneryId": "H",
+    "status": "closed"
+  },
+  {
+    "id": "D026",
+    "name": "Holy Apostles, Rossendale",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D024",
+    "name": "St Anne and St Joseph, Accrington",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D004",
+    "name": "St Charles, Rishton",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D002",
+    "name": "St Hubert with St Wulstan, Great Harwood",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D025",
+    "name": "St John Paul II, Padiham and Burnley",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D006",
+    "name": "St John Southworth, Nelson",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D011",
+    "name": "St Joseph, Todmorden",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D012",
+    "name": "St Marie, Haslingden",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D016",
+    "name": "St Mary, Clayton-le-Moors",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D017",
+    "name": "St Mary, Oswaltwistle",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D013",
+    "name": "St Mary and St Anselm, Whitworth",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D018",
+    "name": "The Good Shepherd, Pendle",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D021",
+    "name": "The Parish of the Good Samaritan, Burnley",
+    "deaneryId": "D",
+    "status": "current"
+  },
+  {
+    "id": "D023",
+    "name": "St Charles, St Hubert with St Wulstan and St Mary",
+    "deaneryId": "D",
+    "status": "proposed"
+  },
+  {
+    "id": "D001",
+    "name": "Christ the King, Burnley",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D003",
+    "name": "St Anne, Accrington",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D005",
+    "name": "St James the Lees, Rawtenstall",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D008",
+    "name": "St John the Baptist, Burnley",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D007",
+    "name": "St John the Baptist and St Philip the Apostle, Padiham",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D010",
+    "name": "St Joseph, Accrington",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D009",
+    "name": "St Joseph and St Peter, Newchurch",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D014",
+    "name": "St Mary Magdalene and St Augustine, Burnley",
+    "deaneryId": "D",
+    "status": "closed"
+  },
+  {
+    "id": "D015",
+    "name": "St Mary of the Assumption, Burnley",
+    "deaneryId": "D",
+    "status": "closed"
   }
 ]
