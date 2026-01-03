@@ -44,10 +44,10 @@
                 <nav>
                     <ul data-breakpoint="1080" class="flexnav">
                         <li><a href="/">Home</a></li>
-                        <li><a href="html/deaneries">Deaneries</a></li>
-                        <li><a href="html/map">Interactive map</a></li>
-                        <li><a href="html/what-parish">What parish?</a></li>
-                        <li><a href="html/contact">Contact</a></li>
+                        <li><a href="deaneries">Deaneries</a></li>
+                        <li><a href="map">Interactive map</a></li>
+                        <li><a href="what-parish">What parish?</a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -135,10 +135,12 @@
     const img = document.getElementById("deaneryMapImg");
     const caption = document.getElementById("deaneryMapCaption");
 
-    const fallbackImg = "../assets/placeholder.png";
-    const imgSrc = d?.mapImage ? `/boundaries${d.mapImage}`.replace("/boundaries/boundaries", "/boundaries") : fallbackImg;
+    // Use the current page as the base for resolving relative paths
+    const base = location.href; // includes querystring but URL() handles it fine
 
-    img.src = imgSrc;
+    const fallback = new URL("../assets/placeholder.png", base).href;
+
+    img.src = d?.mapImage ? new URL(d.mapImage, base).href : fallback;
     img.alt = d?.mapAlt || `${d?.name || "Deanery"} highlighted on the diocesan map`;
 
     if (caption) caption.textContent = img.alt;
