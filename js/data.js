@@ -6,19 +6,19 @@ async function fetchJSON(url) {
 }
 
 async function loadDeaneries() {
-  return fetchJSON("/data/deaneries.json");
+  return fetchJSON("../data/deaneries.json");
 }
 
 async function loadStatuses() {
-  return fetchJSON("/data/statuses.json");
+  return fetchJSON("../data/statuses.json");
 }
 
 async function loadParish(id) {
-  return fetchJSON(`/parish-data/${id}.json`);
+  return fetchJSON(`../parish-data/${id}.json`);
 }
 
 async function loadParishIndex() {
-  return fetchJSON("/data/parish-index.json");
+  return fetchJSON("../data/parish-index.json");
 }
 
 function fmtDate(iso) {
