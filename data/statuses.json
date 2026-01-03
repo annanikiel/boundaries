@@ -1,0 +1,11 @@
+{
+  "current": {
+    "label": "Current parish"
+  },
+  "proposed": {
+    "label": "Proposed amalgamation"
+  },
+  "closed": {
+    "label": "Closed parish"
+  }
+}

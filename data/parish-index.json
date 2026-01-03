@@ -1,3 +1,57 @@
 [
-  { "id": "st-josephs-manchester", "name": "St Joseph's, Manchester", "deaneryId": "manchester-south", "status": "current" }
+  {
+    "id": "B025",
+    "name": "Holy Trinity, Worsley",
+    "deaneryId": "B",
+    "status": "current"
+  },
+  {
+    "id": "B037",
+    "name": "Our Lady of Hope, Salford",
+    "deaneryId": "B",
+    "status": "current"
+  },
+  {
+    "id": "B028",
+    "name": "OOur Lady of Mount Carmel and St Joseph, Salford",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B020",
+    "name": "St Ambrose Barlow, Swinton & Pendlebury",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B006",
+    "name": "St James and All Souls, Salford",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B026",
+    "name": "St John Paul II, Eccles",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B019",
+    "name": "St Teresa of Avila and St Joseph, Irlam",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B024",
+    "name": "The Three Martyrs: St Sebastian, St Boniface and St Thomas of Canterbury, Salford",
+    "deaneryId": "B",
+    "status": "current"
+  },
+    {
+    "id": "B001",
+    "name": "Christ the King, Walken",
+    "deaneryId": "B",
+    "status": "closed"
+  }
 ]
+
