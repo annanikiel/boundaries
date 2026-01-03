@@ -15,5 +15,59 @@
     "order": 2,
     "mapImage": "../assets/A.png",
     "mapAlt": "St Ambrose deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "C",
+    "name": "St Chad - North Manchester",
+    "slug": "st-chad",
+    "order": 3,
+    "mapImage": "../assets/C.png",
+    "mapAlt": "St Chad's deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "D",
+    "name": "St John Vianney - Burnley",
+    "slug": "st-john-vianney",
+    "order": 4,
+    "mapImage": "../assets/D.png",
+    "mapAlt": "St John Vianney deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "E",
+    "name": "Mount Carmel - Oldham",
+    "slug": "mount-carmel",
+    "order": 5,
+    "mapImage": "../assets/E.png",
+    "mapAlt": "Mount Carmel deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "F",
+    "name": "St Joseph - Bolton",
+    "slug": "st-joseph",
+    "order": 6,
+    "mapImage": "../assets/F.png",
+    "mapAlt": "St Joseph deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "G",
+    "name": "St Therese of Lisieux - Rochdale, Bury",
+    "slug": "st-therese",
+    "order": 7,
+    "mapImage": "../assets/G.png",
+    "mapAlt": "St Therese of Lisieux deanery highlighted on the diocesan map"
+  },
+
+  {
+    "id": "H",
+    "name": "St John Southworth - Blackburn",
+    "slug": "st-john-southworth",
+    "order": 8,
+    "mapImage": "../assets/H.png",
+    "mapAlt": "St John Southworth deanery highlighted on the diocesan map"
   }
 ]
