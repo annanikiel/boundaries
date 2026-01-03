@@ -47,11 +47,94 @@
     "deaneryId": "B",
     "status": "current"
   },
-    {
+  {
     "id": "B001",
     "name": "Christ the King, Walken",
     "deaneryId": "B",
     "status": "closed"
+  },
+  {
+    "id": "B002",
+    "name": "Holy Cross St Matthew and St Gilbert, Eccles",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B003",
+    "name": "Ss Peter and Paul, Pendleton",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B004",
+    "name": "St Charles, Moorside",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B005",
+    "name": "St Edmund, Little Hulton",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B007",
+    "name": "St John the Evangelist (Cathedral), Salford",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B022",
+    "name": "St Joseph, Irlam",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B008",
+    "name": "St Joseph, Ordsall",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B011",
+    "name": "St Luke, Irlams o'-th'-Height",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B012",
+    "name": "St Mark, Pendlebury",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B014",
+    "name": "St Mary, Eccles",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B013",
+    "name": "St Mary of the Immaculate Conception, Swinton",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B015",
+    "name": "St Sebastian and St Boniface, Pendleton",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B009",
+    "name": "St Teresa of Avila, Irlam",
+    "deaneryId": "B",
+    "status": "closed"
+  },
+  {
+    "id": "B016",
+    "name": "St Thomas of Canterbury, Higher Broughton",
+    "deaneryId": "B",
+    "status": "closed"
   }
 ]
-
