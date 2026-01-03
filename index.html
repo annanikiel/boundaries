@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Meta tags -->
+	<meta charset="utf-8" />
+	<meta name="Description" content="Collection of maps showing current and proposed parish boundaries in the Diocese of Salford." />
+	<meta name="Keywords" content="Diocese of Salford, parish boundaries, parishes, location of catholic churches, catholic churches, location of catholic schools, catholic schools" />
+	    
+	<!-- Apple users -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	
+	<!-- Shortcut & address bar icon -->
+	<link href="assets/favicon.png" rel="icon" type="image/png" />
+	
+	<!-- Stylesheet files -->
+	<link href="css/style.css" rel="stylesheet" media="screen" />
+	<link href="css/style.css.map" rel="stylesheet" media="screen" />
+	<link href="css/flexnav.css" rel="stylesheet" media="screen" />
+		
+	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
+
+ 
+</head>
+<body>
+    <!-- Logo -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col"><img src="assets/dioc_banner.jpg" class="mx-auto d-block logo" /></div>
+        </div>
+
+
+        <!-- Navigation -->
+        <div class="row">
+            <div class="col">
+                <div class="menu-button">Menu</div>
+                <nav>
+                    <ul data-breakpoint="1080" class="flexnav">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="html/deaneries">Deaneries</a></li>
+                        <li><a href="html/map">Interactive map</a></li>
+                        <li><a href="html/what-parish">What parish?</a></li>
+                        <li><a href="html/contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+<div class="background">
+            <!-- Title -->
+            <p class="title">Parish boundaries</p>
+            <!-- Search bar -->
+			<div style="margin-top:2.5em;">&nbsp;</div>
+            
+			<!-- Promo group -->
+			<div class="d-flex flex-column flex-lg-row promobox-container">
+				<div class="promobox">
+				<p class="promobox-title">Deaneries</p>
+				<p class="promobox-text">The diocese is split into 8 deaneries, each consisting from 9 to 21 parishes. This section allows you to explore our deaneries and find our more about the parishes in each deanery.</p>
+				<p class="promobox-link"><a href="/deaneries">Explore deaneries</a></p>
+				</div>
+			
+				<div class="promobox promobox-middle">
+				<p class="promobox-title">Interactive map</p>
+				<p class="promobox-text">Interactive map enables you to view the diocese as the whole, explore the boundaries and zoom in and out to find the parish that interests you.</p>
+				<p class="promobox-link"><a href="/map">View interactive map</a></p>
+				</div>
+
+				<div class="promobox">
+				<p class="promobox-title">What parish?</p>
+				<p class="promobox-text">If you want to quickly check which parish a given postcode is in, this feature is for you. You can find parish for all postcodes within the diocese or determine if a postcode is outside of the diocese.</p>
+				<p class="promobox-link"><a href="/what-parish">Find your parish</a></p>
+				</div>
+			</div>
+
+
+        </div>
+
+ <!-- Footer -->
+        <div class="footer">
+            <p>Copyright © Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+        </div>
+
+
+    </div>
+    <!-- container-end-->
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.flexnav.js"></script>
+    <script src="/assets/js/data.js"></script>
+
+    <script>
+        $(".flexnav").flexNav({
+            'animationSpeed': 250, // default for drop down animation speed
+            'transitionOpacity': true, // default for opacity animation
+            'buttonSelector': '.menu-button', // default menu button class name
+            'hoverIntent': false, // Change to true for use with hoverIntent plugin
+            'hoverIntentTimeout': 150, // hoverIntent default timeout
+            'calcItemWidths': true, // dynamically calcs top level nav item widths
+            'hover': true // would you like hover support?  	  
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Meta tags -->
+	<meta charset="utf-8" />
+	<meta name="Description" content="Collection of maps showing current and proposed parish boundaries in the Diocese of Salford." />
+	<meta name="Keywords" content="Diocese of Salford, parish boundaries, parishes, location of catholic churches, catholic churches, location of catholic schools, catholic schools" />
+	    
+	<!-- Apple users -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	
+	<!-- Shortcut & address bar icon -->
+	<link href="/assets/favicon.png" rel="icon" type="image/png" />
+	
+	<!-- Stylesheet files -->
+	<link href="css/style.css" rel="stylesheet" media="screen" />
+	<link href="css/style.css.map" rel="stylesheet" media="screen" />
+	<link href="css/flexnav.css" rel="stylesheet" media="screen" />
+		
+	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
+
+	
+	
+	<!-- Page title -->
+	<title> 
+	Deaneries	| Diocese of Salford Parish Boundaries
+	</title>
+</head>
+
+<body>
+    <!-- Logo -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col"><img src="assets/dioc_banner.jpg" class="mx-auto d-block logo" /></div>
+        </div>
+
+
+        <!-- Navigation -->
+        <div class="row">
+            <div class="col">
+                <div class="menu-button">Menu</div>
+                <nav>
+                    <ul data-breakpoint="1080" class="flexnav">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="html/deaneries">Deaneries</a></li>
+                        <li><a href="html/map">Interactive map</a></li>
+                        <li><a href="html/what-parish">What parish?</a></li>
+                        <li><a href="html/contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+<div class="row mt-5 body-height">
+		
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+					
+		<div class="col-12 col-md-6">
+
+		<h2 class="fw-bold pb-2">Deaneries</h2>
+		<p>
+            <ul id="deaneryList" class="deanery-list"></ul>
+		</p>
+		</div>
+		
+		<div class="col-12 col-md-4"><img src="assets/diocese.png" style="width:75%;" class="rounded mx-auto d-block" alt="Diocese boundaries, with deaneries" /></div>
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+
+</div> <!-- Footer -->
+        <div class="footer">
+            <p>Copyright © Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+        </div>
+
+
+    </div>
+    <!-- container-end-->
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.flexnav.js"></script>
+
+    <script src="js/data.js"></script>
+
+    <script>
+        (async function () {
+        const deaneries = await loadDeaneries();
+        const list = document.getElementById("deaneryList");
+        list.innerHTML = deaneries
+            .sort((a,b) => (a.order ?? 999) - (b.order ?? 999))
+            .map(d => `<li class="deanery-item"><a href="/html/deanery.html?id=${encodeURIComponent(d.id)}">${d.name}</a></li>`)
+            .join("");
+        })().catch(err => {
+        console.error(err);
+        document.getElementById("deaneryList").innerHTML = "<li>Failed to load deaneries.</li>";
+        });
+    </script>
+
+    <script>
+        $(".flexnav").flexNav({
+            'animationSpeed': 250, // default for drop down animation speed
+            'transitionOpacity': true, // default for opacity animation
+            'buttonSelector': '.menu-button', // default menu button class name
+            'hoverIntent': false, // Change to true for use with hoverIntent plugin
+            'hoverIntentTimeout': 150, // hoverIntent default timeout
+            'calcItemWidths': true, // dynamically calcs top level nav item widths
+            'hover': true // would you like hover support?  	  
+        });
+    </script>
+</body>
+
+</html>
