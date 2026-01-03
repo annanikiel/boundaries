@@ -1,0 +1,19 @@
+[
+  {
+    "id": "B",
+    "name": "St John - Salford",
+    "slug": "st-john",
+    "order": 1,
+    "mapImage": "../assets/B.png",
+    "mapAlt": "St John deanery highlighted on the diocesan map"
+  },
+
+{
+    "id": "A",
+    "name": "St Ambrose Barlow - South Manchester",
+    "slug": "st-ambrose",
+    "order": 2,
+    "mapImage": "../assets/A.png",
+    "mapAlt": "St Ambrose deanery highlighted on the diocesan map"
+  }
+]
