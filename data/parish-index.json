@@ -136,5 +136,725 @@
     "name": "St Thomas of Canterbury, Higher Broughton",
     "deaneryId": "B",
     "status": "closed"
+  },
+  {
+    "id": "A010",
+    "name": "English Martyrs, Whalley Range",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A022",
+    "name": "Holy Family, Denton",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A006",
+    "name": "Our Lady and St Alphonsus, Old Trafford",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A007",
+    "name": "Our Lady and St John, Chorlton-cum-Hardy",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A021",
+    "name": "Sacred Heart and St Francis of Assisi, Gorton",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A029",
+    "name": "Saint Antony of Padua, Stretford and Trafford Park",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A012",
+    "name": "St Ambrose, Chorlton",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A009",
+    "name": "St Augustine, All Saints",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A011",
+    "name": "St Bernadette, Withington",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A020",
+    "name": "St Bernard, Burnage",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A016",
+    "name": "St Catherine of Sienna, Didsbury",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A015",
+    "name": "St Cuthbert, Withington",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A030",
+    "name": "St John Henry Newman, Urmston & Flixton",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A023",
+    "name": "St Joseph, Reddish",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A034",
+    "name": "St Joseph and St Edward, Longsight & Rusholme",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A014",
+    "name": "St Kentigern, Fallowfield",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A025",
+    "name": "St Mary, Heaton Mersey",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A026",
+    "name": "St Mary and St John Fisher, Denton",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A008",
+    "name": "St Mary the Hidden Gem, Manchester",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A037",
+    "name": "St Robert of Newminster, Levenshulme",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A027",
+    "name": "St Winifred, Heaton Mersey",
+    "deaneryId": "A",
+    "status": "current"
+  },
+  {
+    "id": "A033",
+    "name": "St Cuthbert and St Bernadette",
+    "deaneryId": "A",
+    "status": "proposed"
+  },
+  {
+    "id": "A028",
+    "name": "St John the Evangelist and St Ambrose",
+    "deaneryId": "A",
+    "status": "proposed"
+  },
+  {
+    "id": "A031",
+    "name": "St Joseph and Holy Family",
+    "deaneryId": "A",
+    "status": "proposed"
+  },
+  {
+    "id": "A032",
+    "name": "St Kentigern and English Martyrs",
+    "deaneryId": "A",
+    "status": "proposed"
+  },
+  {
+    "id": "A035",
+    "name": "St Winifred, St Mary and St Bernard",
+    "deaneryId": "A",
+    "status": "proposed"
+  },
+  {
+    "id": "A002",
+    "name": "Our Lady and the English Martyrs, Urnston",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A005",
+    "name": "St Ann, Stretford",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A004",
+    "name": "St Anthony of Padua, Trafford",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A013",
+    "name": "St Edward, Rusholme",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A003",
+    "name": "St Hugh of Lincoln, Stretford",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A017",
+    "name": "St Joseph, Longsight",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A019",
+    "name": "St Mary, Levenshulme",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A001",
+    "name": "St Monica, Flixton",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "A018",
+    "name": "St Richard, Longsight",
+    "deaneryId": "A",
+    "status": "closed"
+  },
+  {
+    "id": "C001",
+    "name": "Christ the King, Newton Heath",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C020",
+    "name": "Holy Spirit, Manchester",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C023",
+    "name": "Our Lady of Mount Carmel with Saint John Bosco, Blackley",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C005",
+    "name": "St Anne, Crumpsall",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C006",
+    "name": "St Anne, Higher Openshaw",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C007",
+    "name": "St Chad, Cheetham Hill",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C008",
+    "name": "St Clare, Higher Blackley",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C022",
+    "name": "St Dunstan and St John Vianney, Moston",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C012",
+    "name": "St Margaret Mary, New Moston",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C013",
+    "name": "St Patrick, Collyhurst",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C014",
+    "name": "St Stephen, Droylsden",
+    "deaneryId": "C",
+    "status": "current"
+  },
+  {
+    "id": "C018",
+    "name": "St Stephen and St Anne",
+    "deaneryId": "C",
+    "status": "proposed"
+  },
+  {
+    "id": "C003",
+    "name": "Our Lady of Mount Carmel, Blackley",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "C004",
+    "name": "St Anne and St Brigid, Ancoats",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "C009",
+    "name": "St Dunstan, Moston",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "C010",
+    "name": "St John Bosco, Blackley",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "C011",
+    "name": "St John Vianney, Moston",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "C015",
+    "name": "St Willibrord, Clayton",
+    "deaneryId": "C",
+    "status": "closed"
+  },
+  {
+    "id": "E014",
+    "name": "Divine Mercy, Chadderton & Hollinwood",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E019",
+    "name": "Holy Cross and St Helen, Ashton under Lyne",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E024",
+    "name": "Our Lady and Saint Patrick, Oldham",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E004",
+    "name": "St Aidan and St Oswald, Royton",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E007",
+    "name": "St Edward, Lees",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E022",
+    "name": "St Francis of Assisi, Oldham",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E009",
+    "name": "St Joseph, Mossley",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E010",
+    "name": "St Joseph, Shaw",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E023",
+    "name": "The Parish of the Nativity, Oldham",
+    "deaneryId": "E",
+    "status": "current"
+  },
+  {
+    "id": "E015",
+    "name": "Ss Aidan and Oswald and St Joseph",
+    "deaneryId": "E",
+    "status": "proposed"
+  },
+  {
+    "id": "E001",
+    "name": "Corpus Christi, Hollinwood",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E002",
+    "name": "Holy Family and Holy Rosary, Oldham",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E003",
+    "name": "Sacred Heart and Our Lady, Oldham",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E005",
+    "name": "St Anne and St Michael, Oldham",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E006",
+    "name": "St Christopher, Hurst Cross",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E008",
+    "name": "St Herbert, Chadderton",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E011",
+    "name": "St Mary and the Angels, Ashton-under-Lyne",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "E012",
+    "name": "St Mary with St Patrick, Oldham",
+    "deaneryId": "E",
+    "status": "closed"
+  },
+  {
+    "id": "F020",
+    "name": "Blessed Dominic Barberi, Bolton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F027",
+    "name": "Christ the Redeemer, Bolton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F026",
+    "name": "Corpus Christi, Bromley Cross",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F002",
+    "name": "Holy Infant, Astley Bridge",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F004",
+    "name": "Our Lady of Lourdes and St Gregory the Great, Farnworth",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F003",
+    "name": "Our Lady of the Immaculate Conception, Haigh",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F005",
+    "name": "Sacred Heart of Jesus, Westhoughton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F028",
+    "name": "Saint Cuthbert, Bolton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F008",
+    "name": "St Edmund and St Patrick, Bolton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F011",
+    "name": "St John Fisher, Kearsley",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F014",
+    "name": "St Mary, Horwich",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F018",
+    "name": "St Vincent de Paul, Over Hulton",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F001",
+    "name": "The Holy Family, New Springs",
+    "deaneryId": "F",
+    "status": "current"
+  },
+  {
+    "id": "F024",
+    "name": "Our Lady of the Immaculate Conception and Holy Family",
+    "deaneryId": "F",
+    "status": "proposed"
+  },
+  {
+    "id": "F022",
+    "name": "Bolton Parishes, ",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F006",
+    "name": "St Brendan, Harwood",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F007",
+    "name": "St Columba, Tonge Moor",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F009",
+    "name": "St Ethelbert, Deane",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F010",
+    "name": "St James the Great, Montserrat",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F012",
+    "name": "St John the Evangelist, Bromley Cross",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F013",
+    "name": "St Joseph, Halliwell",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F015",
+    "name": "St Osmund, Breightmet",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F016",
+    "name": "St Teresa, Little Lever",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F017",
+    "name": "St Thomas of Canterbury, Heaton",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "F019",
+    "name": "St William of York, Great Lever",
+    "deaneryId": "F",
+    "status": "closed"
+  },
+  {
+    "id": "G004",
+    "name": "Guardian Angels, Bury",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G002",
+    "name": "Our Lady and St Joseph, Heywood",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G003",
+    "name": "Our Lady of Dolours, Kersal",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G005",
+    "name": "Our Lady of Grace, Prestwich",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G024",
+    "name": "Our Lady of the Assumption, Middleton",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G020",
+    "name": "Pope St John XXIII, Rochdale & Littleborough",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G025",
+    "name": "Saint Margaret Clitherow, Rochdale",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G008",
+    "name": "St Gabriel and the Angels and St John the Baptist, Rochdale",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G009",
+    "name": "St Hilda, Tottington",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G010",
+    "name": "St Joseph, Ramsbottom",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G011",
+    "name": "St Marie and St Joseph, Bury",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G012",
+    "name": "St Mary and St Philip Neri, Radcliffe",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G014",
+    "name": "St Michael and St Bernadette, Whitefield",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G021",
+    "name": "St Peter and St Thomas More, Middleton & Alkrington",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G018",
+    "name": "St Vincent de Paul, Norden",
+    "deaneryId": "G",
+    "status": "current"
+  },
+  {
+    "id": "G022",
+    "name": "Guardian Angels and St Hilda",
+    "deaneryId": "G",
+    "status": "proposed"
+  },
+  {
+    "id": "G023",
+    "name": "St Mary with St Philip Neri and St Michael with St Bernadette",
+    "deaneryId": "G",
+    "status": "proposed"
+  },
+  {
+    "id": "G001",
+    "name": "Holy Family, Kirkholt",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G006",
+    "name": "Our Lady of the Assumption St Agnes and St John Fisher, Langley",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G007",
+    "name": "Sacred Heart, Rochdale",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G013",
+    "name": "St Mary of the Annunciation, Littleborough",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G015",
+    "name": "St Patrick, Rochdale",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G016",
+    "name": "St Peter, Middleton",
+    "deaneryId": "G",
+    "status": "closed"
+  },
+  {
+    "id": "G017",
+    "name": "St Thomas More, Alkrington",
+    "deaneryId": "G",
+    "status": "closed"
   }
 ]
