@@ -87,7 +87,7 @@
         const list = document.getElementById("deaneryList");
         list.innerHTML = deaneries
             .sort((a,b) => (a.order ?? 999) - (b.order ?? 999))
-            .map(d => `<li class="deanery-item"><a href="/html/deanery.html?id=${encodeURIComponent(d.id)}">${d.name}</a></li>`)
+            .map(d => `<li class="deanery-item"><a href="html/deanery?id=${encodeURIComponent(d.id)}">${d.name}</a></li>`)
             .join("");
         })().catch(err => {
         console.error(err);

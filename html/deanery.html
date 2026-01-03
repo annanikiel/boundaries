@@ -116,7 +116,7 @@
   <script src="../js/data.js"></script>
   <script>
     function parishLink(p) {
-    return `<li><a href="html/parish.html?id=${encodeURIComponent(p.id)}">${p.name}</a></li>`;
+    return `<li><a href="html/parish?id=${encodeURIComponent(p.id)}">${p.name}</a></li>`;
   }
 
   (async function () {
@@ -164,7 +164,7 @@
     document.getElementById("closedList").innerHTML = closed.map(parishLink).join("") || "<li>None</li>";
   })().catch(err => {
     console.error(err);
-    document.getElementById("currentList").innerHTML = "<li>Failed to load deanery.</li>";
+    document.getElementById("currentList").innerHTML = "<li>Failed to load parishes.</li>";
   });
   </script>
 
