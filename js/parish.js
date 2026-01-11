@@ -12,12 +12,28 @@ function renderMapLinks(links) {
   return output.length ? output.join(" | ") : "No maps available";
 }
 
-function renderAuditTrail(trail) {
-  if (!trail?.length) {
+function formatAuditDate(dateString) {
+  if (!dateString) {
+    return null;
+  }
+  const parts = dateString.split("/");
+  if (parts.length !== 3) {
+    return null;
+  }
+  const [day, month, year] = parts;
+  if (!day || !month || !year) {
+    return null;
+  }
+  return `${year}${month.padStart(2, "0")}${day.padStart(2, "0")}`;
+}
+
+function renderAuditTrail(parishId, trail) {
+  if (!trail?.length || trail.length <= 1) {
     return null;
   }
 
-  return trail.map((entry) => {
+  const supersededEntries = trail.slice(0, -1);
+  return supersededEntries.map((entry) => {
     if (typeof entry === "string") {
       return entry;
     }
@@ -26,12 +42,15 @@ function renderAuditTrail(trail) {
     if (entry.date) {
       parts.push(entry.date);
     }
-    if (entry.status) {
-      parts.push(entry.status);
+
+    const dateStamp = formatAuditDate(entry.date);
+    if (dateStamp) {
+      const mapLink = `https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/${parishId}_${dateStamp}_a3.pdf`;
+      const descriptionLink = `https://dos-boundaries.s3.eu-west-2.amazonaws.com/descriptions/${parishId}_${dateStamp}.pdf`;
+      parts.push(`<a href="${mapLink}" target="_blank" rel="noopener">A3 map</a>`);
+      parts.push(`<a href="${descriptionLink}" target="_blank" rel="noopener">Description</a>`);
     }
-    if (entry.note) {
-      parts.push(entry.note);
-    }
+
     return parts.filter(Boolean).join(" - ");
   }).filter(Boolean);
 }
@@ -178,13 +197,20 @@ function initParishMap(parish) {
 
   const descriptionEl = document.getElementById("parishDescription");
   if (parish.description?.available === false) {
-    descriptionEl.textContent = "Not available";
+    const descriptionDate = parish.maps?.updated || parish.auditTrail?.[parish.auditTrail.length - 1]?.date;
+    const descriptionStamp = formatAuditDate(descriptionDate);
+    if (descriptionStamp) {
+      const descriptionLink = `https://dos-boundaries.s3.eu-west-2.amazonaws.com/descriptions/${parish.id}_${descriptionStamp}.pdf`;
+      descriptionEl.innerHTML = `<a href="${descriptionLink}" target="_blank" rel="noopener">View description</a>`;
+    } else {
+      descriptionEl.textContent = "Not available";
+    }
   } else {
     descriptionEl.innerHTML = `<a href="parish-description?id=${encodeURIComponent(parish.id)}">View description</a>`;
   }
 
   const auditTrailBlock = document.getElementById("parishAuditTrailBlock");
-  const auditTrailLines = renderAuditTrail(parish.auditTrail);
+  const auditTrailLines = renderAuditTrail(parish.id, parish.auditTrail);
   if (!auditTrailLines) {
     auditTrailBlock.style.display = "none";
   } else {
