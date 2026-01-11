@@ -1,0 +1,227 @@
+row_id,date_time,p_type,dean,pid,p_name,p_loc,p_comm,p_map_date,p_map_a4_file,p_map_gj_file,p_map_gj_cent,p_map_zoom,aml_codes,version,p_status
+1,"2017-04-18 23:48:00",LP,H,H001,"English Martyrs",Whalley,,20220722,a4/H001_A4.pdf,geojson/H001.geojson,"-267260.352984646,7137897",12,H001H018H019,1,draft
+2,"2017-04-18 23:48:00",LP,H,H002,"Holy Family",Blackburn,,20170507,a4/H002_A4.pdf,geojson/H002.geojson,"-272919.61941756,7120495.",12,H002H006,1,draft
+3,"2017-04-18 23:48:00",CP,H,H003,"Holy Souls",Blackburn,,20170729,a4/H003_A4.pdf,geojson/H003.geojson,"-275985.394132258,7128088",13,H003H012,1,draft
+4,"2017-04-18 23:48:00",LP,H,H004,"Our Lady and St Gerard Majella","Lostock Hall","Part of this parish lies within Liverpool Archdiocese, but is served from the Diocese of Salford, by a Benedictine community.",20170415,a4/H004_A4.pdf,geojson/H004.geojson,"-300556.957517445,7118756",13,H004,1,draft
+5,"2017-04-18 23:48:00",LP,H,H005,"Our Lady and St Patrick",Walton-le-Dale,,20170415,a4/H005_A4.pdf,geojson/H005.geojson,"-294795.882128586,7121792",12,H005H010,1,draft
+6,"2017-04-18 23:48:00",LP,H,H006,"Our Lady of Perpetual Succour",Blackburn,,20170415,a4/H006_A4.pdf,geojson/H006.geojson,"-275715.549569306,7118984",13,H002H006,1,draft
+7,"2017-04-18 23:48:00",CP,H,H007,"St Hubert","Dunsop Bridge",,20170415,a4/H007_A4.pdf,geojson/H007.geojson,"-273647.148558065,7162043",10,H007H020H021,1,draft
+8,"2017-04-18 23:48:00",CP,H,H008,"Sacred Heart",Blackburn,,20170415,a4/H008_A4.pdf,geojson/H008.geojson,"-279591.340010437,7124266",13,H008H013,1,draft
+9,"2017-04-18 23:48:00",CP,H,H009,"Sacred Heart and St Edward",Darwen,,20170415,a4/H009_A4.pdf,geojson/H009.geojson,"-277977.591712764,7114635",12,H009H014,1,draft
+10,"2017-04-18 23:48:00",LP,H,H010,"St Mary and St John Southworth",Samlesbury,,20170415,a4/H010_A4.pdf,geojson/H010.geojson,"-289064.535744188,7125160",12,H005H010,1,draft
+11,"2017-04-18 23:48:00",LP,H,H011,"Ss Peter and Paul",Ribchester,,20170507,a4/H011_A4.pdf,geojson/H011.geojson,"-281909.584966775,7136503",12,H011H017H025,1,draft
+12,"2017-04-18 23:48:00",CP,H,H012,"St Alban and the Good Shepherd",Blackburn,,20170415,a4/H012_A4.pdf,geojson/H012.geojson,"-275270.669835549,7124671",13,H003H012,1,draft
+13,"2017-04-18 23:48:00",CP,H,H013,"St Anne",Blackburn,,20170415,a4/H013_A4.pdf,geojson/H013.geojson,"-277695.160550411,7122543",13,H008H013,1,draft
+14,"2017-04-18 23:48:00",CP,H,H014,"St Joseph",Darwen,,20170415,a4/H014_A4.pdf,geojson/H014.geojson,"-273405.335693752,7111136",12,H009H014,1,draft
+15,"2017-04-18 23:48:00",CP,H,H015,"St Mary and St John","Pleasington Priory",,20170507,a4/H015_A4.pdf,geojson/H015.geojson,"-282483.979898308,7120647",12,H015H023H024,1,draft
+16,"2017-04-18 23:48:00",LP,H,H016,"St Mary","Bamber Bridge",,20170415,a4/H016_A4.pdf,geojson/H016.geojson,"-295466.73773452,7118333.",13,H016,1,draft
+17,"2017-04-18 23:48:00",LP,H,H017,"St Mary",Chipping,,20170415,a4/H017_A4.pdf,geojson/H017.geojson,"-285857.904285841,7149794",11.5,H011H017H025,1,draft
+18,"2017-04-18 23:48:00",LP,H,H018,"St Mary",Langho,,20170729,a4/H018_A4.pdf,geojson/H018.geojson,"-274168.616608652,7133997",12,H001H018H019,1,draft
+19,"2017-04-18 23:48:00",LP,H,H019,"St Mary",Osbaldeston,,20170415,a4/H019_A4.pdf,geojson/H019.geojson,"-283204.349050952,7129283",12,H001H018H019,1,draft
+20,"2017-04-18 23:48:00",CP,H,H020,"St Mary",Sabden,,20170415,a4/H020_A4.pdf,geojson/H020.geojson,"-258579.35787197,7139339.",12,H007H020H021,1,draft
+21,"2017-04-18 23:48:00",CP,H,H021,"St Michael and St John",Clitheroe,,20170415,a4/H021_A4.pdf,geojson/H021.geojson,"-261424.110348552,7146399",11.5,H007H020H021,1,draft
+22,"2017-04-18 23:48:00",LP,H,H022,"St Peter and St Joseph",Stonyhurst,,20170415,a4/H022_A4.pdf,geojson/H022.geojson,"-276658.2408614,7141921.3",12,H022,1,draft
+23,"2017-04-18 23:48:00",CP,H,H023,"St Peter in Chains",Blackburn,,20170415,a4/H023_A4.pdf,geojson/H023.geojson,"-278161.617665455,7120936",13,H015H023H024,1,draft
+24,"2017-04-18 23:48:00",CP,H,H024,"St John Vianney",Blackburn,,20170415,a4/H024_A4.pdf,geojson/H024.geojson,"-278830.656928776,7117785",13,H015H023H024,1,draft
+25,"2017-04-18 23:48:00",LP,H,H025,"St Wilfrid",Longridge,,20170415,a4/H025_A4.pdf,geojson/H025.geojson,"-286779.399157644,7141721",12,H011H017H025,1,draft
+26,"2017-04-18 23:48:00",AA,H,H026,"Sacred Heart and St Anne",,,20170415,a4/H008H013_a4.pdf,geojson/H026.geojson,"-279193.911543541,7123944",11,H008H013,1,draft
+27,"2017-04-18 23:48:00",AA,H,H027,"St Alban and Holy Souls",,"St Alban parish includes Good Shepherd Church",20170729,a4/H003H012_a4.pdf,geojson/H027.geojson,"-275740.856220189,7126920",11,H003H012,1,draft
+28,"2017-04-18 23:48:00",PA,H,H028,"Holy Family and Our Lady of Perpetual Succour",,,20170507,a4/H002H006_a4.pdf,geojson/H028.geojson,"-273334.90930422,7120240.",11,H002H006,1,draft
+29,"2017-04-18 23:48:00",AA,H,H029,"St Peter, St John Vianney and Ss Mary and John",,"Ss Mary and John parish includes St Paul chapel of ease",20170507,a4/H015H023H024_a4.pdf,geojson/H029.geojson,"-280817.107667212,7119837",11,H015H023H024,1,draft
+30,"2017-04-18 23:48:00",AA,H,H030,"Sacred Heart and St Edward with St Joseph, Darwen",,,20170415,a4/H009H014_a4.pdf,geojson/H030.geojson,"-274917.374919277,7112310",11,H009H014,1,draft
+31,"2017-04-18 23:48:00",PA,H,H031,"St Wilfrid, Ss Peter and Paul and St Mary, Chipping",,,20170507,a4/H025H011H017_a4.pdf,geojson/H031.geojson,"-285526.657274263,7145554",11,H011H017H025,1,draft
+32,"2017-04-18 23:48:00",AA,H,H032,"Our Lady of the Valley and St Hubert",,,20170415,a4/H007H020H021_a4.pdf,geojson/H032.geojson,"-271214.976663411,7158752",10,H007H020H021,1,draft
+33,"2017-04-18 23:48:00",PA,H,H033,"Our Lady and St Patrick and St Mary and St John Southworth",,,20170415,a4/H005H010_a4.pdf,geojson/H033.geojson,"-291594.304033289,7123673",11,H005H010,1,draft
+34,"2017-04-18 23:48:00",PA,H,H034,"St Mary, Langho, St Mary, Osbaldeston and English Martyrs",,,20170729,a4/H001H018H019_a4.pdf,geojson/H034.geojson,"-275821.962485423,7133328",11,H001H018H019,1,draft
+35,"2017-04-19 22:06:00",CP,G,G001,"Holy Family",Kirkholt,,20170602,a4/G001_A4.pdf,geojson/G001.geojson,"-237285.512338558,7093756",12,,1,draft
+36,"2017-04-19 22:06:00",LP,G,G002,"Our Lady and St Joseph",Heywood,,20170415,a4/G002_A4.pdf,geojson/G002.geojson,"-248398.950058561,7093317",12,,1,draft
+37,"2017-04-19 22:06:00",LP,G,G003,"Our Lady of Dolours",Kersal,,20170602,a4/G003_A4.pdf,geojson/G003.geojson,"-253727.30207255,7079348.",12,,1,draft
+38,"2017-04-19 22:06:00",LP,G,G004,"Guardian Angels",Bury,,20170602,a4/G004_A4.pdf,geojson/G004.geojson,"-260996.96477446,7092936.",12,,1,draft
+39,"2017-04-19 22:06:00",LP,G,G005,"Our Lady of Grace",Prestwich,,20170415,a4/G005_A4.pdf,geojson/G005.geojson,"-253585.616733691,7082985",12,,1,draft
+40,"2017-04-19 22:06:00",CP,G,G006,"Our Lady of the Assumption St Agnes and St John Fisher",Langley,"We do not currently have the description of a boundary between Our Lady and St Agnes and St John Fisher.",20170602,a4/G006_A4.pdf,geojson/G006.geojson,"-245415.182606715,7087858",12,,1,draft
+41,"2017-04-19 22:06:00",CP,G,G007,"Sacred Heart",Rochdale,,20170602,a4/G007_A4.pdf,geojson/G007.geojson,"-231295.742216163,7096697",12,,1,draft
+42,"2017-04-19 22:06:00",LP,G,G008,"St Gabriel and the Angels and St John the Baptist",Rochdale,,20170415,a4/G008_A4.pdf,geojson/G008.geojson,"-241440.428572682,7093380",12,,1,draft
+43,"2017-04-19 22:06:00",LP,G,G009,"St Hilda",Tottington,,20170602,a4/G009_A4.pdf,geojson/G009.geojson,"-260338.816802014,7097797",12,,1,draft
+44,"2017-04-19 22:06:00",LP,G,G010,"St Joseph",Ramsbottom,,20170602,a4/G010_A4.pdf,geojson/G010.geojson,"-257465.284557225,7105015",12,,1,draft
+45,"2017-04-19 22:06:00",LP,G,G011,"St Marie and St Joseph",Bury,,20170415,a4/G011_A4.pdf,geojson/G011.geojson,"-254055.104241658,7094722",12,,1,draft
+46,"2017-04-19 22:06:00",LP,G,G012,"St Mary and St Philip Neri",Radcliffe,,20170602,a4/G012_A4.pdf,geojson/G012.geojson,"-259726.386417882,7088489",12,,1,draft
+47,"2017-04-19 22:06:00",CP,G,G013,"St Mary of the Annunciation",Littleborough,,20170602,a4/G013_A4.pdf,geojson/G013.geojson,"-232946.656229933,7104774",12,,1,draft
+48,"2017-04-19 22:06:00",LP,G,G014,"St Michael and St Bernadette",Whitefield,,20170415,a4/G014_A4.pdf,geojson/G014.geojson,"-255188.793437249,7085813",12,,1,draft
+49,"2017-04-19 22:06:00",CP,G,G015,"St Patrick",Rochdale,,20170602,a4/G015_A4.pdf,geojson/G015.geojson,"-239238.218042575,7100552",12,,1,draft
+50,"2017-04-19 22:06:00",CP,G,G016,"St Peter",Middleton,,20170602,a4/G016_A4.pdf,geojson/G016.geojson,"-242648.681099807,7083859",12,,1,draft
+51,"2017-04-19 22:06:00",CP,G,G017,"St Thomas More",Alkrington,,20170415,a4/G017_A4.pdf,geojson/G017.geojson,"-244267.145579288,7083143",12,,1,draft
+52,"2017-04-19 22:06:00",LP,G,G018,"St Vincent de Paul",Norden,,20170602,a4/G018_A4.pdf,geojson/G018.geojson,"-247278.110427124,7101461",12,,1,draft
+53,"2017-04-19 22:06:00",AA,G,G019,"Sacred Heart and Holy Family",,,20170602,a4/G001G007_A4.pdf,geojson/G019.geojson,"-232833.306906132,7095942",12,,1,draft
+54,"2017-04-19 22:06:00",LP,G,G020,"Pope St John XXIII","Rochdale & Littleborough",,20220713,a4/G020_A4.pdf,geojson/G020.geojson,"-234309.259844916,7103859",12,,1,approved
+55,"2017-04-19 22:06:00",LP,G,G021,"St Peter and St Thomas More","Middleton & Alkrington",,20190602,a4/G021_A4.pdf,geojson/G021.geojson,"-243321.842290191,7083561",12,,1,approved
+56,"2017-04-19 22:06:00",PA,G,G022,"Guardian Angels and St Hilda",,,20170602,a4/G004G009_A4.pdf,geojson/G022.geojson,"-260585.242862736,7095975",12,,1,draft
+57,"2017-04-19 22:06:00",PA,G,G023,"St Mary with St Philip Neri and St Michael with St Bernadette",,,20170602,a4/G012G014_A4.pdf,geojson/G023.geojson,"-257449.044024943,7087146",12,,1,draft
+58,"2017-04-25 23:12:00",CP,D,D001,"Christ the King",Burnley,,20170415,a4/D001_A4.pdf,geojson/D001.geojson,"-252539.519784044,7126271",12,,1,draft
+59,"2017-04-25 23:12:00",LP,D,D002,"St Hubert with St Wulstan","Great Harwood",,20170729,a4/D002_A4.pdf,geojson/D002.geojson,"-268309.176468779,7130853",12,,1,draft
+60,"2017-04-25 23:12:00",CP,D,D003,"St Anne",Accrington,"Now part of a new parish of St Anne and St Joseph (22.09.2017)",20170415,a4/D003_A4.pdf,geojson/D003.geojson,"-260855.259547643,7122428",12,,1,draft
+61,"2017-04-25 23:12:00",LP,D,D004,"St Charles",Rishton,,20170729,a4/D004_A4.pdf,geojson/D004.geojson,"-270063.227688671,7126714",12,,1,draft
+62,"2017-04-25 23:12:00",CP,D,D005,"St James the Lees",Rawtenstall,,20170415,a4/D005_A4.pdf,geojson/D005.geojson,"-254954.775645608,7116952",12,,1,draft
+63,"2017-04-25 23:12:00",LP,D,D006,"St John Southworth",Nelson,,20220715,a4/D006_A4.pdf,geojson/D006_v2.geojson,"-248388.932185621,7137567",12,,1,approved
+64,"2017-04-25 23:12:00",CP,D,D007,"St John the Baptist and St Philip the Apostle",Padiham,,20170415,a4/D007_A4.pdf,geojson/D007.geojson,"-258283.487309366,7132130",12,,1,draft
+65,"2017-04-25 23:12:00",CP,D,D008,"St John the Baptist",Burnley,,20170415,a4/D008_A4.pdf,geojson/D008.geojson,"-243176.286593818,7133758",12,,1,draft
+66,"2017-04-25 23:12:00",CP,D,D009,"St Joseph and St Peter",Newchurch,,20170415,a4/D009_A4.pdf,geojson/D009.geojson,"-249430.934370499,7113875",12,,1,draft
+67,"2017-04-25 23:12:00",CP,D,D010,"St Joseph",Accrington,"Now part of a new parish of St Anne and St Joseph (22.09.2017)",20170415,a4/D010_A4.pdf,geojson/D010.geojson,"-262304.949831535,7125943",12,,1,draft
+68,"2017-04-25 23:12:00",LP,D,D011,"St Joseph",Todmorden,,20170507,a4/D011_A4.pdf,geojson/D011.geojson,"-234195.167772666,7115102",12,,1,draft
+69,"2017-04-25 23:12:00",LP,D,D012,"St Marie",Haslingden,,20170415,a4/D012_A4.pdf,geojson/D012.geojson,"-261735.661593749,7112934",12,,1,draft
+70,"2017-04-25 23:12:00",LP,D,D013,"St Mary and St Anselm",Whitworth,,20170415,a4/D013_A4.pdf,geojson/D013.geojson,"-243335.927583924,7111574",12,,1,draft
+71,"2017-04-25 23:12:00",CP,D,D014,"St Mary Magdalene and St Augustine",Burnley,,20170415,a4/D014_A4.pdf,geojson/D014.geojson,"-253386.272970354,7132162",12,,1,draft
+72,"2017-04-25 23:12:00",CP,D,D015,"St Mary of the Assumption",Burnley,,20170415,a4/D015_A4.pdf,geojson/D015.geojson,"-243456.632233882,7125850",12,,1,draft
+73,"2017-04-25 23:12:00",LP,D,D016,"St Mary",Clayton-le-Moors,,20170415,a4/D016_A4.pdf,geojson/D016.geojson,"-263590.02891222,7128569.",12,,1,draft
+74,"2017-04-25 23:12:00",LP,D,D017,"St Mary",Oswaltwistle,,20170507,a4/D017_A4.pdf,geojson/D017.geojson,"-266754.784079675,7120208",12,,1,draft
+75,"2017-04-25 23:12:00",LP,D,D018,"The Good Shepherd",Pendle,,20220715,a4/D018_A4.pdf,geojson/D018_v2.geojson,"-240723.808707753,7142553",11,,1,approved
+77,"2017-04-25 23:12:00",AA,D,D019,"St James the Lees, St Joseph and St Peter",,,20170415,a4/D005D0097_A4.pdf,geojson/D019.geojson,"-252187.331983528,7115411",12,,1,draft
+78,"2017-04-25 23:12:00",AA,D,D020,"St Anne and St Joseph",,,20170415,a4/D003D010_A4.pdf,geojson/D020.geojson,"-261362.490839785,7123658",12,,1,draft
+79,"2017-04-25 23:12:00",LP,D,D021,"The Parish of the Good Samaritan",Burnley,,20190717,a4/D021_A4.pdf,geojson/D021.geojson,"-245122.364237436,7127914",12,,1,approved
+80,"2017-04-25 23:12:00",AA,D,D022,"St John the Baptist with St Philip and St Mary Magdalene",,,20170415,a4/D007D014_A4.pdf,geojson/D022.geojson,"-257537.783822009,7132135",12,,1,draft
+81,"2017-04-25 23:12:00",PA,D,D023,"St Charles, St Hubert with St Wulstan and St Mary",,,20170729,a4/D002D004D016_A4.pdf,geojson/D023.geojson,"-267069.931655518,7129062",12,,1,draft
+132,"2017-04-28 15:06:00",LP,F,F001,"The Holy Family","New Springs",,20170628,a4/F001_A4.pdf,geojson/F001.geojson,"-287483.80700176,7086723.",13,,1,draft
+133,"2017-04-28 15:06:00",LP,F,F002,"Holy Infant","Astley Bridge",,20171227,a4/F002_A4.pdf,geojson/F027.geojson,"-275766.304295303,7101501",12,,1,approved
+134,"2017-04-28 15:06:00",LP,F,F003,"Our Lady of the Immaculate Conception",Haigh,,20170628,a4/F003_A4.pdf,geojson/F003.geojson,"-288099.486314422,7092397",13,,1,draft
+135,"2017-04-28 15:06:00",LP,F,F004,"Our Lady of Lourdes and St Gregory the Great",Farnworth,,20170415,a4/F004_A4.pdf,geojson/F004.geojson,"-268430.487635059,7085242",13,,1,draft
+136,"2017-04-28 15:06:00",LP,F,F005,"Sacred Heart of Jesus",Westhoughton,,20170415,a4/F005_A4.pdf,geojson/F005.geojson,"-281763.622112102,7086189",12,,1,draft
+137,"2017-04-28 15:06:00",CP,F,F006,"St Brendan",Harwood,,20170415,a4/F006_A4.pdf,geojson/F006.geojson,"-265722.288857852,7096801",13,,1,draft
+138,"2017-04-28 15:06:00",CP,F,F007,"St Columba","Tonge Moor",,20170415,a4/F007_A4.pdf,geojson/F007.geojson,"-268488.509642062,7094292",13,,1,draft
+139,"2017-04-28 15:06:00",LP,F,F008,"St Edmund and St Patrick",Bolton,,20170415,a4/F008_A4.pdf,geojson/F008.geojson,"-270155.006390271,7090308",13,,1,draft
+140,"2017-04-28 15:06:00",CP,F,F009,"St Ethelbert",Deane,,20170628,a4/F009_A4.pdf,geojson/F009.geojson,"-274899.114742575,7087820",13,,1,draft
+141,"2017-04-28 15:06:00",CP,F,F010,"St James the Great",Montserrat,,20170415,a4/F010_A4.pdf,geojson/F010.geojson,"-275762.435236192,7094524",13,,1,draft
+142,"2017-04-28 15:06:00",LP,F,F011,"St John Fisher",Kearsley,,20170415,a4/F011_A4.pdf,geojson/F011.geojson,"-263119.19471227,7083707.",13,,1,draft
+143,"2017-04-28 15:06:00",CP,F,F012,"St John the Evangelist","Bromley Cross",,20170415,a4/F012_A4.pdf,geojson/F012.geojson,"-268217.779335952,7104528",12,,1,draft
+144,"2017-04-28 15:06:00",CP,F,F013,"St Joseph",Halliwell,,20170415,a4/F013_A4.pdf,geojson/F013.geojson,"-272364.374539016,7093221",13,,1,draft
+145,"2017-04-28 15:06:00",LP,F,F014,"St Mary",Horwich,,20170415,a4/F014_A4.pdf,geojson/F014.geojson,"-282405.543798116,7098390",12,,1,draft
+146,"2017-04-28 15:06:00",CP,F,F015,"St Osmund",Breightmet,,20170415,a4/F015_A4.pdf,geojson/F015.geojson,"-266269.590461838,7090982",13,,1,draft
+147,"2017-04-28 15:06:00",CP,F,F016,"St Teresa","Little Lever",,20170415,a4/F016_A4.pdf,geojson/F016.geojson,"-264278.964186217,7087618",13,,1,draft
+148,"2017-04-28 15:06:00",CP,F,F017,"St Thomas of Canterbury",Heaton,,20170415,a4/F017_A4.pdf,geojson/F017.geojson,"-275968.77104674,7091583.",13,,1,draft
+149,"2017-04-28 15:06:00",LP,F,F018,"St Vincent de Paul","Over Hulton",,20170628,a4/F018_A4.pdf,geojson/F018.geojson,"-274900.600599618,7083587",13,,1,draft
+150,"2017-04-28 15:06:00",CP,F,F019,"St William of York","Great Lever",,20170415,a4/F019_A4.pdf,geojson/F019.geojson,"-270698.546729373,7087520",13,,1,draft
+151,"2017-04-28 15:06:00",LP,F,F020,"Blessed Dominic Barberi",Bolton,,20191103,a4/F020_A4.pdf,geojson/F020.geojson,"-265550.230749513,7089767",12,,1,approved
+152,"2017-04-28 15:06:00",AA,F,F021,"St John the Evangelist and St Brendan",,,20170415,a4/F006F012_A4.pdf,geojson/F021.geojson,"-267728.437793269,7103013",12,,1,draft
+153,"2017-04-28 15:06:00",CP,F,F022,"Bolton Parishes",,,20170415,a4/F002F007_A4.pdf,geojson/F022.geojson,"-275120.418718096,7100862",12,,1,draft
+154,"2017-04-28 15:06:00",AA,F,F023,"St Thomas of Canterbury, St James and St Joseph",,,20170415,a4/F010F013F017_A4.pdf,geojson/F023.geojson,"-275202.503290739,7092778",12,,1,draft
+155,"2017-04-28 15:06:00",PA,F,F024,"Our Lady of the Immaculate Conception and Holy Family",,,20170628,a4/F001F003_A4.pdf,geojson/F024.geojson,"-287899.702026969,7090556",12,,1,draft
+156,"2017-04-28 15:06:00",AA,F,F025,"St Ethelbert and St William of York",,,20170628,a4/F009F019_A4.pdf,geojson/F025.geojson,"-273707.018312762,7087735",12,,1,draft
+176,"2017-05-04 21:32:00",LP,C,C001,"Christ the King","Newton Heath",,20170415,a4/C001_A4.pdf,geojson/C001.geojson,"-242953.045364619,7075620",13,,1,draft
+177,"2017-05-04 21:32:00",AA,C,C002,"Immaculate Conception",Failsworth,"It is proposed this parish becomes part of the Deanery of Mount Carmel and amalgamates with the territory of the former Holy Family parish, Limeside.",20170531,a4/C002_A4.pdf,geojson/C002.geojson,"-239092.389882076,7076797",13,,1,draft
+178,"2017-05-04 21:32:00",CP,C,C003,"Our Lady of Mount Carmel",Blackley,,20170415,a4/C003_A4.pdf,geojson/C003.geojson,"-246574.941030714,7079576",13,,1,draft
+179,"2017-05-04 21:32:00",CP,C,C004,"St Anne and St Brigid",Ancoats,"Now part of a new parish of Holy Spirit (22.09.2017)",20170415,a4/C004_A4.pdf,geojson/C004.geojson,"-244988.822093675,7072331",13,,1,draft
+180,"2017-05-04 21:32:00",LP,C,C005,"St Anne",Crumpsall,,20170531,a4/C005_A4.pdf,geojson/C005.geojson,"-249275.515132337,7079058",13,,1,draft
+181,"2017-05-04 21:32:00",LP,C,C006,"St Anne","Higher Openshaw",,20170415,a4/C006_A4.pdf,geojson/C006.geojson,"-239353.708933124,7070794",13,,1,draft
+182,"2017-05-04 21:32:00",LP,C,C007,"St Chad","Cheetham Hill",,20170531,a4/C007_A4.pdf,geojson/C007.geojson,"-249248.482634418,7075255",13,,1,draft
+183,"2017-05-04 21:32:00",LP,C,C008,"St Clare","Higher Blackley",,20170415,a4/C008_A4.pdf,geojson/C008.geojson,"-248273.743311179,7082984",13,,1,draft
+184,"2017-05-04 21:32:00",CP,C,C009,"St Dunstan",Moston,,20170415,a4/C009_A4.pdf,geojson/C009.geojson,"-244619.065109462,7077849",13,,1,draft
+185,"2017-05-04 21:32:00",CP,C,C010,"St John Bosco",Blackley,,20170415,a4/C010_A4.pdf,geojson/C010.geojson,"-244488.42774516,7080749.",13,,1,draft
+186,"2017-05-04 21:32:00",CP,C,C011,"St John Vianney",Moston,,20170531,a4/C011_A4.pdf,geojson/C011.geojson,"-242297.825008168,7078414",13,,1,draft
+187,"2017-05-04 21:32:00",LP,C,C012,"St Margaret Mary","New Moston",,20170415,a4/C012_A4.pdf,geojson/C012.geojson,"-240825.8467172,7079955.5",13,,1,draft
+188,"2017-05-04 21:32:00",LP,C,C013,"St Patrick",Collyhurst,,20170531,a4/C013_A4.pdf,geojson/C013.geojson,"-246816.410711067,7075489",13,,1,draft
+189,"2017-05-04 21:32:00",LP,C,C014,"St Stephen",Droylsden,,20170415,a4/C014_A4.pdf,geojson/C014.geojson,"-238024.539890406,7073678",13,,1,draft
+190,"2017-05-04 21:32:00",CP,C,C015,"St Willibrord",Clayton,"Now part of a new parish of Holy Spirit (22.09.2017)",20170415,a4/C015_A4.pdf,geojson/C015.geojson,"-242004.546867738,7073296",13,,1,draft
+191,"2017-05-04 21:32:00",AA,C,C016,"Mount Carmel, Blackley and St John Bosco",,,20170415,a4/C003C010_A4.pdf,geojson/C016.geojson,"-245549.860174243,7080152",13,,1,draft
+192,"2017-05-04 21:32:00",AA,C,C017,"St Dunstan, St John Vianney and St Margaret Mary",,,20170531,a4/C009C011C012_A4.pdf,geojson/C017.geojson,"-242326.448927371,7078821",13,,1,draft
+193,"2017-05-04 21:32:00",PA,C,C018,"St Stephen and St Anne",,,20170415,a4/C006C014_A4.pdf,geojson/C018.geojson,"-238592.114955943,7072447",13,,1,draft
+194,"2017-05-04 21:32:00",AA,C,C019,"St Anne with St Brigid and St Willibrord",,,20170415,a4/C004C015_A4.pdf,geojson/C019.geojson,"-244294.394158565,7072555",13,,1,draft
+195,"2017-05-14 23:40:00",CP,E,E001,"Corpus Christi",Hollinwood,,20170415,a4/E001_A4.pdf,geojson/E001.geojson,"-238784.946260005,7081881",13,0,1,draft
+196,"2017-05-14 23:40:00",CP,E,E002,"Holy Family and Holy Rosary",Oldham,,20170415,a4/E002_A4.pdf,geojson/E002.geojson,"-235543.527294445,7079113",13,0,1,draft
+197,"2017-05-14 23:40:00",CP,E,E003,"Sacred Heart and Our Lady",Oldham,,20170415,a4/E003_A4.pdf,geojson/E003.geojson,"-231363.190946207,7087665",13,0,1,draft
+198,"2017-05-14 23:40:00",LP,E,E004,"St Aidan and St Oswald",Royton,,20170415,a4/E004_A4.pdf,geojson/E004.geojson,"-237278.298682028,7088671",13,0,1,draft
+199,"2017-05-14 23:40:00",CP,E,E005,"St Anne and St Michael",Oldham,,20170415,a4/E005_A4.pdf,geojson/E005.geojson,"-232758.282951019,7082926",13,0,1,draft
+200,"2017-05-14 23:40:00",CP,E,E006,"St Christopher","Hurst Cross","Now part of a new parish of Holy Cross and St Helen (22.09.2017)",20170628,a4/E006_A4.pdf,geojson/E006.geojson,"-230025.006569202,7075899",13,0,1,draft
+201,"2017-05-14 23:40:00",LP,E,E007,"St Edward",Lees,,20170628,a4/E007_A4.pdf,geojson/E007.geojson,"-231140.37389545,7083562.",13,0,1,draft
+202,"2017-05-14 23:40:00",CP,E,E008,"St Herbert",Chadderton,,20170415,a4/E008_A4.pdf,geojson/E008.geojson,"-239457.604243406,7085575",13,0,1,draft
+203,"2017-05-14 23:40:00",LP,E,E009,"St Joseph",Mossley,,20170628,a4/E009_A4.pdf,geojson/E009.geojson,"-230014.952443355,7079731",13,0,1,draft
+204,"2017-05-14 23:40:00",LP,E,E010,"St Joseph",Shaw,,20170415,a4/E010_A4.pdf,geojson/E010.geojson,"-233373.213885457,7090445",13,0,1,draft
+205,"2017-05-14 23:40:00",CP,E,E011,"St Mary and the Angels",Ashton-under-Lyne,"Now part of a new parish of Holy Cross and St Helen (22.09.2017)",20170415,a4/E011_A4.pdf,geojson/E011.geojson,"-234095.91063127,7074262.",13,0,1,draft
+206,"2017-05-14 23:40:00",CP,E,E012,"St Mary with St Patrick",Oldham,,20170415,a4/E012_A4.pdf,geojson/E012.geojson,"-235490.252574626,7083802",13,0,1,draft
+207,"2017-05-14 23:40:00",AA,E,E013,"St Mary with St Patrick and Holy Rosary",,,20170628,a4/E012E020_A4.pdf,geojson/E013.geojson,"-235089.385373398,7082055",13,0,1,draft
+208,"2017-05-14 23:40:00",LP,E,E014,"Divine Mercy","Chadderton & Hollinwood",,20190602,a4/E014_A4.pdf,geojson/E014.geojson,"-239144.056222507,7083853",13,0,1,approved
+209,"2017-05-14 23:40:00",PA,E,E015,"Ss Aidan and Oswald and St Joseph",,,20170415,a4/E004E010_A4.pdf,geojson/E015.geojson,"-235200.419283353,7089615",13,0,1,draft
+210,"2017-05-14 23:40:00",AA,E,E016,"St Mary of the Angels and St Christopher",,,20170628,a4/E006E011_A4.pdf,geojson/E016.geojson,"-232087.859751814,7075070",13,0,1,draft
+211,"2017-05-14 23:40:00",AA,E,E017,"Sacred Heart with Our Lady and St Anne with St Michael",,,20170415,a4/E003E005_A4.pdf,geojson/E017.geojson,"-231994.314099412,7085521",13,0,1,draft
+212,"2017-05-14 23:40:00",AA,E,E018,"Immaculate Conception and Holy Family",,,20170628,a4/E019E021_A4.pdf,geojson/E018.geojson,"-238236.623443024,7077374",13,0,1,draft
+213,"2017-05-17 23:45:00",CP,B,B001,"Christ the King",Walken,,20170415,a4/B001_A4.pdf,geojson/B001.geojson,"-265706.58204116,7079354.",13,0,1,draft
+214,"2017-05-17 23:45:00",CP,B,B002,"Holy Cross St Matthew and St Gilbert",Eccles,,20170415,a4/B002_A4.pdf,geojson/B002.geojson,"-266659.554293952,7072474",13,0,1,draft
+215,"2017-05-17 23:45:00",CP,B,B003,"Ss Peter and Paul",Pendleton,,20170415,a4/B003_A4.pdf,geojson/B003.geojson,"-259213.320685009,7074755",13,0,1,draft
+216,"2017-05-17 23:45:00",CP,B,B004,"St Charles",Moorside,,20170415,a4/B004_A4.pdf,geojson/B004.geojson,"-262590.370635528,7077486",13,0,1,draft
+217,"2017-05-17 23:45:00",CP,B,B005,"St Edmund","Little Hulton",,20170415,a4/B005_A4.pdf,geojson/B005.geojson,"-269613.209830791,7081588",13,0,1,draft
+218,"2017-05-17 23:45:00",LP,B,B006,"St James and All Souls",Salford,,20170415,a4/B006_A4.pdf,geojson/B006.geojson,"-255995.449730402,7073190",13,0,1,draft
+219,"2017-05-17 23:45:00",CP,B,B007,"St John the Evangelist (Cathedral)",Salford,,20170415,a4/B007_A4.pdf,geojson/B007.geojson,"-251883.606469051,7073120",13,0,1,draft
+220,"2017-05-17 23:45:00",CP,B,B008,"St Joseph",Ordsall,"Served from the Cathedral",20170415,a4/B008_A4.pdf,geojson/B008.geojson,"-254014.833526692,7071065",13,0,1,draft
+221,"2017-05-17 23:45:00",CP,B,B009,"St Teresa of Avila",Irlam,,20170415,a4/B009_A4.pdf,geojson/B009.geojson,"-272839.727162805,7065175",13,0,1,draft
+222,"2017-05-17 23:45:00",CP,B,B012,"St Mark",Pendlebury,,20170415,a4/B012_A4.pdf,geojson/B012.geojson,"-260089.208269743,7080634",13,0,1,draft
+223,"2017-05-17 23:45:00",CP,B,B013,"St Mary of the Immaculate Conception",Swinton,,20170415,a4/B013_A4.pdf,geojson/B013.geojson,"-258396.107145799,7078069",13,0,1,draft
+224,"2017-05-17 23:45:00",CP,B,B014,"St Mary",Eccles,,20170415,a4/B014_A4.pdf,geojson/B014.geojson,"-260738.959652573,7073462",13,0,1,draft
+225,"2017-05-17 23:45:00",CP,B,B015,"St Sebastian and St Boniface",Pendleton,,20170415,a4/B015_A4.pdf,geojson/B015.geojson,"-253331.592936389,7075849",13,0,1,draft
+226,"2017-05-17 23:45:00",CP,B,B016,"St Thomas of Canterbury","Higher Broughton",,20170415,a4/B016_A4.pdf,geojson/B016.geojson,"-250975.798707134,7077259",13,0,1,draft
+227,"2017-05-17 23:45:00",CP,B,B022,"St Joseph",Irlam,,20170415,a4/B022_A4.pdf,geojson/B022.geojson,"-269997.131865733,7067807",13,0,1,draft
+228,"2017-05-17 23:45:00",AA,B,B017,"St Thomas of Canterbury with St Sebastian and St Boniface",,,20170415,a4/B015B016_A4.pdf,geojson/B017.geojson,"-252422.125279265,7076394",13,0,1,draft
+229,"2017-05-17 23:45:00",AA,B,B018,"Holy Cross, St Matthew and St Gilbert with St Mary",,,20170415,a4/B002B014_A4.pdf,geojson/B018.geojson,"-265700.792179885,7072634",13,0,1,draft
+230,"2017-05-17 23:45:00",LP,B,B019,"St Teresa of Avila and St Joseph",Irlam,,20220713,a4/B019_A4.pdf,geojson/B019.geojson,"-271722.947440516,7066209",13,0,1,approved
+231,"2017-05-17 23:45:00",LP,B,B020,"St Ambrose Barlow","Swinton & Pendlebury",,20190602,a4/B020_A4.pdf,geojson/B020.geojson,"-260520.198880346,7078543",13,0,1,approved
+232,"2017-05-17 23:45:00",AA,B,B021,"Christ the King and St Edmund",,,20170415,a4/B001B005_A4.pdf,geojson/B021.geojson,"-267474.669885517,7080365",13,0,1,draft
+233,"2017-05-17 23:45:00",AA,B,B023,"St Luke and Ss Peter and Paul",,,20170415,a4/B003B011_A4.pdf,geojson/B023.geojson,"-257657.870255063,7075673",13,0,1,draft
+234,"2017-05-17 23:48:00",CP,B,B011,"St Luke","Irlams o'-th'-Height",,20170415,a4/B011_A4.pdf,geojson/B011.geojson,"-256853.1227606,7076148.7",13,0,1,draft
+235,"2017-05-21 23:57:00",CP,A,A001,"St Monica",Flixton,,20170415,a4/A001_A4.pdf,geojson/A001.geojson,"-265985.024258315,7066399",13,0,1,draft
+236,"2017-05-21 23:57:00",CP,A,A002,"Our Lady and the English Martyrs",Urnston,,20170415,a4/A002_A4.pdf,geojson/A002.geojson,"-262938.865339768,7066798",13,0,1,draft
+237,"2017-05-21 23:57:00",CP,A,A003,"St Hugh of Lincoln",Stretford,,20170415,a4/A003_A4.pdf,geojson/A003.geojson,"-260359.927791482,7067773",13,0,1,draft
+238,"2017-05-21 23:57:00",CP,A,A004,"St Anthony of Padua",Trafford,,20170415,a4/A004_A4.pdf,geojson/A004.geojson,"-258121.944498553,7070337",13,0,1,draft
+239,"2017-05-21 23:57:00",CP,A,A005,"St Ann",Stretford,,20170415,a4/A005_A4.pdf,geojson/A005.geojson,"-256606.582915082,7066443",13,0,1,draft
+240,"2017-05-21 23:57:00",LP,A,A006,"Our Lady and St Alphonsus","Old Trafford",,20170415,a4/A006_A4.pdf,geojson/A006.geojson,"-251903.689755056,7068500",13,0,1,draft
+241,"2017-05-21 23:57:00",LP,A,A007,"Our Lady and St John",Chorlton-cum-Hardy,,20170415,a4/A007_A4.pdf,geojson/A007.geojson,"-253739.192604627,7065035",13,0,1,draft
+242,"2017-05-21 23:57:00",LP,A,A008,"St Mary the Hidden Gem",Manchester,,20170415,a4/A008_A4.pdf,geojson/A008.geojson,"-250254.030167756,7072085",13,0,1,draft
+243,"2017-05-21 23:57:00",LP,A,A009,"St Augustine","All Saints",,20170415,a4/A009_A4.pdf,geojson/A009.geojson,"-249536.645938644,7070330",13,0,1,draft
+244,"2017-05-21 23:57:00",LP,A,A010,"English Martyrs","Whalley Range",,20170415,a4/A010_A4.pdf,geojson/A010.geojson,"-250986.477620635,7066301",13,0,1,draft
+245,"2017-05-21 23:57:00",LP,A,A011,"St Bernadette",Withington,,20170415,a4/A011_A4.pdf,geojson/A011.geojson,"-250382.083448982,7063696",13,0,1,draft
+246,"2017-05-21 23:57:00",LP,A,A012,"St Ambrose",Chorlton,,20170415,a4/A012_A4.pdf,geojson/A012.geojson,"-251932.504082597,7062010",13,0,1,draft
+247,"2017-05-21 23:57:00",CP,A,A013,"St Edward",Rusholme,,20170415,a4/A013_A4.pdf,geojson/A013.geojson,"-247532.579474731,7067392",13,0,1,draft
+248,"2017-05-21 23:57:00",LP,A,A014,"St Kentigern",Fallowfield,,20170415,a4/A014_A4.pdf,geojson/A014.geojson,"-247767.911027326,7065682",13,0,1,draft
+249,"2017-05-21 23:57:00",LP,A,A015,"St Cuthbert",Withington,,20170415,a4/A015_A4.pdf,geojson/A015.geojson,"-248068.702799979,7063102",13,0,1,draft
+250,"2017-05-21 23:57:00",LP,A,A016,"St Catherine of Sienna",Didsbury,,20170415,a4/A016_A4.pdf,geojson/A016.geojson,"-248158.948695885,7059709",13,0,1,draft
+251,"2017-05-21 23:57:00",CP,A,A017,"St Joseph",Longsight,,20170415,a4/A017_A4.pdf,geojson/A017.geojson,"-246231.351357216,7068932",13,0,1,draft
+252,"2017-05-21 23:57:00",CP,A,A018,"St Richard",Longsight,"Now part of a new parish of St Robert of Newminster (22.09.2017)",20170415,a4/A018_A4.pdf,geojson/A018.geojson,"-244174.333801083,7067427",13,0,1,draft
+253,"2017-05-21 23:57:00",CP,A,A019,"St Mary",Levenshulme,"Now part of a new parish of St Robert of Newminster (22.09.2017)",20170415,a4/A019_A4.pdf,geojson/A019.geojson,"-243674.413153441,7065047",13,0,1,draft
+254,"2017-05-21 23:57:00",LP,A,A020,"St Bernard",Burnage,,20170415,a4/A020_A4.pdf,geojson/A020.geojson,"-245510.831971538,7063048",13,0,1,draft
+255,"2017-05-21 23:57:00",LP,A,A021,"Sacred Heart and St Francis of Assisi",Gorton,,20170415,a4/A021_A4.pdf,geojson/A021.geojson,"-242689.661883082,7068806",13,0,1,draft
+256,"2017-05-21 23:57:00",LP,A,A022,"Holy Family",Denton,,20170415,a4/A022_A4.pdf,geojson/A022.geojson,"-239641.28862743,7067068.",13,0,1,draft
+257,"2017-05-21 23:57:00",LP,A,A023,"St Joseph",Reddish,,20170415,a4/A023_A4.pdf,geojson/A023.geojson,"-240430.253125508,7063948",13,0,1,draft
+258,"2017-05-21 23:57:00",LP,A,A026,"St Mary and St John Fisher",Denton,,20170415,a4/A026_A4.pdf,geojson/A026.geojson,"-241122.063133205,7061041",13,0,1,draft
+259,"2017-05-21 23:57:00",LP,A,A025,"St Mary","Heaton Mersey",,20170415,a4/A025_A4.pdf,geojson/A025.geojson,"-235856.348112793,7067289",13,0,1,draft
+260,"2017-05-21 23:57:00",LP,A,A027,"St Winifred","Heaton Mersey",,20170415,a4/A027_A4.pdf,geojson/A027.geojson,"-244117.377840725,7060497",13,0,1,draft
+261,"2017-05-21 23:57:00",PA,A,A028,"St John the Evangelist and St Ambrose",,,20170415,a4/A007A012_A4.pdf,geojson/A028.geojson,"-252964.567336236,7063738",13,0,1,draft
+262,"2017-05-21 23:57:00",LP,A,A029,"Saint Antony of Padua","Stretford  and Trafford Park",,20191103,a4/A029_A4.pdf,geojson/A029.geojson,"-258424.800716018,7068046",13,0,1,approved
+263,"2017-05-21 23:57:00",LP,A,A030,"St John Henry Newman","Urmston & Flixton ",,20190602,a4/A030_A4.pdf,geojson/A030.geojson,"-264484.237848454,7066596",13,0,1,approved
+264,"2017-05-21 23:57:00",PA,A,A031,"St Joseph and Holy Family",,,20170415,a4/A022A023_A4.pdf,geojson/A031.geojson,"-240120.469484723,7065173",13,0,1,draft
+265,"2017-05-21 23:57:00",PA,A,A032,"St Kentigern and English Martyrs",,,20170415,a4/A010A014_A4.pdf,geojson/A032.geojson,"-249367.260588227,7065990",13,0,1,draft
+266,"2017-05-21 23:57:00",PA,A,A033,"St Cuthbert and St Bernadette",,,20170415,a4/A011A015_A4.pdf,geojson/A033.geojson,"-248893.962688034,7063314",13,0,1,draft
+267,"2017-05-21 23:57:00",LP,A,A034,"St Joseph and St Edward","Longsight & Rusholme",,20190717,a4/A034_A4.pdf,geojson/A034.geojson,"-246760.487172624,7068306",13,0,1,approved
+268,"2017-05-21 23:57:00",PA,A,A035,"St Winifred, St Mary and St Bernard",,,20170415,a4/A020A025A027_A4.pdf,geojson/A035.geojson,"-243530.838318347,7061135",13,0,1,draft
+269,"2017-05-21 23:57:00",AA,A,A036,"St Mary and St Richard",,,20170415,a4/A018A019_A4.pdf,geojson/A036.geojson,"-243877.76957795,7066015.",13,0,1,draft
+270,"2017-09-21 22:47:00",LP,D,D024,"St Anne and St Joseph",Accrington,"Amalgamation of St Anne and St Joseph",20170922,a4/D024_A4.pdf,geojson/D020.geojson,"-261362.490839785,7123658",12,0,1,approved
+271,"2017-09-21 22:47:00",LP,E,E019,"Holy Cross and St Helen","Ashton under Lyne","Amalgamation of St Mary and St Christopher",20170922,a4/E019_A4.pdf,geojson/E016.geojson,"-232087.859751814,7075070",13,0,1,approved
+272,"2017-09-21 22:47:00",LP,A,A037,"St Robert of Newminster",Levenshulme,"Amalgamation of St Mary (Levenshulme) and St Richard (Longsight)",20170922,a4/A037_A4.pdf,geojson/A036.geojson,"-243877.76957795,7066015.",13,0,1,approved
+273,"2017-09-21 22:47:00",LP,C,C020,"Holy Spirit",Manchester,"Amalgamation of St Anne with St Brigid and St Willibrord",20170922,a4/C020_A4.pdf,geojson/C019.geojson,"-244294.394158565,7072555",13,0,1,approved
+274,"2017-10-21 06:15:00",LP,H,H035,"Sacred Heart",Darwen,,20170704,a4/H035_a4.pdf,geojson/H030.geojson,"-274917.374919277,7112310",12,,1,approved
+276,"2017-10-21 11:51:00",AA,C,C021,"St Dunstan and St John Vianney",,,20171021,a4/C021_a4.pdf,geojson/C021.geojson,"-242326.448927371,7078821",13,,1,draft
+277,"2017-11-10 20:56:00",LP,F,F026,"Corpus Christi","Bromley Cross",,20190826,a4/F026_A4.pdf,geojson/F028.geojson,"-267728.437793269,7103013",12,,1,approved
+278,"2017-12-17 22:53:00",LP,H,H037,"St Alban",Blackburn,"St Alban parish includes Good Shepherd Church",20171215,a4/H037_a4.pdf,geojson/H027.geojson,"-275740.856220189,7126920",11,,1,approved
+279,"2017-12-17 22:53:00",LP,D,D025,"St John Paul II","Padiham and Burnley",,20171215,a4/D025_a4.pdf,geojson/D022.geojson,"-257537.783822009,7132135",12,,1,approved
+280,"2017-12-17 22:53:00",LP,F,F027,"Christ the Redeemer",Bolton,,20171215,a4/F027_a4.pdf,geojson/F025.geojson,"-273707.018312762,7087735",12,,1,approved
+281,"2017-12-17 22:53:00",LP,B,B024,"The Three Martyrs: St Sebastian, St Boniface and St Thomas of Canterbury",Salford,,20171215,a4/B024_a4.pdf,geojson/B017.geojson,"-252422.125279265,7076394",13,,1,approved
+282,"2017-12-17 22:53:00",LP,C,C022,"St Dunstan and St John Vianney",Moston,,20171215,a4/C022_a4.pdf,geojson/C021.geojson,"-242326.448927371,7078821",13,,1,approved
+283,"2018-05-11 21:49:00",LP,B,B025,"Holy Trinity",Worsley,,20180511,a4/B025_20180527_A4.pdf,geojson/B021.geojson,"-267474.669885517,7080365",13,0,1,approved
+284,"2018-10-07 22:31:00",LP,C,C023,"Our Lady of Mount Carmel with Saint John Bosco",Blackley,,20181007,a4/C023_A4.pdf,geojson/C016.geojson,"-245549.860174243,7080152",11,,1,approved
+285,"2018-10-07 22:31:00",LP,F,F028,"Saint Cuthbert",Bolton,,20181007,a4/F028_A4.pdf,geojson/F023.geojson,"-275202.503290739,7092778",12,,1,approved
+286,"2018-10-07 22:31:00",LP,G,G024,"Our Lady of the Assumption",Middleton,,20181007,a4/G024_A4.pdf,geojson/G006.geojson,"-245415.182606715,7087858",12,,1,approved
+287,"2018-11-23 13:07:00",LP,H,H036,"Our Lady of the Valley",Clitheroe,,20181121,a4/H036_a4.pdf,geojson/H036.geojson,"-271214.976663411,7158752",10,,1,approved
+288,"2018-12-09 23:28:00",LP,H,H039,"Sacred Heart and St Anne",Blackburn,,20181209,a4/H039_a4.pdf,geojson/H026.geojson,"-279193.911543541,7123944",11,,1,approved
+289,"2018-12-09 23:28:00",LP,H,H038,"St Oscar Romero",Blackburn,"Ss Mary and John parish includes St Paul chapel of ease",20181209,a4/H038_a4.pdf,geojson/H029.geojson,"-280817.107667212,7119837",11,,1,approved
+290,"2018-12-09 23:28:00",LP,G,G025,"Saint Margaret Clitherow",Rochdale,,20181209,a4/G025_A4.pdf,geojson/G019.geojson,"-232833.306906132,7095942",12,,1,approved
+291,"2018-12-09 23:28:00",LP,E,E022,"St Francis of Assisi",Oldham,,20181209,a4/E022_A4.pdf,geojson/E017.geojson,"-231994.314099412,7085521",13,,1,approved
+292,"2018-12-09 23:28:00",LP,E,E023,"The Parish of the Nativity",Oldham,,20181209,a4/E023_A4.pdf,geojson/E018.geojson,"-238236.623443024,7077374",13,,1,approved
+293,"2018-12-09 23:28:00",LP,B,B026,"St John Paul II",Eccles,,20181209,a4/B026_A4.pdf,geojson/B018.geojson,"-265700.792179885,7072634",12,,1,approved
+294,"2018-12-09 23:28:00",LP,B,B027,"Our Lady of Hope",Salford,,20181209,a4/B027_A4.pdf,geojson/B023.geojson,"-257657.870255063,7075673",13,,1,approved
+295,"2018-12-11 21:41:00",LP,E,E024,"Our Lady and Saint Patrick",Oldham,,20181211,a4/E024_A4.pdf,geojson/E013.geojson,"-235089.385373398,7082055",13,0,1,approved
+296,"2019-07-15 14:56:00",LP,B,B028,"Our Lady of Mount Carmel and Saint Joseph",Salford,,20191103,a4/B028_A4.pdf,geojson/B007B008.geojson,"-251883.606469051,7073120",13,,1,approved
+297,"2023-07-20 16:37:35",LP,D,D026,"Holy Apostles",Rossendale," ",20230720,a4/D026_a4.pdf,geojson/D019.geojson,"-252187.331983528,7115411",12," ",1,approved
