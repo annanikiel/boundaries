@@ -1,9 +1,133 @@
-function renderChurch(church) {
-  const lines = [church.name];
-  if (church.address) lines.push(church.address);
-  if (church.postcode) lines.push(church.postcode);
-  if (church.website) lines.push(`<a href="${church.website}" target="_blank" rel="noopener">Website</a>`);
-  return `<li>${lines.filter(Boolean).join("<br>")}</li>`;
+function formatUpdated(maps) {
+  if (!maps?.updated) {
+    return "Unavailable";
+  }
+  return maps.approval ? `${maps.updated} - ${maps.approval}` : maps.updated;
+}
+
+function renderMapLinks(links) {
+  const output = [];
+  if (links?.a3) output.push(`<a href="${links.a3}" target="_blank" rel="noopener">A3</a>`);
+  if (links?.a4) output.push(`<a href="${links.a4}" target="_blank" rel="noopener">A4</a>`);
+  return output.length ? output.join(" | ") : "No maps available";
+}
+
+function renderAuditTrail(trail) {
+  return trail?.length ? trail.join("<br />") : "No audit trail to display.";
+}
+
+function initParishMap(parish) {
+  if (!window.ol || !parish.map?.geojsonUrl) {
+    return;
+  }
+
+  const style = new ol.style.Style({
+    fill: new ol.style.Fill({
+      color: "rgba(255, 255, 255, 0.7)"
+    }),
+    stroke: new ol.style.Stroke({
+      color: "#5F3C53",
+      width: 3
+    }),
+    text: new ol.style.Text({
+      font: "12px Calibri,sans-serif",
+      fill: new ol.style.Fill({
+        color: "#000"
+      }),
+      stroke: new ol.style.Stroke({
+        color: "#fff",
+        width: 3
+      })
+    })
+  });
+
+  const vectorLayer = new ol.layer.Vector({
+    source: new ol.source.Vector({
+      url: parish.map.geojsonUrl,
+      format: new ol.format.GeoJSON()
+    }),
+    style: function(feature, resolution) {
+      style.getText().setText(resolution < 50 ? feature.get("Name") : "");
+      return style;
+    }
+  });
+
+  const map = new ol.Map({
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM(),
+        maxZoom: 16,
+        maxResolution: 500
+      }),
+      vectorLayer
+    ],
+    target: "map",
+    view: new ol.View({
+      center: parish.map.center,
+      zoom: parish.map.zoom
+    })
+  });
+
+  const highlightStyleCache = {};
+  const featureOverlay = new ol.layer.Vector({
+    source: new ol.source.Vector(),
+    map: map,
+    style: function(feature, resolution) {
+      const text = resolution < 5000 ? feature.get("Name") : "";
+      if (!highlightStyleCache[text]) {
+        highlightStyleCache[text] = new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: "#5F3C53",
+            width: 1
+          }),
+          fill: new ol.style.Fill({
+            color: "rgba(95,60,83,0.5)"
+          }),
+          text: new ol.style.Text({
+            font: "12px Calibri,sans-serif",
+            text: text,
+            fill: new ol.style.Fill({
+              color: "#fff"
+            }),
+            stroke: new ol.style.Stroke({
+              color: "#835975",
+              width: 3
+            })
+          })
+        });
+      }
+      return highlightStyleCache[text];
+    }
+  });
+
+  let highlight;
+  const displayFeatureInfo = function(pixel) {
+    const feature = map.forEachFeatureAtPixel(pixel, function(featureAtPixel) {
+      return featureAtPixel;
+    });
+
+    if (feature !== highlight) {
+      if (highlight) {
+        featureOverlay.getSource().removeFeature(highlight);
+      }
+      if (feature) {
+        featureOverlay.getSource().addFeature(feature);
+      }
+      highlight = feature;
+    }
+  };
+
+  map.on("pointermove", function(evt) {
+    if (evt.dragging) {
+      return;
+    }
+    const pixel = map.getEventPixel(evt.originalEvent);
+    displayFeatureInfo(pixel);
+  });
+
+  map.on("click", function(evt) {
+    displayFeatureInfo(evt.pixel);
+  });
 }
 
 (async function () {
@@ -29,34 +153,29 @@ function renderChurch(church) {
   deaneryLink.textContent = deanery ? deanery.name : "Deanery";
   deaneryLink.href = deanery ? `deanery?id=${encodeURIComponent(deanery.id)}` : "deaneries";
 
-  const churches = Array.isArray(parish.churches) ? parish.churches : [];
-  document.getElementById("churchCount").textContent = `(${churches.length})`;
-  const churchList = document.getElementById("churchList");
-  churchList.innerHTML = churches.length
-    ? churches.map(renderChurch).join("")
-    : "<li>Church details will be added soon.</li>";
+  document.getElementById("parishUpdated").textContent = formatUpdated(parish.maps);
+  document.getElementById("parishMaps").innerHTML = renderMapLinks(parish.maps?.links);
 
-  const details = parish.details || "Details will be added soon.";
-  document.getElementById("parishDetails").textContent = details;
+  const descriptionEl = document.getElementById("parishDescription");
+  if (parish.maps?.descriptionLink) {
+    descriptionEl.innerHTML = `<a href="${parish.maps.descriptionLink}" target="_blank" rel="noopener">PDF</a>`;
+  } else {
+    descriptionEl.textContent = "Descriptions will be added soon.";
+  }
 
-  const img = document.getElementById("parishMapImg");
-  const caption = document.getElementById("parishMapCaption");
-  const base = location.href;
-  const fallback = new URL("../assets/diocese.png", base).href;
-  img.src = parish.mapImage
-    ? new URL(parish.mapImage, base).href
-    : (deanery?.mapImage ? new URL(deanery.mapImage, base).href : fallback);
-  img.alt = parish.mapAlt || deanery?.mapAlt || `${parish.name} highlighted on the diocesan map`;
+  document.getElementById("parishAuditTrail").innerHTML = renderAuditTrail(parish.auditTrail);
 
-  if (caption) caption.textContent = img.alt;
+  initParishMap(parish);
 })().catch(err => {
   console.error(err);
   document.getElementById("parishName").textContent = "Parish";
   document.getElementById("parishStatus").textContent = "Unavailable";
   document.getElementById("deaneryLink").textContent = "Deaneries";
   document.getElementById("deaneryLink").href = "deaneries";
-  document.getElementById("churchList").innerHTML = "<li>Failed to load parish details.</li>";
-  document.getElementById("parishDetails").textContent = "Details will be added soon.";
+  document.getElementById("parishUpdated").textContent = "Unavailable";
+  document.getElementById("parishMaps").textContent = "No maps available";
+  document.getElementById("parishDescription").textContent = "Descriptions will be added soon.";
+  document.getElementById("parishAuditTrail").textContent = "No audit trail to display.";
 });
 
 $(".flexnav").flexNav({

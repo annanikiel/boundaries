@@ -22,6 +22,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
 
 	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@7.3.0/ol.css" type="text/css">
+	<script src="https://cdn.jsdelivr.net/npm/ol@7.3.0/dist/ol.js"></script>
 	
 	<!-- Page title -->
 	<title> 
@@ -44,11 +46,10 @@
                 <nav>
                     <ul data-breakpoint="1080" class="flexnav">
                         <li><a href="/">Home</a></li>
-                        <li><a href="html/deaneries">Deaneries</a></li>
-                        <li><a href="html/map">Interactive map</a></li>
-                        <li><a href="html/what-parish">What parish?</a></li>
-                        <li><a href="html/contact">Contact</a></li>
-                    </ul>
+                        <li><a href="deaneries">Deaneries</a></li>
+                        <li><a href="map">Interactive map</a></li>
+                        <li><a href="what-parish">What parish?</a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -57,47 +58,37 @@
 		
 		<div class="d-none d-md-block col-1">&nbsp;</div>
 					
-		<div class="col-12 col-md-6">
+		<div class="col-12 col-md-5">
 
-			<h2 id="parishName" class="fw-bold">Parish</h2>
+			<h2 id="parishName" class="fw-bold pb-5">Parish</h2>
+			<h3>Overview</h3>
+			<p class="lh-lg">
+				<span class="fw-bold">Deanery:</span> <a id="deaneryLink" href="#">Loading...</a><br />
+				<span class="fw-bold">Status:</span> <span id="parishStatus">Loading...</span><br />
+			</p>
 			
-			
-<p class="lead pb-3">
-    <span class="fw-bold">Deanery: </span>
-    <a id="deaneryLink" href="#">Loading...</a>
-</p>
-<p class="lead pb-4">
-    <span class="fw-bold">Status: </span>
-    <span id="parishStatus">Loading...</span>
-</p>
-
-    <div class="pb-5">
-		<h3>Churches</h3>
-		<p><span class="fw-bold">Total: </span><span id="churchCount" class="count"></span></p>
-		<ul id="churchList" class="parish-list"></ul>
-   </div>
-
-    <div class="pb-5">
-		<h3>Parish details</h3>
-		<p id="parishDetails" class="lh-lg">Details will be added soon.</p>
-   </div>
-    </div>
+			<br />
+			<hr />
+			<br />
+			<h3>Maps &amp; boundaries</h3>
+			<p class="lh-lg">
+				<span class="fw-bold fst-italic">Last updated:</span>
+				<span id="parishUpdated">Loading...</span><br />
+				<span class="fw-bold">Latest map:</span>
+				<span id="parishMaps">Loading...</span><br />
+				<span class="fw-bold">Latest description:</span>
+				<span id="parishDescription">Descriptions will be added soon.</span><br /><br />
+				<span class="fw-bold">Audit trail:</span><br />
+				<span id="parishAuditTrail">No audit trail to display.</span><br />
+				<br />
+				Please refer to the written descriptions for the official boundaries. Maps are only illustrative.
+			</p>
+		</div>
 		
 		<div class="col-12 col-md-4">
-            
-            <figure class="deanery-map">
-                <img
-                    id="parishMapImg"
-                    src=""
-                    alt=""
-                    loading="lazy"
-                    style="width:75%;" 
-                    class="rounded mx-auto d-block"
-                />
-                <figcaption id="parishMapCaption" class="sr-only"></figcaption>
-            </figure>
-            
-            </div>
+			<div id="map" class="map map_size" style="width:95%; height:600px; margin:auto;"></div>
+			<div id="info">&nbsp;</div>
+		</div>
 		<div class="d-none d-md-block col-1">&nbsp;</div>
 
 		</div> <!-- Footer -->
@@ -112,19 +103,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="../js/jquery.flexnav.js"></script>
     <script src="../js/data.js"></script>
-    <script src="../js/parish.js"></script>
-
-    <script>
-        $(".flexnav").flexNav({
-            'animationSpeed': 250, // default for drop down animation speed
-            'transitionOpacity': true, // default for opacity animation
-            'buttonSelector': '.menu-button', // default menu button class name
-            'hoverIntent': false, // Change to true for use with hoverIntent plugin
-            'hoverIntentTimeout': 150, // hoverIntent default timeout
-            'calcItemWidths': true, // dynamically calcs top level nav item widths
-            'hover': true // would you like hover support?   	  
-        });
-    </script>
+  <script src="../js/parish.js"></script>
 
 </body>
 </html>

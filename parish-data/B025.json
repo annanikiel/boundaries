@@ -1,0 +1,21 @@
+{
+  "id": "B025",
+  "name": "Holy Trinity, Worsley",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "11/05/2018",
+    "approval": "approved",
+    "links": {
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf"
+    },
+    "descriptionLink": null
+  },
+  "auditTrail": [],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B025.geojson",
+    "center": [-267474.669885517, 7080365],
+    "zoom": 13
+  }
+}
