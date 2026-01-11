@@ -14,7 +14,7 @@
   },
   "auditTrail": [],
   "map": {
-    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B025.geojson",
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B021.geojson",
     "center": [-267474.669885517, 7080365],
     "zoom": 13
   }
