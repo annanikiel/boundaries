@@ -1,0 +1,32 @@
+{
+  "id": "D026",
+  "name": "Holy Apostles, Rossendale",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "20/07/2023",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D026_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D026_20230720_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "20/07/2023",
+      "status": "approved",
+      "note": " "
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D019.geojson",
+    "center": [
+      -252187.331983528,
+      7115411.0
+    ],
+    "zoom": 12
+  }
+}

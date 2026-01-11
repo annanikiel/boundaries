@@ -1,0 +1,31 @@
+{
+  "id": "A034",
+  "name": "St Joseph and St Edward, Longsight & Rusholme",
+  "deaneryId": "A",
+  "status": "current",
+  "maps": {
+    "updated": "17/07/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A034_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A034_20190717_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "17/07/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A034.geojson",
+    "center": [
+      -246760.487172624,
+      7068306.0
+    ],
+    "zoom": 13
+  }
+}

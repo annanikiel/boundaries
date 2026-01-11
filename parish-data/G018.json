@@ -1,0 +1,35 @@
+{
+  "id": "G018",
+  "name": "St Vincent de Paul, Norden",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G018_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G018_20170602_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G018.geojson",
+    "center": [
+      -247278.110427124,
+      7101461.0
+    ],
+    "zoom": 12
+  }
+}

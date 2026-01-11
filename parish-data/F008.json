@@ -1,0 +1,31 @@
+{
+  "id": "F008",
+  "name": "St Edmund and St Patrick, Bolton",
+  "deaneryId": "F",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F008_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F008_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/F008.geojson",
+    "center": [
+      -270155.006390271,
+      7090308.0
+    ],
+    "zoom": 13
+  }
+}

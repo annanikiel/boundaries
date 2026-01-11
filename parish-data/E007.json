@@ -1,0 +1,35 @@
+{
+  "id": "E007",
+  "name": "St Edward, Lees",
+  "deaneryId": "E",
+  "status": "current",
+  "maps": {
+    "updated": "28/06/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E007_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E007_20170628_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "28/06/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E007.geojson",
+    "center": [
+      -231140.37389545,
+      7083562.0
+    ],
+    "zoom": 13
+  }
+}

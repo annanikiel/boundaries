@@ -1,0 +1,31 @@
+{
+  "id": "C009",
+  "name": "St Dunstan, Moston",
+  "deaneryId": "C",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C009_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C009_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C009.geojson",
+    "center": [
+      -244619.065109462,
+      7077849.0
+    ],
+    "zoom": 13
+  }
+}

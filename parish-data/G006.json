@@ -1,0 +1,37 @@
+{
+  "id": "G006",
+  "name": "Our Lady of the Assumption St Agnes and St John Fisher, Langley",
+  "deaneryId": "G",
+  "status": "closed",
+  "maps": {
+    "updated": "02/06/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G006_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G006_20170602_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft",
+      "note": "There is currently no information available about the boundary between these two parishes."
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft",
+      "note": "There is currently no information available about the boundary between these two parishes."
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G006.geojson",
+    "center": [
+      -245415.182606715,
+      7087858.0
+    ],
+    "zoom": 12
+  }
+}

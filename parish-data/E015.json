@@ -1,0 +1,31 @@
+{
+  "id": "E015",
+  "name": "Ss Aidan and Oswald and St Joseph",
+  "deaneryId": "E",
+  "status": "proposed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E004E010_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E004E010_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E015.geojson",
+    "center": [
+      -235200.419283353,
+      7089615.0
+    ],
+    "zoom": 13
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "H031",
+  "name": "St Wilfrid, Ss Peter and Paul and St Mary, Chipping",
+  "deaneryId": "H",
+  "status": "proposed",
+  "maps": {
+    "updated": "07/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H025H011H017_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011H017H025_20170624_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "07/05/2017",
+      "status": "draft",
+      "note": "This description of parish boundaries outlines that area which lies within the Diocese of  Salford as defined by the ancient boundary of the Hundred of Blackburnshire. The Parish Priest, however, has traditionally provided pastoral care, with Ecclesiastical Approval, for some adjacent areas of Lancaster Diocese."
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H031.geojson",
+    "center": [
+      -285526.657274263,
+      7145554.0
+    ],
+    "zoom": 11
+  }
+}

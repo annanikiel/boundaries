@@ -1,0 +1,35 @@
+{
+  "id": "F002",
+  "name": "Holy Infant, Astley Bridge",
+  "deaneryId": "F",
+  "status": "current",
+  "maps": {
+    "updated": "27/12/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F002_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F002_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "27/12/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/F027.geojson",
+    "center": [
+      -275766.304295303,
+      7101501.0
+    ],
+    "zoom": 12
+  }
+}

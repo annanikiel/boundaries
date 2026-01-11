@@ -1,0 +1,35 @@
+{
+  "id": "D002",
+  "name": "St Hubert with St Wulstan, Great Harwood",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "29/07/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D002_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002_20170729_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "29/07/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D002.geojson",
+    "center": [
+      -268309.176468779,
+      7130853.0
+    ],
+    "zoom": 12
+  }
+}

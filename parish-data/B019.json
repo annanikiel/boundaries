@@ -1,0 +1,36 @@
+{
+  "id": "B019",
+  "name": "St Teresa of Avila and St Joseph, Irlam",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "13/07/2022",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B019_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B019_20220713_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "13/07/2022",
+      "status": "approved",
+      "note": " "
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B019.geojson",
+    "center": [
+      -271722.947440516,
+      7066209.0
+    ],
+    "zoom": 13
+  }
+}

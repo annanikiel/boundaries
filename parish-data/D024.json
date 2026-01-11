@@ -1,0 +1,35 @@
+{
+  "id": "D024",
+  "name": "St Anne and St Joseph, Accrington",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "22/09/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D024_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D024_20170922_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "18/09/2017",
+      "status": "draft"
+    },
+    {
+      "date": "22/09/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D020.geojson",
+    "center": [
+      -261362.490839785,
+      7123658.0
+    ],
+    "zoom": 12
+  }
+}

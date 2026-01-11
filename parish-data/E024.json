@@ -1,0 +1,31 @@
+{
+  "id": "E024",
+  "name": "Our Lady and Saint Patrick, Oldham",
+  "deaneryId": "E",
+  "status": "current",
+  "maps": {
+    "updated": "11/12/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E024_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E024_20181211_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "11/12/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E013.geojson",
+    "center": [
+      -235089.385373398,
+      7082055.0
+    ],
+    "zoom": 13
+  }
+}

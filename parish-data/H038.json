@@ -1,0 +1,31 @@
+{
+  "id": "H038",
+  "name": "St Oscar Romero, Blackburn",
+  "deaneryId": "H",
+  "status": "current",
+  "maps": {
+    "updated": "09/12/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H038_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H038_20181209_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "09/12/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H029.geojson",
+    "center": [
+      -280817.107667212,
+      7119837.0
+    ],
+    "zoom": 11
+  }
+}

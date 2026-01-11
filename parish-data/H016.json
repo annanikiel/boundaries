@@ -1,0 +1,32 @@
+{
+  "id": "H016",
+  "name": "St Mary, Bamber Bridge",
+  "deaneryId": "H",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H016_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H016_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft",
+      "note": "NW along the \u2018greenway corridor\u2019 (which marks the Salford Diocese \u2013 Liverpool Archdiocese boundary,  formerly the Hundred of Blackburnshire) and which separates the following streets in Salford Diocese: Great Green Lane, Tunley Holme, School Field, Clayton Brook and most of Daisy Meadow, from the following streets in Liverpool Archdiocese: The Heathers, Well Orchard and part of Daisy Meadow, to a point where it meets Preston Road A6 at Clayton Brook SW by this brook and the Ribble-Chorley civic boundary to the River Lostock and NW across the complex junction of M6 and M65."
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H016.geojson",
+    "center": [
+      -295466.73773452,
+      7118333.0
+    ],
+    "zoom": 13
+  }
+}

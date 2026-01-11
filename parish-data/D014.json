@@ -1,0 +1,31 @@
+{
+  "id": "D014",
+  "name": "St Mary Magdalene and St Augustine, Burnley",
+  "deaneryId": "D",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D014_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D014_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D014.geojson",
+    "center": [
+      -253386.272970354,
+      7132162.0
+    ],
+    "zoom": 12
+  }
+}

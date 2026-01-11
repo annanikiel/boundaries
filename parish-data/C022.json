@@ -1,0 +1,31 @@
+{
+  "id": "C022",
+  "name": "St Dunstan and St John Vianney, Moston",
+  "deaneryId": "C",
+  "status": "current",
+  "maps": {
+    "updated": "15/12/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C022_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C022_20171215_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/12/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C021.geojson",
+    "center": [
+      -242326.448927371,
+      7078821.0
+    ],
+    "zoom": 13
+  }
+}

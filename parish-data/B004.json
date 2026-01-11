@@ -1,0 +1,31 @@
+{
+  "id": "B004",
+  "name": "St Charles, Moorside",
+  "deaneryId": "B",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B004_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B004_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B004.geojson",
+    "center": [
+      -262590.370635528,
+      7077486.0
+    ],
+    "zoom": 13
+  }
+}

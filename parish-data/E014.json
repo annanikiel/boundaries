@@ -1,0 +1,35 @@
+{
+  "id": "E014",
+  "name": "Divine Mercy, Chadderton & Hollinwood",
+  "deaneryId": "E",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E014_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E014_20190602_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E014.geojson",
+    "center": [
+      -239144.056222507,
+      7083853.0
+    ],
+    "zoom": 13
+  }
+}

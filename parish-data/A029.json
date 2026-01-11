@@ -1,0 +1,31 @@
+{
+  "id": "A029",
+  "name": "Saint Antony of Padua, Stretford and Trafford Park",
+  "deaneryId": "A",
+  "status": "current",
+  "maps": {
+    "updated": "03/11/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A029_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A029_20191103_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "03/11/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A029.geojson",
+    "center": [
+      -258424.800716018,
+      7068046.0
+    ],
+    "zoom": 13
+  }
+}

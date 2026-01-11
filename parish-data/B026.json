@@ -1,0 +1,31 @@
+{
+  "id": "B026",
+  "name": "St John Paul II, Eccles",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "09/12/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B026_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B026_20181209_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "09/12/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B018.geojson",
+    "center": [
+      -265700.792179885,
+      7072634.0
+    ],
+    "zoom": 12
+  }
+}

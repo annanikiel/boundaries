@@ -1,0 +1,31 @@
+{
+  "id": "A035",
+  "name": "St Winifred, St Mary and St Bernard",
+  "deaneryId": "A",
+  "status": "proposed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A020A025A027_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A020A025A027_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A035.geojson",
+    "center": [
+      -243530.838318347,
+      7061135.0
+    ],
+    "zoom": 13
+  }
+}

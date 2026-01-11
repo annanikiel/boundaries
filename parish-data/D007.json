@@ -1,0 +1,31 @@
+{
+  "id": "D007",
+  "name": "St John the Baptist and St Philip the Apostle, Padiham",
+  "deaneryId": "D",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D007_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D007_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D007.geojson",
+    "center": [
+      -258283.487309366,
+      7132130.0
+    ],
+    "zoom": 12
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "D017",
+  "name": "St Mary, Oswaltwistle",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "07/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D017_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D017_20170624_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "07/05/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D017.geojson",
+    "center": [
+      -266754.784079675,
+      7120208.0
+    ],
+    "zoom": 12
+  }
+}

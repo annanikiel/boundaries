@@ -1,0 +1,39 @@
+{
+  "id": "G021",
+  "name": "St Peter and St Thomas More, Middleton & Alkrington",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G021_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G021_20190602_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G021.geojson",
+    "center": [
+      -243321.842290191,
+      7083561.0
+    ],
+    "zoom": 12
+  }
+}

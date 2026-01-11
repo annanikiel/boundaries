@@ -1,0 +1,31 @@
+{
+  "id": "B006",
+  "name": "St James and All Souls, Salford",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B006_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B006_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B006.geojson",
+    "center": [
+      -255995.449730402,
+      7073190.0
+    ],
+    "zoom": 13
+  }
+}

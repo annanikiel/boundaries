@@ -1,0 +1,31 @@
+{
+  "id": "G025",
+  "name": "Saint Margaret Clitherow, Rochdale",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "09/12/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G025_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G025_20181209_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "09/12/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G019.geojson",
+    "center": [
+      -232833.306906132,
+      7095942.0
+    ],
+    "zoom": 12
+  }
+}

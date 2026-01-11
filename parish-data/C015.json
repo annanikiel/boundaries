@@ -1,0 +1,31 @@
+{
+  "id": "C015",
+  "name": "St Willibrord, Clayton",
+  "deaneryId": "C",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C015_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C015_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C015.geojson",
+    "center": [
+      -242004.546867738,
+      7073296.0
+    ],
+    "zoom": 13
+  }
+}

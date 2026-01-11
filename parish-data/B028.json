@@ -1,0 +1,31 @@
+{
+  "id": "B028",
+  "name": "Our Lady of Mount Carmel and St Joseph, Salford",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "03/11/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B028_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B028_20191103_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "03/11/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B007B008.geojson",
+    "center": [
+      -251883.606469051,
+      7073120.0
+    ],
+    "zoom": 13
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "D013",
+  "name": "St Mary and St Anselm, Whitworth",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D013_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D013_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D013.geojson",
+    "center": [
+      -243335.927583924,
+      7111574.0
+    ],
+    "zoom": 12
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "G004",
+  "name": "Guardian Angels, Bury",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G004_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004_20170602_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G004.geojson",
+    "center": [
+      -260996.96477446,
+      7092936.0
+    ],
+    "zoom": 12
+  }
+}

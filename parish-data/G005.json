@@ -1,0 +1,31 @@
+{
+  "id": "G005",
+  "name": "Our Lady of Grace, Prestwich",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G005_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G005_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G005.geojson",
+    "center": [
+      -253585.616733691,
+      7082985.0
+    ],
+    "zoom": 12
+  }
+}

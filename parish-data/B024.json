@@ -1,0 +1,31 @@
+{
+  "id": "B024",
+  "name": "The Three Martyrs: St Sebastian, St Boniface and St Thomas of Canterbury, Salford",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "15/12/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B024_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B023_20171215_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/12/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B017.geojson",
+    "center": [
+      -252422.125279265,
+      7076394.0
+    ],
+    "zoom": 13
+  }
+}

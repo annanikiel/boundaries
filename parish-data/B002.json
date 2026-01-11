@@ -1,0 +1,31 @@
+{
+  "id": "B002",
+  "name": "Holy Cross St Matthew and St Gilbert, Eccles",
+  "deaneryId": "B",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B002_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B002_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B002.geojson",
+    "center": [
+      -266659.554293952,
+      7072474.0
+    ],
+    "zoom": 13
+  }
+}

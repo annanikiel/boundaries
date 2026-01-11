@@ -1,0 +1,35 @@
+{
+  "id": "C011",
+  "name": "St John Vianney, Moston",
+  "deaneryId": "C",
+  "status": "closed",
+  "maps": {
+    "updated": "31/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C011_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C011_20170531_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "31/05/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C011.geojson",
+    "center": [
+      -242297.825008168,
+      7078414.0
+    ],
+    "zoom": 13
+  }
+}

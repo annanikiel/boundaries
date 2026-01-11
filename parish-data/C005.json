@@ -1,0 +1,35 @@
+{
+  "id": "C005",
+  "name": "St Anne, Crumpsall",
+  "deaneryId": "C",
+  "status": "current",
+  "maps": {
+    "updated": "31/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C005_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C005_20170531_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "31/05/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C005.geojson",
+    "center": [
+      -249275.515132337,
+      7079058.0
+    ],
+    "zoom": 13
+  }
+}

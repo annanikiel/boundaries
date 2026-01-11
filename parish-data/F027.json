@@ -1,0 +1,31 @@
+{
+  "id": "F027",
+  "name": "Christ the Redeemer, Bolton",
+  "deaneryId": "F",
+  "status": "current",
+  "maps": {
+    "updated": "15/12/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F027_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F027_20171215_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/12/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/F025.geojson",
+    "center": [
+      -273707.018312762,
+      7087735.0
+    ],
+    "zoom": 12
+  }
+}
