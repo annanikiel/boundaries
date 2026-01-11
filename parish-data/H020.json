@@ -1,0 +1,31 @@
+{
+  "id": "H020",
+  "name": "St Mary, Sabden",
+  "deaneryId": "H",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H020_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H020_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H020.geojson",
+    "center": [
+      -258579.35787197,
+      7139339.0
+    ],
+    "zoom": 12
+  }
+}

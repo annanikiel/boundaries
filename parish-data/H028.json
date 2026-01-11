@@ -1,0 +1,35 @@
+{
+  "id": "H028",
+  "name": "Holy Family and Our Lady of Perpetual Succour",
+  "deaneryId": "H",
+  "status": "proposed",
+  "maps": {
+    "updated": "07/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H002H006_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H002H006_20170624_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "07/05/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H028.geojson",
+    "center": [
+      -273334.90930422,
+      7120240.0
+    ],
+    "zoom": 11
+  }
+}

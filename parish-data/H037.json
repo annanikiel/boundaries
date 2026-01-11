@@ -1,0 +1,31 @@
+{
+  "id": "H037",
+  "name": "St Alban, Blackburn",
+  "deaneryId": "H",
+  "status": "current",
+  "maps": {
+    "updated": "15/12/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H037_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H037_20171215_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/12/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H027.geojson",
+    "center": [
+      -275740.856220189,
+      7126920.0
+    ],
+    "zoom": 11
+  }
+}

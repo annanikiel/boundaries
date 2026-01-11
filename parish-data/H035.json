@@ -1,0 +1,31 @@
+{
+  "id": "H035",
+  "name": "Sacred Heart, Darwen",
+  "deaneryId": "H",
+  "status": "current",
+  "maps": {
+    "updated": "04/07/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H035_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H035_20170704_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "04/07/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H030.geojson",
+    "center": [
+      -274917.374919277,
+      7112310.0
+    ],
+    "zoom": 12
+  }
+}

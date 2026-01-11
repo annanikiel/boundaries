@@ -1,0 +1,40 @@
+{
+  "id": "G020",
+  "name": "Pope St John XXIII, Rochdale & Littleborough",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "13/07/2022",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G020_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G020_20220713_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft"
+    },
+    {
+      "date": "13/07/2022",
+      "status": "approved",
+      "note": " "
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G020.geojson",
+    "center": [
+      -234309.259844916,
+      7103859.0
+    ],
+    "zoom": 12
+  }
+}

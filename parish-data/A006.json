@@ -1,0 +1,31 @@
+{
+  "id": "A006",
+  "name": "Our Lady and St Alphonsus, Old Trafford",
+  "deaneryId": "A",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A006_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A006_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A006.geojson",
+    "center": [
+      -251903.689755056,
+      7068500.0
+    ],
+    "zoom": 13
+  }
+}

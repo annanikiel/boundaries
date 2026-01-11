@@ -1,0 +1,31 @@
+{
+  "id": "E004",
+  "name": "St Aidan and St Oswald, Royton",
+  "deaneryId": "E",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E004_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E004_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E004.geojson",
+    "center": [
+      -237278.298682028,
+      7088671.0
+    ],
+    "zoom": 13
+  }
+}

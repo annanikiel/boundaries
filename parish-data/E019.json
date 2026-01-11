@@ -1,0 +1,35 @@
+{
+  "id": "E019",
+  "name": "Holy Cross and St Helen, Ashton under Lyne",
+  "deaneryId": "E",
+  "status": "current",
+  "maps": {
+    "updated": "22/09/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E019_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E019_20170922_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "18/09/2017",
+      "status": "draft"
+    },
+    {
+      "date": "22/09/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/E016.geojson",
+    "center": [
+      -232087.859751814,
+      7075070.0
+    ],
+    "zoom": 13
+  }
+}

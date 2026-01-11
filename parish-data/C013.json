@@ -1,0 +1,35 @@
+{
+  "id": "C013",
+  "name": "St Patrick, Collyhurst",
+  "deaneryId": "C",
+  "status": "current",
+  "maps": {
+    "updated": "31/05/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C013_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C013_20170531_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "31/05/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C013.geojson",
+    "center": [
+      -246816.410711067,
+      7075489.0
+    ],
+    "zoom": 13
+  }
+}

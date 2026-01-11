@@ -1,0 +1,35 @@
+{
+  "id": "A037",
+  "name": "St Robert of Newminster, Levenshulme",
+  "deaneryId": "A",
+  "status": "current",
+  "maps": {
+    "updated": "22/09/2017",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A037_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A037_20170922_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "18/09/2017",
+      "status": "draft"
+    },
+    {
+      "date": "22/09/2017",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A036.geojson",
+    "center": [
+      -243877.76957795,
+      7066015.0
+    ],
+    "zoom": 13
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "G003",
+  "name": "Our Lady of Dolours, Kersal",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G003_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G003_20170602_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G003.geojson",
+    "center": [
+      -253727.30207255,
+      7079348.0
+    ],
+    "zoom": 12
+  }
+}

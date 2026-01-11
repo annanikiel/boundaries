@@ -1,0 +1,35 @@
+{
+  "id": "A030",
+  "name": "St John Henry Newman, Urmston & Flixton",
+  "deaneryId": "A",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A030_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A030_20190602_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A030.geojson",
+    "center": [
+      -264484.237848454,
+      7066596.0
+    ],
+    "zoom": 13
+  }
+}

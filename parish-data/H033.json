@@ -1,0 +1,31 @@
+{
+  "id": "H033",
+  "name": "Our Lady and St Patrick and St Mary and St John Southworth",
+  "deaneryId": "H",
+  "status": "proposed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H005H010_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H005H010_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H033.geojson",
+    "center": [
+      -291594.304033289,
+      7123673.0
+    ],
+    "zoom": 11
+  }
+}

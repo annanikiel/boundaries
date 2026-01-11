@@ -1,0 +1,31 @@
+{
+  "id": "C023",
+  "name": "Our Lady of Mount Carmel with Saint John Bosco, Blackley",
+  "deaneryId": "C",
+  "status": "current",
+  "maps": {
+    "updated": "07/10/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C023_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C023_20181007_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "07/10/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/C016.geojson",
+    "center": [
+      -245549.860174243,
+      7080152.0
+    ],
+    "zoom": 11
+  }
+}

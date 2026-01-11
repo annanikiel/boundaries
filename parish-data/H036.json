@@ -1,0 +1,35 @@
+{
+  "id": "H036",
+  "name": "Our Lady of the Valley, Clitheroe",
+  "deaneryId": "H",
+  "status": "current",
+  "maps": {
+    "updated": "21/11/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H036_a4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H036_20181121_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "04/07/2017",
+      "status": "approved"
+    },
+    {
+      "date": "21/11/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/H036.geojson",
+    "center": [
+      -271214.976663411,
+      7158752.0
+    ],
+    "zoom": 10
+  }
+}

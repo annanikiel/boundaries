@@ -1,0 +1,31 @@
+{
+  "id": "F020",
+  "name": "Blessed Dominic Barberi, Bolton",
+  "deaneryId": "F",
+  "status": "current",
+  "maps": {
+    "updated": "03/11/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F020_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F020_20191103_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "03/11/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/F020.geojson",
+    "center": [
+      -265550.230749513,
+      7089767.0
+    ],
+    "zoom": 12
+  }
+}

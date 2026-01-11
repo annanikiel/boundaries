@@ -1,0 +1,31 @@
+{
+  "id": "F007",
+  "name": "St Columba, Tonge Moor",
+  "deaneryId": "F",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F007_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F007_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/F007.geojson",
+    "center": [
+      -268488.509642062,
+      7094292.0
+    ],
+    "zoom": 13
+  }
+}

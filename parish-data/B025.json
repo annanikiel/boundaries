@@ -7,17 +7,25 @@
     "updated": "11/05/2018",
     "approval": "approved",
     "links": {
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf",
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf"
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf"
     }
   },
   "description": {
     "available": false
   },
-  "auditTrail": [],
+  "auditTrail": [
+    {
+      "date": "11/05/2018",
+      "status": "approved"
+    }
+  ],
   "map": {
     "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B021.geojson",
-    "center": [-267474.669885517, 7080365],
+    "center": [
+      -267474.669885517,
+      7080365.0
+    ],
     "zoom": 13
   }
 }

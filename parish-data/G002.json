@@ -1,0 +1,31 @@
+{
+  "id": "G002",
+  "name": "Our Lady and St Joseph, Heywood",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G002_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G002_20170415_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G002.geojson",
+    "center": [
+      -248398.950058561,
+      7093317.0
+    ],
+    "zoom": 12
+  }
+}

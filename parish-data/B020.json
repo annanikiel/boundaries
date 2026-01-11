@@ -1,0 +1,35 @@
+{
+  "id": "B020",
+  "name": "St Ambrose Barlow, Swinton & Pendlebury",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": "02/06/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B020_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B020_20190602_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "02/06/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B020.geojson",
+    "center": [
+      -260520.198880346,
+      7078543.0
+    ],
+    "zoom": 13
+  }
+}

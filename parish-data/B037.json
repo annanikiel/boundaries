@@ -1,0 +1,20 @@
+{
+  "id": "B037",
+  "name": "Our Lady of Hope, Salford",
+  "deaneryId": "B",
+  "status": "current",
+  "maps": {
+    "updated": null,
+    "approval": null,
+    "links": {}
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [],
+  "map": {
+    "geojsonUrl": null,
+    "center": null,
+    "zoom": null
+  }
+}

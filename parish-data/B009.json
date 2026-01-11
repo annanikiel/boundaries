@@ -1,0 +1,31 @@
+{
+  "id": "B009",
+  "name": "St Teresa of Avila, Irlam",
+  "deaneryId": "B",
+  "status": "closed",
+  "maps": {
+    "updated": "15/04/2017",
+    "approval": "draft",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B009_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B009_20170415_A3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B009.geojson",
+    "center": [
+      -272839.727162805,
+      7065175.0
+    ],
+    "zoom": 13
+  }
+}

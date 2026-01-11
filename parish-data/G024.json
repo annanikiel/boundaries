@@ -1,0 +1,31 @@
+{
+  "id": "G024",
+  "name": "Our Lady of the Assumption, Middleton",
+  "deaneryId": "G",
+  "status": "current",
+  "maps": {
+    "updated": "07/10/2018",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G024_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G024_20181007_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "07/10/2018",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/G006.geojson",
+    "center": [
+      -245415.182606715,
+      7087858.0
+    ],
+    "zoom": 12
+  }
+}

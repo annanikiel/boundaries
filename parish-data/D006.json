@@ -1,0 +1,36 @@
+{
+  "id": "D006",
+  "name": "St John Southworth, Nelson",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "15/07/2022",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D006_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D006_20220715_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "15/04/2017",
+      "status": "draft"
+    },
+    {
+      "date": "15/07/2022",
+      "status": "approved",
+      "note": " "
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D006_v2.geojson",
+    "center": [
+      -248388.932185621,
+      7137567.0
+    ],
+    "zoom": 12
+  }
+}

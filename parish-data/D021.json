@@ -1,0 +1,31 @@
+{
+  "id": "D021",
+  "name": "The Parish of the Good Samaritan, Burnley",
+  "deaneryId": "D",
+  "status": "current",
+  "maps": {
+    "updated": "17/07/2019",
+    "approval": "approved",
+    "links": {
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D021_A4.pdf",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D021_20190717_a3.pdf"
+    }
+  },
+  "description": {
+    "available": false
+  },
+  "auditTrail": [
+    {
+      "date": "17/07/2019",
+      "status": "approved"
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/D021.geojson",
+    "center": [
+      -245122.364237436,
+      7127914.0
+    ],
+    "zoom": 12
+  }
+}
