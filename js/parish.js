@@ -13,7 +13,27 @@ function renderMapLinks(links) {
 }
 
 function renderAuditTrail(trail) {
-  return trail?.length ? trail.join("<br />") : "No audit trail to display.";
+  if (!trail?.length) {
+    return null;
+  }
+
+  return trail.map((entry) => {
+    if (typeof entry === "string") {
+      return entry;
+    }
+
+    const parts = [];
+    if (entry.date) {
+      parts.push(entry.date);
+    }
+    if (entry.status) {
+      parts.push(entry.status);
+    }
+    if (entry.note) {
+      parts.push(entry.note);
+    }
+    return parts.filter(Boolean).join(" - ");
+  }).filter(Boolean);
 }
 
 function initParishMap(parish) {
@@ -157,13 +177,19 @@ function initParishMap(parish) {
   document.getElementById("parishMaps").innerHTML = renderMapLinks(parish.maps?.links);
 
   const descriptionEl = document.getElementById("parishDescription");
-  if (parish.maps?.descriptionLink) {
-    descriptionEl.innerHTML = `<a href="${parish.maps.descriptionLink}" target="_blank" rel="noopener">PDF</a>`;
+  if (parish.description?.available === false) {
+    descriptionEl.textContent = "Not available";
   } else {
-    descriptionEl.textContent = "Descriptions will be added soon.";
+    descriptionEl.innerHTML = `<a href="parish-description?id=${encodeURIComponent(parish.id)}">View description</a>`;
   }
 
-  document.getElementById("parishAuditTrail").innerHTML = renderAuditTrail(parish.auditTrail);
+  const auditTrailBlock = document.getElementById("parishAuditTrailBlock");
+  const auditTrailLines = renderAuditTrail(parish.auditTrail);
+  if (!auditTrailLines) {
+    auditTrailBlock.style.display = "none";
+  } else {
+    document.getElementById("parishAuditTrail").innerHTML = auditTrailLines.join("<br />");
+  }
 
   initParishMap(parish);
 })().catch(err => {
@@ -174,8 +200,8 @@ function initParishMap(parish) {
   document.getElementById("deaneryLink").href = "deaneries";
   document.getElementById("parishUpdated").textContent = "Unavailable";
   document.getElementById("parishMaps").textContent = "No maps available";
-  document.getElementById("parishDescription").textContent = "Descriptions will be added soon.";
-  document.getElementById("parishAuditTrail").textContent = "No audit trail to display.";
+  document.getElementById("parishDescription").textContent = "Not available";
+  document.getElementById("parishAuditTrailBlock").style.display = "none";
 });
 
 $(".flexnav").flexNav({

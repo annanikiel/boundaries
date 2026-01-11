@@ -9,8 +9,10 @@
     "links": {
       "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf",
       "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf"
-    },
-    "descriptionLink": null
+    }
+  },
+  "description": {
+    "available": false
   },
   "auditTrail": [],
   "map": {
