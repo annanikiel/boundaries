@@ -7,7 +7,9 @@ JSON from this repository.
     index.html            home
     html/                 deaneries, deanery, parish, what-parish, map, contact
     css/                  compiled Bootstrap build, flexnav, parish page styles
+    sitemap.xml           generated (see below)
     js/data.js            loaders for the JSON data
+    js/nav.js             the responsive menu
     js/parish.js          the parish page
     js/boundaries.js      the boundary layer and the point-in-parish test
     js/map.js             the interactive map
@@ -116,6 +118,25 @@ The site works both at a domain root and under a subpath such as
 `/boundaries/` on GitHub Pages: `js/data.js` derives the base from its own
 script URL, and every other path is relative. Nothing should hard-code a
 leading `/`.
+
+## sitemap.xml
+
+Generated. Rebuild after adding or renaming a parish:
+
+    python3 tools/build_sitemap.py
+
+It lists the fixed pages, the eight deaneries and all 200 parishes, and reads
+the site URL from the `CNAME` file when there is one, so it follows the custom
+domain automatically. Re-run it after the domain move.
+
+## No JavaScript dependencies
+
+The site loads no JavaScript libraries of its own. `js/nav.js` replaces the
+jQuery flexNav plugin in about fifty lines: the stylesheet already does the
+work, and the script only sets the three classes it keys off
+(`flexnav-show`, `opacity`, and `active` on the button). OpenLayers is still
+loaded from a CDN on the two map pages, and both degrade to a message if it
+is unavailable.
 
 ## Moving the domain
 
