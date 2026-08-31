@@ -56,7 +56,7 @@ remapped in the generator.
 
 ## data/bespoke/
 
-Two things the database cannot express are kept as hand-written overrides,
+Anything the database cannot express is kept as a hand-written override,
 merged over the generated record by the build:
 
 `F022.json` — the Bolton parishes were restructured in two stages, each with
