@@ -136,8 +136,13 @@
     const img = document.getElementById("deaneryMapImg");
     const caption = document.getElementById("deaneryMapCaption");
 
-    img.src = dataURL(d?.mapImage || "assets/placeholder.png");
-    img.alt = d?.mapAlt || `${d?.name || "Deanery"} highlighted on the diocesan map`;
+    if (d?.mapImage) {
+      img.src = dataURL(d.mapImage);
+      img.alt = d.mapAlt || `${d.name} highlighted on the diocesan map`;
+    } else {
+      // No map for this deanery: hide the figure rather than show a broken image.
+      img.closest("figure").hidden = true;
+    }
 
     if (caption) caption.textContent = img.alt;
 
@@ -167,7 +172,8 @@
   </script>
 
   <script>
-    $(".flexnav").flexNav({
+    if (window.jQuery && jQuery.fn.flexNav) {
+    jQuery(".flexnav").flexNav({
       animationSpeed: 250,
       transitionOpacity: true,
       buttonSelector: ".menu-button",
@@ -176,6 +182,7 @@
       calcItemWidths: true,
       hover: true
     });
+    }
   </script>
 
 </body>
