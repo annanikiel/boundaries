@@ -40,15 +40,43 @@ couple of typos. This file maps each recorded filename onto the object that
 actually exists, verified by request. 209 of the 722 recorded names needed
 correcting.
 
-Eight files are recorded but absent from the bucket and still need locating:
+Seven files are recorded but absent from the bucket and still need locating.
+The live site links these too, so they are already broken in production:
 
     a3/B023_20171215_a3.pdf     a3/H017_20170415_A3.pdf
     a3/G011_20170415_a3.pdf     a3/H018_20170415_A3.pdf
     a3/G016_20170415_a3.pdf     a3/H021_20170415_A3.pdf
-    a4/F028_A4.pdf              geojson/A010.geojson
+    geojson/A010.geojson
 
 `geojson/A010.geojson` matters most: English Martyrs, Whalley Range is a
 current parish, so its map cannot be drawn.
+
+F028's A4 turned out to be filed under `adhoc/` rather than `a4/`, and is
+remapped in the generator.
+
+## data/bespoke/
+
+Two things the database cannot express are kept as hand-written overrides,
+merged over the generated record by the build:
+
+`F022.json` — the Bolton parishes were restructured in two stages, each with
+its own maps and its own descriptions in PDF and Word. The live site gives
+this parish a bespoke page rather than the standard one, and so do we, via
+`"template": "stages"`.
+
+## Assets outside the database
+
+The bucket holds an `adhoc/` prefix that the CSV extracts never reference:
+21 files supporting the Bolton staged restructuring, including the only Word
+documents on the site. Two combined layers also exist and are not referenced
+by any parish record:
+
+    geojson/parishes20220715.geojson    110 current parishes, one file, 0.65 MB
+    geojson/deaneries20181209.geojson   the 8 deanery boundaries, 0.22 MB
+
+`parishes20220715.geojson` is the natural basis for the interactive map and
+the postcode lookup, but 15 of its features are keyed to pre-approval parish
+ids (H026 for H039, B027 for B037, and so on) and need remapping first.
 
 ## Running it locally
 

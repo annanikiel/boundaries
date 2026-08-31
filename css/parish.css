@@ -98,3 +98,45 @@
 .unavailable {
   color: #6b5c64;
 }
+
+/* A parish restructured in stages, each with its own maps and descriptions. */
+.stage {
+  margin: 0 0 2rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid #d8ccd3;
+}
+
+.stage h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 0.35rem;
+}
+
+.stage h5 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 1rem 0 0.35rem;
+}
+
+.stage-state {
+  font-weight: 400;
+  color: #6b5c64;
+}
+
+.stage-summary {
+  margin: 0 0 0.5rem;
+}
+
+.stage-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stage-list li {
+  padding: 0.2rem 0;
+}
+
+.stage-item {
+  font-weight: 700;
+}

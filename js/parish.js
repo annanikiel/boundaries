@@ -57,6 +57,29 @@ function renderBoundaryExtras(boundary) {
   return blocks.join("");
 }
 
+// F022 (Bolton parishes) is not a single boundary but a staged restructuring,
+// each stage with its own maps and descriptions in several formats.
+function renderStages(stages) {
+  return (stages || []).map(stage => {
+    const state = stage.state ? ` <span class="stage-state">(${escapeHTML(stage.state)})</span>` : "";
+    const groups = (stage.groups || []).map(group => {
+      const items = (group.items || []).map(item => {
+        const links = (item.links || [])
+          .map(l => `<a href="${escapeHTML(l.url)}" target="_blank" rel="noopener">${escapeHTML(l.label)}</a>`)
+          .join("");
+        return `<li><span class="stage-item">${escapeHTML(item.label)}:</span> <span class="map-links">${links}</span></li>`;
+      }).join("");
+      return `<h5>${escapeHTML(group.heading)}</h5><ul class="stage-list">${items}</ul>`;
+    }).join("");
+    return `
+      <section class="stage">
+        <h4>${escapeHTML(stage.title)}${state}</h4>
+        <p class="stage-summary">${escapeHTML(stage.summary || "")}</p>
+        ${groups}
+      </section>`;
+  }).join("");
+}
+
 // Every version except the current one, newest first.
 function renderAuditTrail(trail) {
   const superseded = (trail || []).slice(0, -1).reverse();
@@ -192,7 +215,11 @@ function initParishMap(parish) {
   document.getElementById("parishMaps").innerHTML = renderMapLinks(parish.maps?.links);
 
   const description = document.getElementById("boundaryDescription");
-  if (parish.boundary?.description) {
+  if (parish.template === "stages") {
+    description.classList.remove("boundary-text");
+    description.innerHTML =
+      (parish.intro ? `<p>${escapeHTML(parish.intro)}</p>` : "") + renderStages(parish.stages);
+  } else if (parish.boundary?.description) {
     description.textContent = parish.boundary.description;
   } else {
     description.innerHTML = `<p class="boundary-missing">The written description for this parish is not yet available.</p>`;

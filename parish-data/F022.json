@@ -1,6 +1,6 @@
 {
   "id": "F022",
-  "name": "Bolton Parishes, ",
+  "name": "Bolton parishes",
   "shortName": "Bolton Parishes",
   "location": null,
   "deaneryId": "F",
@@ -47,5 +47,239 @@
       7100862.0
     ],
     "zoom": 12
-  }
+  },
+  "template": "stages",
+  "intro": "The Bolton parishes were restructured in two stages. Each stage has its own maps and written descriptions.",
+  "stages": [
+    {
+      "title": "Stage 1",
+      "state": "completed",
+      "summary": "Amalgamation of St John and St Brendan (boundaries of Holy Infant, Astley Bridge and St Columba, Tonge Moor remain unchanged)",
+      "groups": [
+        {
+          "heading": "Maps",
+          "items": [
+            {
+              "label": "Corpus Christi",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F026_20171109_A3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F026_A4.pdf"
+                }
+              ]
+            },
+            {
+              "label": "St Columba",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F007_20170415_a3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F007_A4.pdf"
+                }
+              ]
+            },
+            {
+              "label": "Holy Infant",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F002_20170415_a3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F002_A4.pdf"
+                }
+              ]
+            },
+            {
+              "label": "Bolton parishes",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F021F002F007_Stage1_20171109_A3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F021F002F007_Stage1_20171109_A4.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Descriptions",
+          "items": [
+            {
+              "label": "Corpus Christi",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/20171109_CorpusChristi_Stage1.pdf"
+                }
+              ]
+            },
+            {
+              "label": "St Columba",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/StColumba_Stage1.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/StColumba_Stage1.docx"
+                }
+              ]
+            },
+            {
+              "label": "Holy Infant",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_Stage1.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_Stage1.docx"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stage 2",
+      "state": "completed",
+      "summary": "Amalgamation of Holy Infant and St Columba and adjustment of boundaries between this new parish and Corpus Christi",
+      "groups": [
+        {
+          "heading": "Maps",
+          "items": [
+            {
+              "label": "Corpus Christi",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F028_20171109_A3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F028_A4.pdf"
+                }
+              ]
+            },
+            {
+              "label": "Holy Infant",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F027_20171227_A3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F027_A4.pdf"
+                }
+              ]
+            },
+            {
+              "label": "Detailed boundary changes",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F002F006F007F012_20170805_A3_v2.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F002F006F007F012_A4_v2.pdf"
+                }
+              ]
+            },
+            {
+              "label": "Bolton parishes",
+              "links": [
+                {
+                  "label": "A3",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F021F002F007_Stage2_20171227_A3.pdf"
+                },
+                {
+                  "label": "A4",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F021F002F007_Stage2_A4.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Descriptions of the new parish boundaries",
+          "items": [
+            {
+              "label": "Corpus Christi",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F028_bdesc.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F028_bdesc.docx"
+                }
+              ]
+            },
+            {
+              "label": "Holy Infant",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_Stage2.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_Stage2.docx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Description of the boundary changes",
+          "items": [
+            {
+              "label": "Corpus Christi",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F006F012_bdesc_v2.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F006F012_bdesc_v2.docx"
+                }
+              ]
+            },
+            {
+              "label": "Holy Infant",
+              "links": [
+                {
+                  "label": "PDF",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_changes_stage2.pdf"
+                },
+                {
+                  "label": "Word",
+                  "url": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/HolyInfant_changes_stage2.docx"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

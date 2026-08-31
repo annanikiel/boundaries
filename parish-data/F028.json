@@ -12,7 +12,7 @@
     "approval": "approved",
     "links": {
       "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F028_20181007_A3.pdf",
-      "a4": null
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/adhoc/F028_A4.pdf"
     }
   },
   "boundary": {

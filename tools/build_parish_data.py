@@ -9,6 +9,8 @@ Sources
                                    the internal boundaries between constituent
                                    former parishes, and the A3 map
     data/parish-index.json         the curated public name, status and deanery
+    data/bespoke/<id>.json         hand-written overrides for parishes the
+                                   database cannot describe (see README)
     tools/s3-keys.json             CSV filename -> the object that actually
                                    exists in the bucket (see README)
 
@@ -27,6 +29,10 @@ S3 = "https://dos-boundaries.s3.eu-west-2.amazonaws.com/"
 # The site renumbered one parish when it was approved; the CSVs still use the
 # database id. Keyed by site id.
 ID_ALIASES = {"B037": "B027"}
+
+# A handful of objects were filed under a different prefix than the database
+# records. Keyed by the filename as recorded.
+PREFIX_FIXES = {"a4/F028_A4.pdf": "adhoc/F028_A4.pdf"}
 
 TYPE_TO_STATUS = {"LP": "current", "PA": "proposed", "CP": "closed", "AA": "amalgamating"}
 
@@ -59,6 +65,8 @@ def url_for(key, keymap):
     key = (key or "").strip()
     if not key:
         return None
+    if key in PREFIX_FIXES:
+        return S3 + PREFIX_FIXES[key]
     resolved = keymap.get(key, key)
     return S3 + resolved if resolved else None
 
@@ -198,6 +206,11 @@ def build():
             gaps.append(f"{site_id}: no A3 map in the bucket")
         if not parish["maps"]["links"]["a4"]:
             gaps.append(f"{site_id}: no A4 map in the bucket")
+
+        bespoke_path = os.path.join(ROOT, "data", "bespoke", f"{site_id}.json")
+        if os.path.exists(bespoke_path):
+            with open(bespoke_path, encoding="utf-8") as fh:
+                parish.update(json.load(fh))
 
         path = os.path.join(outdir, f"{site_id}.json")
         with open(path, "w", encoding="utf-8") as fh:
