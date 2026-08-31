@@ -1,23 +1,33 @@
 {
   "id": "A001",
   "name": "St Monica, Flixton",
+  "shortName": "St Monica",
+  "location": "Flixton",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A001_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A001_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of River Mersey and Manchester Ship Canal, NE along Manchester Ship Canal to and along W border of United Utilities Wastewater Treatment Plant. Then S by Woodhouse, E by Davy Hulme Road, Bowers Avenue, Moorside Road, Brook Road, Flixton Road, Penny Bridge Lane and by a beeline S to and W along Church Road to 253 Church Road (near bus stop ID MANJPADG) and by a beeline S to River Mersey. Then by River Mersey to its confluence with Manchester Ship Canal.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A001_20170415_A3.pdf",
+      "description": "From the confluence of River Mersey and Manchester Ship Canal, NE along Manchester Ship Canal to and along W border of United Utilities Wastewater Treatment Plant. Then S by Woodhouse, E by Davy Hulme Road, Bowers Avenue, Moorside Road, Brook Road, Flixton Road, Penny Bridge Lane and by a beeline S to and W along Church Road to 253 Church Road (near bus stop ID MANJPADG) and by a beeline S to River Mersey. Then by River Mersey to its confluence with Manchester Ship Canal.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

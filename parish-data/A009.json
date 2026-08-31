@@ -1,23 +1,33 @@
 {
   "id": "A009",
   "name": "St Augustine, All Saints",
+  "shortName": "St Augustine",
+  "location": "All Saints",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A009_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A009_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Denmark Road and Oxford Road, along Oxford Road, Grafton Street, Upper Brook Street, Plymouth Grove, Bryant Close (both sides in St Joseph’s parish), Lauderdale Crescent (both sides in St Joseph’s parish), Stockport Road, Higher Ardwick and the railway line to and along Fairfield Street, London Road, Piccadilly, Portland Street, Oxford Road, Whitworth Street West, Deansgate to the River Medlock, and by the River Medlock to its confluence with the River Irwell, by the River Irwell to a point opposite Fairbrother Street, then by a bee-line to Cornbrook Metrolink Station and by the Manchester – Trafford Metropolitan District Boundary to and along Bold Street, Greenheys Lane West, Greenheys Lane, Burlington Street, Lloyd Street North and Denmark Road to Oxford Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A009_20170415_A3.pdf",
+      "description": "From the junction of Denmark Road and Oxford Road, along Oxford Road, Grafton Street, Upper Brook Street, Plymouth Grove, Bryant Close (both sides in St Joseph’s parish), Lauderdale Crescent (both sides in St Joseph’s parish), Stockport Road, Higher Ardwick and the railway line to and along Fairfield Street, London Road, Piccadilly, Portland Street, Oxford Road, Whitworth Street West, Deansgate to the River Medlock, and by the River Medlock to its confluence with the River Irwell, by the River Irwell to a point opposite Fairbrother Street, then by a bee-line to Cornbrook Metrolink Station and by the Manchester – Trafford Metropolitan District Boundary to and along Bold Street, Greenheys Lane West, Greenheys Lane, Burlington Street, Lloyd Street North and Denmark Road to Oxford Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

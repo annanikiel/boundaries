@@ -1,23 +1,33 @@
 {
   "id": "G005",
   "name": "Our Lady of Grace, Prestwich",
+  "shortName": "Our Lady of Grace",
+  "location": "Prestwich",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G005_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of Prestwich – Whitefield railway and Moss Lane, S to M60 Motorway and E along the Motorway to the crossing with Egypt Lane (near Egypt Farm) and by a beeline E to the junction of Heywood Old Road and unnamed road south of Simon Lane, then by a beeline to the junction of Sheepfoot Lane (A6044) and Meade Hill Road, and W along Sheepfoot Lane and N along Bury Old Road to its junction with Ostrich Lane, Bent Lane Whittaker Lane, Rectory Lane, St Mary’s Road and then S by Bury New Road and W by Butterstile Lane, Shrewsbury Road, Lowther Road, Cawley Avenue to its junction with Grundy Avenue and by a bee-line to River Irwell. N along River Irwell, to M60 Motorway, and E along the Motorway to the point opposite Hill Crest Farm. Then by a beeline to Phillips Park Road West, Park Lane, Pinfold Lane, and Moss Lane to its crossing with Prestwich – Whitefield railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G005_20170415_A3.pdf",
+      "description": "From the crossing of Prestwich – Whitefield railway and Moss Lane, S to M60 Motorway and E along the Motorway to the crossing with Egypt Lane (near Egypt Farm) and by a beeline E to the junction of Heywood Old Road and unnamed road south of Simon Lane, then by a beeline to the junction of Sheepfoot Lane (A6044) and Meade Hill Road, and W along Sheepfoot Lane and N along Bury Old Road to its junction with Ostrich Lane, Bent Lane Whittaker Lane, Rectory Lane, St Mary’s Road and then S by Bury New Road and W by Butterstile Lane, Shrewsbury Road, Lowther Road, Cawley Avenue to its junction with Grundy Avenue and by a bee-line to River Irwell. N along River Irwell, to M60 Motorway, and E along the Motorway to the point opposite Hill Crest Farm. Then by a beeline to Phillips Park Road West, Park Lane, Pinfold Lane, and Moss Lane to its crossing with Prestwich – Whitefield railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

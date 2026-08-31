@@ -1,27 +1,41 @@
 {
   "id": "G015",
   "name": "St Patrick, Rochdale",
+  "shortName": "St Patrick",
+  "location": "Rochdale",
   "deaneryId": "G",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G015_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G015_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Smithy Bridge Railway Station, SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir, then continuing by a bee-line E to the junction of Ramsden Road and Birch Road to its junction with Thimble Close. Then E by a bee-line to Union Road, Halifax Road, New Road and Smithy Bridge Road to the Smithy Bridge Railway Station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G015_20170415_A3.pdf",
+      "description": "From the Smithy Bridge Railway Station, SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir, then continuing by a bee-line E to the junction of Ramsden Road and Birch Road to its junction with Thimble Close. Then E by a bee-line to Union Road, Halifax Road, New Road and Smithy Bridge Road to the Smithy Bridge Railway Station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G015_20170602_A3.pdf",
+      "description": "From the Smithy Bridge Railway Station, SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir, then continuing by a bee-line E to the junction of Ramsden Road and Birch Road to its junction with Thimble Close. Then E by a bee-line to Union Road, Halifax Road, New Road and Smithy Bridge Road to the Smithy Bridge Railway Station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

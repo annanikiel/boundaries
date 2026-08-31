@@ -1,27 +1,41 @@
 {
   "id": "H003",
   "name": "Holy Souls, Blackburn",
+  "shortName": "Holy Souls",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "29/07/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H003_20170729_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H003_20170729_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "By Lammack Road north crossing Ramsgreave Drive A6119, and Barker Lane to the junction with Zechariah Brow and Higher Ramsgreave Road, N by Saccary La. and Anderton House, NW by Showley Brook and footpath S of Clayton Hey Farm, SE by Ribchester Rd., crossing Whalley Road A666 by Hollowhead Lane, Rishton Road, Blackburn Old Road to the Hyndburn – Blackburn with Darwen Boundary, and E by a footpath running parallel to and between Whalley Old Road and Cunliffe Road, N by Brownhill Drive, W by Clarendon Road, Whalley New Road, then W by a line behind 96 Openshaw Drive and by the Openshaw Drive, Pleck Farm Avenue, and across the playing fields of the new estate to Lammack Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H003_20170415_A3.pdf",
+      "description": "By Lammack Road north crossing Ramsgreave Drive A6119, and Barker Lane to the junction with Zechariah Brow and Higher Ramsgreave Road, N by Saccary La. and Anderton House, NW by Showley Brook and footpath S of Clayton Hey Farm, SE by Ribchester Rd., crossing Whalley Road A666 by Hollowhead Lane, Rishton Road, Blackburn Old Road to the Hyndburn – Blackburn with Darwen Boundary, and E by a footpath running parallel to and between Whalley Old Road and Cunliffe Road, N by Brownhill Drive, W by Clarendon Road, Whalley New Road, then W by a line behind 96 Openshaw Drive and by the Openshaw Drive, Pleck Farm Avenue, and across the playing fields of the new estate to Lammack Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "29/07/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H003_20170729_A3.pdf",
+      "description": "By Lammack Road north crossing Ramsgreave Drive A6119, and Barker Lane to the junction with Zechariah Brow and Higher Ramsgreave Road, N by Saccary La. and Anderton House, NW by Showley Brook and footpath S of Clayton Hey Farm, SE by Ribchester Rd., crossing Whalley Road A666 by Hollowhead Lane, Rishton Road, Blackburn Old Road to the Hyndburn – Blackburn with Darwen Boundary, and E by a footpath running parallel to and between Whalley Old Road and Cunliffe Road, N by Brownhill Drive, W by Clarendon Road, Whalley New Road, then W by a line behind 96 Openshaw Drive and by the Openshaw Drive, Pleck Farm Avenue, and across the playing fields of the new estate to Lammack Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

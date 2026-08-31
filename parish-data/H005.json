@@ -1,23 +1,33 @@
 {
   "id": "H005",
   "name": "Our Lady and St Patrick, Walton-le-Dale",
+  "shortName": "Our Lady and St Patrick",
+  "location": "Walton-le-Dale",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H005_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Beeston Brook crosses Quaker Brook Lane, by Alum House Brook SW to Quaker Brook Lane crossing Hoghton Lane A675 to junction 9 of motorway M65 / M61 then N to junction 30 of motorway M6 / M61 and W by Cottage Lane and N by Charnley Fold Lane to the point where this turns W and from this point by a beeline to cross London Way A6 at Limekiln Cottage to cross Todd Lane then E and turning N by the old Tram Road to the River Ribble and E by the Preston – South Ribble civil boundaryback to Brockholes Bridge, junction 31 of the motorway M6, and by a beeline to and along Potter Lane, crossing Cuerdale Lane, then by Beeston Brook, to the point where it crosses Quaker Brook Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H005_20170415_A3.pdf",
+      "description": "From the point where Beeston Brook crosses Quaker Brook Lane, by Alum House Brook SW to Quaker Brook Lane crossing Hoghton Lane A675 to junction 9 of motorway M65 / M61 then N to junction 30 of motorway M6 / M61 and W by Cottage Lane and N by Charnley Fold Lane to the point where this turns W and from this point by a beeline to cross London Way A6 at Limekiln Cottage to cross Todd Lane then E and turning N by the old Tram Road to the River Ribble and E by the Preston – South Ribble civil boundaryback to Brockholes Bridge, junction 31 of the motorway M6, and by a beeline to and along Potter Lane, crossing Cuerdale Lane, then by Beeston Brook, to the point where it crosses Quaker Brook Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

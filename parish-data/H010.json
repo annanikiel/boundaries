@@ -1,23 +1,33 @@
 {
   "id": "H010",
   "name": "St Mary and St John Southworth, Samlesbury",
+  "shortName": "St Mary and St John Southworth",
+  "location": "Samlesbury",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H010_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Brockholes Bridge, junction 31 of the motorway M6 E by the River Ribble and the Preston - South Ribble civil boundary to Spring Wood then S by the Ribble Valley – South Ribble civil boundary to Myerscough Smithy crossing Whalley Road A59 then by a straight line SE across Salmesbury Aerodrome crossing Preston New Road A677 at the west end of Higher Barn (presently KFC) by a bee-line S to meet the Ribble Valley – South Ribble civil boundary at Hoolster Hill along which by Alum House Brook SW to Quaker Brook Lane, then by Beeston Brook NW River Darwen to Carver Bridge NW along Potter Lane crossing Cuerdale Lane and by a bee-line to Brockholes Bridge junction 31 of M6.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H010_20170415_A3.pdf",
+      "description": "From Brockholes Bridge, junction 31 of the motorway M6 E by the River Ribble and the Preston - South Ribble civil boundary to Spring Wood then S by the Ribble Valley – South Ribble civil boundary to Myerscough Smithy crossing Whalley Road A59 then by a straight line SE across Salmesbury Aerodrome crossing Preston New Road A677 at the west end of Higher Barn (presently KFC) by a bee-line S to meet the Ribble Valley – South Ribble civil boundary at Hoolster Hill along which by Alum House Brook SW to Quaker Brook Lane, then by Beeston Brook NW River Darwen to Carver Bridge NW along Potter Lane crossing Cuerdale Lane and by a bee-line to Brockholes Bridge junction 31 of M6.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

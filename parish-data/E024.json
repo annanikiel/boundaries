@@ -1,23 +1,43 @@
 {
   "id": "E024",
   "name": "Our Lady and Saint Patrick, Oldham",
+  "shortName": "Our Lady and Saint Patrick",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "11/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E024_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E024_20181211_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E024_20181211_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E024_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Rochdale Road and Crompton Street, E along Crompton Street, to its junction with Godson Street. NE by a bee-line through Oldham Edge to Higginshaw Lane (including Milne Street, but excluding Meek street) and to and S along the railway to Lees Road and by a bee-line to the footpath S of Oldham Way to Waterloo Road, Woodstock Street, Park Road and by a bee-line to Scottfield Road (including all of Eldon Street and Webster Street). Then S along Scottfield Road, Belgrave Road, to the junction with a road leading to Meldrum Street, and by a bee-line NE to the Kind’s Road. SE along King’s Road and by Snipe Clough to and along Oldham – Tameside District boundary, to Valley Farm. Then N along the Road leading to Valley Farm and crossing Knott Lane by a bee-line to the junction of Green Lane and Fairfields. Then along Fairfields, North Gate, Hollins Road to its junction with Frederick Street. Then by Frederick Street, Manchester Street, Featherstall Road South to Rochdale Road and its junction with Crompton Street.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary with St Patrick and Holy Rosary",
+        "description": "From the junction of Frederick Street and Hollins Road, E along Hollins Road, Copster Hill Road, Schofield Street, Ashton Street, Villa Road, Belgrave Road, and by a straight line to King’s Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "11/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E024_20181211_A3.pdf",
+      "description": "From the junction of Rochdale Road and Crompton Street, E along Crompton Street, to its junction with Godson Street. NE by a bee-line through Oldham Edge to Higginshaw Lane (including Milne Street, but excluding Meek street) and to and S along the railway to Lees Road and by a bee-line to the footpath S of Oldham Way to Waterloo Road, Woodstock Street, Park Road and by a bee-line to Scottfield Road (including all of Eldon Street and Webster Street). Then S along Scottfield Road, Belgrave Road, to the junction with a road leading to Meldrum Street, and by a bee-line NE to the Kind’s Road. SE along King’s Road and by Snipe Clough to and along Oldham – Tameside District boundary, to Valley Farm. Then N along the Road leading to Valley Farm and crossing Knott Lane by a bee-line to the junction of Green Lane and Fairfields. Then along Fairfields, North Gate, Hollins Road to its junction with Frederick Street. Then by Frederick Street, Manchester Street, Featherstall Road South to Rochdale Road and its junction with Crompton Street.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary with St Patrick and Holy Rosary",
+          "description": "From the junction of Frederick Street and Hollins Road, E along Hollins Road, Copster Hill Road, Schofield Street, Ashton Street, Villa Road, Belgrave Road, and by a straight line to King’s Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

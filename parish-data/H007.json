@@ -1,23 +1,33 @@
 {
   "id": "H007",
   "name": "St Hubert, Dunsop Bridge",
+  "shortName": "St Hubert",
+  "location": "Dunsop Bridge",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H007_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H007_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Smithies Bridge on the A59 N by the River Ribble N to Skirden Beck to Grunsagill OS782543 N by the Ribble Valley - Craven Civil boundary to Tosside OS770560 N then W to Ravens Castle or Crowd Stones on Great Harlow Fell OS694613 W and S by the Ribble Valley - Lancaster Civil boundary over Hawthorntwaite Fell to the Ribble Valley - Wyre Civil boundary OS575505 SE to the cairn on Fair Snape Fell W by the Civil boundary with Bowland-with-Leagram to Burholme Bridge OS657479 S by the River Hodder to River Ribble N by the Ribble to its confluence with Smithies Brook and to Smithies Bridge on the A59.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H007_20170415_A3.pdf",
+      "description": "From Smithies Bridge on the A59 N by the River Ribble N to Skirden Beck to Grunsagill OS782543 N by the Ribble Valley - Craven Civil boundary to Tosside OS770560 N then W to Ravens Castle or Crowd Stones on Great Harlow Fell OS694613 W and S by the Ribble Valley - Lancaster Civil boundary over Hawthorntwaite Fell to the Ribble Valley - Wyre Civil boundary OS575505 SE to the cairn on Fair Snape Fell W by the Civil boundary with Bowland-with-Leagram to Burholme Bridge OS657479 S by the River Hodder to River Ribble N by the Ribble to its confluence with Smithies Brook and to Smithies Bridge on the A59.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

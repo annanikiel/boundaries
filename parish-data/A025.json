@@ -1,23 +1,33 @@
 {
   "id": "A025",
   "name": "St Mary, Heaton Mersey",
+  "shortName": "St Mary",
+  "location": "Heaton Mersey",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 14,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A025_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A025_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A025_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A025_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the railway crosses Crossley Road, E along Crossley Road, Stockport Road, Norfolk Avenue. Then by a beeline to and along Carnforth Road, Nelstrop Road, Broadstone Road, Manchester Road, Whitehill Street West, Greg Street, Birkdale Road, Sandy Lane, Willow Avenue and by a beeline to River Tame ( all Woodhall Crescent estate in St Mary’s parish). S by River Tame and River Mersey to M60 junction 1, then N to Green Lane and by a footpath N, continuing along Green Lane, Alexandra Road, Heaton Road to the railway and M by the railway to Crossley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A025_20170415_A3.pdf",
+      "description": "From the point where the railway crosses Crossley Road, E along Crossley Road, Stockport Road, Norfolk Avenue. Then by a beeline to and along Carnforth Road, Nelstrop Road, Broadstone Road, Manchester Road, Whitehill Street West, Greg Street, Birkdale Road, Sandy Lane, Willow Avenue and by a beeline to River Tame ( all Woodhall Crescent estate in St Mary’s parish). S by River Tame and River Mersey to M60 junction 1, then N to Green Lane and by a footpath N, continuing along Green Lane, Alexandra Road, Heaton Road to the railway and M by the railway to Crossley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "F006",
   "name": "St Brendan, Harwood",
+  "shortName": "St Brendan",
+  "location": "Harwood",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F006_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F006_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Blackburn with Darwen, Bury and Bolton District boundaries meet (near Ramsbottom Road), S along Bolton – Bury District boundary to and NW along Arthur Lane, Stitch-Mi-Lane, New Lane, Blair Lane, Thicketford Road to and N along Bradshaw Brook across Jumbles Reservoir to the Blackburn – Bolton District boundary and along that boundary to the pint where it meets Bury boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F006_20170415_A3.pdf",
+      "description": "From the point where Blackburn with Darwen, Bury and Bolton District boundaries meet (near Ramsbottom Road), S along Bolton – Bury District boundary to and NW along Arthur Lane, Stitch-Mi-Lane, New Lane, Blair Lane, Thicketford Road to and N along Bradshaw Brook across Jumbles Reservoir to the Blackburn – Bolton District boundary and along that boundary to the pint where it meets Bury boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

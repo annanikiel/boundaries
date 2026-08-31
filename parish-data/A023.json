@@ -1,23 +1,33 @@
 {
   "id": "A023",
   "name": "St Joseph, Reddish",
+  "shortName": "St Joseph",
+  "location": "Reddish",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A023_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A023_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A023_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A023_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Longford Road West and Nelstrop Road North, E along Longford Road West, Windmill Lane to the Reddish – Brinnington Railway. S along the railway to and S along River Tame to the point opposite Lune Way. Then by a beeline SW to and W along Willow Avenue, N along Reddish Road, Birkdale Road, SE along Greg Street, E along Whitehill Street, then N along Manchester Road, Broadstone Road and Nelstrop Road to its junction with Carnforth Road. Then along a footpath to Black Brook and by a beeline to and N along Manchester – Stockport District boundary to the junction of Longford Road West and Nelstrop Road North.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A023_20170415_A3.pdf",
+      "description": "From the junction of Longford Road West and Nelstrop Road North, E along Longford Road West, Windmill Lane to the Reddish – Brinnington Railway. S along the railway to and S along River Tame to the point opposite Lune Way. Then by a beeline SW to and W along Willow Avenue, N along Reddish Road, Birkdale Road, SE along Greg Street, E along Whitehill Street, then N along Manchester Road, Broadstone Road and Nelstrop Road to its junction with Carnforth Road. Then along a footpath to Black Brook and by a beeline to and N along Manchester – Stockport District boundary to the junction of Longford Road West and Nelstrop Road North.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

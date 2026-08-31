@@ -1,23 +1,33 @@
 {
   "id": "G024",
   "name": "Our Lady of the Assumption, Middleton",
+  "shortName": "Our Lady of the Assumption",
+  "location": "Middleton",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "07/10/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G024_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G024_20181007_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G024_20181007_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G024_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of Mills Hill – Castleton railway and M62 motorway, S along railway to the point where it crosses a river, near Scowcroft Farm. Then west by a bee-line to and along river Irk, Park Rd, Middleton Rd (A576), Manchester Old Rd. N by Parkfield Dr, to the NW corner of Leisure Park, and W by a beeline across golf club grounds to the junction of Heywood Old Rd and unnamed road near Virgin Active Lancashire (including all properties along Rowrah Cres), then by a beeline to M62 opposite Egypt Farm and E by M62 to the railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "07/10/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G024_20181007_A3.pdf",
+      "description": "From the crossing of Mills Hill – Castleton railway and M62 motorway, S along railway to the point where it crosses a river, near Scowcroft Farm. Then west by a bee-line to and along river Irk, Park Rd, Middleton Rd (A576), Manchester Old Rd. N by Parkfield Dr, to the NW corner of Leisure Park, and W by a beeline across golf club grounds to the junction of Heywood Old Rd and unnamed road near Virgin Active Lancashire (including all properties along Rowrah Cres), then by a beeline to M62 opposite Egypt Farm and E by M62 to the railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

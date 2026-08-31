@@ -1,23 +1,43 @@
 {
   "id": "A028",
   "name": "St John the Evangelist and St Ambrose",
+  "shortName": "St John the Evangelist and St Ambrose",
+  "location": null,
   "deaneryId": "A",
   "status": "proposed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A007A012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A007A012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A007A012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A007A012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Old Trafford station, S along Warwick Road South and King’s Road to the railway. Then S along the railway to Trafford – Manchester District boundary. E along that boundary to Upper Chorlton Road, Milton Grove, York Avenue, then E along Clarendon Road, Marlborough Avenue, E along Manley Road, Morville Road, Wilbraham Road, Wyverne Road and Egerton Road South to Withington Road. Then S along Withington Road, W along Mauldeth Road West to its junction with Nell Lane. Then SE along Nell Lane, Northern Grove, Barlow Moor Road, S along Palatine Road to the point where it meets River Mersey. NW along River Mersey and Trafford Manchester District Boundary to the point opposite Newport Road and by a straight line NW to the bend on Cromwell Road near Kings Road, and by Cromwell Road, Kings Road, Great Stone Road to and E along the railway to Old Trafford station.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St John the Evangelist and St Ambrose",
+        "description": "From the junction of Mauldeth Road West and Nell Lane, W along Mauldeth Road West, Hardy Lane to the end of the road and by a beeline to River Mersey opposite Rifle Road (Leisure Center Betel UK – Manchester in Our Lady and St John parish)."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A007A012_20170415_A3.pdf",
+      "description": "From Old Trafford station, S along Warwick Road South and King’s Road to the railway. Then S along the railway to Trafford – Manchester District boundary. E along that boundary to Upper Chorlton Road, Milton Grove, York Avenue, then E along Clarendon Road, Marlborough Avenue, E along Manley Road, Morville Road, Wilbraham Road, Wyverne Road and Egerton Road South to Withington Road. Then S along Withington Road, W along Mauldeth Road West to its junction with Nell Lane. Then SE along Nell Lane, Northern Grove, Barlow Moor Road, S along Palatine Road to the point where it meets River Mersey. NW along River Mersey and Trafford Manchester District Boundary to the point opposite Newport Road and by a straight line NW to the bend on Cromwell Road near Kings Road, and by Cromwell Road, Kings Road, Great Stone Road to and E along the railway to Old Trafford station.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St John the Evangelist and St Ambrose",
+          "description": "From the junction of Mauldeth Road West and Nell Lane, W along Mauldeth Road West, Hardy Lane to the end of the road and by a beeline to River Mersey opposite Rifle Road (Leisure Center Betel UK – Manchester in Our Lady and St John parish)."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

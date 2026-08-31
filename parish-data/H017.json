@@ -1,23 +1,33 @@
 {
   "id": "H017",
   "name": "St Mary, Chipping",
+  "shortName": "St Mary",
+  "location": "Chipping",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H017_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H017_20170415_A3.pdf"
+      "a3": null,
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H017_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411 by the tract to but excluding Barracks, then north-westerly to and by the stream by but excluding Wallbanks to its confluence with the River Hodder, upstream by the River Hodder by Doeford Bridge to the confluence with Red Syke Brook just south of Burholme Bridge and by the civil parish boundary to the cairn (OS597473) on Fair Snape Fell and southwards by the diocesan boundary across Parlick to the road at Loud Higher Bridge and by the road, Height Lane, Mill Lane, Hesketh Lane and Forty Acre Lane by Jeffrey Hill, then by a track north-easterly via Spire Hill towards Hare Hill, then by a bee-line and track northwards to the road, turning left by the road to the Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": null,
+      "description": "From the Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411 by the tract to but excluding Barracks, then north-westerly to and by the stream by but excluding Wallbanks to its confluence with the River Hodder, upstream by the River Hodder by Doeford Bridge to the confluence with Red Syke Brook just south of Burholme Bridge and by the civil parish boundary to the cairn (OS597473) on Fair Snape Fell and southwards by the diocesan boundary across Parlick to the road at Loud Higher Bridge and by the road, Height Lane, Mill Lane, Hesketh Lane and Forty Acre Lane by Jeffrey Hill, then by a track north-easterly via Spire Hill towards Hare Hill, then by a bee-line and track northwards to the road, turning left by the road to the Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {
@@ -26,6 +36,6 @@
       -285857.904285841,
       7149794.0
     ],
-    "zoom": 11
+    "zoom": null
   }
 }

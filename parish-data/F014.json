@@ -1,23 +1,33 @@
 {
   "id": "F014",
   "name": "St Mary, Horwich",
+  "shortName": "St Mary",
+  "location": "Horwich",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F014_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point Bolton – Chorley District boundary departs from the railway, NE along that boundary to the point opposite Chorley New Road, Crown Lane, Lee Lane roundabout, and by a bee-line W to the junction of Squirrel Lane and Bolton Road (A673). By a bee-line through the middle of Lower and Upper Rivington Reservoir, crossing Horrobin Lane and Knowsley Lane , and through the middle of Anglezarke Reservoir to Fill Brook. N by that brook to and E along Warth Brook and Black Brook to Chorley – Blackburn District boundary. S by that boundary to and along Bolton – Blackburn boundary to the point it turns N near Lomax Wifes farm, and by a bee-line to the junction of Colliers Row Road and Smithills Dean Road. Then W by Colliers Row Road, Walker Fold Road and Chorley Old Road. Then by a bee-line S crossing Hight Rid Reservoir in the middle and excluding properties on Princess Road and the Kilphin to Chorley New Road. E along Chorley New Road, then S along Regent Road to and W along the footpath which goes along S boundary of the golf club and by a beeline excluding properties on Overdene Close and Morris Fold Drive, but including Morris Fold Farm, to the railway. W along the railway to the point it meets Bolton – Chorley District boundary (past Blackrod station).",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F014_20170415_A3.pdf",
+      "description": "From the point Bolton – Chorley District boundary departs from the railway, NE along that boundary to the point opposite Chorley New Road, Crown Lane, Lee Lane roundabout, and by a bee-line W to the junction of Squirrel Lane and Bolton Road (A673). By a bee-line through the middle of Lower and Upper Rivington Reservoir, crossing Horrobin Lane and Knowsley Lane , and through the middle of Anglezarke Reservoir to Fill Brook. N by that brook to and E along Warth Brook and Black Brook to Chorley – Blackburn District boundary. S by that boundary to and along Bolton – Blackburn boundary to the point it turns N near Lomax Wifes farm, and by a bee-line to the junction of Colliers Row Road and Smithills Dean Road. Then W by Colliers Row Road, Walker Fold Road and Chorley Old Road. Then by a bee-line S crossing Hight Rid Reservoir in the middle and excluding properties on Princess Road and the Kilphin to Chorley New Road. E along Chorley New Road, then S along Regent Road to and W along the footpath which goes along S boundary of the golf club and by a beeline excluding properties on Overdene Close and Morris Fold Drive, but including Morris Fold Farm, to the railway. W along the railway to the point it meets Bolton – Chorley District boundary (past Blackrod station).",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

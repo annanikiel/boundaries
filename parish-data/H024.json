@@ -1,23 +1,33 @@
 {
   "id": "H024",
   "name": "St John Vianney, Blackburn",
+  "shortName": "St John Vianney",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H024_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H024_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H024_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H024_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of Leeds Liverpool Canal and Aqueduct Road, through Bolton Road to and S along River Darwen, then W along Sandy Lane to M65 Motorway, to and N along Stockclough Lane, and along a track via Fowler Fold, but excluding Lower Whitehalgh Farm to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm and by a straight line to between 531 and 533 Livesey Branch Road, then by a beeline to and along Beechwood Drive and Leeds and Liverpool Canal to the point opposite Amberwood Drive.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H024_20170415_A3.pdf",
+      "description": "From the crossing of Leeds Liverpool Canal and Aqueduct Road, through Bolton Road to and S along River Darwen, then W along Sandy Lane to M65 Motorway, to and N along Stockclough Lane, and along a track via Fowler Fold, but excluding Lower Whitehalgh Farm to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm and by a straight line to between 531 and 533 Livesey Branch Road, then by a beeline to and along Beechwood Drive and Leeds and Liverpool Canal to the point opposite Amberwood Drive.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

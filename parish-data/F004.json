@@ -1,23 +1,33 @@
 {
   "id": "F004",
   "name": "Our Lady of Lourdes and St Gregory the Great, Farnworth",
+  "shortName": "Our Lady of Lourdes and St Gregory the Great",
+  "location": "Farnworth",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F004_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F004_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of River Croal and Hall Lane (A6053), E along the river to the point opposite Kearsley station, and by a bee-line to that station and Stoneclough Road (A667). Along Stoneclough Road (A667) to its junction with Bolton Road and by a beeline to the junction of Moss Road and M61 Motorway (junction 3), then W along M61 Motorway to junction 4, N along Watergate Lane, Plodder Lane, Smerthurst Lane to the point opposite Top O’ Th’ Height Farm on Slackfold Lane, and E along Slackfold Lane to Holme Fold Farm, then by a bee-line to and along Doe Hey Brook and the middle of Higher and Lower Doe Hey Reservoirs, then NW by a bee-line River Croal, including all of Ashby Close estate and crossing the railway the junction of St Peter’s Way and Manchester Road, NW along River Croal to Hall Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F004_20170415_A3.pdf",
+      "description": "From the crossing of River Croal and Hall Lane (A6053), E along the river to the point opposite Kearsley station, and by a bee-line to that station and Stoneclough Road (A667). Along Stoneclough Road (A667) to its junction with Bolton Road and by a beeline to the junction of Moss Road and M61 Motorway (junction 3), then W along M61 Motorway to junction 4, N along Watergate Lane, Plodder Lane, Smerthurst Lane to the point opposite Top O’ Th’ Height Farm on Slackfold Lane, and E along Slackfold Lane to Holme Fold Farm, then by a bee-line to and along Doe Hey Brook and the middle of Higher and Lower Doe Hey Reservoirs, then NW by a bee-line River Croal, including all of Ashby Close estate and crossing the railway the junction of St Peter’s Way and Manchester Road, NW along River Croal to Hall Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

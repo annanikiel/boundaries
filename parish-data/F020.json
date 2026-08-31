@@ -1,23 +1,43 @@
 {
   "id": "F020",
   "name": "Blessed Dominic Barberi, Bolton",
+  "shortName": "Blessed Dominic Barberi",
+  "location": "Bolton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "03/11/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F020_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F020_20191103_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F020_20191103_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F020_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Thicketford Road and Blair Lane, along Blair Lane, New Lane, Stitch-Mi-Lane, Arthur Lane, to and S along Bolton – Bury District boundary and River Irwell then River Croal to Hall Lane. W along Hall Lane and by a bee-line to River Croal (including Crompton Lodge Caravan Park), continuing W along River Croal, River Tonge to Folds Road and by a bee-line to and along Entwistle Street, Ainsworth Lane, Abington Road (both sides in St Brendan’s Parish), Crompton Way and Thicketford Road to its junction with Blair Lane.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Osmund and St Teresa",
+        "description": "From the point on the Bolton – Biry District boundary opposite Crows Nest and by a bee-line W to Crows Nest, Radcliffe Road, Croft Side and by E boundary of Darcy Level Gravel Pits to River Croal"
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "03/11/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F020_20191103_A3.pdf",
+      "description": "From the junction of Thicketford Road and Blair Lane, along Blair Lane, New Lane, Stitch-Mi-Lane, Arthur Lane, to and S along Bolton – Bury District boundary and River Irwell then River Croal to Hall Lane. W along Hall Lane and by a bee-line to River Croal (including Crompton Lodge Caravan Park), continuing W along River Croal, River Tonge to Folds Road and by a bee-line to and along Entwistle Street, Ainsworth Lane, Abington Road (both sides in St Brendan’s Parish), Crompton Way and Thicketford Road to its junction with Blair Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Osmund and St Teresa",
+          "description": "From the point on the Bolton – Biry District boundary opposite Crows Nest and by a bee-line W to Crows Nest, Radcliffe Road, Croft Side and by E boundary of Darcy Level Gravel Pits to River Croal"
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

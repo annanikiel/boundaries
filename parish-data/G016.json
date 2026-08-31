@@ -1,27 +1,41 @@
 {
   "id": "G016",
   "name": "St Peter, Middleton",
+  "shortName": "St Peter",
+  "location": "Middleton",
   "deaneryId": "G",
   "status": "closed",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G016_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G016_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway to Rochdale – Oldham boundary and along that boundary N to the crossing of Green gate and Wince Brook. W along Wince Brook, Round Thorn Road, Mount Road, Manchester New Road, Alkrington Hall Road North, Hall Drive , by a beeline to Wince Brook opposite Greenson Drive and W by the brook to the point where it meets Rochdale – Manchester District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": null,
+      "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway to Rochdale – Oldham boundary and along that boundary N to the crossing of Green gate and Wince Brook. W along Wince Brook, Round Thorn Road, Mount Road, Manchester New Road, Alkrington Hall Road North, Hall Drive , by a beeline to Wince Brook opposite Greenson Drive and W by the brook to the point where it meets Rochdale – Manchester District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G016_20170602_A3.pdf",
+      "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway to Rochdale – Oldham boundary and along that boundary N to the crossing of Green gate and Wince Brook. W along Wince Brook, Round Thorn Road, Mount Road, Manchester New Road, Alkrington Hall Road North, Hall Drive , by a beeline to Wince Brook opposite Greenson Drive and W by the brook to the point where it meets Rochdale – Manchester District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

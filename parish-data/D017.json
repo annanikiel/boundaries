@@ -1,27 +1,41 @@
 {
   "id": "D017",
   "name": "St Mary, Oswaltwistle",
+  "shortName": "St Mary",
+  "location": "Oswaltwistle",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D017_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D017_20170624_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D017_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D017_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the interchange of the M65 Motorway and Dunkenhalgh Way westwards along the M65 Motorway to the Blackburn with Darwen and Hyndburn boundary and by this boundary to and along the A6177 Elton Road to the Hyndburn and Rossendale boundary and by this boundary via Thirteen Stone Hill to the line of the former Haslingden -Accrington railway line; then by the permitted bridleway that runs along the former track-bed of the former Haslingden -Accrington railway line to a point by the junction of Bath Street and Riley Street (both sides in St Anne's parish) and by a bee-line to the junction of Ormerod Street and Willows Lane and along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to Hyndburn Road, and westwards along Hyndburn Road and Dunkenhalgh Way to the interchange with the M65 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D017_20170415_A3.pdf",
+      "description": "From the interchange of the M65 Motorway and Dunkenhalgh Way westwards along the M65 Motorway to the Blackburn with Darwen and Hyndburn boundary and by this boundary to and along the A6177 Elton Road to the Hyndburn and Rossendale boundary and by this boundary via Thirteen Stone Hill to the line of the former Haslingden -Accrington railway line; then by the permitted bridleway that runs along the former track-bed of the former Haslingden -Accrington railway line to a point by the junction of Bath Street and Riley Street (both sides in St Anne's parish) and by a bee-line to the junction of Ormerod Street and Willows Lane and along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to Hyndburn Road, and westwards along Hyndburn Road and Dunkenhalgh Way to the interchange with the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "07/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D017_20170624_A3.pdf",
+      "description": "From the interchange of the M65 Motorway and Dunkenhalgh Way westwards along the M65 Motorway to the Blackburn with Darwen and Hyndburn boundary and by this boundary to and along the A6177 Elton Road to the Hyndburn and Rossendale boundary and by this boundary via Thirteen Stone Hill to the line of the former Haslingden -Accrington railway line; then by the permitted bridleway that runs along the former track-bed of the former Haslingden -Accrington railway line to a point by the junction of Bath Street and Riley Street (both sides in St Anne's parish) and by a bee-line to the junction of Ormerod Street and Willows Lane and along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to Hyndburn Road, and westwards along Hyndburn Road and Dunkenhalgh Way to the interchange with the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,43 @@
 {
   "id": "F022",
   "name": "Bolton Parishes, ",
+  "shortName": "Bolton Parishes",
+  "location": null,
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F002F007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F002F007_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F002F007_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F002F007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Belmont Road (A675) along northern boundary of North Turton Civil Parish to its crossing with Blackburn Road. S along Blackburn Road (A666) to and along Delph Brook, Dewhurst Clough, Eagley Brook to the footpath, then N along that footpath and across Birtenshaw School to and E along Turton Road, Printers Lane to the end of the road, then by a beeline to and S along Broadshaw Brook to and W along Thicketford Road, S Crompton Way, Abingdon Road (both sides in St Columba parish), Ainsworth Lane, Entwistle Street and by a beeline to and N along River Tonge the the junction of Waters Meeting Road and Brittania Way. SW along Waters Meeting Road, to and S along Blackburn Road, then NW along Halliwell Road, Wolfenden Street by a bee-line to Back Sutcliffe Street and by a bee-line to Astley Brook, including Crumpsall Street and Chapelfield Street in Holy Infant parish. Then by that brook and Dean Brook to and NW along Smithills Dean Road to its junction with Colliers Row Road. Then by a bee-line to Blackburn – Bolton District boundary and Chorley – Blackburn District boundary to its crossing with Belmont Road and North Turton Civil Parish boundary.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Holy Infant and St Columba",
+        "description": "From the junction of Waters Meeting Road and Britannia Way, N along Eagley Brook to the point opposite Wrath Close."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F002F007_20170415_A3.pdf",
+      "description": "From Belmont Road (A675) along northern boundary of North Turton Civil Parish to its crossing with Blackburn Road. S along Blackburn Road (A666) to and along Delph Brook, Dewhurst Clough, Eagley Brook to the footpath, then N along that footpath and across Birtenshaw School to and E along Turton Road, Printers Lane to the end of the road, then by a beeline to and S along Broadshaw Brook to and W along Thicketford Road, S Crompton Way, Abingdon Road (both sides in St Columba parish), Ainsworth Lane, Entwistle Street and by a beeline to and N along River Tonge the the junction of Waters Meeting Road and Brittania Way. SW along Waters Meeting Road, to and S along Blackburn Road, then NW along Halliwell Road, Wolfenden Street by a bee-line to Back Sutcliffe Street and by a bee-line to Astley Brook, including Crumpsall Street and Chapelfield Street in Holy Infant parish. Then by that brook and Dean Brook to and NW along Smithills Dean Road to its junction with Colliers Row Road. Then by a bee-line to Blackburn – Bolton District boundary and Chorley – Blackburn District boundary to its crossing with Belmont Road and North Turton Civil Parish boundary.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Infant and St Columba",
+          "description": "From the junction of Waters Meeting Road and Britannia Way, N along Eagley Brook to the point opposite Wrath Close."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

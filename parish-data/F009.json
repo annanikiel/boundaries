@@ -1,27 +1,41 @@
 {
   "id": "F009",
   "name": "St Ethelbert, Deane",
+  "shortName": "St Ethelbert",
+  "location": "Deane",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F009_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F009_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of High Street and Bridgeman Street, SW along Bridgeman Street, S along Adelaide Street and by a beeline to and SW along Ellesmere Road, Moors Green Lane, Sapling Road, Smethurst Lane to Plodder Lane. E along Plodder Lane, Watergate Lane to M61 Motorway junction 4 and W along the Motorway, past junction 5 and by a beeline N including all of Winslow Road Estate, to the junction of Tempest Road and Junction Road West, N along Rumworth Road to Lostock station and E along the railway to the point opposite Gilnow Lane, and S along Gilnow Lane to and E along Deane Road, Cannon Street, Derby Street and Hight Street to its junction with Bridgeman Street.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F009_20170415_A3.pdf",
+      "description": "From the junction of High Street and Bridgeman Street, SW along Bridgeman Street, S along Adelaide Street and by a beeline to and SW along Ellesmere Road, Moors Green Lane, Sapling Road, Smethurst Lane to Plodder Lane. E along Plodder Lane, Watergate Lane to M61 Motorway junction 4 and W along the Motorway, past junction 5 and by a beeline N including all of Winslow Road Estate, to the junction of Tempest Road and Junction Road West, N along Rumworth Road to Lostock station and E along the railway to the point opposite Gilnow Lane, and S along Gilnow Lane to and E along Deane Road, Cannon Street, Derby Street and Hight Street to its junction with Bridgeman Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F009_20170628_A3.pdf",
+      "description": "From the junction of High Street and Bridgeman Street, SW along Bridgeman Street, S along Adelaide Street and by a beeline to and SW along Ellesmere Road, Moors Green Lane, Sapling Road, Smethurst Lane to Plodder Lane. E along Plodder Lane, Watergate Lane to M61 Motorway junction 4 and W along the Motorway, past junction 5 and by a beeline N including all of Winslow Road Estate, to the junction of Tempest Road and Junction Road West, N along Rumworth Road to Lostock station and E along the railway to the point opposite Gilnow Lane, and S along Gilnow Lane to and E along Deane Road, Cannon Street, Derby Street and Hight Street to its junction with Bridgeman Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

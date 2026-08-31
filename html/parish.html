@@ -1,32 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <!-- Meta tags -->
 	<meta charset="utf-8" />
 	<meta name="Description" content="Collection of maps showing current and proposed parish boundaries in the Diocese of Salford." />
 	<meta name="Keywords" content="Diocese of Salford, parish boundaries, parishes, location of catholic churches, catholic churches, location of catholic schools, catholic schools" />
-	    
+
 	<!-- Apple users -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
-	
+
 	<!-- Shortcut & address bar icon -->
 	<link href="../assets/favicon.png" rel="icon" type="image/png" />
-	
+
 	<!-- Stylesheet files -->
 	<link href="../css/style.css" rel="stylesheet" media="screen" />
-	<link href="../css/style.css.map" rel="stylesheet" media="screen" />
 	<link href="../css/flexnav.css" rel="stylesheet" media="screen" />
-		
+	<link href="../css/parish.css" rel="stylesheet" media="screen" />
+
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
 
-	
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@7.3.0/ol.css" type="text/css">
 	<script src="https://cdn.jsdelivr.net/npm/ol@7.3.0/dist/ol.js"></script>
-	
+
 	<!-- Page title -->
-	<title> 
+	<title>
 	Parish | Diocese of Salford Parish Boundaries
 	</title>
 </head>
@@ -35,7 +34,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col"><img src="../assets/dioc_banner.jpg" class="mx-auto d-block logo" /></div>
+            <div class="col"><img src="../assets/dioc_banner.jpg" class="mx-auto d-block logo" alt="Diocese of Salford" /></div>
         </div>
 
 
@@ -54,39 +53,52 @@
                 </nav>
             </div>
         </div>
+
 <div class="row mt-5 body-height">
-		
+
 		<div class="d-none d-md-block col-1">&nbsp;</div>
-					
+
 		<div class="col-12 col-md-5">
 
-			<h2 id="parishName" class="fw-bold pb-5">Parish</h2>
+			<h2 id="parishName" class="fw-bold">Parish</h2>
+			<p id="parishLocation" class="lead"></p>
+
 			<h3>Overview</h3>
-			<p class="lh-lg">
-				<span class="fw-bold">Deanery:</span> <a id="deaneryLink" href="#">Loading...</a><br />
-				<span class="fw-bold">Status:</span> <span id="parishStatus">Loading...</span><br />
-			</p>
-			
-			<br />
-			<hr />
-			<br />
-			<h3>Maps &amp; boundaries</h3>
-			<p class="lh-lg">
-				<span class="fw-bold fst-italic">Last updated:</span>
-				<span id="parishUpdated">Loading...</span><br />
-				<span class="fw-bold">Latest map:</span>
-				<span id="parishMaps">Loading...</span><br />
-					<span class="fw-bold">Latest description:</span>
-					<span id="parishDescription">Descriptions will be added soon.</span><br /><br />
-					<span id="parishAuditTrailBlock">
-						<span class="fw-bold">Audit trail:</span><br />
-						<span id="parishAuditTrail"></span><br />
-						<br />
-					</span>
-				Please refer to the written descriptions for the official boundaries. Maps are only illustrative.
+			<ul class="parish-meta">
+				<li><span class="label">Deanery:</span> <a id="deaneryLink" href="deaneries">Loading&hellip;</a></li>
+				<li><span class="label">Status:</span> <span id="parishStatus">Loading&hellip;</span></li>
+				<li id="parishNumberRow" hidden><span class="label">Parish number:</span> <span id="parishNumber"></span></li>
+			</ul>
+
+			<div id="parishNote" class="parish-note" hidden>
+				<p id="parishNoteText"></p>
+			</div>
+
+			<div class="boundary-section">
+				<h3>Maps</h3>
+				<ul class="parish-meta">
+					<li><span class="label">Last updated:</span> <span id="parishUpdated">Loading&hellip;</span></li>
+					<li><span class="label">Latest map:</span> <span id="parishMaps" class="map-links">Loading&hellip;</span></li>
+				</ul>
+			</div>
+
+			<div class="boundary-section">
+				<h3>Boundary description</h3>
+				<div id="boundaryDescription" class="boundary-text">Loading&hellip;</div>
+				<div id="boundaryExtras"></div>
+			</div>
+
+			<div id="parishAuditTrailBlock" class="boundary-section" hidden>
+				<h3>Previous versions</h3>
+				<div id="parishAuditTrail"></div>
+			</div>
+
+			<p class="fst-italic">
+				The written description is the official record of the boundary.
+				Maps are illustrative only.
 			</p>
 		</div>
-		
+
 		<div class="col-12 col-md-4">
 			<div id="map" class="map map_size" style="width:95%; height:600px; margin:auto;"></div>
 			<div id="info">&nbsp;</div>
@@ -95,7 +107,7 @@
 
 		</div> <!-- Footer -->
         <div class="footer">
-            <p>Copyright © Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+            <p>Copyright &copy; Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
         </div>
 
 
@@ -103,9 +115,9 @@
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="../js/jquery.flexnav.js"></script>
+    <script src="../js/jquery.flexnav.js"></script>
     <script src="../js/data.js"></script>
-  <script src="../js/parish.js"></script>
+    <script src="../js/parish.js"></script>
 
 </body>
 </html>

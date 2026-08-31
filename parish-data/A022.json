@@ -1,23 +1,33 @@
 {
   "id": "A022",
   "name": "Holy Family, Denton",
+  "shortName": "Holy Family",
+  "location": "Denton",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A022_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A022_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hyde Road and Wall Way, N along Debdale Park (west border) and Gorton Lower Reservoir (W, then N border). Then S by Debdale lane to and S along Manchester – Tameside District boundary to the point opposite Clumber Road and by a bee-line E past Wilton Paddock to, and E along Hyde Road. Then S by M60 Motorway to and SW along the Denton - Reddish railway, to the railway junction and then NW along Brinnington – Reddish railway to Winsmill Lane. NW along Windmill Lane, Longford Road to its junction with Nelstrop Road North. Then N along Manchester – Stockport District boundary to Broadfield Road and by a beeline to Bowling Road, Turnbull Road, Brighton Range and Hyde Road to its junction with Wall Way.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022_20170415_A3.pdf",
+      "description": "From the junction of Hyde Road and Wall Way, N along Debdale Park (west border) and Gorton Lower Reservoir (W, then N border). Then S by Debdale lane to and S along Manchester – Tameside District boundary to the point opposite Clumber Road and by a bee-line E past Wilton Paddock to, and E along Hyde Road. Then S by M60 Motorway to and SW along the Denton - Reddish railway, to the railway junction and then NW along Brinnington – Reddish railway to Winsmill Lane. NW along Windmill Lane, Longford Road to its junction with Nelstrop Road North. Then N along Manchester – Stockport District boundary to Broadfield Road and by a beeline to Bowling Road, Turnbull Road, Brighton Range and Hyde Road to its junction with Wall Way.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

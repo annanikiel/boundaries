@@ -1,23 +1,33 @@
 {
   "id": "H012",
   "name": "St Alban and the Good Shepherd, Blackburn",
+  "shortName": "St Alban and the Good Shepherd",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H012_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Blackburn Railway Station, along Railway Road, Ainsworth Street, Barbara Castle Way, Preston New Road, East Park Road, Brantfell Road and via the steps to and along Revidge Road, Paignton Road and by a beeline to Lammack Road, from Lammack Road SE across the playing fields to the new estate, including Swallowfields and Curlew Close but excluding Kingfisher Close and Aspinall Fold and by the footpath south of 53 Pleckgate Road to Pleckgate Road and by Pleck Farm Avenue and Openshaw Drive to the “circle” and then by a line behind 96 Openshaw Drive to Whalley New Road by the Skew Bridge, including Sycamore Road and Sycamore Close but excluding Briar Road and Rosewood Avenue, and by Clarendon Road to and along Brownhill Drive to and along the footpath running parallel to and between Whalley Old Road and Cunliffe Road, S along this boundary to the Leeds and Liverpool Canal and by the canal to the railway line and by the railway line to a point opposite Harwood Street, then by Harwood Street to and along the Liverpool and Leeds Canal to Cicely Street and by Cicely Lane to and along the railway to Blackburn Railway Station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H012_20170415_A3.pdf",
+      "description": "From Blackburn Railway Station, along Railway Road, Ainsworth Street, Barbara Castle Way, Preston New Road, East Park Road, Brantfell Road and via the steps to and along Revidge Road, Paignton Road and by a beeline to Lammack Road, from Lammack Road SE across the playing fields to the new estate, including Swallowfields and Curlew Close but excluding Kingfisher Close and Aspinall Fold and by the footpath south of 53 Pleckgate Road to Pleckgate Road and by Pleck Farm Avenue and Openshaw Drive to the “circle” and then by a line behind 96 Openshaw Drive to Whalley New Road by the Skew Bridge, including Sycamore Road and Sycamore Close but excluding Briar Road and Rosewood Avenue, and by Clarendon Road to and along Brownhill Drive to and along the footpath running parallel to and between Whalley Old Road and Cunliffe Road, S along this boundary to the Leeds and Liverpool Canal and by the canal to the railway line and by the railway line to a point opposite Harwood Street, then by Harwood Street to and along the Liverpool and Leeds Canal to Cicely Street and by Cicely Lane to and along the railway to Blackburn Railway Station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

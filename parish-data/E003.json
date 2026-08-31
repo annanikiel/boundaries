@@ -1,23 +1,33 @@
 {
   "id": "E003",
   "name": "Sacred Heart and Our Lady, Oldham",
+  "shortName": "Sacred Heart and Our Lady",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E003_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E003_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Ripponden Road and Ship Lane, along Saddleworth Civil Parish boundary to the S border of Lower Strinesdale Reservoir. Then W by a bee-line to Furze Lane, excluding all of Armdale Rise estate. SW along Furze Lane, NW border of Waterhead Park and then S by Sharples Hall Street and by a beeline to and along Leamington Street, Vincent Avenue, Little Moor Lane, Shrewsbury Avenue, Vulcan Street, Prince Charlie Street, Derker Street, Arnold Street to the Railway. Then N along the railway to the point opposite Sumner Streer, and E to the Saddleworth Civil Parish boundary and Lower Dingle. E along Lower Dingle to Ripponden Road and its junction with Ship Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E003_20170415_A3.pdf",
+      "description": "From the junction of Ripponden Road and Ship Lane, along Saddleworth Civil Parish boundary to the S border of Lower Strinesdale Reservoir. Then W by a bee-line to Furze Lane, excluding all of Armdale Rise estate. SW along Furze Lane, NW border of Waterhead Park and then S by Sharples Hall Street and by a beeline to and along Leamington Street, Vincent Avenue, Little Moor Lane, Shrewsbury Avenue, Vulcan Street, Prince Charlie Street, Derker Street, Arnold Street to the Railway. Then N along the railway to the point opposite Sumner Streer, and E to the Saddleworth Civil Parish boundary and Lower Dingle. E along Lower Dingle to Ripponden Road and its junction with Ship Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

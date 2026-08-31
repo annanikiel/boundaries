@@ -1,27 +1,41 @@
 {
   "id": "G001",
   "name": "Holy Family, Kirkholt",
+  "shortName": "Holy Family",
+  "location": "Kirkholt",
   "deaneryId": "G",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G001_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G001_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Moss Bridge Road and Kingsway, E along A6193, to junction 21 on M62 Motorway, S by Newhey Road, Shaw Road, Milnrow Road to the point where it meets Shaw and Crompton and Newhey railway. By a beeline to and W along Mossgate Road to the point opposite Higher Rise (road), then by a beeline excluding all of Greenhill Avenue, crossing Rochdale Road and Castleton Road (near Gravel Hole Methodist Church, Pit Lane), to and W along Thornham Lane, to its junction with Oldham Way, and then following Oldham – Rochdale District boundary and by a bee-line to M62 junction 20 , N along the motorway to and E along Rochdale Canal Greenfield Lane, Queensway, Kingsway to the junction of Moss Bridge Road and Kingsway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G001_20170415_A3.pdf",
+      "description": "From the junction of Moss Bridge Road and Kingsway, E along A6193, to junction 21 on M62 Motorway, S by Newhey Road, Shaw Road, Milnrow Road to the point where it meets Shaw and Crompton and Newhey railway. By a beeline to and W along Mossgate Road to the point opposite Higher Rise (road), then by a beeline excluding all of Greenhill Avenue, crossing Rochdale Road and Castleton Road (near Gravel Hole Methodist Church, Pit Lane), to and W along Thornham Lane, to its junction with Oldham Way, and then following Oldham – Rochdale District boundary and by a bee-line to M62 junction 20 , N along the motorway to and E along Rochdale Canal Greenfield Lane, Queensway, Kingsway to the junction of Moss Bridge Road and Kingsway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G001_20170602_A3.pdf",
+      "description": "From the junction of Moss Bridge Road and Kingsway, E along A6193, to junction 21 on M62 Motorway, S by Newhey Road, Shaw Road, Milnrow Road to the point where it meets Shaw and Crompton and Newhey railway. By a beeline to and W along Mossgate Road to the point opposite Higher Rise (road), then by a beeline excluding all of Greenhill Avenue, crossing Rochdale Road and Castleton Road (near Gravel Hole Methodist Church, Pit Lane), to and W along Thornham Lane, to its junction with Oldham Way, and then following Oldham – Rochdale District boundary and by a bee-line to M62 junction 20 , N along the motorway to and E along Rochdale Canal Greenfield Lane, Queensway, Kingsway to the junction of Moss Bridge Road and Kingsway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

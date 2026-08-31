@@ -1,23 +1,33 @@
 {
   "id": "D015",
   "name": "St Mary of the Assumption, Burnley",
+  "shortName": "St Mary of the Assumption",
+  "location": "Burnley",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D015_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D015_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Burnley Central Station, by pathway to Colne Road at the Canal Bridge, by the canal to the point where it crosses over the River Brun, and along the River Brun and Swinden Water and eastwards to the Yorkshire Boundary, then southwards along the Yorkshire - Lancashire border to the point where the Burnley and Rossendale District boundary is met east of Weir then north-westwards along the Burnley - Rossendale District Boundary via Clough Bottom Reservoir to Limy Water near Clowbridge Reservoir then by a north-easterly bee-line to the entrance of the railway tunnel just south of Priory Court, then north-westerly by the railway to the underbridge at Kirkgate, then by a beeline between Rumley Road and Brunswick St and through the junction of Marlborough St and Springfield Rd to the canal bridge at Finsley Gate, along Finsley Gate, Hammerton St, Queen's Lancashire Way, Westgate, Ashfield Road to the river, by the river to the railway and by the railway to Burnley Central Station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D015_20170415_A3.pdf",
+      "description": "From Burnley Central Station, by pathway to Colne Road at the Canal Bridge, by the canal to the point where it crosses over the River Brun, and along the River Brun and Swinden Water and eastwards to the Yorkshire Boundary, then southwards along the Yorkshire - Lancashire border to the point where the Burnley and Rossendale District boundary is met east of Weir then north-westwards along the Burnley - Rossendale District Boundary via Clough Bottom Reservoir to Limy Water near Clowbridge Reservoir then by a north-easterly bee-line to the entrance of the railway tunnel just south of Priory Court, then north-westerly by the railway to the underbridge at Kirkgate, then by a beeline between Rumley Road and Brunswick St and through the junction of Marlborough St and Springfield Rd to the canal bridge at Finsley Gate, along Finsley Gate, Hammerton St, Queen's Lancashire Way, Westgate, Ashfield Road to the river, by the river to the railway and by the railway to Burnley Central Station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

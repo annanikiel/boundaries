@@ -1,23 +1,43 @@
 {
   "id": "G025",
   "name": "Saint Margaret Clitherow, Rochdale",
+  "shortName": "Saint Margaret Clitherow",
+  "location": "Rochdale",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G025_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G025_20181209_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G025_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G025_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Smithy Bridge Railway station, E along Smithy Bridge Road and in a straight line across Hollingworth Lake to M62 Motorway near Lower Booth Hollins Farm. Then E along M62 Rochdale – Calderdale District boundary. Then S by the diocesan boundary to the junction of Ripponden Road (A672) and Buckstones Road (B6197) at Grains Bar. NW along Buckstones Road to Brunchapel Farm, then N by a beeline to the W boundary of the Brushes Clough Reservoir and by a stream following into it from the west to the point opposite Golden Street, then by a bee-line to the junction of Dunwoods Park Courst and Milnrow Road, N along Milnrow Road to the point where it meets Shaw and Crompton and Newhey railway. By a beeline to and W along Mossgate Road to the point opposite Higher Rise (road), then by a beeline excluding all of Greenhill Avenue, crossing Rochdale Road and Castleton Road (near Gravel Hole Methodist Church, Pit Lane), to and W along Thornham Lane, to its junction with Oldham Way, and then following Oldham – Rochdale District boundary and by a bee-line to M62 junction 20 , N along the motorway to and E along Rochdale Canal Greenfield Lane, Queensway, Kingsway to the junction of Moss Bridge Road and Kingsway. Then N along Moss Bridge Road, Channing Street, Church Road, to the Rochdale – Smithy Bridge railway and E along that railway to Smithy Bridge station.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Sacred Heart and Holy Family",
+        "description": "From the junction of Milnrow Road and Shaw Road, W along Shaw Road, NewHey Road, Elizabethan Way to M62 junction 21, and W along the Motorway and Road A6193 to its junction with Kingsway."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G025_20181209_A3.pdf",
+      "description": "From Smithy Bridge Railway station, E along Smithy Bridge Road and in a straight line across Hollingworth Lake to M62 Motorway near Lower Booth Hollins Farm. Then E along M62 Rochdale – Calderdale District boundary. Then S by the diocesan boundary to the junction of Ripponden Road (A672) and Buckstones Road (B6197) at Grains Bar. NW along Buckstones Road to Brunchapel Farm, then N by a beeline to the W boundary of the Brushes Clough Reservoir and by a stream following into it from the west to the point opposite Golden Street, then by a bee-line to the junction of Dunwoods Park Courst and Milnrow Road, N along Milnrow Road to the point where it meets Shaw and Crompton and Newhey railway. By a beeline to and W along Mossgate Road to the point opposite Higher Rise (road), then by a beeline excluding all of Greenhill Avenue, crossing Rochdale Road and Castleton Road (near Gravel Hole Methodist Church, Pit Lane), to and W along Thornham Lane, to its junction with Oldham Way, and then following Oldham – Rochdale District boundary and by a bee-line to M62 junction 20 , N along the motorway to and E along Rochdale Canal Greenfield Lane, Queensway, Kingsway to the junction of Moss Bridge Road and Kingsway. Then N along Moss Bridge Road, Channing Street, Church Road, to the Rochdale – Smithy Bridge railway and E along that railway to Smithy Bridge station.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Sacred Heart and Holy Family",
+          "description": "From the junction of Milnrow Road and Shaw Road, W along Shaw Road, NewHey Road, Elizabethan Way to M62 junction 21, and W along the Motorway and Road A6193 to its junction with Kingsway."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

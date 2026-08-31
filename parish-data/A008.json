@@ -1,23 +1,33 @@
 {
   "id": "A008",
   "name": "St Mary the Hidden Gem, Manchester",
+  "shortName": "St Mary the Hidden Gem",
+  "location": "Manchester",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 13,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of the Rivers Irwell and Medlock, along the River Irwell, to a point opposite Fennel Street, then by Fennel Street, Withy Grove, Nicholas Croft, High Street, Turner Street, John Street, Hilton Street through Stevenson Square, Newton Street, Piccadilly, Portland Street, Oxford Road, Whitworth Street West to Deansgate, then back along the River Medlock to its confluence with the River Irwell.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A008_20170415_A3.pdf",
+      "description": "From the confluence of the Rivers Irwell and Medlock, along the River Irwell, to a point opposite Fennel Street, then by Fennel Street, Withy Grove, Nicholas Croft, High Street, Turner Street, John Street, Hilton Street through Stevenson Square, Newton Street, Piccadilly, Portland Street, Oxford Road, Whitworth Street West to Deansgate, then back along the River Medlock to its confluence with the River Irwell.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

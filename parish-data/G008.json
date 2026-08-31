@@ -1,23 +1,33 @@
 {
   "id": "G008",
   "name": "St Gabriel and the Angels and St John the Baptist, Rochdale",
+  "shortName": "St Gabriel and the Angels and St John the Baptist",
+  "location": "Rochdale",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 13,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point opposite Woodtop Avenue on River Roch (near Bury Road in Broadhalgh), E along River Roch to the point opposite Brigdefield Street, NW to Bury Road, then E by Mellor Street to its junction with Norman Road, and by a bee-line N to the junction of Spotland Road and Mount Street. Then E along Spotland Road to its junction with St Mary’s Gate (A58) and S by a beeline to the roundabout at South Parade. E along South Parade to River Roch. E by the River Roch, to the point opposite Trafalgar Street then S by a beeline to and along Church Road, E by Channing street, S by Moss Bridge Road to Kingsway. The S by Kingsway to and N along Greenfield Lane and W along Rochdale Canal and A627(M) to and S along Rochdale – Oldham District boundary to the Mills Hill – Castleton railway. N along that railway to the Heywood branch, and W along that railway branch, Roeacre Brook and footpath going through Heys Farm, Francil, by the SW boundary of Matthew Mills High School to Rochdale Road East, Bolton Road by a beeline to the River Roch opposite Woodtop Avenue.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G008_20170415_A3.pdf",
+      "description": "From the point opposite Woodtop Avenue on River Roch (near Bury Road in Broadhalgh), E along River Roch to the point opposite Brigdefield Street, NW to Bury Road, then E by Mellor Street to its junction with Norman Road, and by a bee-line N to the junction of Spotland Road and Mount Street. Then E along Spotland Road to its junction with St Mary’s Gate (A58) and S by a beeline to the roundabout at South Parade. E along South Parade to River Roch. E by the River Roch, to the point opposite Trafalgar Street then S by a beeline to and along Church Road, E by Channing street, S by Moss Bridge Road to Kingsway. The S by Kingsway to and N along Greenfield Lane and W along Rochdale Canal and A627(M) to and S along Rochdale – Oldham District boundary to the Mills Hill – Castleton railway. N along that railway to the Heywood branch, and W along that railway branch, Roeacre Brook and footpath going through Heys Farm, Francil, by the SW boundary of Matthew Mills High School to Rochdale Road East, Bolton Road by a beeline to the River Roch opposite Woodtop Avenue.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,28 +1,74 @@
 {
   "id": "H031",
   "name": "St Wilfrid, Ss Peter and Paul and St Mary, Chipping",
+  "shortName": "St Wilfrid, Ss Peter and Paul and St Mary, Chipping",
+  "location": null,
   "deaneryId": "H",
   "status": "proposed",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H025H011H017_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011H017H025_20170624_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011H017H025_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H025H011H017_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Fair Snape Fell cairn OS 598472, E to Red Syke stream to Burholme Bridge OS658479, S by River Hodder to Armrydding OS675428, SW by the stream to Wallbanks and Barracks to the Trigonometric Point at Spire Hill on Longridge Fell OS658411, S passing between Lennox Farm and Plantation farm the Goodshaw House passing to the E of Dutton Manor to Dean Brow on the B6243, E to Starling Bridge and SE by Strarling Brook to the River Ribble, SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to confluence of stream by Red Bank, NW by this stream (ie. along the Diocesan Boundary = the Hundred of Blackburn boundary) by Parsonage Wood, N to Eastoughs Farm, Falicon farm and Simmy Nook to a boundary stone at Page Brook and the SE corner of Spade Hill reservoir OS622373, W along Knowle Green Road to junction of Dilworth Land and Lower Lane, W in a straight line to junction of King St. and Berry Lane, W in a straight line along Fleet Street and Alexandra Road, to W side of Windsor Road, N in a straight line to junction of Inglewhite Road and Chipping Lane, to NW corner of the Cricket Ground OS591391, NE to river Loud at Gill Bridge, N to Loud Higher Bridge, Lodge Bridge, Brown Brook Farm, watery Gate, NE near Higher Brock Mill, over Parlick moor, to Fair Snape Fell cairn OS 598472.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary, Chipping and St Wilfrid",
+        "description": "From the crossing of River Loud and Loud Bridge Road, Height Lane, Mill Lane, Hesketh Lane and Forty Acre Lane by Jeffrey Hill, then by a track north-easterly via Spire Hill towards Hare Hill, then by a bee-line and track northwards along track to Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411"
+      },
+      {
+        "name": "Former boundary between St Wilfrid and Ss Peter and Paul",
+        "description": "From diocesan boundary at Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook."
+      }
+    ],
+    "supplementaryNote": {
+      "title": "Nota Bene",
+      "text": "This description of parish boundaries outlines that area which lies within the Diocese of Salford as defined by the ancient boundary of the Hundred of Blackburnshire. The Parish Priest, however, has traditionally provided pastoral care, with Ecclesiastical Approval, for some adjacent areas of Lancaster Diocese."
+    }
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H025H011H017_20170415_A3.pdf",
+      "description": "From Fair Snape Fell cairn OS 598472, E to Red Syke stream to Burholme Bridge OS658479, S by River Hodder to Armrydding OS675428, SW by the stream to Wallbanks and Barracks to the Trigonometric Point at Spire Hill on Longridge Fell OS658411, S passing between Lennox Farm and Plantation farm the Goodshaw House passing to the E of Dutton Manor to Dean Brow on the B6243, E to Starling Bridge and SE by Strarling Brook to the River Ribble, SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to confluence of stream by Red Bank, NW by this stream (ie. along the Diocesan Boundary = the Hundred of Blackburn boundary) by Parsonage Wood, N to Eastoughs Farm, Falicon farm and Simmy Nook to a boundary stone at Page Brook and the SE corner of Spade Hill reservoir OS622373, W along Knowle Green Road to junction of Dilworth Land and Lower Lane, W in a straight line to junction of King St. and Berry Lane, W in a straight line along Fleet Street and Alexandra Road, to W side of Windsor Road, N in a straight line to junction of Inglewhite Road and Chipping Lane, to NW corner of the Cricket Ground OS591391, NE to river Loud at Gill Bridge, N to Loud Higher Bridge, Lodge Bridge, Brown Brook Farm, watery Gate, NE near Higher Brock Mill, over Parlick moor, to Fair Snape Fell cairn OS 598472.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary, Chipping and St Wilfrid",
+          "description": "From the crossing of River Loud and Loud Bridge Road, Height Lane, Mill Lane, Hesketh Lane and Forty Acre Lane by Jeffrey Hill, then by a track north-easterly via Spire Hill towards Hare Hill, then by a bee-line and track northwards along track to Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411"
+        },
+        {
+          "name": "Former boundary between St Wilfrid and Ss Peter and Paul",
+          "description": "From diocesan boundary at Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "07/05/2017",
       "status": "draft",
-      "note": "This description of parish boundaries outlines that area which lies within the Diocese of  Salford as defined by the ancient boundary of the Hundred of Blackburnshire. The Parish Priest, however, has traditionally provided pastoral care, with Ecclesiastical Approval, for some adjacent areas of Lancaster Diocese."
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011H017H025_20170624_A3.pdf",
+      "description": "From Fair Snape Fell cairn OS 598472, E to Red Syke stream to Burholme Bridge OS658479, S by River Hodder to Armrydding OS675428, SW by the stream to Wallbanks and Barracks to the Trigonometric Point at Spire Hill on Longridge Fell OS658411, S passing between Lennox Farm and Plantation farm the Goodshaw House passing to the E of Dutton Manor to Dean Brow on the B6243, E to Starling Bridge and SE by Strarling Brook to the River Ribble, SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to confluence of stream by Red Bank, NW by this stream (ie. along the Diocesan Boundary = the Hundred of Blackburn boundary) by Parsonage Wood, N to Eastoughs Farm, Falicon farm and Simmy Nook to a boundary stone at Page Brook and the SE corner of Spade Hill reservoir OS622373, W along Knowle Green Road to junction of Dilworth Land and Lower Lane, W in a straight line to junction of King St. and Berry Lane, W in a straight line along Fleet Street and Alexandra Road, to W side of Windsor Road, N in a straight line to junction of Inglewhite Road and Chipping Lane, to NW corner of the Cricket Ground OS591391, NE to river Loud at Gill Bridge, N to Loud Higher Bridge, Lodge Bridge, Brown Brook Farm, watery Gate, NE near Higher Brock Mill, over Parlick moor, to Fair Snape Fell cairn OS 598472.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary, Chipping and St Wilfrid",
+          "description": "From the crossing of River Loud and Loud Bridge Road, Height Lane, Mill Lane, Hesketh Lane and Forty Acre Lane by Jeffrey Hill, then by a track north-easterly via Spire Hill towards Hare Hill, then by a bee-line and track northwards along track to Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411"
+        },
+        {
+          "name": "Former boundary between St Wilfrid and Ss Peter and Paul",
+          "description": "From diocesan boundary at Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook."
+        }
+      ],
+      "supplementaryNote": {
+        "title": "Nota Bene",
+        "text": "This description of parish boundaries outlines that area which lies within the Diocese of Salford as defined by the ancient boundary of the Hundred of Blackburnshire. The Parish Priest, however, has traditionally provided pastoral care, with Ecclesiastical Approval, for some adjacent areas of Lancaster Diocese."
+      }
     }
   ],
   "map": {

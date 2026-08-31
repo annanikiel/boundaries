@@ -1,23 +1,33 @@
 {
   "id": "C015",
   "name": "St Willibrord, Clayton",
+  "shortName": "St Willibrord",
+  "location": "Clayton",
   "deaneryId": "C",
   "status": "closed",
+  "parishNumber": 8,
+  "note": "Now part of a new parish of Holy Spirit (22.09.2017)",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C015_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C015_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bank Street crosses River Medlock, E along River Medlock to the point where it crosses Edge Lane then by a bee-line along W boundary of Sunnybank Park and across School Play Fields to Sunny Bank Road. Then W along Manchester Road, S along Buxton Lane, to Ashton Canal. E by the canal to and W along Ashton New Road, then N by Bank Street and along footpath to the bridge on River Medlock. W by the River Medlock to the point where it crosses Bank Street.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C015_20170415_A3.pdf",
+      "description": "From the point where Bank Street crosses River Medlock, E along River Medlock to the point where it crosses Edge Lane then by a bee-line along W boundary of Sunnybank Park and across School Play Fields to Sunny Bank Road. Then W along Manchester Road, S along Buxton Lane, to Ashton Canal. E by the canal to and W along Ashton New Road, then N by Bank Street and along footpath to the bridge on River Medlock. W by the River Medlock to the point where it crosses Bank Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

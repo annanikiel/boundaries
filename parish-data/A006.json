@@ -1,23 +1,33 @@
 {
   "id": "A006",
   "name": "Our Lady and St Alphonsus, Old Trafford",
+  "shortName": "Our Lady and St Alphonsus",
+  "location": "Old Trafford",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A006_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A006_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point on Manchester Ship Canal opposite Fairbrother Street, by a beeline to Cornbrook railway station and SE along Trafford-Manchester District boundary. Then E along Bold Street, Heron Street, Greenheys Lane West, Greenheys Lane, Burlington Street, Lloyd Street North, Moss Lane East, Broadfield Road, Claremont Road, Yarburgh Street, Withington Road, Upper Chorlton Road to its junction with Manchester Road, then along Trafford – Manchester District boundary to the railway. N by the railway and then W by Kings Road, Warwick Road South and the Old Trafford Station. Then NE by the railway to the railway junction of Old Trafford – Trafford Bar and Firswood – Trafford Bar lines. NW by a beeline to White City Way and Old Trafford Bridge, then E by Manchester Ship Canal to the point opposite Fairbrother Street.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A006_20170415_A3.pdf",
+      "description": "From the point on Manchester Ship Canal opposite Fairbrother Street, by a beeline to Cornbrook railway station and SE along Trafford-Manchester District boundary. Then E along Bold Street, Heron Street, Greenheys Lane West, Greenheys Lane, Burlington Street, Lloyd Street North, Moss Lane East, Broadfield Road, Claremont Road, Yarburgh Street, Withington Road, Upper Chorlton Road to its junction with Manchester Road, then along Trafford – Manchester District boundary to the railway. N by the railway and then W by Kings Road, Warwick Road South and the Old Trafford Station. Then NE by the railway to the railway junction of Old Trafford – Trafford Bar and Firswood – Trafford Bar lines. NW by a beeline to White City Way and Old Trafford Bridge, then E by Manchester Ship Canal to the point opposite Fairbrother Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

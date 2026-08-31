@@ -1,27 +1,41 @@
 {
   "id": "C013",
   "name": "St Patrick, Collyhurst",
+  "shortName": "St Patrick",
+  "location": "Collyhurst",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "31/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C013_20170531_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C013_20170531_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "By the River Irk from Cheetham Hill Road to and along the Manchester-Bury Metrolink line to Smedley Lane. By Smedley Lane to the River Irk and along the River Irk to a point opposite the northern boundary of Manchester General cemetery. By the cemetery boundary to Rochdale Road. Along Rochdale Road and Carisbrook Street to the bend nearest Moston Brook. Then by a beeline to and along Moston Brook to Church Lane. Along Church Lane, Thorpe Road, Oldham Road, and by the railway line to and along the Rochdale Canal to a point opposite Poland Street and by a beeline to and along Poland Street, Oldham Road, Swan Street and Miller Street and Cheetham Hill Road to the River Irk.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C013_20170415_A3.pdf",
+      "description": "By the River Irk from Cheetham Hill Road to and along the Manchester-Bury Metrolink line to Smedley Lane. By Smedley Lane to the River Irk and along the River Irk to a point opposite the northern boundary of Manchester General cemetery. By the cemetery boundary to Rochdale Road. Along Rochdale Road and Carisbrook Street to the bend nearest Moston Brook. Then by a beeline to and along Moston Brook to Church Lane. Along Church Lane, Thorpe Road, Oldham Road, and by the railway line to and along the Rochdale Canal to a point opposite Poland Street and by a beeline to and along Poland Street, Oldham Road, Swan Street and Miller Street and Cheetham Hill Road to the River Irk.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "31/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C013_20170531_A3.pdf",
+      "description": "By the River Irk from Cheetham Hill Road to and along the Manchester-Bury Metrolink line to Smedley Lane. By Smedley Lane to the River Irk and along the River Irk to a point opposite the northern boundary of Manchester General cemetery. By the cemetery boundary to Rochdale Road. Along Rochdale Road and Carisbrook Street to the bend nearest Moston Brook. Then by a beeline to and along Moston Brook to Church Lane. Along Church Lane, Thorpe Road, Oldham Road, and by the railway line to and along the Rochdale Canal to a point opposite Poland Street and by a beeline to and along Poland Street, Oldham Road, Swan Street and Miller Street and Cheetham Hill Road to the River Irk.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

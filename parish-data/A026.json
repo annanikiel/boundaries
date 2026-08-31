@@ -1,23 +1,33 @@
 {
   "id": "A026",
   "name": "St Mary and St John Fisher, Denton",
+  "shortName": "St Mary and St John Fisher",
+  "location": "Denton",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A026_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A026_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A026_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A026_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Audenshaw Road, by Groby Road (both sides in St Mary’s Denton parish) to the railway, then by a bee-line to Guide Lane (including Ravenwood Drive and Poplar Street but excluding Nelson Street and Ravenwood Drive), and by a beeline to the bridge where Shepley Road crosses the River Tame, and southwards along the diocesan boundary (River Tame) to the Manchester – Marple railway bridge, then by the Stockport – Tameside Metropolitan District Boundary to the Stockport – Denton railway, and by the railway and the M60 Motorway to Manchester Road (A57) to a point east of Wilton Paddock and by bee-lines behind Wilton Paddock and Wilton Court to the Manchester – Tameside Metropolitan District Boundary and by this boundary to the junction of Debdale Lane and Kings Road and along Kings Road and Audenshaw Road to it junction with Groby Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A026_20170415_A3.pdf",
+      "description": "From Audenshaw Road, by Groby Road (both sides in St Mary’s Denton parish) to the railway, then by a bee-line to Guide Lane (including Ravenwood Drive and Poplar Street but excluding Nelson Street and Ravenwood Drive), and by a beeline to the bridge where Shepley Road crosses the River Tame, and southwards along the diocesan boundary (River Tame) to the Manchester – Marple railway bridge, then by the Stockport – Tameside Metropolitan District Boundary to the Stockport – Denton railway, and by the railway and the M60 Motorway to Manchester Road (A57) to a point east of Wilton Paddock and by bee-lines behind Wilton Paddock and Wilton Court to the Manchester – Tameside Metropolitan District Boundary and by this boundary to the junction of Debdale Lane and Kings Road and along Kings Road and Audenshaw Road to it junction with Groby Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

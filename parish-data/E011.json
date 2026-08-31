@@ -1,23 +1,33 @@
 {
   "id": "E011",
   "name": "St Mary and the Angels, Ashton-under-Lyne",
+  "shortName": "St Mary and the Angels",
+  "location": "Ashton-under-Lyne",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 5,
+  "note": "Now part of a new parish of Holy Cross and St Helen (22.09.2017)",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E011_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E011_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Oldham – Tameside District boundary crosses M60 Motorway, E along that boundary to the point opposite junction of Park Bridge Road and Waggon Road. Then by a bee-line to Aston to Oldham Greenway. S by the Greenway to Holland Grove, Gambrel Bank Road, Wood Lane, Broadoak Road, Ladbrooke Road and Curzon Road to its junction with Montague Road. By a beeline across Ashton Sixth Form College to the junction of Darnton Road and Arundel Street, SE along Darnton Road to the point opposite SE corner of the lake in Stamford Park. Then SW by a footpath across the park to and S along Clarence Street to and W along River Tame to the point where it meets Ashton Street, near Ashton Street junction with Gate Street. Then W by a bee-line to the S end of Mount Pleasant Street and by a bee-line between Nelson Street and Poplar Steet, across the railway to and NW along Groby Road. Then by a bee-line to the railway and by a straight line to the point opposite Park Road. Then N to and along Park Road, Manchester Road and the M60 Motorway junction 23. Then N along the Motorway to the point where it meets Oldham – Tameside District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E011_20170415_A3.pdf",
+      "description": "From the point where Oldham – Tameside District boundary crosses M60 Motorway, E along that boundary to the point opposite junction of Park Bridge Road and Waggon Road. Then by a bee-line to Aston to Oldham Greenway. S by the Greenway to Holland Grove, Gambrel Bank Road, Wood Lane, Broadoak Road, Ladbrooke Road and Curzon Road to its junction with Montague Road. By a beeline across Ashton Sixth Form College to the junction of Darnton Road and Arundel Street, SE along Darnton Road to the point opposite SE corner of the lake in Stamford Park. Then SW by a footpath across the park to and S along Clarence Street to and W along River Tame to the point where it meets Ashton Street, near Ashton Street junction with Gate Street. Then W by a bee-line to the S end of Mount Pleasant Street and by a bee-line between Nelson Street and Poplar Steet, across the railway to and NW along Groby Road. Then by a bee-line to the railway and by a straight line to the point opposite Park Road. Then N to and along Park Road, Manchester Road and the M60 Motorway junction 23. Then N along the Motorway to the point where it meets Oldham – Tameside District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

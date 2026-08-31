@@ -1,23 +1,59 @@
 {
   "id": "D021",
   "name": "The Parish of the Good Samaritan, Burnley",
+  "shortName": "The Parish of the Good Samaritan",
+  "location": "Burnley",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "17/07/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D021_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D021_20190717_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D021_20190717_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D021_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the River Calder by the Burnley - Pendle District Boundary across the M65 Motorway to Pendle Water, by Pendle Water to ‘New in Pendle’ Bridge and by Barden Lane back to the Burnley - Pendle District Boundary (so that the whole of the Healdwood Drive Estate lies within this parish), then by the Burnley - Pendle District Boundary via Upper Coldwell Reservoir south to the Diocesan (Lancashire - Yorkshire) Boundary. Then South East and South by this boundary to the boundary stone near Birkin Clough southwards along the Burnley – Calderdale Boundary ( = Yorkshire - Lancashire border) crossing the A646 north west of Cornholm to the point where the Burnley and Rossendale District boundary is met at Heald Top Farm, then north-westwards along the Burnley - Rossendale District Boundary crossing the A671 via Clough Bottom Reservoir to Limy Water near Clowbridge Reservoir from Limy Water south west by this same boundary crossing the A682 just south of Dunnockshaw to the junction of the Burnley, Rossendale and Hyndburn boundaries at Higher Moor and then by a north easterly straight line to the Green Brook at the western end of Burnley Cemetery near Billington Road and by this brook to the M65 Motorway and by which north east to the River Calder.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St John and St Mary",
+        "description": "From the boundary stone near Birkin Clough, and then by a bee-line to Swinden Water. By Swinden Water and the River Brun to the Leeds and Liverpool Canal and by the Canal to Colne Road and by the path to Burnley Central Station and by the railway to where it crosses the River Calder and then by the River Calder to the Burnley - Pendle District Boundary"
+      },
+      {
+        "name": "Former boundary between St Mary and Christ the King",
+        "description": "Along the M65 Motorway from the point where it crosses Green Brook to where it crosses the River Calder, then by the River Calder to Ashfield Road, along Ashfield Road, Westgate, Queen's Lancashire Way, Hammerton Street and Finsley Gate to the canal bridge, then by a bee-line through the junction of Marlborough Street and Springfield Road and passing between Rumley Road (Christ the King parish) and Brunswick Street (St Mary's parish) to the railway underbridge at Kirkgate, then by the railway to the tunnel entrance south of Priory Court and by a south-westerly bee-line to the Burnley Rossendale District boundary at Limy Water."
+      },
+      {
+        "name": "Former boundary between St John and Christ the King",
+        "description": "From a junction Calder Vale Road and Ashfield Road, along the river to Calder to M65 Motorway."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "17/07/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D021_20190717_A3.pdf",
+      "description": "From the River Calder by the Burnley - Pendle District Boundary across the M65 Motorway to Pendle Water, by Pendle Water to ‘New in Pendle’ Bridge and by Barden Lane back to the Burnley - Pendle District Boundary (so that the whole of the Healdwood Drive Estate lies within this parish), then by the Burnley - Pendle District Boundary via Upper Coldwell Reservoir south to the Diocesan (Lancashire - Yorkshire) Boundary. Then South East and South by this boundary to the boundary stone near Birkin Clough southwards along the Burnley – Calderdale Boundary ( = Yorkshire - Lancashire border) crossing the A646 north west of Cornholm to the point where the Burnley and Rossendale District boundary is met at Heald Top Farm, then north-westwards along the Burnley - Rossendale District Boundary crossing the A671 via Clough Bottom Reservoir to Limy Water near Clowbridge Reservoir from Limy Water south west by this same boundary crossing the A682 just south of Dunnockshaw to the junction of the Burnley, Rossendale and Hyndburn boundaries at Higher Moor and then by a north easterly straight line to the Green Brook at the western end of Burnley Cemetery near Billington Road and by this brook to the M65 Motorway and by which north east to the River Calder.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St John and St Mary",
+          "description": "From the boundary stone near Birkin Clough, and then by a bee-line to Swinden Water. By Swinden Water and the River Brun to the Leeds and Liverpool Canal and by the Canal to Colne Road and by the path to Burnley Central Station and by the railway to where it crosses the River Calder and then by the River Calder to the Burnley - Pendle District Boundary"
+        },
+        {
+          "name": "Former boundary between St Mary and Christ the King",
+          "description": "Along the M65 Motorway from the point where it crosses Green Brook to where it crosses the River Calder, then by the River Calder to Ashfield Road, along Ashfield Road, Westgate, Queen's Lancashire Way, Hammerton Street and Finsley Gate to the canal bridge, then by a bee-line through the junction of Marlborough Street and Springfield Road and passing between Rumley Road (Christ the King parish) and Brunswick Street (St Mary's parish) to the railway underbridge at Kirkgate, then by the railway to the tunnel entrance south of Priory Court and by a south-westerly bee-line to the Burnley Rossendale District boundary at Limy Water."
+        },
+        {
+          "name": "Former boundary between St John and Christ the King",
+          "description": "From a junction Calder Vale Road and Ashfield Road, along the river to Calder to M65 Motorway."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

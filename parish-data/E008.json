@@ -1,23 +1,33 @@
 {
   "id": "E008",
   "name": "St Herbert, Chadderton",
+  "shortName": "St Herbert",
+  "location": "Chadderton",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Rochdale – Oldham District boundary crosses Cinder Hill Lane near Cinder Hill Lane, S along Cinder Hill Lane to the bend in the road, and by a straight line to and SE along A627(M) Motorway, Chadderton Way (A627) to the rondabout. Then S along Featherstall Road South to the point it crosses the railway, and by a bee-line W crossing Lansdowne Road, Walsh Street, Broadway, Ferney Field Road to and N along Rochdale Canal, W along Middleton Road to and N along the railway and then by Rochdale – Oldham District boundary to the point where it crosses Cinder Hill Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E008_20170415_A3.pdf",
+      "description": "From the point where Rochdale – Oldham District boundary crosses Cinder Hill Lane near Cinder Hill Lane, S along Cinder Hill Lane to the bend in the road, and by a straight line to and SE along A627(M) Motorway, Chadderton Way (A627) to the rondabout. Then S along Featherstall Road South to the point it crosses the railway, and by a bee-line W crossing Lansdowne Road, Walsh Street, Broadway, Ferney Field Road to and N along Rochdale Canal, W along Middleton Road to and N along the railway and then by Rochdale – Oldham District boundary to the point where it crosses Cinder Hill Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "H013",
   "name": "St Anne, Blackburn",
+  "shortName": "St Anne",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H013_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H013_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of East Park Road and Preston New Road, E along Preston New Road and Barbara Castle Way. By a beeline S to and along Ainsworth Street, then W along Church Street, Higher Church Street, SW along Astley Gate, King Street, Whalley Banks and Bank Top. Then N along Garden Street, W along Wensley Road. Then by a bee-line NE to and along Crosshill Road, and E along Preston New Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H013_20170415_A3.pdf",
+      "description": "From the junction of East Park Road and Preston New Road, E along Preston New Road and Barbara Castle Way. By a beeline S to and along Ainsworth Street, then W along Church Street, Higher Church Street, SW along Astley Gate, King Street, Whalley Banks and Bank Top. Then N along Garden Street, W along Wensley Road. Then by a bee-line NE to and along Crosshill Road, and E along Preston New Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

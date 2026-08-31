@@ -1,23 +1,43 @@
 {
   "id": "C018",
   "name": "St Stephen and St Anne",
+  "shortName": "St Stephen and St Anne",
+  "location": null,
   "deaneryId": "C",
   "status": "proposed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C006C014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006C014_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006C014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C006C014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the M60 Motorway crosses the River Medlock, S by the Motorway, W by Manchester Road, Park Road, Slate Lane and by a bee-line to Groby Road North, then S, and SW by Audenshaw Road, King’s Road, Green Fold (going between Gorton Lower and Upper Reservoir). Then along N boundary of Gorton Lower Reservoir to its NW corner and by a bee-line, crossing Abbey Hey Lane to the railway. W by the tracks to Gorton station and N by Lees Street, Ettrick Close, Wheler Street, Edge Lane, to its crossing with Ashton Canal. E along the canal to the point opposite Buxton Lane, then N by Buxton Lane, Manchester Road, to its junction with and N along Sunnybank Road, Droylsden High School Playing Fields, to the northern boundary of Sunny Bank Park and by a bee-line running east of the Ashley Road Estate to the point where River Medlock crosses Edge Lane, and E along River Medlock to the M60 Motorway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Anne and St Stephen",
+        "description": "From the junction of Manchester Road and Droylsden Road, Ashton Road and Manchester Road to its junction with Sunnybank Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006C014_20170415_A3.pdf",
+      "description": "From the point where the M60 Motorway crosses the River Medlock, S by the Motorway, W by Manchester Road, Park Road, Slate Lane and by a bee-line to Groby Road North, then S, and SW by Audenshaw Road, King’s Road, Green Fold (going between Gorton Lower and Upper Reservoir). Then along N boundary of Gorton Lower Reservoir to its NW corner and by a bee-line, crossing Abbey Hey Lane to the railway. W by the tracks to Gorton station and N by Lees Street, Ettrick Close, Wheler Street, Edge Lane, to its crossing with Ashton Canal. E along the canal to the point opposite Buxton Lane, then N by Buxton Lane, Manchester Road, to its junction with and N along Sunnybank Road, Droylsden High School Playing Fields, to the northern boundary of Sunny Bank Park and by a bee-line running east of the Ashley Road Estate to the point where River Medlock crosses Edge Lane, and E along River Medlock to the M60 Motorway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Anne and St Stephen",
+          "description": "From the junction of Manchester Road and Droylsden Road, Ashton Road and Manchester Road to its junction with Sunnybank Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

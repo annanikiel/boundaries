@@ -1,23 +1,43 @@
 {
   "id": "H035",
   "name": "Sacred Heart, Darwen",
+  "shortName": "Sacred Heart",
+  "location": "Darwen",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "04/07/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H035_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H035_20170704_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H035_20170704_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H035_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Diocesan Boundary E by the M65 Motorway to Bolton Road and NE along Sandy Lane (both sides in the Sacred Heart and St Edward Parish, Darwen) to the River Darwen and along Fore Street, Rakes Bridge and Stopes Brow to Roman Road and S to Davy Field Bridge, passing N of New Waterside Paper Mill and Bank Fold Farm, excluding Belthorn to and along Belthorn Road, Elton Road, then W by Rossendale - Hyndburn district boundary, and S by Blackburn – Rossendale district boundary and W along the north boundary of North Turton civil parish, to and N along diocesan boundary to its crossing with M65 Motorway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Sacred Heart with St Edward and St Joseph, Darwen",
+        "description": "From Davy Field Bridge on the M65 at Roman Road to and along Dandy Row to and along Pot House Lane, Holden Fold to the Office public house, southwest by the public footpath, across Ivinson Road between Number 34 and Number 32, past and to the W of St James’ Church to the Punch Bowl public house, by the Chapels and S by Chapels Brow, Quaker Lane, Cotton Hall Street, under the railway and by the public footpath crossing open land and across the river bridge to Charles Street,across the A666 to and by Vale Street and Tockholes Road (both sides in the Sacred Heart and St Edwards parish), then by footpaths to Ryal Fold and the other Tockholes Road, then by the footpath to the bridge over the River Roddlesworth to the diocesan boundary."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "04/07/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H035_20170704_A3.pdf",
+      "description": "From the Diocesan Boundary E by the M65 Motorway to Bolton Road and NE along Sandy Lane (both sides in the Sacred Heart and St Edward Parish, Darwen) to the River Darwen and along Fore Street, Rakes Bridge and Stopes Brow to Roman Road and S to Davy Field Bridge, passing N of New Waterside Paper Mill and Bank Fold Farm, excluding Belthorn to and along Belthorn Road, Elton Road, then W by Rossendale - Hyndburn district boundary, and S by Blackburn – Rossendale district boundary and W along the north boundary of North Turton civil parish, to and N along diocesan boundary to its crossing with M65 Motorway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Sacred Heart with St Edward and St Joseph, Darwen",
+          "description": "From Davy Field Bridge on the M65 at Roman Road to and along Dandy Row to and along Pot House Lane, Holden Fold to the Office public house, southwest by the public footpath, across Ivinson Road between Number 34 and Number 32, past and to the W of St James’ Church to the Punch Bowl public house, by the Chapels and S by Chapels Brow, Quaker Lane, Cotton Hall Street, under the railway and by the public footpath crossing open land and across the river bridge to Charles Street,across the A666 to and by Vale Street and Tockholes Road (both sides in the Sacred Heart and St Edwards parish), then by footpaths to Ryal Fold and the other Tockholes Road, then by the footpath to the bridge over the River Roddlesworth to the diocesan boundary."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,24 +1,39 @@
 {
   "id": "H004",
   "name": "Our Lady and St Gerard Majella, Lostock Hall",
+  "shortName": "Our Lady and St Gerard Majella",
+  "location": "Lostock Hall",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 10,
+  "note": "Part of this parish lies within Liverpool Archdiocese, but is served from the Diocese of Salford, by a Benedictine community.",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H004_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H004_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "WITHIN THE DIOCESE OF SALFORD.\nFrom Middleforth Hall on Factory Lane at the Diocesan Boundary E by the public footpath to and along the old tram road to and S by Todd Lane North to Todd Lane South to Stone Bridge over the River Lostock and W by the river Lostock to the Diocesan boundary.\nWITHIN THE ARCHDIOCESE OF LIVERPOOL.\nFrom Middleforth Hall on Factory Lane E to the Old Tram Road and S along its course to Todd Lane North then S to Todd Lane South to the River Lostock at Stone Bridge then by the River Lostock W to Fowler Lane Bridge then NW by Church Lane to its junction with Coote Lane then SW in a straight line to Naptha Cottage then NW to the junction of Chain House Lane and Newgate Lane then NE to Crooks Farm on Bee Lane then E by this to the railway line and by this N to Middleforth Hall on Factory Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": {
+      "title": "Parish is served by a Benedictine Community.",
+      "text": null
+    }
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
       "status": "draft",
-      "note": "Parish is served by a Benedictine Community."
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H004_20170415_A3.pdf",
+      "description": "WITHIN THE DIOCESE OF SALFORD.\nFrom Middleforth Hall on Factory Lane at the Diocesan Boundary E by the public footpath to and along the old tram road to and S by Todd Lane North to Todd Lane South to Stone Bridge over the River Lostock and W by the river Lostock to the Diocesan boundary.\nWITHIN THE ARCHDIOCESE OF LIVERPOOL.\nFrom Middleforth Hall on Factory Lane E to the Old Tram Road and S along its course to Todd Lane North then S to Todd Lane South to the River Lostock at Stone Bridge then by the River Lostock W to Fowler Lane Bridge then NW by Church Lane to its junction with Coote Lane then SW in a straight line to Naptha Cottage then NW to the junction of Chain House Lane and Newgate Lane then NE to Crooks Farm on Bee Lane then E by this to the railway line and by this N to Middleforth Hall on Factory Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "Parish is served by a Benedictine Community.",
+        "text": null
+      }
     }
   ],
   "map": {

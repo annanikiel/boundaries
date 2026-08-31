@@ -1,27 +1,56 @@
 {
   "id": "G022",
   "name": "Guardian Angels and St Hilda",
+  "shortName": "Guardian Angels and St Hilda",
+  "location": null,
   "deaneryId": "G",
   "status": "proposed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G004G009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004G009_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004G009_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G004G009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of Walmersley Road (A56) and Bass Lane by a bee-line SW to the point opposite Ashborne Drive (including Highbank farm and both side of the Ashborne Drive) then by a bee-line to and S along River Irwell to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to the point where it touches Ramsbottom Road near The Red Lion Hotel. Then E along Ramsbottom Road, Bolton Road to the brook flowing through Broad Hey Wood (near Bolton Road junction with Longsight Road) and by that brook to Bass Lane and its junction with Walmersley Road (A56).",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Guardian Angels and St Hilda",
+        "description": "From the crossing of River Irwell and Bolton Road, W along Bolton Road, then N along Helmshore Rd (B6214) and W along Walshaw Road, High Street, Bentley Hall Road and in a straight line to the Bolton-Bury District Boundary."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004G009_20170415_A3.pdf",
+      "description": "From the crossing of Walmersley Road (A56) and Bass Lane by a bee-line SW to the point opposite Ashborne Drive (including Highbank farm and both side of the Ashborne Drive) then by a bee-line to and S along River Irwell to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to the point where it touches Ramsbottom Road near The Red Lion Hotel. Then E along Ramsbottom Road, Bolton Road to the brook flowing through Broad Hey Wood (near Bolton Road junction with Longsight Road) and by that brook to Bass Lane and its junction with Walmersley Road (A56).",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Guardian Angels and St Hilda",
+          "description": "From the crossing of River Irwell and Bolton Road, W along Bolton Road, then N along Helmshore Rd (B6214) and W along Walshaw Road, High Street, Bentley Hall Road and in a straight line to the Bolton-Bury District Boundary."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004G009_20170602_A3.pdf",
+      "description": "From the crossing of Walmersley Road (A56) and Bass Lane by a bee-line SW to the point opposite Ashborne Drive (including Highbank farm and both side of the Ashborne Drive) then by a bee-line to and S along River Irwell to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to the point where it touches Ramsbottom Road near The Red Lion Hotel. Then E along Ramsbottom Road, Bolton Road to the brook flowing through Broad Hey Wood (near Bolton Road junction with Longsight Road) and by that brook to Bass Lane and its junction with Walmersley Road (A56).",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Guardian Angels and St Hilda",
+          "description": "From the crossing of River Irwell and Bolton Road, W along Bolton Road, then N along Helmshore Rd (B6214) and W along Walshaw Road, High Street, Bentley Hall Road and in a straight line to the Bolton-Bury District Boundary."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

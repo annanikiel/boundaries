@@ -1,23 +1,43 @@
 {
   "id": "A033",
   "name": "St Cuthbert and St Bernadette",
+  "shortName": "St Cuthbert and St Bernadette",
+  "location": null,
   "deaneryId": "A",
   "status": "proposed",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A011A015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011A015_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011A015_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A011A015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Victoria Road and Wellington Road, N along Wellington Road, Sherwood Street and by a straight line to Ladybarn Lane (excluding Ladybarn Road). Then S along Ladybarn Lane, Royle Street, Egerton Road, Paris Wood Road to its junction with Parkville Road. Then SW across Fog Lane Park to the end of Prince’s Avenue. S along Prince’s Avenue, Fog Lane, Lapwing Lane, Elm Road, Barlow Moor Road, Northern Grove, Nell Lane, Mauldeth Road West , Alexandra Road South, Platt Brook, Princess Road, Mauldeth Road West, Birchington Road and Victoria Road to its junction with Wellington Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Cuthbert and St Bernadette",
+        "description": "From the junction of Nell Lane and Burton Road, N along Burton Road, Aberton Road, Meltham Avenue, Whitchurch Road, Doncaster Avenue to its junction with Mauldeth Road West."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011A015_20170415_A3.pdf",
+      "description": "From the junction of Victoria Road and Wellington Road, N along Wellington Road, Sherwood Street and by a straight line to Ladybarn Lane (excluding Ladybarn Road). Then S along Ladybarn Lane, Royle Street, Egerton Road, Paris Wood Road to its junction with Parkville Road. Then SW across Fog Lane Park to the end of Prince’s Avenue. S along Prince’s Avenue, Fog Lane, Lapwing Lane, Elm Road, Barlow Moor Road, Northern Grove, Nell Lane, Mauldeth Road West , Alexandra Road South, Platt Brook, Princess Road, Mauldeth Road West, Birchington Road and Victoria Road to its junction with Wellington Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Cuthbert and St Bernadette",
+          "description": "From the junction of Nell Lane and Burton Road, N along Burton Road, Aberton Road, Meltham Avenue, Whitchurch Road, Doncaster Avenue to its junction with Mauldeth Road West."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

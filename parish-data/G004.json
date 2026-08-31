@@ -1,27 +1,41 @@
 {
   "id": "G004",
   "name": "Guardian Angels, Bury",
+  "shortName": "Guardian Angels",
+  "location": "Bury",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Bentley Hall Road and High Street, N along High Street, then W along Walshaw Road, then S along Crostons Road and W along Bolton Road to its crossing with River Irwell S along the river to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to its crossing with up to the Old Holts Farm, then by a beeline to and E along Bentley Hall Road to its crossing with High Street.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004_20170415_A3.pdf",
+      "description": "From the junction of Bentley Hall Road and High Street, N along High Street, then W along Walshaw Road, then S along Crostons Road and W along Bolton Road to its crossing with River Irwell S along the river to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to its crossing with up to the Old Holts Farm, then by a beeline to and E along Bentley Hall Road to its crossing with High Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G004_20170602_A3.pdf",
+      "description": "From the junction of Bentley Hall Road and High Street, N along High Street, then W along Walshaw Road, then S along Crostons Road and W along Bolton Road to its crossing with River Irwell S along the river to the point where Manchester Bury and Bolton Canal starts. Then by a bee line W Hinds Lane and SW through the middle of Elton Reservoir and by a bee line NW to junction of Bolton Road and Watling Street, including Spen Fold, but excluding Higher Spenmoor Farm. West along Bury and Bolton Road (A58) to Bolton-Bury District boundary and along that boundary to its crossing with up to the Old Holts Farm, then by a beeline to and E along Bentley Hall Road to its crossing with High Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

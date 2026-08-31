@@ -1,27 +1,41 @@
 {
   "id": "D004",
   "name": "St Charles, Rishton",
+  "shortName": "St Charles",
+  "location": "Rishton",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "29/07/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D004_20170729_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D004_20170729_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Hyndburn Brook crosses M65 Motorway, near junction 7. W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Whalley Old Road, Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D004_20170415_A3.pdf",
+      "description": "From the point where Hyndburn Brook crosses M65 Motorway, near junction 7. W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Whalley Old Road, Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "29/07/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D004_20170729_A3.pdf",
+      "description": "From the point where Hyndburn Brook crosses M65 Motorway, near junction 7. W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Whalley Old Road, Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

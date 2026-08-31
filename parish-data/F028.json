@@ -1,23 +1,59 @@
 {
   "id": "F028",
   "name": "Saint Cuthbert, Bolton",
+  "shortName": "Saint Cuthbert",
+  "location": "Bolton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "07/10/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F028_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F028_20181007_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F028_20181007_A3.pdf",
+      "a4": null
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Colliers Row Road and Smithills Dean Road, S along Smithills Dean Road to the point where Smithills Dean Road meets Dean Brook, E by the Dean Brook, Astley Brook, to the point opposite Chapelfield Street, by Chapelfield Street and by a beeline to and along Wolfenden Street, then E along Halliwell Road, Kay Street, Topp Way, Higher Bridge Street, Prince Street, Merehall Drive, Gaskell Street, and W along Chorley Old Road (B6226) to its junction with Shepherd Cross Street and by a bee-line SW to and along Victory Street, Beverly Road, Dobson Road. Then E along Gilnow Road and S by a bee-line to the railway including both sides of Gilnow Gardens in St Thomas of Canterbury parish. E along the railway, past Lostock station and by a bee-line to the footpath leading to Regent Road (including all of Overdene and Morris Fold Drive estate). Then N along Regent Road, W along Chorley New Road, and by a bee-line to Chorley Old Road (including both sides of Princess Road and the Kilphin). E along Chorley Old Road, N along Walker Fold Road, Colliers Row Road to its junction with Smithills Dean Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St James the Great and St Josep",
+        "description": "From the junction of Captain’s Clough Road and Church Road, N along Captain’s Clough Road, Moss Bank Way, by a bee-line to Dean Brook (excluding Forest Road), NE along the brook, to the point opposite Redcar Road (including both sides in St Joseph’s, Halliwell) and to Smithills Croft Road."
+      },
+      {
+        "name": "Former boundary between St James the Great and St Thomas of Canterbury",
+        "description": "From Smithills Dean Road, by a beeline W crossing Limefield Road and excluding both sides of Redcar Road, to Dean Brook, SE by the brook to and W along Moss Bank Way (A58), Captain’s Clough Road, W along Church Road, New Church Road, Chorley Old Road (B6226), S by Moss Bank Way to its junction with Old Kiln Lane (B6402), then N along Old Kiln Lane to its junction with Old Chorley Road."
+      },
+      {
+        "name": "Former boundary between St Joseph and St Thomas of Canterbury",
+        "description": "From the junction of Shepherd Cross Street and Chorley Old Road, W along Chorley Old Road, Ivy Road, to its junction with Cunliffe Brow, then by Captain’s Clough to and N along Captain’s Clough Road to its junction with Church Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "07/10/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F028_20181007_A3.pdf",
+      "description": "From the junction of Colliers Row Road and Smithills Dean Road, S along Smithills Dean Road to the point where Smithills Dean Road meets Dean Brook, E by the Dean Brook, Astley Brook, to the point opposite Chapelfield Street, by Chapelfield Street and by a beeline to and along Wolfenden Street, then E along Halliwell Road, Kay Street, Topp Way, Higher Bridge Street, Prince Street, Merehall Drive, Gaskell Street, and W along Chorley Old Road (B6226) to its junction with Shepherd Cross Street and by a bee-line SW to and along Victory Street, Beverly Road, Dobson Road. Then E along Gilnow Road and S by a bee-line to the railway including both sides of Gilnow Gardens in St Thomas of Canterbury parish. E along the railway, past Lostock station and by a bee-line to the footpath leading to Regent Road (including all of Overdene and Morris Fold Drive estate). Then N along Regent Road, W along Chorley New Road, and by a bee-line to Chorley Old Road (including both sides of Princess Road and the Kilphin). E along Chorley Old Road, N along Walker Fold Road, Colliers Row Road to its junction with Smithills Dean Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St James the Great and St Josep",
+          "description": "From the junction of Captain’s Clough Road and Church Road, N along Captain’s Clough Road, Moss Bank Way, by a bee-line to Dean Brook (excluding Forest Road), NE along the brook, to the point opposite Redcar Road (including both sides in St Joseph’s, Halliwell) and to Smithills Croft Road."
+        },
+        {
+          "name": "Former boundary between St James the Great and St Thomas of Canterbury",
+          "description": "From Smithills Dean Road, by a beeline W crossing Limefield Road and excluding both sides of Redcar Road, to Dean Brook, SE by the brook to and W along Moss Bank Way (A58), Captain’s Clough Road, W along Church Road, New Church Road, Chorley Old Road (B6226), S by Moss Bank Way to its junction with Old Kiln Lane (B6402), then N along Old Kiln Lane to its junction with Old Chorley Road."
+        },
+        {
+          "name": "Former boundary between St Joseph and St Thomas of Canterbury",
+          "description": "From the junction of Shepherd Cross Street and Chorley Old Road, W along Chorley Old Road, Ivy Road, to its junction with Cunliffe Brow, then by Captain’s Clough to and N along Captain’s Clough Road to its junction with Church Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

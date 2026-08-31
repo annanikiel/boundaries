@@ -1,28 +1,41 @@
 {
   "id": "D006",
   "name": "St John Southworth, Nelson",
+  "shortName": "St John Southworth",
+  "location": "Nelson",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/07/2022",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D006_20220715_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D006_20220715_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Barrowford road meets Barrowford - Nelson civil parish boundary, and E along that boundary, then Colne - Nelson civil parish boundary and Trawden Forest - Nelson civil parish boundary to the point where it meets Back Lane. Then W along Pendle and Burnley District Boundary at Upper Coldwell Reservoir. Then by this boundary to Barden Lane. By Barden Lane to New in Pendle Bridge and by Pendle Water to the Pendle and Burnley District boundary so as to include the whole of the Healeywood Drive Estate in the parish of St John Southworth, Nelson. Then by the Pendle and Burnley District Boundary by the River Calder and Moor Isles Clough to Barrowford Road, along Guide Lane past Haddings Head and right along the unnamed road to the start of the path, along the path past Rigg of England to Spen Height, diagonally by the footpath to Spen End, by the path south east of Spen End to the track to wards the White Swan Hotel on Wheatley Lane Road. Then north easterly along Wheatley Lane Road to the Catholic Cemetery and then south easterly by the path passing but excluding Laund Farm to Barrowford Road and by Barrowford Road to the point it meets Barrowford - Nelson parish boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D006_20170415_A3.pdf",
+      "description": "From Junction 13 of the M65 Motorway, along Scotland Road, Holme Street, Sagar Street, Netherfield Road, Barkerhouse Lane, Southfield Lane, Delves Lane and Back Lane to the Pendle and Burnley District Boundary at Upper Coldwell Reservoir. Then by this boundary to Barden Lane. By Barden Lane to New in Pendle Bridge and by Pendle Water to the Pendle and Burnley Districk boundary so as to include the whole of the Healeywood Drive Estate in the parish of St John, Burnley. Then by the Pendle and Burnley District Boundary by the River Calder and Moor Isles Clough to Barrowford Road, along Guide Lane past Haddings Head and right along the unnamed road to the start of the path, along the path past Rigg of England to Spen Height, diagonally by the footpath to Spen End, by the path south east of Spen End to the track to wards the White Swan Hotel on Wheatley Lane Road. Then north easterly along Wheatley Lane Road to the Catholic Cemetery and then south easterly by the path passing but excluding Laund Farm to Borrowford Road and by Barrowford Road to Junction 13 of the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "15/07/2022",
       "status": "approved",
-      "note": " "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D006_20220715_A3.pdf",
+      "description": "From the point where Barrowford road meets Barrowford - Nelson civil parish boundary, and E along that boundary, then Colne - Nelson civil parish boundary and Trawden Forest - Nelson civil parish boundary to the point where it meets Back Lane. Then W along Pendle and Burnley District Boundary at Upper Coldwell Reservoir. Then by this boundary to Barden Lane. By Barden Lane to New in Pendle Bridge and by Pendle Water to the Pendle and Burnley District boundary so as to include the whole of the Healeywood Drive Estate in the parish of St John Southworth, Nelson. Then by the Pendle and Burnley District Boundary by the River Calder and Moor Isles Clough to Barrowford Road, along Guide Lane past Haddings Head and right along the unnamed road to the start of the path, along the path past Rigg of England to Spen Height, diagonally by the footpath to Spen End, by the path south east of Spen End to the track to wards the White Swan Hotel on Wheatley Lane Road. Then north easterly along Wheatley Lane Road to the Catholic Cemetery and then south easterly by the path passing but excluding Laund Farm to Barrowford Road and by Barrowford Road to the point it meets Barrowford - Nelson parish boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

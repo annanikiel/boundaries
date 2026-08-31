@@ -1,31 +1,69 @@
 {
   "id": "G021",
   "name": "St Peter and St Thomas More, Middleton & Alkrington",
+  "shortName": "St Peter and St Thomas More",
+  "location": "Middleton & Alkrington",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "02/06/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G021_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G021_20190602_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G021_20190602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G021_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway and Rochdale – Manchester District boundary to the point where it meets Wince Brook. E by the Brook to the point opposite Parkfiled Drive and by a beeline to the Parkfield Drive.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Peter and St Thomas More",
+        "description": "From the point opposite to Parkfield Drive on Wince Brook to the pint opposite Greenson Drive on Wince Brook, by a bee-line to Hall Driver, Alkrington Hall Road North, Manchester New Road (A664), E along Mount Road, and along Round Thorn Road in a straight line to and S along Wince Brook to Rochdale – Oldham District boundary. Then by that boundary to M60 Motorway."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G016G017_20170415_A3.pdf",
+      "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway and Rochdale – Manchester District boundary to the point where it meets Wince Brook. E by the Brook to the point opposite Parkfiled Drive and by a beeline to the Parkfield Drive.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Peter and St Thomas More",
+          "description": "From the point opposite to Parkfield Drive on Wince Brook to the pint opposite Greenson Drive on Wince Brook, by a bee-line to Hall Driver, Alkrington Hall Road North, Manchester New Road (A664), E along Mount Road, and along Round Thorn Road in a straight line to and S along Wince Brook to Rochdale – Oldham District boundary. Then by that boundary to M60 Motorway."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G016G017_20170602_A3.pdf",
+      "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway and Rochdale – Manchester District boundary to the point where it meets Wince Brook. E by the Brook to the point opposite Parkfiled Drive and by a beeline to the Parkfield Drive.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Peter and St Thomas More",
+          "description": "From the point opposite to Parkfield Drive on Wince Brook to the pint opposite Greenson Drive on Wince Brook, by a bee-line to Hall Driver, Alkrington Hall Road North, Manchester New Road (A664), E along Mount Road, and along Round Thorn Road in a straight line to and S along Wince Brook to Rochdale – Oldham District boundary. Then by that boundary to M60 Motorway."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G021_20190602_A3.pdf",
+      "description": "From the junction of Parkfield Drive and Manchester Old Road, E along Manchester Old Road, Middleton Way, Barton Road, Park Road to and E along River Irk, to the point opposite Whitby Street. Then by a beeline NE along, but excluding Gleenwood Drive to the point where Rochdale Canal meets Rochdale – Oldham District boundary. Then S by that boundary to Middleton Road, to and S along Rochdale Canal to junction 21 on M60 Motorway. Then W along the M60 Motorway and Rochdale – Manchester District boundary to the point where it meets Wince Brook. E by the Brook to the point opposite Parkfiled Drive and by a beeline to the Parkfield Drive.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Peter and St Thomas More",
+          "description": "From the point opposite to Parkfield Drive on Wince Brook to the pint opposite Greenson Drive on Wince Brook, by a bee-line to Hall Driver, Alkrington Hall Road North, Manchester New Road (A664), E along Mount Road, and along Round Thorn Road in a straight line to and S along Wince Brook to Rochdale – Oldham District boundary. Then by that boundary to M60 Motorway."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

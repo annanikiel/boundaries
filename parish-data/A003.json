@@ -1,23 +1,33 @@
 {
   "id": "A003",
   "name": "St Hugh of Lincoln, Stretford",
+  "shortName": "St Hugh of Lincoln",
+  "location": "Stretford",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A003_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A003_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of Manchester Ship Canal and Bridgewater Canal (Stretford and Leigh Branch), SE along the Bridgewater Canal to Park Road. Then S along the Park Road to, and W along the railway, then S along Barton Road, Manor Road, Urmston Lane, Anchorage Road and by a straight line S to River Mersey. W along River Mersey to the point opposite Meadow Road and by a beeline to and N along Lime Tree Close, Stretford Road, Ciss Lane, St Clements Fold (both sides in Our lady and English Martyrs parish). Continuing N along Westbourne Park, Winchester Road, Furness Road, Canterbury Road, Rochester Road, Lostock Road, Romley Road and by a beeline to Kingsway Park, Skye Road (after its junction with Iona Way both sides in Our Lady and English Martyrs parish), then E along Shetland Way and by a beeline to M60 Motorway. W along the Motorway to Manchester Ship Canal and E along the Canal to its confluence with Bridgewater Canal.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A003_20170415_A3.pdf",
+      "description": "From the confluence of Manchester Ship Canal and Bridgewater Canal (Stretford and Leigh Branch), SE along the Bridgewater Canal to Park Road. Then S along the Park Road to, and W along the railway, then S along Barton Road, Manor Road, Urmston Lane, Anchorage Road and by a straight line S to River Mersey. W along River Mersey to the point opposite Meadow Road and by a beeline to and N along Lime Tree Close, Stretford Road, Ciss Lane, St Clements Fold (both sides in Our lady and English Martyrs parish). Continuing N along Westbourne Park, Winchester Road, Furness Road, Canterbury Road, Rochester Road, Lostock Road, Romley Road and by a beeline to Kingsway Park, Skye Road (after its junction with Iona Way both sides in Our Lady and English Martyrs parish), then E along Shetland Way and by a beeline to M60 Motorway. W along the Motorway to Manchester Ship Canal and E along the Canal to its confluence with Bridgewater Canal.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

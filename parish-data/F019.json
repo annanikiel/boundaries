@@ -1,23 +1,33 @@
 {
   "id": "F019",
   "name": "St William of York, Great Lever",
+  "shortName": "St William of York",
+  "location": "Great Lever",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F019_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F019_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F019_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F019_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hight Street and Brigdeman Steet, NE along Bridgeman Street to the railway. S along the railway to the point opposite Ashby Close. By a beeline to Lower Doe Hey Reservoir (exluding Ashby Close), W along the middle of Lower and Higher Doe Hey Reservoir and Doe Hey Brook to Slack Fold Lane and by a beeline to and N along Smethurst Lane, Sapling Road, Moors Green Lane, Ellesmere Road then by a beeline to Adelaide Street and Bridgeman Street its junction with High Street.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F019_20170415_A3.pdf",
+      "description": "From the junction of Hight Street and Brigdeman Steet, NE along Bridgeman Street to the railway. S along the railway to the point opposite Ashby Close. By a beeline to Lower Doe Hey Reservoir (exluding Ashby Close), W along the middle of Lower and Higher Doe Hey Reservoir and Doe Hey Brook to Slack Fold Lane and by a beeline to and N along Smethurst Lane, Sapling Road, Moors Green Lane, Ellesmere Road then by a beeline to Adelaide Street and Bridgeman Street its junction with High Street.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

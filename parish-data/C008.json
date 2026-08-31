@@ -1,23 +1,33 @@
 {
   "id": "C008",
   "name": "St Clare, Higher Blackley",
+  "shortName": "St Clare",
+  "location": "Higher Blackley",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From a junction of Heywood Old Road and private road leading to Bowlee Park Golf Range, across Golf Course to Parkfield Drive and S by a bee-line to and W along River Irk to M60 Motorway, junction 20, then S along Rochdale Road (A664), to its junction with Hilldale Avenue. W along Hilldale Avenue to the end of the road, and by a straight line to the junction of Plant Hill Road and French Barn Lane. W along Plant Hill Road, S along Chapel Lane, Mill Brow, Delaunays Road to and W along River Irk to bridge on Blackley New Road (near Roch Bank) and W along Blackley New Road, Meade Hill Road, to its junction with Sheepfoot Lane and by a straight line across Heaton Park to the junction of Heywood Old Road and private road leading to Bowlee Park Golf Range.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C008_20170415_A3.pdf",
+      "description": "From a junction of Heywood Old Road and private road leading to Bowlee Park Golf Range, across Golf Course to Parkfield Drive and S by a bee-line to and W along River Irk to M60 Motorway, junction 20, then S along Rochdale Road (A664), to its junction with Hilldale Avenue. W along Hilldale Avenue to the end of the road, and by a straight line to the junction of Plant Hill Road and French Barn Lane. W along Plant Hill Road, S along Chapel Lane, Mill Brow, Delaunays Road to and W along River Irk to bridge on Blackley New Road (near Roch Bank) and W along Blackley New Road, Meade Hill Road, to its junction with Sheepfoot Lane and by a straight line across Heaton Park to the junction of Heywood Old Road and private road leading to Bowlee Park Golf Range.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

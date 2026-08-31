@@ -1,23 +1,43 @@
 {
   "id": "A032",
   "name": "St Kentigern and English Martyrs",
+  "shortName": "St Kentigern and English Martyrs",
+  "location": null,
   "deaneryId": "A",
   "status": "proposed",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A010A014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010A014_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010A014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A010A014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Upper Chorlton Road and Withington Road, along Withington Road, Yarburgh Street, Claremont Road, Yew Tree Road, Arnside Street, Parkfield Street, Platt Lane, Wilmslow Road, Old Hall Lane, Birchfields Road, Mossley Rd, Kingsway, Kingswood Road, Ladybarn Lane to the bridge over the course of the former railway line, and along the course of the former railway line to Wellington Road, then by Wellington Road, Victoria Road, Birchington Road, Mauldeth Road West, Princess Road to and by Platt Brook to Alexandra Road South, along Alexandra Road South, Mauldeth Road West, Withington Road and Egerton Road South, Wyverne Road, Wilbraham Road, Morville Road, Manley Road, Marlborough Avenue (both sides in St John’s, Chorlton), Clarendon Road, York Avenue, Milton Grove, Upper Chorlton Road to its junction with Withington Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Kentigern and English Martyrs",
+        "description": "From the junction of Claremont Road and Broadfield Road, Parkside Road, Lloyd Street South, Platt Lane, Princess Road to Platt Brook."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010A014_20170415_A3.pdf",
+      "description": "From the junction of Upper Chorlton Road and Withington Road, along Withington Road, Yarburgh Street, Claremont Road, Yew Tree Road, Arnside Street, Parkfield Street, Platt Lane, Wilmslow Road, Old Hall Lane, Birchfields Road, Mossley Rd, Kingsway, Kingswood Road, Ladybarn Lane to the bridge over the course of the former railway line, and along the course of the former railway line to Wellington Road, then by Wellington Road, Victoria Road, Birchington Road, Mauldeth Road West, Princess Road to and by Platt Brook to Alexandra Road South, along Alexandra Road South, Mauldeth Road West, Withington Road and Egerton Road South, Wyverne Road, Wilbraham Road, Morville Road, Manley Road, Marlborough Avenue (both sides in St John’s, Chorlton), Clarendon Road, York Avenue, Milton Grove, Upper Chorlton Road to its junction with Withington Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Kentigern and English Martyrs",
+          "description": "From the junction of Claremont Road and Broadfield Road, Parkside Road, Lloyd Street South, Platt Lane, Princess Road to Platt Brook."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

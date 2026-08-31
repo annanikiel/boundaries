@@ -1,23 +1,43 @@
 {
   "id": "B025",
   "name": "Holy Trinity, Worsley",
+  "shortName": "Holy Trinity",
+  "location": "Worsley",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "11/05/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B025_20180527_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where M61 Motorway crosses Worsley Road North, E along the M61 Motorway and then N along M60 Motorway to junction 13 and Bridgewater way. Then W along Bridgewater Way and by a straight line N crossing East Lancashire Road, through Ellerbeck Crescent to the footpath (Tyldesley Loopline) to the point where it meets Leigh Guided Busway and then to and N along Wigan – Salford District boundary and Bolton – Salford District boundary to the point where M61 Motorway crosses Worsley Road North.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Christ the King and St Edmund",
+        "description": "From the point where M61 Motorway crosses Worsley Road North, S along Worsley Road North, Bolton Road, along N border of Tesco store to Campbell Way, then S by a beeline crossing High Street and Hilton Lane and going between Athens Drive (in Christ the King parish) and Kinsley Drive (in St Edmund parish) to Ellenbrok Loopline (E border of Dukes Manor) and by a beeline to the Tyldesly Loopline."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "11/05/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B025_20180527_A3.pdf",
+      "description": "From the point where M61 Motorway crosses Worsley Road North, E along the M61 Motorway and then N along M60 Motorway to junction 13 and Bridgewater way. Then W along Bridgewater Way and by a straight line N crossing East Lancashire Road, through Ellerbeck Crescent to the footpath (Tyldesley Loopline) to the point where it meets Leigh Guided Busway and then to and N along Wigan – Salford District boundary and Bolton – Salford District boundary to the point where M61 Motorway crosses Worsley Road North.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Christ the King and St Edmund",
+          "description": "From the point where M61 Motorway crosses Worsley Road North, S along Worsley Road North, Bolton Road, along N border of Tesco store to Campbell Way, then S by a beeline crossing High Street and Hilton Lane and going between Athens Drive (in Christ the King parish) and Kinsley Drive (in St Edmund parish) to Ellenbrok Loopline (E border of Dukes Manor) and by a beeline to the Tyldesly Loopline."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

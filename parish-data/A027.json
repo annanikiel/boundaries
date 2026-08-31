@@ -1,23 +1,33 @@
 {
   "id": "A027",
   "name": "St Winifred, Heaton Mersey",
+  "shortName": "St Winifred",
+  "location": "Heaton Mersey",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 14,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A027_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A027_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A027_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A027_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the railway crosses Crossley Road, S along the railway to and W along Heaton Road, Alexandra Road, Green Lane, by a footpath across Bowerfold Open Space to Green Lane , through M60 junction 1 to River Mersey. W along the river to and to the point where the railway crosses Cossley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A027_20170415_A3.pdf",
+      "description": "From the point where the railway crosses Crossley Road, S along the railway to and W along Heaton Road, Alexandra Road, Green Lane, by a footpath across Bowerfold Open Space to Green Lane , through M60 junction 1 to River Mersey. W along the river to and to the point where the railway crosses Cossley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,29 +1,50 @@
 {
   "id": "D011",
   "name": "St Joseph, Todmorden",
+  "shortName": "St Joseph",
+  "location": "Todmorden",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D011_20170624_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D011_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "These might be described as follows: From Hoof Stones Height on the Lancashire - Yorkshire boundary OS915291, by a beeline to and along Noah Dale Water, Jack Bridge OS 962282, Blackshaw Head, Hippins Clough crossing Halifax Road at Eastwood to the River Calder OS970262. Upstream by the River Calder to its confluence with Stoodley Clough OS965252 and by this clough to and S along the ancient parish boundary to Stoodley Pike, Withins Gate, Little Holder Stones OS969213 then Turvin Clough OS980202 then upstream to a stream junction OS977194 and N across the middle of White Holme Reservoir to the Lancashire and Yorkshire boundary at White Holme Moss OS968204 and W crossing the Rochdale Road at Warland OS945202 thenW and N by this oundary\nCrossing the Burnley Road at Portsmouth OS898263 and N to Hoof Stones Height.",
+    "internalBoundaries": [],
+    "supplementaryNote": {
+      "title": "Comment",
+      "text": "In line with a 1914 agreement between the Leeds and Salford dioceses, the boundaries of St Joseph's would be those of the Borough of Todmorden as incorporated in 1896, or after its dissolution in 1974, the boundaries of today's Todmorden Town Council."
+    }
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
       "status": "draft",
-      "note": "In line with a 1914 agreement between the Leeds and Salford dioceses, the boundaries of St Joseph''s would be those of the Borough of Todmorden as incorporated in 1896, or after its dissolution in 1974, the boundaries of today''s Todmorden Town Council."
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D011_20170415_A3.pdf",
+      "description": "From Hoof Stones Height on the Lancashire - Yorkshire boundary, by a beeline to and along Noah Dale Water and Colden Water to the River Calder. Upstream by the River Calder to its confluence with Stoodley Clough and by this clough to and along the ancient boundary to Turvin Clough then upstream to a stream junction and by a beeline across the middle of White Holme Reservoir to the Lancashire and Yorkshire boundary and by this boundary to Hoof Stones Height.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "Comment",
+        "text": "In line with a 1914 agreement between the Leeds and Salford dioceses, the boundaries of St Joseph's would be those of the Borough of Todmorden as incorporated in 1896, or after its dissolution in 1974, the boundaries of today's Todmorden Town Council."
+      }
     },
     {
       "date": "07/05/2017",
       "status": "draft",
-      "note": "In line with a 1914 agreement between the Leeds and Salford dioceses, the boundaries of St Joseph''s would be those of the Borough of Todmorden as incorporated in 1896, or after its dissolution in 1974, the boundaries of today''s Todmorden Town Council."
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D011_20170624_A3.pdf",
+      "description": "These might be described as follows: From Hoof Stones Height on the Lancashire - Yorkshire boundary OS915291, by a beeline to and along Noah Dale Water, Jack Bridge OS 962282, Blackshaw Head, Hippins Clough crossing Halifax Road at Eastwood to the River Calder OS970262. Upstream by the River Calder to its confluence with Stoodley Clough OS965252 and by this clough to and S along the ancient parish boundary to Stoodley Pike, Withins Gate, Little Holder Stones OS969213 then Turvin Clough OS980202 then upstream to a stream junction OS977194 and N across the middle of White Holme Reservoir to the Lancashire and Yorkshire boundary at White Holme Moss OS968204 and W crossing the Rochdale Road at Warland OS945202 thenW and N by this oundary\nCrossing the Burnley Road at Portsmouth OS898263 and N to Hoof Stones Height.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "Comment",
+        "text": "In line with a 1914 agreement between the Leeds and Salford dioceses, the boundaries of St Joseph's would be those of the Borough of Todmorden as incorporated in 1896, or after its dissolution in 1974, the boundaries of today's Todmorden Town Council."
+      }
     }
   ],
   "map": {

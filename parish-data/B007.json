@@ -1,23 +1,33 @@
 {
   "id": "B007",
   "name": "St John the Evangelist (Cathedral), Salford",
+  "shortName": "St John the Evangelist (Cathedral)",
+  "location": "Salford",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B007_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B007_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of University Road and Wallness Lane, by a straight line E to River Irwell. Then along the River Irwell to the railway bridge near MOSI and W by the Deansgate – Eccles railway to the roundabout joining M602 and Albion Way (A5063). N by Albion Way and Salford Crescent – Swinton railway and by a beeline NE to the University Road and its junction with Wallness Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B007_20170415_A3.pdf",
+      "description": "From the junction of University Road and Wallness Lane, by a straight line E to River Irwell. Then along the River Irwell to the railway bridge near MOSI and W by the Deansgate – Eccles railway to the roundabout joining M602 and Albion Way (A5063). N by Albion Way and Salford Crescent – Swinton railway and by a beeline NE to the University Road and its junction with Wallness Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "F008",
   "name": "St Edmund and St Patrick, Bolton",
+  "shortName": "St Edmund and St Patrick",
+  "location": "Bolton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Blackburn Road (A666) and Waters Meeting Road, E along Waters Meeting Road to and S along River Tonge and River Croal, to the point opposite the junction of St Peter’s Way (A666) and Manchester Road (B6536), by a beeline SW to the railway and N along the tracks to the point opposite Bridgeman Street, and W by Bridgeman Street, High Street, Derby Street (A579), N to and along Cannon Street, Deane Road, Gilnow Lane to the railway, then by a beeline to and W along Gilnow Road (B6202), N along Dobson Road, Beverley Road, Victory Street and by a beeline to Chorley Old Road (B6226) (including both sides of Fordham Grove). SE along Chorley Old Road, Gaskell Street, Merehall Drive, Prince Street, Higher Bridge Street, Topp Way, Kay Street, Blackburn Road to its junction with Waters Meeting Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F008_20170415_A3.pdf",
+      "description": "From the junction of Blackburn Road (A666) and Waters Meeting Road, E along Waters Meeting Road to and S along River Tonge and River Croal, to the point opposite the junction of St Peter’s Way (A666) and Manchester Road (B6536), by a beeline SW to the railway and N along the tracks to the point opposite Bridgeman Street, and W by Bridgeman Street, High Street, Derby Street (A579), N to and along Cannon Street, Deane Road, Gilnow Lane to the railway, then by a beeline to and W along Gilnow Road (B6202), N along Dobson Road, Beverley Road, Victory Street and by a beeline to Chorley Old Road (B6226) (including both sides of Fordham Grove). SE along Chorley Old Road, Gaskell Street, Merehall Drive, Prince Street, Higher Bridge Street, Topp Way, Kay Street, Blackburn Road to its junction with Waters Meeting Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,43 @@
 {
   "id": "C022",
   "name": "St Dunstan and St John Vianney, Moston",
+  "shortName": "St Dunstan and St John Vianney",
+  "location": "Moston",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/12/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C022_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C022_20171215_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C022_20171215_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C022_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the roundabout joining Moston Lane, Charlestown Road and Ainsbrook Avenue, by a bee-line E to and across Colgrove Avenue, to and S along Lightbowne Road and Linford Avenue to the end of the road. Then by a beeline to the junction of Nuthurst Road and Blandford Drive, W along Nuthurst Road, Moston Lane East, to the junction of Moston Lane East and Belgrave Road, and by a bee-line to and W along Moston Brook to the point opposite Broadhurst Primary School and by a bee-line to the junction of St Mary’s Road and Williams Road, N along St Mary’s Road to the railway. W along the railway to and NW along Thorp Road, and along a footpath through Moston Vale to Carisbrook Street and its junction with Conran Street. NE along Conran Street and footpath to and W along Church Lane, Hillier Street to the point opposite Hillier Street North. N along Hillier Street North to and E along Moston Lane and N along Clough Lane to its junction with Glen Avenue, then by a straight line NW to Crowden Road, and W along Crowden Road, Moston Lane to the roundabout.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Dunstan and St John Vianney",
+        "description": "From the point where the railway crosses St Mary’s Road, N along St Mary’s Road, W along Joyce Street, Arbory Avenue (both sides in St Dunstan parish) to Lightbowne Road, and by a bee-line to and along Millais Street, Moston Lane, Bluebell Avenue to the end of the road. Then by a bee-line to Oak Bank Avenue, Gill Street, Glen Avenue to its junction with Clough Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/12/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C022_20171215_A3.pdf",
+      "description": "From the roundabout joining Moston Lane, Charlestown Road and Ainsbrook Avenue, by a bee-line E to and across Colgrove Avenue, to and S along Lightbowne Road and Linford Avenue to the end of the road. Then by a beeline to the junction of Nuthurst Road and Blandford Drive, W along Nuthurst Road, Moston Lane East, to the junction of Moston Lane East and Belgrave Road, and by a bee-line to and W along Moston Brook to the point opposite Broadhurst Primary School and by a bee-line to the junction of St Mary’s Road and Williams Road, N along St Mary’s Road to the railway. W along the railway to and NW along Thorp Road, and along a footpath through Moston Vale to Carisbrook Street and its junction with Conran Street. NE along Conran Street and footpath to and W along Church Lane, Hillier Street to the point opposite Hillier Street North. N along Hillier Street North to and E along Moston Lane and N along Clough Lane to its junction with Glen Avenue, then by a straight line NW to Crowden Road, and W along Crowden Road, Moston Lane to the roundabout.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Dunstan and St John Vianney",
+          "description": "From the point where the railway crosses St Mary’s Road, N along St Mary’s Road, W along Joyce Street, Arbory Avenue (both sides in St Dunstan parish) to Lightbowne Road, and by a bee-line to and along Millais Street, Moston Lane, Bluebell Avenue to the end of the road. Then by a bee-line to Oak Bank Avenue, Gill Street, Glen Avenue to its junction with Clough Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

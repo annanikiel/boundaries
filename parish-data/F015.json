@@ -1,23 +1,33 @@
 {
   "id": "F015",
   "name": "St Osmund, Breightmet",
+  "shortName": "St Osmund",
+  "location": "Breightmet",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F015_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F015_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Thicketford Road and Blair Lane, along Blair Lane, New Lane, Stitch-Mi-Lane, Arthur Lane, to and S along Bolton – Bury District boundary (Blackshaw Brook) to the point opposite Crows Nest and by a bee-line W to Crows Nest, Radcliffe Road, Croft Side and by E boundary of Darcy Level Gravel Pits to River Croal. N along River Croal, River Tonge to Folds Road and by a bee-line to and along Entwistle Street, Ainsworth Lane, Abington Road (both sides in St Brendan’s Parish), Crompton Way and Thicketford Road to its junction with Blair Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F015_20170415_A3.pdf",
+      "description": "From the junction of Thicketford Road and Blair Lane, along Blair Lane, New Lane, Stitch-Mi-Lane, Arthur Lane, to and S along Bolton – Bury District boundary (Blackshaw Brook) to the point opposite Crows Nest and by a bee-line W to Crows Nest, Radcliffe Road, Croft Side and by E boundary of Darcy Level Gravel Pits to River Croal. N along River Croal, River Tonge to Folds Road and by a bee-line to and along Entwistle Street, Ainsworth Lane, Abington Road (both sides in St Brendan’s Parish), Crompton Way and Thicketford Road to its junction with Blair Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

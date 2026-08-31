@@ -1,23 +1,33 @@
 {
   "id": "H023",
   "name": "St Peter in Chains, Blackburn",
+  "shortName": "St Peter in Chains",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H023_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H023_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H023_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H023_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Wensley Road and Buncer Lane, along Wensley Road, Garden Street, Bank Top, Whalley Banks, King Street, Astley Gate, Church Street and Railway Street to Blackburn Station; then south easterly by the railway line to Darwen Bridge and along Great Bolton Street and Bolton Road to its junction with and N along Aqueduct Road, then W along Leeds and Liverpool Canal (opposite Amberwood Drive), then N to and along St Francis Road, Preston Old Road to its junction with an unnamed road N of river Darwen, and by a beeline to the junction of Buncer Lane and Wensley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H023_20170415_A3.pdf",
+      "description": "From the junction of Wensley Road and Buncer Lane, along Wensley Road, Garden Street, Bank Top, Whalley Banks, King Street, Astley Gate, Church Street and Railway Street to Blackburn Station; then south easterly by the railway line to Darwen Bridge and along Great Bolton Street and Bolton Road to its junction with and N along Aqueduct Road, then W along Leeds and Liverpool Canal (opposite Amberwood Drive), then N to and along St Francis Road, Preston Old Road to its junction with an unnamed road N of river Darwen, and by a beeline to the junction of Buncer Lane and Wensley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

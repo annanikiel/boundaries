@@ -1,23 +1,33 @@
 {
   "id": "C009",
   "name": "St Dunstan, Moston",
+  "shortName": "St Dunstan",
+  "location": "Moston",
   "deaneryId": "C",
   "status": "closed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C009_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C009_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Glen Avenue and Clough Road, W along Glen Avenue, Gill Street, Oak Bank Avenue, by a beeline to and along Blue Bell Avenue, Moston Lane, Millais Street, and by a bee-line to Lightbowne Road and Arbory Avenue (both sides in St Dunstan’s parish), to Joyce Street, St Mary’s Road to the point where it crosses the railway. W along the railway to and NW along Thorp Road, and along a footpath through Moston Vale to Carisbrook Street and its junction with Conran Street. NE along Conran Street and footpath to and W along Church Lane, Hillier Street to the point opposite Hillier Street North. N along Hillier Street North to and E along Moston Lane and N along Clough Lane to its junction with Glen Avenue.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C009_20170415_A3.pdf",
+      "description": "From the junction of Glen Avenue and Clough Road, W along Glen Avenue, Gill Street, Oak Bank Avenue, by a beeline to and along Blue Bell Avenue, Moston Lane, Millais Street, and by a bee-line to Lightbowne Road and Arbory Avenue (both sides in St Dunstan’s parish), to Joyce Street, St Mary’s Road to the point where it crosses the railway. W along the railway to and NW along Thorp Road, and along a footpath through Moston Vale to Carisbrook Street and its junction with Conran Street. NE along Conran Street and footpath to and W along Church Lane, Hillier Street to the point opposite Hillier Street North. N along Hillier Street North to and E along Moston Lane and N along Clough Lane to its junction with Glen Avenue.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

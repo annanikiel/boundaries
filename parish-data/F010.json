@@ -1,23 +1,33 @@
 {
   "id": "F010",
   "name": "St James the Great, Montserrat",
+  "shortName": "St James the Great",
+  "location": "Montserrat",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F010_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Colliers Row Road and Smithills Dean Road, S along Smithills Dean Road and by a beeline W crossing Limefield Road and excluding both sides of Redcar Road, to Dean Brook, SE by the brook to and W along Moss Bank Way (A58), Captain’s Clough Road, W along Church Road, New Church Road, Chorley Old Road (B6226), S by Moss Bank Way to its junction with Old Kiln Lane (B6402), then N along Old Kiln Lane, Walker Fold Road, Colliers Row Road to its junction with Smithills Dean Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F010_20170415_A3.pdf",
+      "description": "From the junction of Colliers Row Road and Smithills Dean Road, S along Smithills Dean Road and by a beeline W crossing Limefield Road and excluding both sides of Redcar Road, to Dean Brook, SE by the brook to and W along Moss Bank Way (A58), Captain’s Clough Road, W along Church Road, New Church Road, Chorley Old Road (B6226), S by Moss Bank Way to its junction with Old Kiln Lane (B6402), then N along Old Kiln Lane, Walker Fold Road, Colliers Row Road to its junction with Smithills Dean Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,56 @@
 {
   "id": "F024",
   "name": "Our Lady of the Immaculate Conception and Holy Family",
+  "shortName": "Our Lady of the Immaculate Conception and Holy Family",
+  "location": null,
   "deaneryId": "F",
   "status": "proposed",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F001F003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001F003_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001F003_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F001F003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary and S along the Brook, including Mill Lane, Mill Courst and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the footpath near Mowpin Lodge, N along the footpath to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (i.e. along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Holy Family and Our Lady of Immaculate Conception",
+        "description": "From the diocesan boundary near Mowpin Lodge, by a bee-line to Wigan Road, along Wigan Road and Bolton Road to its junction with Hall Lane and by a bee-line to Borsdane Brook."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001F003_20170415_A3.pdf",
+      "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary and S along the Brook, including Mill Lane, Mill Courst and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the footpath near Mowpin Lodge, N along the footpath to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (i.e. along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Family and Our Lady of Immaculate Conception",
+          "description": "From the diocesan boundary near Mowpin Lodge, by a bee-line to Wigan Road, along Wigan Road and Bolton Road to its junction with Hall Lane and by a bee-line to Borsdane Brook."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001F003_20170628_A3.pdf",
+      "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary and S along the Brook, including Mill Lane, Mill Courst and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the footpath near Mowpin Lodge, N along the footpath to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (i.e. along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Family and Our Lady of Immaculate Conception",
+          "description": "From the diocesan boundary near Mowpin Lodge, by a bee-line to Wigan Road, along Wigan Road and Bolton Road to its junction with Hall Lane and by a bee-line to Borsdane Brook."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

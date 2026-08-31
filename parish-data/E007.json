@@ -1,27 +1,41 @@
 {
   "id": "E007",
   "name": "St Edward, Lees",
+  "shortName": "St Edward",
+  "location": "Lees",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E007_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E007_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Esther Street and Greenacres Road, E along Greenacres Road and then by Saddleworth civil parish boundary to the SE border of Waterhead Academy and by a bee-line E to the Saddleworth civil parish boundary by Hollins Avenue, and by that boundary (which is also diocesan boundary) to the junction of Hartshead Street and South Hill. W by Thornley Brook to Holt Lane and by a bee-line N, then W to Roundthorn Road (excluding all of Ferndale Close and Coverham Avenue estate). Then N by Roundthorn Road, Brewerton Road, Clarksfield Road and Esther Street to its junction with Greenacres Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E007_20170415_A3.pdf",
+      "description": "From the junction of Esther Street and Greenacres Road, E along Greenacres Road and then by Saddleworth civil parish boundary to the SE border of Waterhead Academy and by a bee-line E to the Saddleworth civil parish boundary by Hollins Avenue, and by that boundary (which is also diocesan boundary) to the junction of Hartshead Street and South Hill. W by Thornley Brook to Holt Lane and by a bee-line N, then W to Roundthorn Road (excluding all of Ferndale Close and Coverham Avenue estate). Then N by Roundthorn Road, Brewerton Road, Clarksfield Road and Esther Street to its junction with Greenacres Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E007_20170628_A3.pdf",
+      "description": "From the junction of Esther Street and Greenacres Road, E along Greenacres Road and then by Saddleworth civil parish boundary to the SE border of Waterhead Academy and by a bee-line E to the Saddleworth civil parish boundary by Hollins Avenue, and by that boundary (which is also diocesan boundary) to the junction of Hartshead Street and South Hill. W by Thornley Brook to Holt Lane and by a bee-line N, then W to Roundthorn Road (excluding all of Ferndale Close and Coverham Avenue estate). Then N by Roundthorn Road, Brewerton Road, Clarksfield Road and Esther Street to its junction with Greenacres Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

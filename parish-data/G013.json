@@ -1,27 +1,41 @@
 {
   "id": "G013",
   "name": "St Mary of the Annunciation, Littleborough",
+  "shortName": "St Mary of the Annunciation",
+  "location": "Littleborough",
   "deaneryId": "G",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road past the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013_20170415_A3.pdf",
+      "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road past the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013_20170602_A3.pdf",
+      "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road past the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

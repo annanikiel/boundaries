@@ -1,27 +1,56 @@
 {
   "id": "E014",
   "name": "Divine Mercy, Chadderton & Hollinwood",
+  "shortName": "Divine Mercy",
+  "location": "Chadderton & Hollinwood",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "02/06/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E014_20190602_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E014_20190602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Rochdale – Oldham District boundary crosses Cinder Hill Lane near Cinder Hill Lane, S along Cinder Hill Lane to the bend in the road, and by a straight line to and SE along A627(M) Motorway, Chadderton Way (A627) to the rondabout. Then S along Featherstall Road South, Featherstall Road South, Manchester Street, Frederick Street, Hollins Road to M60 Motorway, junction 22. Then NW along the Motorway to junction 21 and then N by the Rochdale Canal and W along Middleton Road to and N along the railway and then by Rochdale – Oldham District boundary to the point where it crosses Cinder Hill Lane.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Herbert and Corpus Chisti",
+        "description": "From the point on the Rochdale Canal opposite the junction of Moston Road and Grimshaw lane, and by a beeline E to the point where the railway crosses Featherstall Road South."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E001E008_20170415_A3.pdf",
+      "description": "From the point where Rochdale – Oldham District boundary crosses Cinder Hill Lane near Cinder Hill Lane, S along Cinder Hill Lane to the bend in the road, and by a straight line to and SE along A627(M) Motorway, Chadderton Way (A627) to the rondabout. Then S along Featherstall Road South, Featherstall Road South, Manchester Street, Frederick Street, Hollins Road to M60 Motorway, junction 22. Then NW along the Motorway to junction 21 and then N by the Rochdale Canal and W along Middleton Road to and N along the railway and then by Rochdale – Oldham District boundary to the point where it crosses Cinder Hill Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Herbert and Corpus Chisti",
+          "description": "From the point on the Rochdale Canal opposite the junction of Moston Road and Grimshaw lane, and by a beeline E to the point where the railway crosses Featherstall Road South."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E014_20190602_A3.pdf",
+      "description": "From the point where Rochdale – Oldham District boundary crosses Cinder Hill Lane near Cinder Hill Lane, S along Cinder Hill Lane to the bend in the road, and by a straight line to and SE along A627(M) Motorway, Chadderton Way (A627) to the rondabout. Then S along Featherstall Road South, Featherstall Road South, Manchester Street, Frederick Street, Hollins Road to M60 Motorway, junction 22. Then NW along the Motorway to junction 21 and then N by the Rochdale Canal and W along Middleton Road to and N along the railway and then by Rochdale – Oldham District boundary to the point where it crosses Cinder Hill Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Herbert and Corpus Chisti",
+          "description": "From the point on the Rochdale Canal opposite the junction of Moston Road and Grimshaw lane, and by a beeline E to the point where the railway crosses Featherstall Road South."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

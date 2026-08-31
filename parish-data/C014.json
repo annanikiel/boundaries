@@ -1,23 +1,33 @@
 {
   "id": "C014",
   "name": "St Stephen, Droylsden",
+  "shortName": "St Stephen",
+  "location": "Droylsden",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C014_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the M60 Motorway crosses the River Medlock, S by the Motorway, W by Manchester Road, Droylsden Road, Ashton Road, Manchester Road and Sunnybank Road. Across Droylsden High School Playing Fields, to the northern boundary of Sunny Bank Park and by a bee-line running east of the Ashley Road Estate to the point where River Medlock crosses Edge Lane, and E along River Medlock to the M60 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C014_20170415_A3.pdf",
+      "description": "From the point where the M60 Motorway crosses the River Medlock, S by the Motorway, W by Manchester Road, Droylsden Road, Ashton Road, Manchester Road and Sunnybank Road. Across Droylsden High School Playing Fields, to the northern boundary of Sunny Bank Park and by a bee-line running east of the Ashley Road Estate to the point where River Medlock crosses Edge Lane, and E along River Medlock to the M60 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

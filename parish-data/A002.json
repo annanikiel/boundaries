@@ -1,23 +1,33 @@
 {
   "id": "A002",
   "name": "Our Lady and the English Martyrs, Urnston",
+  "shortName": "Our Lady and the English Martyrs",
+  "location": "Urnston",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A002_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A002_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A002_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A002_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point on Manchester Ship Canal opposite W border of United Utilities Wastewater Treatment Plant, E along Manchester Ship Canal, then SE by M60 Motorway to the point opposite Shetland Way. W by Shetland Way, Skye Road (both sides in Our Lady and English Martyrs up to its junction with Iona Way), then by a beeline S to Kingsway Park, along Kingsway Park by a beeline to Romley Road, Lostock Road, Rochester Road, Canterbury Road, Furness Road, Winchester Roadm West Bourne Park, St Clements Fold (both sides in Our Lady and English Martyrs parish), Ciss Lane, Stretford Road, Lime Tree Close and by a beeline to River Mersey, touching the end of Meadon Road. Then W along the River Mersey to the point opposite 253 Church Road, E along Church Road and in a straight line to and N along Penny Bridge Lane, Flixton Road, Brook Road, Moorside Road, Bowers Avenue, Davy Hulme Road, Woodhouse Road to its junction with Broadway. Then along W border of United Utilities Wastewater Treatment Plant to Manchester Ship Canal.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A002_20170415_A3.pdf",
+      "description": "From the point on Manchester Ship Canal opposite W border of United Utilities Wastewater Treatment Plant, E along Manchester Ship Canal, then SE by M60 Motorway to the point opposite Shetland Way. W by Shetland Way, Skye Road (both sides in Our Lady and English Martyrs up to its junction with Iona Way), then by a beeline S to Kingsway Park, along Kingsway Park by a beeline to Romley Road, Lostock Road, Rochester Road, Canterbury Road, Furness Road, Winchester Roadm West Bourne Park, St Clements Fold (both sides in Our Lady and English Martyrs parish), Ciss Lane, Stretford Road, Lime Tree Close and by a beeline to River Mersey, touching the end of Meadon Road. Then W along the River Mersey to the point opposite 253 Church Road, E along Church Road and in a straight line to and N along Penny Bridge Lane, Flixton Road, Brook Road, Moorside Road, Bowers Avenue, Davy Hulme Road, Woodhouse Road to its junction with Broadway. Then along W border of United Utilities Wastewater Treatment Plant to Manchester Ship Canal.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

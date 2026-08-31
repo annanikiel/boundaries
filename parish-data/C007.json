@@ -1,27 +1,41 @@
 {
   "id": "C007",
   "name": "St Chad, Cheetham Hill",
+  "shortName": "St Chad",
+  "location": "Cheetham Hill",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "31/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C007_20170531_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C007_20170531_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of the Rivers Irwell and Irk, by the River Irwell to a point opposite Fennell Street, then by Fennell Street, Withy Grove, Shudehill, Miller Street, Cheetham Hill Road to and along the River Irwell to and by the Manchester-Bury Metrolink line to Smedley Lane, then along Smedley Lane, Cheetham Hill Road, Waterloo Road, Bury New Road and Sherborne Street West and a bee-line to the River Irwell and by the River Irwell to its confluence with the River Irk.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C007_20170415_A3.pdf",
+      "description": "From the confluence of the Rivers Irwell and Irk, by the River Irwell to a point opposite Fennell Street, then by Fennell Street, Withy Grove, Shudehill, Miller Street, Cheetham Hill Road to and along the River Irwell to and by the Manchester-Bury Metrolink line to Smedley Lane, then along Smedley Lane, Bellott St, Waterloo Road, Bury New Road and Sherborne Street West and a bee-line to the River Irwell and by the River Irwell to its confluence with the River Irk.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "31/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C007_20170531_A3.pdf",
+      "description": "From the confluence of the Rivers Irwell and Irk, by the River Irwell to a point opposite Fennell Street, then by Fennell Street, Withy Grove, Shudehill, Miller Street, Cheetham Hill Road to and along the River Irwell to and by the Manchester-Bury Metrolink line to Smedley Lane, then along Smedley Lane, Cheetham Hill Road, Waterloo Road, Bury New Road and Sherborne Street West and a bee-line to the River Irwell and by the River Irwell to its confluence with the River Irk.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "B006",
   "name": "St James and All Souls, Salford",
+  "shortName": "St James and All Souls",
+  "location": "Salford",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B006_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B006_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the railway crosses Laundry Street, SE along the railway to the Crescent (A6). Then S by Albion Way (A5063) and W along the railway to the point opposite Cyprus Close, then N by a beeline to Eccles New Road and N along West Ashton Street, Montford Street, Olympic Court and by a bee-line N to and W along Broadway past its junction with Blue and by a beeline to Manchester Ship Canal (to meet Manchester Ship Canal near footpath by SIS Live Teleport). Then W by the Manchester Ship Canal to Centenary Way (A576)and N to the roundabout. By a beeline NE to the junction of Eccles New Road and Stott Lane. N by Stott Lane, E by Eccless Old Road, Chasely Road, to its junction with Bolton Road and by a beeline to Broad Street. SE by Broad Steet, Charles Street, Nave Court, Laundry Street to the point it meets the railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B006_20170415_A3.pdf",
+      "description": "From the point where the railway crosses Laundry Street, SE along the railway to the Crescent (A6). Then S by Albion Way (A5063) and W along the railway to the point opposite Cyprus Close, then N by a beeline to Eccles New Road and N along West Ashton Street, Montford Street, Olympic Court and by a bee-line N to and W along Broadway past its junction with Blue and by a beeline to Manchester Ship Canal (to meet Manchester Ship Canal near footpath by SIS Live Teleport). Then W by the Manchester Ship Canal to Centenary Way (A576)and N to the roundabout. By a beeline NE to the junction of Eccles New Road and Stott Lane. N by Stott Lane, E by Eccless Old Road, Chasely Road, to its junction with Bolton Road and by a beeline to Broad Street. SE by Broad Steet, Charles Street, Nave Court, Laundry Street to the point it meets the railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

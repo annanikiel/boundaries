@@ -1,27 +1,41 @@
 {
   "id": "G012",
   "name": "St Mary and St Philip Neri, Radcliffe",
+  "shortName": "St Mary and St Philip Neri",
+  "location": "Radcliffe",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, past its confluence with River Roch and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to 353 Ringley Rd W, N by a beeline to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012_20170415_A3.pdf",
+      "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, past its confluence with River Roch and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to 353 Ringley Rd W, N by a beeline to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012_20170602_A3.pdf",
+      "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, past its confluence with River Roch and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to 353 Ringley Rd W, N by a beeline to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

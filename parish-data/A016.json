@@ -1,23 +1,33 @@
 {
   "id": "A016",
   "name": "St Catherine of Sienna, Didsbury",
+  "shortName": "St Catherine of Sienna",
+  "location": "Didsbury",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A016_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A016_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the River Mersey, along Palatine Road, Barlow Moor Road, Elm Road, Lapwing Lane, Fog Lane, Prince’s Avenue, then by a diagonal beeline through Fog Lane Park to Parrs Wood Road and West Croft Road, and along Westcroft Road and Barcicroft Road to the Manchester – Stockport MBC boundary and along this boundary to the River Mersey and by the River Mersey to Palatine Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A016_20170415_A3.pdf",
+      "description": "From the River Mersey, along Palatine Road, Barlow Moor Road, Elm Road, Lapwing Lane, Fog Lane, Prince’s Avenue, then by a diagonal beeline through Fog Lane Park to Parrs Wood Road and West Croft Road, and along Westcroft Road and Barcicroft Road to the Manchester – Stockport MBC boundary and along this boundary to the River Mersey and by the River Mersey to Palatine Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

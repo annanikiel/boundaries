@@ -1,23 +1,33 @@
 {
   "id": "C006",
   "name": "St Anne, Higher Openshaw",
+  "shortName": "St Anne",
+  "location": "Higher Openshaw",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Junction of Buxton Lane and Manchester Road, E along Manchester Road, Ashton Road, Droylsden Road, Park Road, Slate Lane and by a bee-line to Groby Road North, then S, and SW by Audenshaw Road, King’s Road, Green Fold (going between Gorton Lower and Upper Reservoir). Then along N boundary of Gorton Lower Reservoir to its NW corner and by a bee-line, crossing Abbey Hey Lane to the railway. W by the tracks to Gorton station and N by Lees Street, Ettrick Close, Wheler Street, Edge Lane, to its crossing with Ashton Canal. E along the canal to the point opposite Buxton Lane, then N by Buxton Lane to its junction with Manchester Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C006_20170415_A3.pdf",
+      "description": "From the Junction of Buxton Lane and Manchester Road, E along Manchester Road, Ashton Road, Droylsden Road, Park Road, Slate Lane and by a bee-line to Groby Road North, then S, and SW by Audenshaw Road, King’s Road, Green Fold (going between Gorton Lower and Upper Reservoir). Then along N boundary of Gorton Lower Reservoir to its NW corner and by a bee-line, crossing Abbey Hey Lane to the railway. W by the tracks to Gorton station and N by Lees Street, Ettrick Close, Wheler Street, Edge Lane, to its crossing with Ashton Canal. E along the canal to the point opposite Buxton Lane, then N by Buxton Lane to its junction with Manchester Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

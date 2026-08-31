@@ -1,23 +1,33 @@
 {
   "id": "E012",
   "name": "St Mary with St Patrick, Oldham",
+  "shortName": "St Mary with St Patrick",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the roundabout junction of Chadderton Way, Oldham Way and Featherstall Road South (A6048), N along A6048, Rochdale Road, Crompton Street, to its junction with Godson Street. NE by a bee-line through Oldham Edge to Higginshaw Lane (including Milne Street, but excluding Meek street) and to and S along the railway to Lees Road and by a bee-line to the footpath S of Oldham Road to Waterloo Road, Woodstock Street, Park Road and by a bee-line to Scottfield Road (including all of Eldon Street and Webster Street). Then S along Scottfield Road, Belgrave Road, Villa Road, Ashton Road, Schofield Street, Copster Hill Road, Hollins Road, Frederick Street, Manchester Street, Featherstall Road South to the roundabout.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E012_20170415_A3.pdf",
+      "description": "From the roundabout junction of Chadderton Way, Oldham Way and Featherstall Road South (A6048), N along A6048, Rochdale Road, Crompton Street, to its junction with Godson Street. NE by a bee-line through Oldham Edge to Higginshaw Lane (including Milne Street, but excluding Meek street) and to and S along the railway to Lees Road and by a bee-line to the footpath S of Oldham Road to Waterloo Road, Woodstock Street, Park Road and by a bee-line to Scottfield Road (including all of Eldon Street and Webster Street). Then S along Scottfield Road, Belgrave Road, Villa Road, Ashton Road, Schofield Street, Copster Hill Road, Hollins Road, Frederick Street, Manchester Street, Featherstall Road South to the roundabout.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

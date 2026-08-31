@@ -1,27 +1,80 @@
 {
   "id": "D023",
   "name": "St Charles, St Hubert with St Wulstan and St Mary",
+  "shortName": "St Charles, St Hubert with St Wulstan and St Mary",
+  "location": null,
   "deaneryId": "D",
   "status": "proposed",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "29/07/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D002D004D016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002D004D016_20170729_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002D004D016_20170729_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D002D004D016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Cock Bridge, Whalley Road A680, E by the River Calder to its confluence with Shorten Brook at Altham Bridge on Burnley Road A678 S by Shorten Brook to the M65 Motorway (junction 8) SW by Clough Brook and Whinney Hill Road via and including Sankey House Farm Caravan site from the bend in Whinney Hill Road by a straight line to Haworth Street, Whalley Road along First Avenue (including both sides) to the junction of First Avenue and Dill Hall Lane W by a straight line to the centre of the M65 interchange junction 7 with the A6185 Dunkenhalgh Way W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Blackburn Old Road N to Wilpshire Road and along York Road NE to the footpath parallel to Whalley Old Road to Shawcliffe Lane and the boundary stone. SE by a straight line to the confluence of Dean Brook and the River Calder S by the River Calder to Cock Bridge, Whalley Road A680.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary and St Charles",
+        "description": "Hyndburn Brook"
+      },
+      {
+        "name": "Former boundary between St Mary and St Hubert with St Wulstan",
+        "description": "Hyndburn Brook"
+      },
+      {
+        "name": "Former boundary between St Hubert and St Wulstan and St Charles",
+        "description": "Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002D004D016_20170415_A3.pdf",
+      "description": "From Cock Bridge, Whalley Road A680, E by the River Calder to its confluence with Shorten Brook at Altham Bridge on Burnley Road A678 S by Shorten Brook to the M65 Motorway (junction 8) SW by Clough Brook and Whinney Hill Road via and including Sankey House Farm Caravan site from the bend in Whinney Hill Road by a straight line to Haworth Street, Whalley Road along First Avenue (including both sides) to the junction of First Avenue and Dill Hall Lane W by a straight line to the centre of the M65 interchange junction 7 with the A6185 Dunkenhalgh Way W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Blackburn Old Road N to Wilpshire Road and along York Road NE to the footpath parallel to Whalley Old Road to Shawcliffe Lane and the boundary stone. SE by a straight line to the confluence of Dean Brook and the River Calder S by the River Calder to Cock Bridge, Whalley Road A680.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary and St Charles",
+          "description": "Hyndburn Brook"
+        },
+        {
+          "name": "Former boundary between St Mary and St Hubert with St Wulstan",
+          "description": "Hyndburn Brook"
+        },
+        {
+          "name": "Former boundary between St Hubert and St Wulstan and St Charles",
+          "description": "Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "29/07/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002D004D016_20170729_A3.pdf",
+      "description": "From Cock Bridge, Whalley Road A680, E by the River Calder to its confluence with Shorten Brook at Altham Bridge on Burnley Road A678 S by Shorten Brook to the M65 Motorway (junction 8) SW by Clough Brook and Whinney Hill Road via and including Sankey House Farm Caravan site from the bend in Whinney Hill Road by a straight line to Haworth Street, Whalley Road along First Avenue (including both sides) to the junction of First Avenue and Dill Hall Lane W by a straight line to the centre of the M65 interchange junction 7 with the A6185 Dunkenhalgh Way W along the M65 Motorway to junction 6 Whitebirk roundabout N along Whitebirk Drive A6119 to and by the Leeds and Liverpool Canal N to Side Beat Bridge N by the Hyndburn – Blackburn with Darwen civil boundary to and by Blackburn Old Road N to Wilpshire Road and along York Road NE to the footpath parallel to Whalley Old Road to Shawcliffe Lane and the boundary stone. SE by a straight line to the confluence of Dean Brook and the River Calder S by the River Calder to Cock Bridge, Whalley Road A680.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary and St Charles",
+          "description": "Hyndburn Brook"
+        },
+        {
+          "name": "Former boundary between St Mary and St Hubert with St Wulstan",
+          "description": "Hyndburn Brook"
+        },
+        {
+          "name": "Former boundary between St Hubert and St Wulstan and St Charles",
+          "description": "Then E by Wilpshire Road, Lee Lane, Norden Brook to the point opposite Barons Way, and by a beeline to and E along Hyndburn Brook to its confluence with River Calder."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

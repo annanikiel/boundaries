@@ -1,27 +1,41 @@
 {
   "id": "H015",
   "name": "St Mary and St John, Pleasington Priory",
+  "shortName": "St Mary and St John",
+  "location": "Pleasington Priory",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H015_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H015_20170624_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H015_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H015_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "M65 Motorway and westerly by the motorway to the Diocesan boundary and N following the River Roddlesworth to its confluence with the River Darwen and upstream along the River Darwen otherwise the Blackburn with Darwen – Chorley district boundary, to its confluence with the Alum House Brook andnorth east to Arley Brook otherwise the Blackburn with Darwen – Ribble Valey district boundary to but excluding Arley Farm and southward by the tracks passing by but including Westholme School and across Meins Road to Billinge End Road. Eastwards along Billinge End Road to and along Killards Lane and the track to Under Billinge Lane and by this lane, Lawley Road and Billinge Avenue (both ofwhich are wholly in the parish of the Sacred Heart and St Anne) to and along Buncer Lane to its junction with Wensley Road. From the junction of Wensley Road and Buncer Lane, by a straight line across Witton Park to the Feniscliffe bridge where Preston Old Road crosses the River Darwen. Along Preston Old Road and St Francis Road (both sides) to its junction with Feniscliffe Drive, then by the track south-easterly crossing over the railway to the Leeds and Liverpool Canal. Then westerly by the canal to the bridge between Cherry Tree Lane and Beechwood Drive, and by Beechwood Drive (both sides) to Livesey Branch Road. Then by a straight line from between 531 and 533 Livesey Branch Road to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm, and along the track via Fowler Fold but excluding Lower Whitehalgh Farm to Stockclough Lane and southerly by this lane to the M65 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H015_20170415_A3.pdf",
+      "description": "M65 Motorway and westerly by the motorway to the Diocesan boundary which follows the River Roddlesworth to its confluence with the River Darwen and upstream along the River Darwen to its confluence with the Alum House Brook and along this brook and Arley Brook to but excluding Arley Farm and southward by the tracks passing by but including Westholme School and across Meins Road to Billinge End Road. Eastwards along Billinge End Road to and along Killards Lane and the track to Under Billinge Lane and by this lane, Lawley Road and Billinge Avenue (both ofwhich are wholly in the parish of the Sacred Heart and St Anne) to and along Buncer Lane to its junction with Wensley Road. From the junction of Wensley Road and Buncer Lane, by a straight line across Witton Park to the Feniscliffe bridge where Preston Old Road crosses the River Darwen. Along Preston Old Road and St Francis Road (both sides) to its junction with Feniscliffe Drive, then by the track south-easterly crossing over the railway to the Leeds and Liverpool Canal. Then westerly by the canal to the bridge between Cherry Tree Lane and Beechwood Drive, and by Beechwood Drive (both sides) to Livesey Branch Road. Then by a straight line from between 531 and 533 Livesey Branch Road to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm, and along the track via Fowler Fold but excluding Lower Whitehalgh Farm to Stockclough Lane and southerly by this lane to the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "07/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H015_20170624_A3.pdf",
+      "description": "M65 Motorway and westerly by the motorway to the Diocesan boundary and N following the River Roddlesworth to its confluence with the River Darwen and upstream along the River Darwen otherwise the Blackburn with Darwen – Chorley district boundary, to its confluence with the Alum House Brook andnorth east to Arley Brook otherwise the Blackburn with Darwen – Ribble Valey district boundary to but excluding Arley Farm and southward by the tracks passing by but including Westholme School and across Meins Road to Billinge End Road. Eastwards along Billinge End Road to and along Killards Lane and the track to Under Billinge Lane and by this lane, Lawley Road and Billinge Avenue (both ofwhich are wholly in the parish of the Sacred Heart and St Anne) to and along Buncer Lane to its junction with Wensley Road. From the junction of Wensley Road and Buncer Lane, by a straight line across Witton Park to the Feniscliffe bridge where Preston Old Road crosses the River Darwen. Along Preston Old Road and St Francis Road (both sides) to its junction with Feniscliffe Drive, then by the track south-easterly crossing over the railway to the Leeds and Liverpool Canal. Then westerly by the canal to the bridge between Cherry Tree Lane and Beechwood Drive, and by Beechwood Drive (both sides) to Livesey Branch Road. Then by a straight line from between 531 and 533 Livesey Branch Road to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm, and along the track via Fowler Fold but excluding Lower Whitehalgh Farm to Stockclough Lane and southerly by this lane to the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

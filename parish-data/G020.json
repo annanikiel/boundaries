@@ -1,32 +1,69 @@
 {
   "id": "G020",
   "name": "Pope St John XXIII, Rochdale & Littleborough",
+  "shortName": "Pope St John XXIII",
+  "location": "Rochdale & Littleborough",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "13/07/2022",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G020_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G020_20220713_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G020_20220713_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G020_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road and railway station. Then SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary and St Patrick",
+        "description": "From the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013G015_20170415_A3.pdf",
+      "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road and railway station. Then SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary and St Patrick",
+          "description": "From the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G013G015_20170602_A3.pdf",
+      "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road and railway station. Then SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary and St Patrick",
+          "description": "From the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "13/07/2022",
       "status": "approved",
-      "note": " "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G020_20220713_A3.pdf",
+      "description": "From the Rochdale - Rossendale District boundary near Brownhouse Wham Reservoir, N along that boundary to Hades Hill and then along Rochdale - Calderdale District boundary, across Warland Reservoir, crossing Turvin Road (B6138) and Halifax Road (A58) to M62 Motorway near junction 22. Then W along the motorway to Lower Booth Hollins Farm and by a bee-line across Hollingworth Lake to Smithy Bridge Road and railway station. Then SW along the railway to the point it crosses Newbold railway branch. Then N by a bee-line to River Roch and W along it to South Parade. Then W to the roundabout and by a bee-line N to Spotland Road (A680) and its junction with Mount Street. Then by a bee-line S to the junction of Norman Road and Mellor Street. W and then N along Mellor Street and River Spodden to the Rochdale – Rossendale boundary and along that boundary to the point near Brownhouse Wham Reservoir",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary and St Patrick",
+          "description": "From the Smithy Bridge Railway Station to New Road, Halifax Road, Union Road. Then W by a beeline to the junction of Thimble Close and Birch Road, N along Birch Road to its junction with Ramsden Road and W by a beeline to Rochdale – Rossendale District boundary."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

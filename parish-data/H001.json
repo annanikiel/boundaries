@@ -1,23 +1,33 @@
 {
   "id": "H001",
   "name": "English Martyrs, Whalley",
+  "shortName": "English Martyrs",
+  "location": "Whalley",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "22/07/2022",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H001_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H001_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of the River Ribble and the River Calder at Hacking Hall, by River Ribble to its confluence with the brook between Shuttleworth Farm and ‘Fishes and Peggy Hill’. SE  in a straight line (excluding Standen Hey Farm but including Barrow Gardens) to the junction of  Whalley Road with the A671 and the A59. SE by a straight line to the trigonometry pillar 315m  near Jeppe Knave Grave, SW to the road at Wiswell Moor Houses and by this road to the track to Lower Clerk Hill Farm, SE  along Sabden Brook  to Read Old Bridge crossing Old Roman Roadand to Read New Bridge crossing A671 to its confluence with the River Calder. From Cock Bridge  crossing A680 downstream to its confluence with Dean Brook NW by Heys Farm and Berrys Lane to Shawcliffe Lane. From the boundary stone on Shawcliffe Lane  to the lane from Whalley Old Rd and to the junction of Elker Lane and Whalley New road (Pasturelands Drive being in English Martyrs) to the bridge over the A59, thence by a bee-line N to the weir opposite the sewage works on the River Calder. By this to its confluence with the River Ribble.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H001_20170415_A3.pdf",
+      "description": "From the confluence of the River Ribble and the River Calder at Hacking Hall, by River Ribble to its confluence with the brook between Shuttleworth Farm and ‘Fishes and Peggy Hill’. SE  in a straight line (excluding Standen Hey Farm but including Barrow Gardens) to the junction of  Whalley Road with the A671 and the A59. SE by a straight line to the trigonometry pillar 315m  near Jeppe Knave Grave, SW to the road at Wiswell Moor Houses and by this road to the track to Lower Clerk Hill Farm, SE  along Sabden Brook  to Read Old Bridge crossing Old Roman Roadand to Read New Bridge crossing A671 to its confluence with the River Calder. From Cock Bridge  crossing A680 downstream to its confluence with Dean Brook NW by Heys Farm and Berrys Lane to Shawcliffe Lane. From the boundary stone on Shawcliffe Lane  to the lane from Whalley Old Rd and to the junction of Elker Lane and Whalley New road (Pasturelands Drive being in English Martyrs) to the bridge over the A59, thence by a bee-line N to the weir opposite the sewage works on the River Calder. By this to its confluence with the River Ribble.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

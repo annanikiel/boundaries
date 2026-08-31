@@ -1,23 +1,33 @@
 {
   "id": "F013",
   "name": "St Joseph, Halliwell",
+  "shortName": "St Joseph",
+  "location": "Halliwell",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F013_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F013_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Smithills Dean Road meets Dean Brook, E by the Dean Brook, Astley Brook, to the point opposite Chapelfield Street, by Chapelfield Street and by a beeline to and along Wolfenden Street, then E along Halliwell Road, Kay Street, Topp Way, Higher Bridge Street, Prince Street, Merehall Drive, Gaskell Street, Chorley Old Road (B6226) to the junction of Shepherd Cross Street and Chorley Old Road, W along Chorley Old Road, Ivy Road, to its junction with Cunliffe Brow, then by Captain’s Clough to and N along Captain’s Clough Road to its junction with Church Road. Then from the junction of Captain’s Clough Road and Church Road, N along Captain’s Clough Road, Moss Bank Way, by a bee-line to Dean Brook (excluding Forest Road), NE along the brook, to the point opposite Redcar Road (both sides in St Joseph’s Halliwell) to Smithills Croft Road, then S along Smithills Croft Road to the point where it meets Dean Brook.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F013_20170415_A3.pdf",
+      "description": "From the point where Smithills Dean Road meets Dean Brook, E by the Dean Brook, Astley Brook, to the point opposite Chapelfield Street, by Chapelfield Street and by a beeline to and along Wolfenden Street, then E along Halliwell Road, Kay Street, Topp Way, Higher Bridge Street, Prince Street, Merehall Drive, Gaskell Street, Chorley Old Road (B6226) to the junction of Shepherd Cross Street and Chorley Old Road, W along Chorley Old Road, Ivy Road, to its junction with Cunliffe Brow, then by Captain’s Clough to and N along Captain’s Clough Road to its junction with Church Road. Then from the junction of Captain’s Clough Road and Church Road, N along Captain’s Clough Road, Moss Bank Way, by a bee-line to Dean Brook (excluding Forest Road), NE along the brook, to the point opposite Redcar Road (both sides in St Joseph’s Halliwell) to Smithills Croft Road, then S along Smithills Croft Road to the point where it meets Dean Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

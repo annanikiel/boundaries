@@ -1,23 +1,33 @@
 {
   "id": "D001",
   "name": "Christ the King, Burnley",
+  "shortName": "Christ the King",
+  "location": "Burnley",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D001_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D001_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "Along the M65 Motorway from the point where it crosses Green Brook to where it crosses the River Calder, then by the River Calder to Ashfield Road, along Ashfield Road, Westgate, Queen's Lancashire Way, Hammerton Street and Finsley Gate to the canal bridge, then by a bee-line through the junction of Marlborough Street and Springfield Road and passing between Rumley Road (Christ the King parish) and Brunswick Street (St Mary's parish) to the railway underbridge at Kirkgate, then by the railway to the tunnel entrance south of Priory Court and by a south-westerly bee-line to the Burnley Rossendale District boundary at Limy Water near Clowbridge Reservoir; by this boundary to the junction of the Burnley, Rossendale and Hyndburn boundaries at Higher Moor and then by a north easterly bee-line to the Green Brook at the western end of Burnley Cemetery by Billington Road and by this brook to the M65 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D001_20170415_A3.pdf",
+      "description": "Along the M65 Motorway from the point where it crosses Green Brook to where it crosses the River Calder, then by the River Calder to Ashfield Road, along Ashfield Road, Westgate, Queen's Lancashire Way, Hammerton Street and Finsley Gate to the canal bridge, then by a bee-line through the junction of Marlborough Street and Springfield Road and passing between Rumley Road (Christ the King parish) and Brunswick Street (St Mary's parish) to the railway underbridge at Kirkgate, then by the railway to the tunnel entrance south of Priory Court and by a south-westerly bee-line to the Burnley Rossendale District boundary at Limy Water near Clowbridge Reservoir; by this boundary to the junction of the Burnley, Rossendale and Hyndburn boundaries at Higher Moor and then by a north easterly bee-line to the Green Brook at the western end of Burnley Cemetery by Billington Road and by this brook to the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

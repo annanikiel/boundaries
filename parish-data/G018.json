@@ -1,27 +1,41 @@
 {
   "id": "G018",
   "name": "St Vincent de Paul, Norden",
+  "shortName": "St Vincent de Paul",
+  "location": "Norden",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G018_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G018_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G018_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G018_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the bend on the Rossendale Way near Grain Book, by a bee-line to Rossendale – Rochdale District boundary near Higher hill, then E and SE along that boundary to River Spodden, and S along River Spodden to College Road. S along College Road and Bury Road (B6222) to the point opposite Bridgefield Street, then E by a beeline to and S along River Roch to and N along Queen’s Park Road, Bury and Rochdale Old Road, then N along Ashworth Road to its junction with School Lane and W by a bee-line to and W along Cheesden Brook to Rossendale -Rochdale District boundary, to the point near Deeply Vale, and by a beeline to include Closes Farm. N by a beeline to the junction of Croston Close Road and Rochdale Road (A680), then in a straight line, following Cheesden Brook, to the bend on the Rossendale Way near Grain Brook.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G018_20170415_A3.pdf",
+      "description": "From the bend on the Rossendale Way near Grain Book, by a bee-line to Rossendale – Rochdale District boundary near Higher hill, then E and SE along that boundary to River Spodden, and S along River Spodden to College Road. S along College Road and Bury Road (B6222) to the point opposite Bridgefield Street, then E by a beeline to and S along River Roch to and N along Queen’s Park Road, Bury and Rochdale Old Road, then N along Ashworth Road to its junction with School Lane and W by a bee-line to and W along Cheesden Brook to Rossendale -Rochdale District boundary, to the point near Deeply Vale, and by a beeline to include Closes Farm. N by a beeline to the junction of Croston Close Road and Rochdale Road (A680), then in a straight line, following Cheesden Brook, to the bend on the Rossendale Way near Grain Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G018_20170602_A3.pdf",
+      "description": "From the bend on the Rossendale Way near Grain Book, by a bee-line to Rossendale – Rochdale District boundary near Higher hill, then E and SE along that boundary to River Spodden, and S along River Spodden to College Road. S along College Road and Bury Road (B6222) to the point opposite Bridgefield Street, then E by a beeline to and S along River Roch to and N along Queen’s Park Road, Bury and Rochdale Old Road, then N along Ashworth Road to its junction with School Lane and W by a bee-line to and W along Cheesden Brook to Rossendale -Rochdale District boundary, to the point near Deeply Vale, and by a beeline to include Closes Farm. N by a beeline to the junction of Croston Close Road and Rochdale Road (A680), then in a straight line, following Cheesden Brook, to the bend on the Rossendale Way near Grain Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

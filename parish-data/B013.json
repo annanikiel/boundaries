@@ -1,23 +1,33 @@
 {
   "id": "B013",
   "name": "St Mary of the Immaculate Conception, Swinton",
+  "shortName": "St Mary of the Immaculate Conception",
+  "location": "Swinton",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B013_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B013_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Clifton station in a straight line N to River Irwell. Then E along the river to Agecrofft Road. SE along Agecroft Road, S along Bolton Road, Fairway, S along Highfield Driver, Manchester Road, East Lancashire Road to its junction with Barton Road. Then S by a bee-line to the Folly Brook and along the brook, to the W border of Eccles College, N along that border and by a beeline to and N along Campbell Road, Worsley Road, Partington Lane (B5231), Station Road to Swinton Station and E along the railway. Then N along Pendlebury Road, Bolton Road, Carrington Street and by a beeline through Silverdale to Rake Lane, including Dewes Avenue estate. Then E along Rake Lane, Lumns Lane to the point opposite Clifton Station and by a beeline to the Clifton Station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B013_20170415_A3.pdf",
+      "description": "From Clifton station in a straight line N to River Irwell. Then E along the river to Agecrofft Road. SE along Agecroft Road, S along Bolton Road, Fairway, S along Highfield Driver, Manchester Road, East Lancashire Road to its junction with Barton Road. Then S by a bee-line to the Folly Brook and along the brook, to the W border of Eccles College, N along that border and by a beeline to and N along Campbell Road, Worsley Road, Partington Lane (B5231), Station Road to Swinton Station and E along the railway. Then N along Pendlebury Road, Bolton Road, Carrington Street and by a beeline through Silverdale to Rake Lane, including Dewes Avenue estate. Then E along Rake Lane, Lumns Lane to the point opposite Clifton Station and by a beeline to the Clifton Station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

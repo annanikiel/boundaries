@@ -1,24 +1,43 @@
 {
   "id": "D026",
   "name": "Holy Apostles, Rossendale",
+  "shortName": "Holy Apostles",
+  "location": "Rossendale",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "20/07/2023",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D026_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D026_20230720_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D026_20230720_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D026_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of the Hyndburn, Rossendale and Burnley District Boundaries at Higher Moor, (to the E of Accrington) E by the Rossendale - Burnley District boundary to the inflow into Clowbridge Reservoir at Limy Water, SE by the Rossendale - Burnley District boundary to the E side of Clough Bottom Reservoir, S by a straight line to Newchurch Old Road at its junction with the footpath then by a line drawn between the Fernhill estate (Rawtenstall and Newchurch parish) and the Rockcliffe Estate (Bacup and Whitworth parish) to the steps on Anvil Street, W along Anvil Street, Rushton St, crossing Newchurch Road, Glen Street and Lee Road to the SE corner of the cemetery, S by a straight line to the civil parish boundary stone at Jackson's Moor. S to the boundary stone at Old Slink Slack and W by the Rossendale - Rochdale District boundary to and along the track (Rossendale Way) passing S of Cowpe Lowe to the end of Sand Beds Lane, W in a straight line to the boundary stone on Burnley Road, continuing in a straight line to and N along the A56(T) by-pass to the roundabout connecting the A56(T), the A680 and the B6527, N by a straight lin e  crossing Haslingdon Road A681 to the junction of Kirkhill Road and Haslingden Old Road  at Height End, N by Laund Lane to Cribden End Lane and N by the track to Cribden Side and N by the King’s Highway to and along the Rossendale - Hyndburn District Boundary to Higher Moor where the boundaries of Hyndburn, Rossendale and Burnley Districts meet.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St James the Lees and St Joseph with St Peter",
+        "description": "S in a straight line to Edge Lane, Dobbin Lane and Peel Street crossing Bacup, Road A681 and S from the junction with Hill End Lane to Cowpe Lowe to meet the end of Sand Beds Lane."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "20/07/2023",
       "status": "approved",
-      "note": " "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D026_20230720_A3.pdf",
+      "description": "From the junction of the Hyndburn, Rossendale and Burnley District Boundaries at Higher Moor, (to the E of Accrington) E by the Rossendale - Burnley District boundary to the inflow into Clowbridge Reservoir at Limy Water, SE by the Rossendale - Burnley District boundary to the E side of Clough Bottom Reservoir, S by a straight line to Newchurch Old Road at its junction with the footpath then by a line drawn between the Fernhill estate (Rawtenstall and Newchurch parish) and the Rockcliffe Estate (Bacup and Whitworth parish) to the steps on Anvil Street, W along Anvil Street, Rushton St, crossing Newchurch Road, Glen Street and Lee Road to the SE corner of the cemetery, S by a straight line to the civil parish boundary stone at Jackson's Moor. S to the boundary stone at Old Slink Slack and W by the Rossendale - Rochdale District boundary to and along the track (Rossendale Way) passing S of Cowpe Lowe to the end of Sand Beds Lane, W in a straight line to the boundary stone on Burnley Road, continuing in a straight line to and N along the A56(T) by-pass to the roundabout connecting the A56(T), the A680 and the B6527, N by a straight lin e  crossing Haslingdon Road A681 to the junction of Kirkhill Road and Haslingden Old Road  at Height End, N by Laund Lane to Cribden End Lane and N by the track to Cribden Side and N by the King’s Highway to and along the Rossendale - Hyndburn District Boundary to Higher Moor where the boundaries of Hyndburn, Rossendale and Burnley Districts meet.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St James the Lees and St Joseph with St Peter",
+          "description": "S in a straight line to Edge Lane, Dobbin Lane and Peel Street crossing Bacup, Road A681 and S from the junction with Hill End Lane to Cowpe Lowe to meet the end of Sand Beds Lane."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

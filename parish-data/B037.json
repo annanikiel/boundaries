@@ -1,0 +1,51 @@
+{
+  "id": "B037",
+  "name": "Our Lady of Hope, Salford",
+  "shortName": "Our Lady of Hope",
+  "location": "Salford",
+  "deaneryId": "B",
+  "status": "current",
+  "parishNumber": 6,
+  "note": null,
+  "maps": {
+    "updated": "09/12/2018",
+    "approval": "approved",
+    "links": {
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B027_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B027_A4.pdf"
+    }
+  },
+  "boundary": {
+    "description": "From the point where Agecroft Road crosses the railway, S along Salford Crescent – Clifton railway then by a bee-line to Salford Crescent – Swinton railway to Laundry Street. W along Laundry Street, Nave Court, Charles Street, Broad Street and by a bee-line to Chasely Road, Eccles Old Road, Half Edge Lane, Victoria Crescent, Ellesmere Road to the end of the road. Then NW by a beeline to Folly Brook and by a beeline across Eccles College to the border of Swinton Park Golf Club, and NE along Welwyn Drive (both sides in Our Lady of Hope parish), E along East Lancashire Road and Manchester road. Then by a bee-line NE to and along Highfiled Drive, Fairway, NW along Bolton Road and Agevroft Road to the point it crosses the railway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Luke and Ss Peter and Paul",
+        "description": "From the unction of Eccles Old Road and Claremont Road, N along Claremont Road, Cholmondeley Road, N along Lancaster Road and along Sunningdale Drive to the end of the road (both sides in St Luke parish)."
+      }
+    ],
+    "supplementaryNote": null
+  },
+  "auditTrail": [
+    {
+      "date": "09/12/2018",
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B027_20181209_A3.pdf",
+      "description": "From the point where Agecroft Road crosses the railway, S along Salford Crescent – Clifton railway then by a bee-line to Salford Crescent – Swinton railway to Laundry Street. W along Laundry Street, Nave Court, Charles Street, Broad Street and by a bee-line to Chasely Road, Eccles Old Road, Half Edge Lane, Victoria Crescent, Ellesmere Road to the end of the road. Then NW by a beeline to Folly Brook and by a beeline across Eccles College to the border of Swinton Park Golf Club, and NE along Welwyn Drive (both sides in Our Lady of Hope parish), E along East Lancashire Road and Manchester road. Then by a bee-line NE to and along Highfiled Drive, Fairway, NW along Bolton Road and Agevroft Road to the point it crosses the railway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Luke and Ss Peter and Paul",
+          "description": "From the unction of Eccles Old Road and Claremont Road, N along Claremont Road, Cholmondeley Road, N along Lancaster Road and along Sunningdale Drive to the end of the road (both sides in St Luke parish)."
+        }
+      ],
+      "supplementaryNote": null
+    }
+  ],
+  "map": {
+    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/B023.geojson",
+    "center": [
+      -257657.870255063,
+      7075673.0
+    ],
+    "zoom": 13
+  }
+}

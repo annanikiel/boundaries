@@ -1,23 +1,33 @@
 {
   "id": "B009",
   "name": "St Teresa of Avila, Irlam",
+  "shortName": "St Teresa of Avila",
+  "location": "Irlam",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B009_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B009_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Astley Road crosses Wigan – Salford District boundary, S along Astley Road, Roscoe Road, Fairhills Road and by a bee-line to the Manchester Ship Canal. Then W along Salford – Trafford District boundary and N along Warrington – Salford District boundary and E along Wigan – Salford District boundary to the point where it crosses Astley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B009_20170415_A3.pdf",
+      "description": "From the point where Astley Road crosses Wigan – Salford District boundary, S along Astley Road, Roscoe Road, Fairhills Road and by a bee-line to the Manchester Ship Canal. Then W along Salford – Trafford District boundary and N along Warrington – Salford District boundary and E along Wigan – Salford District boundary to the point where it crosses Astley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {
