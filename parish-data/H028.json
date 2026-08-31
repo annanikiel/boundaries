@@ -1,27 +1,56 @@
 {
   "id": "H028",
   "name": "Holy Family and Our Lady of Perpetual Succour",
+  "shortName": "Holy Family and Our Lady of Perpetual Succour",
+  "location": null,
   "deaneryId": "H",
   "status": "proposed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H002H006_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H002H006_20170624_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H002H006_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H002H006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the roundabout at Junction 6, along the slip road to and S along the M65 Motorway to Lower Spew Spout Farm, then S by the Hyndburn - Blackburn with Darwen District Boundary to Belthorn Road (but excluding Belthorn Village) SW to the bend at Tower View W by a straight line passing north of Bank Fold Farm and N of New Waterside Paper Mill and by the stream to Davy Field Bridge at the M65,N along Roman Road west along Stopes Brow, Rakes Bridge, Fore Street, by the River Darwen to Bolton Road and north to the Railway Station to Cicily Lane and Cicily Street to the Leeds and Liverpool Canal. By the canal to Hardwood Street to its junction with Stanley Street. Then by a straight beeline to and along the railway to Whitebirk Drive, S to the roundabout at Junction 6 of the M65 Motorway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Holy Family and Our Lady of Perpetual Succour",
+        "description": "From the junction with Blackamoor Road north by Roman Road to Brandy House Brow and west by Park Lee Road Lyndhurst Road Pritchard St and Longshaw Lane to Ewood Bridge."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H002H006_20170415_A3.pdf",
+      "description": "From the roundabout at Junction 6, along the slip road to and S along the M65 Motorway to Lower Spew Spout Farm, then by the Hyndburn - Blackburn with Darwen District Boundary S to and by Elton Rd A6177, W by Belthorn Road (but excluding Belthorn Village) to the bend at Tower View W by a straight line passing north of Bank Fold Farm and N of New Waterside Paper Mill and by the stream to Davy Field Bridge at the M65,N along Roman Road west along Stopes Brow, Rakes Bridge, Fore Street, by the River Darwen to Bolton Road and north by the railway line to the Railway Station to Cicily Lane and Cicily Street to the Leeds and Liverpool Canal. By the canal to Hardwood Street to its junction with Stanley Street.\nThen by a straight beeline to and along the railway to Whitebirk Drive, S to the roundabout at Junction 6 of the M65 Motorway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Family and Our Lady of Perpetual Succour",
+          "description": "From the junction with Blackamoor Road north by Roman Road to Brandy House Brow and west by Park Lee Road Lyndhurst Road Pritchard St and Longshaw Lane to Ewood Bridge."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "07/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H002H006_20170624_A3.pdf",
+      "description": "From the roundabout at Junction 6, along the slip road to and S along the M65 Motorway to Lower Spew Spout Farm, then S by the Hyndburn - Blackburn with Darwen District Boundary to Belthorn Road (but excluding Belthorn Village) SW to the bend at Tower View W by a straight line passing north of Bank Fold Farm and N of New Waterside Paper Mill and by the stream to Davy Field Bridge at the M65,N along Roman Road west along Stopes Brow, Rakes Bridge, Fore Street, by the River Darwen to Bolton Road and north to the Railway Station to Cicily Lane and Cicily Street to the Leeds and Liverpool Canal. By the canal to Hardwood Street to its junction with Stanley Street. Then by a straight beeline to and along the railway to Whitebirk Drive, S to the roundabout at Junction 6 of the M65 Motorway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Family and Our Lady of Perpetual Succour",
+          "description": "From the junction with Blackamoor Road north by Roman Road to Brandy House Brow and west by Park Lee Road Lyndhurst Road Pritchard St and Longshaw Lane to Ewood Bridge."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

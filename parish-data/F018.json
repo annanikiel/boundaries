@@ -1,29 +1,50 @@
 {
   "id": "F018",
   "name": "St Vincent de Paul, Over Hulton",
+  "shortName": "St Vincent de Paul",
+  "location": "Over Hulton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F018_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F018_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F018_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F018_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bolton – Salford District crosses M61 Motorway, S along the district boundary to and W along Wigan – Bolton boundary, then by W boundary of Westhoughton Civil Parish to and E along the M61 Motorway to the point where it crosses Bolton-Slaford District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": {
+      "title": "The Civil Parish boundary can be described as follows:",
+      "text": "From the point on the Bolton - Salford District boundary, opposite Oxford Road and by a bee-line N including Rawsthorne Wood and Markland plantation and excluding Brancker Street, crossing Manchester Road (A6) and Punch Lane to M61 Motorway (excluding junction 5 slip roads)."
+    }
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
       "status": "draft",
-      "note": "From the point on the Bolton - Salford District boundary, opposite Oxford Road and by a bee-line N including Rawsthorne Wood and Markland plantation and excluding Brancker Street, crossing Manchester Road (A6) and Punch Lane to M61 Motorway (excluding junction 5 slip roads). "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F018_20170415_A3.pdf",
+      "description": "From the point where Bolton – Salford District crosses M61 Motorway, S along the district boundary to and W along Wigan – Bolton boundary, then by W boundary of Westhoughton Civil Parish to and E along the M61 Motorway to the point where it crosses Bolton-Slaford District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "The Civil Parish boundary can be described as follows:",
+        "text": "From the point on the Bolton - Salford District boundary, opposite Oxford Road and by a bee-line N including Rawsthorne Wood and Markland plantation and excluding Brancker Street, crossing Manchester Road (A6) and Punch Lane to M61 Motorway (excluding junction 5 slip roads)."
+      }
     },
     {
       "date": "28/06/2017",
       "status": "draft",
-      "note": "From the point on the Bolton - Salford District boundary, opposite Oxford Road and by a bee-line N including Rawsthorne Wood and Markland plantation and excluding Brancker Street, crossing Manchester Road (A6) and Punch Lane to M61 Motorway (excluding junction 5 slip roads). "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F018_20170628_A3.pdf",
+      "description": "From the point where Bolton – Salford District crosses M61 Motorway, S along the district boundary to and W along Wigan – Bolton boundary, then by W boundary of Westhoughton Civil Parish to and E along the M61 Motorway to the point where it crosses Bolton-Slaford District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "The Civil Parish boundary can be described as follows:",
+        "text": "From the point on the Bolton - Salford District boundary, opposite Oxford Road and by a bee-line N including Rawsthorne Wood and Markland plantation and excluding Brancker Street, crossing Manchester Road (A6) and Punch Lane to M61 Motorway (excluding junction 5 slip roads)."
+      }
     }
   ],
   "map": {

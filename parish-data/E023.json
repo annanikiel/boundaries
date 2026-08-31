@@ -1,23 +1,43 @@
 {
   "id": "E023",
   "name": "The Parish of the Nativity, Oldham",
+  "shortName": "The Parish of the Nativity",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E023_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E023_20181209_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E023_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E023_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the M60 Motorway junction 22, E along Hollins Road (A6104), to its junction with North Gate. S along North Gate, Fairfields, then by a beeline across Wood Park Clough to the junction of Crime Lane, Knott Lanes and unnamed road by Riversvale Farm. Along the unnamed road to the Tameside – Oldham District boundary and River Medlock. E along River Medlock to the railway bridge and by the railway to Millstream Lane. Then N by Manchester – Oldham District boundary, crossing Oldham Road and following Moston Brook to the point opposite the crossing of Rochdale canal and the railway. Then NE by Oldham Road to the M60 Motorway junction 22.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Immaculate Conception and Holy Family",
+        "description": "M60 Motorway"
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E023_20181209_A3.pdf",
+      "description": "From the M60 Motorway junction 22, E along Hollins Road (A6104), to its junction with North Gate. S along North Gate, Fairfields, then by a beeline across Wood Park Clough to the junction of Crime Lane, Knott Lanes and unnamed road by Riversvale Farm. Along the unnamed road to the Tameside – Oldham District boundary and River Medlock. E along River Medlock to the railway bridge and by the railway to Millstream Lane. Then N by Manchester – Oldham District boundary, crossing Oldham Road and following Moston Brook to the point opposite the crossing of Rochdale canal and the railway. Then NE by Oldham Road to the M60 Motorway junction 22.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Immaculate Conception and Holy Family",
+          "description": "M60 Motorway"
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

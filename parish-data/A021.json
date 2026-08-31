@@ -1,23 +1,33 @@
 {
   "id": "A021",
   "name": "Sacred Heart and St Francis of Assisi, Gorton",
+  "shortName": "Sacred Heart and St Francis of Assisi",
+  "location": "Gorton",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A021_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A021_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A021_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A021_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the railway junction north of Ardwick Station, along the Manchester - Sheffield railway line to the point where it crosses the course of the disused Stockport canal, and by the line of the disused Stockport Canal to Hyde Road, along Hyde Road, Brighton Range, Turnbull Road to Reddish Lane then by a beeline along but excluding Bowling Road to Gorton Cemetery and by the cemetery wall to the Manchester – Stockport MBC boundary to and by Sandford Lane to Mount Road and along Mount Road, Longsight Road, Pink Bank Lane (but excluding Woodhill Close, Totland Close, Calbourne Close, Newsham Walk, Cullercoates Walk, Wylam Walk, Specton Way), Kirkmanshulme Lane to Hyde Road, along Hyde Road to and by the railway line to the junction with the Manchester Sheffield railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A021_20170415_A3.pdf",
+      "description": "From the railway junction north of Ardwick Station, along the Manchester - Sheffield railway line to the point where it crosses the course of the disused Stockport canal, and by the line of the disused Stockport Canal to Hyde Road, along Hyde Road, Brighton Range, Turnbull Road to Reddish Lane then by a beeline along but excluding Bowling Road to Gorton Cemetery and by the cemetery wall to the Manchester – Stockport MBC boundary to and by Sandford Lane to Mount Road and along Mount Road, Longsight Road, Pink Bank Lane (but excluding Woodhill Close, Totland Close, Calbourne Close, Newsham Walk, Cullercoates Walk, Wylam Walk, Specton Way), Kirkmanshulme Lane to Hyde Road, along Hyde Road to and by the railway line to the junction with the Manchester Sheffield railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "E002",
   "name": "Holy Family and Holy Rosary, Oldham",
+  "shortName": "Holy Family and Holy Rosary",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 0,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E002_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E002_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E002_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E002_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the M60 Motorway junction 22, E along Hollins Road (A6104) Copster Hill Road, Schofield Street, Ashton Street, Villa Road, Belgrave Road, and by a straight line to King’s Road. SE along King’s Road and by Snipe Clough to and along Oldham – Tameside District boundary (S, then W) to the M60 Motorway and N by the Motorway to junction 22.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E002_20170415_A3.pdf",
+      "description": "From the M60 Motorway junction 22, E along Hollins Road (A6104) Copster Hill Road, Schofield Street, Ashton Street, Villa Road, Belgrave Road, and by a straight line to King’s Road. SE along King’s Road and by Snipe Clough to and along Oldham – Tameside District boundary (S, then W) to the M60 Motorway and N by the Motorway to junction 22.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

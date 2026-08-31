@@ -1,23 +1,33 @@
 {
   "id": "H025",
   "name": "St Wilfrid, Longridge",
+  "shortName": "St Wilfrid",
+  "location": "Longridge",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H025_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H025_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H025_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H025_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From and E along Loud Bridge Rd near Fairclough Farm, Height Ln, Hesketh Ln, Rock Brow, Forty Acre Ln, then E onto unnamed road near Cardwell House to its bend, and then along track to Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411. S passing between Lennox Farm and Plantation farm the Goodshaw House passing to the E of Dutton Manor to Dean Brow on the B6243. Then E along Dean Brown, Clitheroe Rd, Lower Rd to and west, then north along diocesan boundary to the Loud Bridge Rd.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H025_20170415_A3.pdf",
+      "description": "From and E along Loud Bridge Rd near Fairclough Farm, Height Ln, Hesketh Ln, Rock Brow, Forty Acre Ln, then E onto unnamed road near Cardwell House to its bend, and then along track to Longridge Fell Trigonometric Point at Spire Hill on Longridge Fell OS658411. S passing between Lennox Farm and Plantation farm the Goodshaw House passing to the E of Dutton Manor to Dean Brow on the B6243. Then E along Dean Brown, Clitheroe Rd, Lower Rd to and west, then north along diocesan boundary to the Loud Bridge Rd.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "A011",
   "name": "St Bernadette, Withington",
+  "shortName": "St Bernadette",
+  "location": "Withington",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Mauldeth Road West and Doncaster Avenue, along Doncaster Avenue, Whitchurch Road, Meltham Avenue, Abberton Road, Burton Road, Nell Lane, Mauldeth Road West, Alexandra Road South, Platt Brook, Princess Road, Mauldeth Road West to its junction with Doncaster Avenue.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A011_20170415_A3.pdf",
+      "description": "From the junction of Mauldeth Road West and Doncaster Avenue, along Doncaster Avenue, Whitchurch Road, Meltham Avenue, Abberton Road, Burton Road, Nell Lane, Mauldeth Road West, Alexandra Road South, Platt Brook, Princess Road, Mauldeth Road West to its junction with Doncaster Avenue.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

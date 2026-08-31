@@ -1,23 +1,33 @@
 {
   "id": "B005",
   "name": "St Edmund, Little Hulton",
+  "shortName": "St Edmund",
+  "location": "Little Hulton",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B005_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where M61 Motorway crosses Worsley Road North, S along Worsley Road North, Bolton Road, along N border of Tesco store to Campbell Way, then S by a beeline crossing High Street and Hilton Lane and going between Athens Drive (in Christ the King parish) and Kinsley Drive (in St Edmund parish) to Ellenbrok Loopline (E border of Dukes Manor) and by a beeline to the Tyldesly Loopline and then to and N along Wigan – Salford District boundary and Bolton – Salford District boundary to the point where M61 Motorway crosses Worsley Road North.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B005_20170415_A3.pdf",
+      "description": "From the point where M61 Motorway crosses Worsley Road North, S along Worsley Road North, Bolton Road, along N border of Tesco store to Campbell Way, then S by a beeline crossing High Street and Hilton Lane and going between Athens Drive (in Christ the King parish) and Kinsley Drive (in St Edmund parish) to Ellenbrok Loopline (E border of Dukes Manor) and by a beeline to the Tyldesly Loopline and then to and N along Wigan – Salford District boundary and Bolton – Salford District boundary to the point where M61 Motorway crosses Worsley Road North.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

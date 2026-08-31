@@ -1,27 +1,56 @@
 {
   "id": "C020",
   "name": "Holy Spirit, Manchester",
+  "shortName": "Holy Spirit",
+  "location": "Manchester",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 8,
+  "note": "Amalgamation of St Anne with St Brigid and St Willibrord",
   "maps": {
     "updated": "22/09/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C020_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C020_20170922_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C020_20170922_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C020_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Rochdale Canal crosses the railway, near Lord North Street, along the railway to its crossing with Ten Acres Lane, then S along Ten Acres Lane, Bank Bridge Road, Bank Street to the point where it crosses River Medlock. E along River Medlock to the point where it crosses Edge Lane then by a bee-line along W boundary of Sunnybank Park and across School Play Fields to Sunny Bank Road. Then W along Manchester Road, S along Buxton Lane, to and NE along Ashton Canal to Edge Lane. Then S along Edge Lane and W along Wheler Street and Ettrick Street to the end of the road and by a bee-line to Ashton Old Road, Lees Street to the railway. Then W along the railway through Gorton, Ashburys, Ardwick and Piccadily Stations. Then W along Fairfield Street, London Road, Piccadilly, Newton Street, Hilton Street, Stevenson Square, Hilton Street, Thomas Street, John Street, Turner Street, High Street, Shudehill, Swann Street, Oldham Road, Poland Street, to and E along Rochdale Canal to the point where it crosses the railway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Anne with St Brigid and St Willibrord",
+        "description": "Along Ashton canal, Ashton New Road, Bank Street and the footpath to the bridge on River Medlock, then W along River Medlock to its crossing with Bank Street."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "18/09/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C020_20170918_A3.pdf",
+      "description": "From the point where Rochdale Canal crosses the railway, near Lord North Street, along the railway to its crossing with Ten Acres Lane, then S along Ten Acres Lane, Bank Bridge Road, Bank Street to the point where it crosses River Medlock. E along River Medlock to the point where it crosses Edge Lane then by a bee-line along W boundary of Sunnybank Park and across School Play Fields to Sunny Bank Road. Then W along Manchester Road, S along Buxton Lane, to and NE along Ashton Canal to Edge Lane. Then S along Edge Lane and W along Wheler Street and Ettrick Street to the end of the road and by a bee-line to Ashton Old Road, Lees Street to the railway. Then W along the railway through Gorton, Ashburys, Ardwick and Piccadily Stations. Then W along Fairfield Street, London Road, Piccadilly, Newton Street, Hilton Street, Stevenson Square, Hilton Street, Thomas Street, John Street, Turner Street, High Street, Shudehill, Swann Street, Oldham Road, Poland Street, to and E along Rochdale Canal to the point where it crosses the railway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Anne with St Brigid and St Willibrord",
+          "description": "Along Ashton canal, Ashton New Road, Bank Street and the footpath to the bridge on River Medlock, then W along River Medlock to its crossing with Bank Street."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "22/09/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C020_20170922_A3.pdf",
+      "description": "From the point where Rochdale Canal crosses the railway, near Lord North Street, along the railway to its crossing with Ten Acres Lane, then S along Ten Acres Lane, Bank Bridge Road, Bank Street to the point where it crosses River Medlock. E along River Medlock to the point where it crosses Edge Lane then by a bee-line along W boundary of Sunnybank Park and across School Play Fields to Sunny Bank Road. Then W along Manchester Road, S along Buxton Lane, to and NE along Ashton Canal to Edge Lane. Then S along Edge Lane and W along Wheler Street and Ettrick Street to the end of the road and by a bee-line to Ashton Old Road, Lees Street to the railway. Then W along the railway through Gorton, Ashburys, Ardwick and Piccadily Stations. Then W along Fairfield Street, London Road, Piccadilly, Newton Street, Hilton Street, Stevenson Square, Hilton Street, Thomas Street, John Street, Turner Street, High Street, Shudehill, Swann Street, Oldham Road, Poland Street, to and E along Rochdale Canal to the point where it crosses the railway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Anne with St Brigid and St Willibrord",
+          "description": "Along Ashton canal, Ashton New Road, Bank Street and the footpath to the bridge on River Medlock, then W along River Medlock to its crossing with Bank Street."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

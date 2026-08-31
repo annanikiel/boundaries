@@ -1,23 +1,33 @@
 {
   "id": "D010",
   "name": "St Joseph, Accrington",
+  "shortName": "St Joseph",
+  "location": "Accrington",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 4,
+  "note": "Now part of a new parish of St Anne and St Joseph (22.09.2017)",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D010_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the M65 Motorway junction with the A6185 Dunkenhalgh Way, by a beeline to the junction of Dill Hall Lane and First Avenue, then by First Avenue (both sides in St Mary's Parish, Clayton le Moors) to and by Whalley Road to and along Haworth Street, then by a beeline to the bend in Whinney Hill Road via but excluding Sankey House Farm Caravan Site and by Whinney Hill Road and Clough Brook to the M65 Motorway, then eastwards by the Motorway to its junction with the A56(T), Hyndburn Road (A679) and Dunkenhalgh Way to its junction with the M65 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D010_20170415_A3.pdf",
+      "description": "From the M65 Motorway junction with the A6185 Dunkenhalgh Way, by a beeline to the junction of Dill Hall Lane and First Avenue, then by First Avenue (both sides in St Mary's Parish, Clayton le Moors) to and by Whalley Road to and along Haworth Street, then by a beeline to the bend in Whinney Hill Road via but excluding Sankey House Farm Caravan Site and by Whinney Hill Road and Clough Brook to the M65 Motorway, then eastwards by the Motorway to its junction with the A56(T), Hyndburn Road (A679) and Dunkenhalgh Way to its junction with the M65 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

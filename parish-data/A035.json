@@ -1,23 +1,51 @@
 {
   "id": "A035",
   "name": "St Winifred, St Mary and St Bernard",
+  "shortName": "St Winifred, St Mary and St Bernard",
+  "location": null,
   "deaneryId": "A",
   "status": "proposed",
+  "parishNumber": 14,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A020A025A027_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A020A025A027_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A020A025A027_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A020A025A027_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Egerton Road and Royle Street, E along Royle Street, Kingswood Road, Kingsway, Grangethorpe Road, Crossley Road, Stockport Road, Norfolk Avenue. Then by a beeline to and along Carnforth Road, Nelstrop Road, Broadstone Road, Manchester Road, Whitehill Street West, Greg Street, Birkdale Road, Sandy Lane, Willow Avenue and by a beeline to River Tame ( all Woodhall Crescent estate in St Mary’s parish). S by River Tame and River Mersey. Then N along Manchester Stockport District boundary to Barcicroft Road, Westcroft Road, Parrs Wood Road and Egerton Road to its junction with Royle Street.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Bernard and St Winifred",
+        "description": "Along Manchester – Stockport District boundary"
+      },
+      {
+        "name": "Former boundary between St Mary and St Winifred",
+        "description": "From the point where the railway crosses Crossley Road, S along the railway to and W along Heaton Road, Alexandra Road, Green Lane, by a footpath across Bowerfold Open Space to Green Lane , through M60 junction 1 to River Mersey."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A020A025A027_20170415_A3.pdf",
+      "description": "From the junction of Egerton Road and Royle Street, E along Royle Street, Kingswood Road, Kingsway, Grangethorpe Road, Crossley Road, Stockport Road, Norfolk Avenue. Then by a beeline to and along Carnforth Road, Nelstrop Road, Broadstone Road, Manchester Road, Whitehill Street West, Greg Street, Birkdale Road, Sandy Lane, Willow Avenue and by a beeline to River Tame ( all Woodhall Crescent estate in St Mary’s parish). S by River Tame and River Mersey. Then N along Manchester Stockport District boundary to Barcicroft Road, Westcroft Road, Parrs Wood Road and Egerton Road to its junction with Royle Street.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Bernard and St Winifred",
+          "description": "Along Manchester – Stockport District boundary"
+        },
+        {
+          "name": "Former boundary between St Mary and St Winifred",
+          "description": "From the point where the railway crosses Crossley Road, S along the railway to and W along Heaton Road, Alexandra Road, Green Lane, by a footpath across Bowerfold Open Space to Green Lane , through M60 junction 1 to River Mersey."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

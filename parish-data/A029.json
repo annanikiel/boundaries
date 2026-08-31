@@ -1,23 +1,59 @@
 {
   "id": "A029",
   "name": "Saint Antony of Padua, Stretford and Trafford Park",
+  "shortName": "Saint Antony of Padua",
+  "location": "Stretford and Trafford Park",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "03/11/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A029_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A029_20191103_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A029_20191103_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A029_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of Manchester Ship Canal and Bridgewater Canal (Stretford and Leigh Branch), SE along the Bridgewater Canal to and S along Old Trafford Road, S along Wharfside Way, White City Way and by a beeline to and SW along the railway. Then S by Great Stone Road and Kings Road to its junction with Marston Road and by a beeline to and SW along Trafford – Manchester District boundary to River Mersey. W along the River Mersey to the point opposite Meadow Road and by a beeline to and N along Lime Tree Close, Stretford Road, Ciss Lane, St Clements Fold (both sides in Our lady and English Martyrs parish). Continuing N along Westbourne Park, Winchester Road, Furness Road, Canterbury Road, Rochester Road, Lostock Road, Romley Road and by a beeline to Kingsway Park, Skye Road (after its junction with Iona Way both sides in Our Lady and English Martyrs parish), then E along Shetland Way and by a beeline to M60 Motorway. W along the Motorway to Manchester Ship Canal and E along the Canal to its confluence with Bridgewater Canal.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Hugh of Lincoln and St Ann",
+        "description": "From the point where Bridgewater Canal Stretford and Leigh branch crosses Park Road, along Park Road to, and W along the railway, then S along Barton Road, Manor Road, Urmston Lane, Anchorage Road and by a straight line S to River Mersey."
+      },
+      {
+        "name": "Former boundary between St Hugh of Lincoln and St Anthony",
+        "description": "From the point where Bridgewater Canal Stretford and Leigh Branch crosses park Road, NW along that canal to its confluence with Manchester Ship Canal."
+      },
+      {
+        "name": "Former boundary between St Anthony and St Ann",
+        "description": "From the point wherer Bridgewater Canal Towpath crosses Old Trafford Road, S along Bridgewater Canal Towpath to its confluence with Bridgewater Canal Stretford and Leigh Branch and along that canal to the point where it crosses Park Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "03/11/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A029_20191103_A3.pdf",
+      "description": "From the confluence of Manchester Ship Canal and Bridgewater Canal (Stretford and Leigh Branch), SE along the Bridgewater Canal to and S along Old Trafford Road, S along Wharfside Way, White City Way and by a beeline to and SW along the railway. Then S by Great Stone Road and Kings Road to its junction with Marston Road and by a beeline to and SW along Trafford – Manchester District boundary to River Mersey. W along the River Mersey to the point opposite Meadow Road and by a beeline to and N along Lime Tree Close, Stretford Road, Ciss Lane, St Clements Fold (both sides in Our lady and English Martyrs parish). Continuing N along Westbourne Park, Winchester Road, Furness Road, Canterbury Road, Rochester Road, Lostock Road, Romley Road and by a beeline to Kingsway Park, Skye Road (after its junction with Iona Way both sides in Our Lady and English Martyrs parish), then E along Shetland Way and by a beeline to M60 Motorway. W along the Motorway to Manchester Ship Canal and E along the Canal to its confluence with Bridgewater Canal.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Hugh of Lincoln and St Ann",
+          "description": "From the point where Bridgewater Canal Stretford and Leigh branch crosses Park Road, along Park Road to, and W along the railway, then S along Barton Road, Manor Road, Urmston Lane, Anchorage Road and by a straight line S to River Mersey."
+        },
+        {
+          "name": "Former boundary between St Hugh of Lincoln and St Anthony",
+          "description": "From the point where Bridgewater Canal Stretford and Leigh Branch crosses park Road, NW along that canal to its confluence with Manchester Ship Canal."
+        },
+        {
+          "name": "Former boundary between St Anthony and St Ann",
+          "description": "From the point wherer Bridgewater Canal Towpath crosses Old Trafford Road, S along Bridgewater Canal Towpath to its confluence with Bridgewater Canal Stretford and Leigh Branch and along that canal to the point where it crosses Park Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

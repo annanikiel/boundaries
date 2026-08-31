@@ -1,23 +1,33 @@
 {
   "id": "D008",
   "name": "St John the Baptist, Burnley",
+  "shortName": "St John the Baptist",
+  "location": "Burnley",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D008_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the River Calder by the Burnley - Pendle District Boundary across the M65 Motorway to Pendle Water, by Pendle Water to New in Pendle Bridge and by Barden Lane back to the Burnley - Pendle District Boundary so that the whole of the Healdwood Drive Estate lies within St John's parish, then by the Burnley - Pendle District Boundary to Back Lane by Upper Coldwell Reservoir and by this same boundary to the Diocesan (Lancashire - Yorkshire) Boundary. Then South East and South by this boundary to the boundary stone near Birkin Clough and then by a bee-line to Swinden Water. By Swinden Water and the River Brun to the Leeds and Liverpool Canal and by the Canal to Colne Road and by the path to Burnley Central Station and by the railway to where it crosses the River Calder and then by the River Calder to the Burnley - Pendle District Boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D008_20170415_A3.pdf",
+      "description": "From the River Calder by the Burnley - Pendle District Boundary across the M65 Motorway to Pendle Water, by Pendle Water to New in Pendle Bridge and by Barden Lane back to the Burnley - Pendle District Boundary so that the whole of the Healdwood Drive Estate lies within St John's parish, then by the Burnley - Pendle District Boundary to Back Lane by Upper Coldwell Reservoir and by this same boundary to the Diocesan (Lancashire - Yorkshire) Boundary. Then South East and South by this boundary to the boundary stone near Birkin Clough and then by a bee-line to Swinden Water. By Swinden Water and the River Brun to the Leeds and Liverpool Canal and by the Canal to Colne Road and by the path to Burnley Central Station and by the railway to where it crosses the River Calder and then by the River Calder to the Burnley - Pendle District Boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

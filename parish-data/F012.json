@@ -1,23 +1,33 @@
 {
   "id": "F012",
   "name": "St John the Evangelist, Bromley Cross",
+  "shortName": "St John the Evangelist",
+  "location": "Bromley Cross",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Broadhead Road crosses Twitchels Brook, S along Blackburn – Rossendale District boundary, Blackburn - Bury District boundary and Blackburn – Bolton District boundary to and S along the middle of the Jumbles Reservoir. Then S along Bradshaw Brook to its crossing with Printers Lane, and W along Printers Lane, N and then W along Turton Road, then across Birtenshaw School and by a footpath to Eagley Brook. N by Eagly Brook, Dewhurst Clough, Delph Brook and by Blackburn – Bolton District boundary to Blackburn Road (A666). N by Blackburn Road to Cadshaw Brook and along northern boundary of North Turton civil parish to the crossing of Broadhead Road and Twitchels Brook.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F012_20170415_A3.pdf",
+      "description": "From the point where Broadhead Road crosses Twitchels Brook, S along Blackburn – Rossendale District boundary, Blackburn - Bury District boundary and Blackburn – Bolton District boundary to and S along the middle of the Jumbles Reservoir. Then S along Bradshaw Brook to its crossing with Printers Lane, and W along Printers Lane, N and then W along Turton Road, then across Birtenshaw School and by a footpath to Eagley Brook. N by Eagly Brook, Dewhurst Clough, Delph Brook and by Blackburn – Bolton District boundary to Blackburn Road (A666). N by Blackburn Road to Cadshaw Brook and along northern boundary of North Turton civil parish to the crossing of Broadhead Road and Twitchels Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

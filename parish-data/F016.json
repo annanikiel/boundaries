@@ -1,23 +1,33 @@
 {
   "id": "F016",
   "name": "St Teresa, Little Lever",
+  "shortName": "St Teresa",
+  "location": "Little Lever",
   "deaneryId": "F",
   "status": "closed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F016_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F016_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Radcliffe Road and Croft Side, E along Radcliffe Road, Crows Nest to the end of the road and then by a straight line to Bolton – Bury District boundary and S by that boundary and River Irwell, River Croal to Hall Lane. W along Hall Lane and by a bee-line to River Croal, including Crompton Lodge Caravan Park then E, NW along the River Croal and E boundary of the Darcy Level Gravel Pits to Croft Side and its junction with Radcliffe Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F016_20170415_A3.pdf",
+      "description": "From the junction of Radcliffe Road and Croft Side, E along Radcliffe Road, Crows Nest to the end of the road and then by a straight line to Bolton – Bury District boundary and S by that boundary and River Irwell, River Croal to Hall Lane. W along Hall Lane and by a bee-line to River Croal, including Crompton Lodge Caravan Park then E, NW along the River Croal and E boundary of the Darcy Level Gravel Pits to Croft Side and its junction with Radcliffe Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "B012",
   "name": "St Mark, Pendlebury",
+  "shortName": "St Mark",
+  "location": "Pendlebury",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B012_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bolton – Salford District boundary crosses the railway, N and then E along that boundary and then along Salford – Bury District boundary (River Irwell) to the point opposite Clifton station. Then by a beeline S through Clifton station to and W along Lumns Lane and Rake Lane. Then S by a beeline to Silverdale excluding Whitehead Road estate, and by a bee-line to and S along Carrington Street. Then W by Bolton Road, Pendlebury Road to the railway. Then W by the railway to Swinton station and S by Station Road, Chorley Road, Elm Street and by a bee-line to the railway. W along the railway then Cementery Road, Westminster Street, Mulgrave Street to the end of the road and then by a beeline N to the juntion of Charles Street and Moss Bank Road, excluding all of Ardens Close estate. Then by a beeline to and W along Sindsley Road to the point opposite Barnfield Road. Then N by a beeline crossing M60 near junction 15 to and along Bolton – Salford District boundary to the point where it crosses the railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B012_20170415_A3.pdf",
+      "description": "From the point where Bolton – Salford District boundary crosses the railway, N and then E along that boundary and then along Salford – Bury District boundary (River Irwell) to the point opposite Clifton station. Then by a beeline S through Clifton station to and W along Lumns Lane and Rake Lane. Then S by a beeline to Silverdale excluding Whitehead Road estate, and by a bee-line to and S along Carrington Street. Then W by Bolton Road, Pendlebury Road to the railway. Then W by the railway to Swinton station and S by Station Road, Chorley Road, Elm Street and by a bee-line to the railway. W along the railway then Cementery Road, Westminster Street, Mulgrave Street to the end of the road and then by a beeline N to the juntion of Charles Street and Moss Bank Road, excluding all of Ardens Close estate. Then by a beeline to and W along Sindsley Road to the point opposite Barnfield Road. Then N by a beeline crossing M60 near junction 15 to and along Bolton – Salford District boundary to the point where it crosses the railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

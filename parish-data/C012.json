@@ -1,23 +1,33 @@
 {
   "id": "C012",
   "name": "St Margaret Mary, New Moston",
+  "shortName": "St Margaret Mary",
+  "location": "New Moston",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point on M60 Motorway opposite Manchester Creative & Media Academy, W along the Motorway to junction 22, then S along Oldham Road (A62), to and N along Rochdale Canal to the railway and then by a bee-line to the junction of Belgrave Road and Moston Lane East and by Moston Lane East, Nuthurst Road to the junction of Nuthurst Road and Blandford Drive, then by a beeline to Linford Avenue. N by Lightbowne Road to the point opposite Colgrove Avenue, across it to the roundabout and NW by Moston Lane, and Victoria Avenue East to the point opposite Manchester Creative & Media Academy and by a bee-line to M60 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C012_20170415_A3.pdf",
+      "description": "From the point on M60 Motorway opposite Manchester Creative & Media Academy, W along the Motorway to junction 22, then S along Oldham Road (A62), to and N along Rochdale Canal to the railway and then by a bee-line to the junction of Belgrave Road and Moston Lane East and by Moston Lane East, Nuthurst Road to the junction of Nuthurst Road and Blandford Drive, then by a beeline to Linford Avenue. N by Lightbowne Road to the point opposite Colgrove Avenue, across it to the roundabout and NW by Moston Lane, and Victoria Avenue East to the point opposite Manchester Creative & Media Academy and by a bee-line to M60 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

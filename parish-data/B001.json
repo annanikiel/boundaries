@@ -1,23 +1,33 @@
 {
   "id": "B001",
   "name": "Christ the King, Walken",
+  "shortName": "Christ the King",
+  "location": "Walken",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B001_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B001_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where M61 Motorway crosses Worsley Road North, E along the M61 Motorway and then N along M60 Motorway to junction 13 and Bridgewater way. Then W along Bridgewater Way and by a straight line N crossing East Lancashire Road, through Ellerbeck Crescent to the footpath (Tyldesley Loopline) to the point where it meets Leigh Guided Busway and by a beeline to Ellenbrook Loopline along the path and then by a beeline crossing Hilton Lane, and highstreet and going between Athens Drive and Kinsley Drive. N to and along Campbell Way and E by N border of Tesco Store to and N along Bolton Road and Worsley Road North to the point where it corsses M61 Motorway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B001_20170415_A3.pdf",
+      "description": "From the point where M61 Motorway crosses Worsley Road North, E along the M61 Motorway and then N along M60 Motorway to junction 13 and Bridgewater way. Then W along Bridgewater Way and by a straight line N crossing East Lancashire Road, through Ellerbeck Crescent to the footpath (Tyldesley Loopline) to the point where it meets Leigh Guided Busway and by a beeline to Ellenbrook Loopline along the path and then by a beeline crossing Hilton Lane, and highstreet and going between Athens Drive and Kinsley Drive. N to and along Campbell Way and E by N border of Tesco Store to and N along Bolton Road and Worsley Road North to the point where it corsses M61 Motorway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,56 @@
 {
   "id": "E019",
   "name": "Holy Cross and St Helen, Ashton under Lyne",
+  "shortName": "Holy Cross and St Helen",
+  "location": "Ashton under Lyne",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 5,
+  "note": "Amalgamation of St Mary and St Christopher",
   "maps": {
     "updated": "22/09/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E019_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E019_20170922_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E019_20170922_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E019_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Oldham – Tameside District boundary crosses M60 Motorway, E along that boundary to the point opposite junction of Park Bridge Road and Waggon Road. Then by a bee-line to Aston to Oldham Greenway. S by the Greenway to the point opposite Lees Road and Lily Lanes junction and by a E by a bee-line to that junction. E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). S, and then W along River Tame (diocesan boundary) to the point where it meets Ashton Street, near Ashton Street junction with Gate Street. Then W by a bee-line to the S end of Mount Pleasant Street and by a bee-line between Nelson Street and Poplar Steet, across the railway to and NW along Groby Road. Then by a bee-line to the railway and by a straight line to the point opposite Park Road. Then N to and along Park Road, Manchester Road and the M60 Motorway junction 23. Then N along the Motorway to the point where it meets Oldham – Tameside District boundary.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary of the Angels and St Christopher",
+        "description": "From the point where River Tame crosses Clarence Street, then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "18/09/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E019_20170918_A3.pdf",
+      "description": "From the point where Oldham – Tameside District boundary crosses M60 Motorway, E along that boundary to the point opposite junction of Park Bridge Road and Waggon Road. Then by a bee-line to Aston to Oldham Greenway. S by the Greenway to the point opposite Lees Road and Lily Lanes junction and by a E by a bee-line to that junction. E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). S, and then W along River Tame (diocesan boundary) to the point where it meets Ashton Street, near Ashton Street junction with Gate Street. Then W by a bee-line to the S end of Mount Pleasant Street and by a bee-line between Nelson Street and Poplar Steet, across the railway to and NW along Groby Road. Then by a bee-line to the railway and by a straight line to the point opposite Park Road. Then N to and along Park Road, Manchester Road and the M60 Motorway junction 23. Then N along the Motorway to the point where it meets Oldham – Tameside District boundary.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary of the Angels and St Christopher",
+          "description": "From the point where River Tame crosses Clarence Street, then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "22/09/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E019_20170922_A3.pdf",
+      "description": "From the point where Oldham – Tameside District boundary crosses M60 Motorway, E along that boundary to the point opposite junction of Park Bridge Road and Waggon Road. Then by a bee-line to Aston to Oldham Greenway. S by the Greenway to the point opposite Lees Road and Lily Lanes junction and by a E by a bee-line to that junction. E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). S, and then W along River Tame (diocesan boundary) to the point where it meets Ashton Street, near Ashton Street junction with Gate Street. Then W by a bee-line to the S end of Mount Pleasant Street and by a bee-line between Nelson Street and Poplar Steet, across the railway to and NW along Groby Road. Then by a bee-line to the railway and by a straight line to the point opposite Park Road. Then N to and along Park Road, Manchester Road and the M60 Motorway junction 23. Then N along the Motorway to the point where it meets Oldham – Tameside District boundary.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary of the Angels and St Christopher",
+          "description": "From the point where River Tame crosses Clarence Street, then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

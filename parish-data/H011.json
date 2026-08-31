@@ -1,27 +1,41 @@
 {
   "id": "H011",
   "name": "Ss Peter and Paul, Ribchester",
+  "shortName": "Ss Peter and Paul",
+  "location": "Ribchester",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "07/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011_20170624_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011_20170624_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Duddel Brook passing Dean Brown, E along Dean Brown then, Starling Brook and W along River Ribble, then SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to and along diocesan boundary to Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011_20170415_A3.pdf",
+      "description": "From Duddel Brook passing Dean Brown, E along Dean Brown then, Starling Brook and W along River Ribble, then SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to and along diocesan boundary to Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "07/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H011_20170624_A3.pdf",
+      "description": "From Duddel Brook passing Dean Brown, E along Dean Brown then, Starling Brook and W along River Ribble, then SW to Salesbury Hall and in a straight line to Salloms OS665342, NW to Catterall and Lower Madgell Bank, W by River Ribble to and along diocesan boundary to Spade Mill Reservoir, then W along Lower Rd, Clitheroe Rd and Dean Brown to its crossing with Duddel Brook.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

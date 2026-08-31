@@ -1,23 +1,33 @@
 {
   "id": "B016",
   "name": "St Thomas of Canterbury, Higher Broughton",
+  "shortName": "St Thomas of Canterbury",
+  "location": "Higher Broughton",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B016_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B016_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Bury Old Road and Singleton Road, E along Bury Old Road, Waterloo Road, Broughton Lane, Great Clowes Street and the Priory to its junction with Lower Broughton Road. Then by a beeline W to the River Irwell, and N along the river to the point opposite the junction of Bury New Road and Broom Lane. N along Bury New Road, Park Lane and Singleton Road to its junction with Bury Old Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B016_20170415_A3.pdf",
+      "description": "From the junction of Bury Old Road and Singleton Road, E along Bury Old Road, Waterloo Road, Broughton Lane, Great Clowes Street and the Priory to its junction with Lower Broughton Road. Then by a beeline W to the River Irwell, and N along the river to the point opposite the junction of Bury New Road and Broom Lane. N along Bury New Road, Park Lane and Singleton Road to its junction with Bury Old Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

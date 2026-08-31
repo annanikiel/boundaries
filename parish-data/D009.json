@@ -1,23 +1,33 @@
 {
   "id": "D009",
   "name": "St Joseph and St Peter, Newchurch",
+  "shortName": "St Joseph and St Peter",
+  "location": "Newchurch",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D009_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D009_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the inflow into Clowbridge Reservoir at Limy Water (Rossendale – Burnley District boundary). SE by the Rossendale - Burnley District boundary to the E side of Clough Bottom Reservoir, S by a straight line to Newchurch Old Road at its junction with the footpath then by a line drawn between the Fernhill estate (Rawtenstall and Newchurch parish) and the Rockcliffe Estate (Bacup and Whitworth parish) to the steps on Anvil Street, W along Anvil Street, Rushton St, crossing Newchurch Road, Glen Street and Lee Road to the SE corner of the cemetery, S by a straight line to the civil parish boundary stone at Jackson’s Moor. S to the boundary stone at Old Slink Slack and W by the Rossendale - Rochdale District boundary to and along the track (Rossendale Way) passing S of Cowpe Lowe, to Higher Mount Pleasant. Then N crossing Hill End Lane, and Bacup Road (A681), then N by Peel Street, Dobbin Lane, Edge Lane and by a bee-line to the inflow into Clowbridge Reservoir at Limy Water.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D009_20170415_A3.pdf",
+      "description": "From the inflow into Clowbridge Reservoir at Limy Water (Rossendale – Burnley District boundary). SE by the Rossendale - Burnley District boundary to the E side of Clough Bottom Reservoir, S by a straight line to Newchurch Old Road at its junction with the footpath then by a line drawn between the Fernhill estate (Rawtenstall and Newchurch parish) and the Rockcliffe Estate (Bacup and Whitworth parish) to the steps on Anvil Street, W along Anvil Street, Rushton St, crossing Newchurch Road, Glen Street and Lee Road to the SE corner of the cemetery, S by a straight line to the civil parish boundary stone at Jackson’s Moor. S to the boundary stone at Old Slink Slack and W by the Rossendale - Rochdale District boundary to and along the track (Rossendale Way) passing S of Cowpe Lowe, to Higher Mount Pleasant. Then N crossing Hill End Lane, and Bacup Road (A681), then N by Peel Street, Dobbin Lane, Edge Lane and by a bee-line to the inflow into Clowbridge Reservoir at Limy Water.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

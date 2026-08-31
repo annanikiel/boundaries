@@ -1,23 +1,33 @@
 {
   "id": "G011",
   "name": "St Marie and St Joseph, Bury",
+  "shortName": "St Marie and St Joseph",
+  "location": "Bury",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G011_20170415_a3.pdf"
+      "a3": null,
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Summerseat railway station, E to the junction of Manchester Road (A56) and Bass Lane, excluding Ashborne Drive and including Bassfield Farm, crossing M66 and by a line following the brook and then an unnamed road, crossing Bury Old Road, excluding Bast House Farm, Ridshaw Farm and Plant Close Farm, but including Nangreaves and Whitewall Farm, to Buckhurst Road, N along Croston Close Road to its junction with unnamed road leading to Closes Farm then by a bee-line to Rossendale – Rochdale District boundary and Bury – Rochdale District boundary to its crossing with Bury New Road (A58) near M66 Motorway junction 2, then S along the motorway to junction 3 and W by a bee-line to Bury-Rochdale District boundary to and NW along Whittle Brook, including Pilsworth Cottages but excluding Castle House. Crossing M66 Motorway S of Aviation Road and following Hollins Brook to its confluence with River Roch. Then S along River Roch to its confluence with River Irwell and N along River Irwell to Summerseat railway station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": null,
+      "description": "From the Summerseat railway station, E to the junction of Manchester Road (A56) and Bass Lane, excluding Ashborne Drive and including Bassfield Farm, crossing M66 and by a line following the brook and then an unnamed road, crossing Bury Old Road, excluding Bast House Farm, Ridshaw Farm and Plant Close Farm, but including Nangreaves and Whitewall Farm, to Buckhurst Road, N along Croston Close Road to its junction with unnamed road leading to Closes Farm then by a bee-line to Rossendale – Rochdale District boundary and Bury – Rochdale District boundary to its crossing with Bury New Road (A58) near M66 Motorway junction 2, then S along the motorway to junction 3 and W by a bee-line to Bury-Rochdale District boundary to and NW along Whittle Brook, including Pilsworth Cottages but excluding Castle House. Crossing M66 Motorway S of Aviation Road and following Hollins Brook to its confluence with River Roch. Then S along River Roch to its confluence with River Irwell and N along River Irwell to Summerseat railway station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

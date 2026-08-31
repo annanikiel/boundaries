@@ -1,27 +1,41 @@
 {
   "id": "F003",
   "name": "Our Lady of the Immaculate Conception, Haigh",
+  "shortName": "Our Lady of the Immaculate Conception",
+  "location": "Haigh",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F003_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F003_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary to the point it meets Borsdene Brook and then by a bee-line to the junction of Bolton Road and Hall Lane. W along Bolton Road and Wigan Road to the point where diocesan boundary crosses New Road (near Mowpin Lodge). N by that boundary (along the footpath) to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F003_20170415_A3.pdf",
+      "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary to the point it meets Borsdene Brook and then by a bee-line to the junction of Bolton Road and Hall Lane. W along Bolton Road and Wigan Road to the point where diocesan boundary crosses New Road (near Mowpin Lodge). N by that boundary (along the footpath) to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F003_20170628_A3.pdf",
+      "description": "From Blackrod Station, SE by the railway to the bridge that goes over it and by a bee-line across the fields to the Wigan – Bolton District boundary. Along that boundary to the point it meets Borsdene Brook and then by a bee-line to the junction of Bolton Road and Hall Lane. W along Bolton Road and Wigan Road to the point where diocesan boundary crosses New Road (near Mowpin Lodge). N by that boundary (along the footpath) to Haigh Road , Toddington Lane, past, but excluding Freezeland Farm (along Haigh Civil Parish boundary) to and W along Wigan – Bolton District boundary and Chorley – Bolton boundary to the railway, and SE along the railway to Blackrod station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

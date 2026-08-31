@@ -1,23 +1,33 @@
 {
   "id": "B008",
   "name": "St Joseph, Ordsall",
+  "shortName": "St Joseph",
+  "location": "Ordsall",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 2,
+  "note": "Served from the Cathedral",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B008_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the railway bridge on River Irwell near MOSI, S then W by River Irwell and Manchester Ship Canal to the point opposite the footpath near SIS Live Teleport (Media City UK), then by a bee-line NE to and E along Broadway, to the point opposite Olympic Court. By a bee-line N to and along Olympic Court, Montford Street, West Ashton Street, Eccles New Road, to the point opposite Cyprus Close. By a bee-line N to and E along the railway to the railway bridge on River Irwell.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B008_20170415_A3.pdf",
+      "description": "From the railway bridge on River Irwell near MOSI, S then W by River Irwell and Manchester Ship Canal to the point opposite the footpath near SIS Live Teleport (Media City UK), then by a bee-line NE to and E along Broadway, to the point opposite Olympic Court. By a bee-line N to and along Olympic Court, Montford Street, West Ashton Street, Eccles New Road, to the point opposite Cyprus Close. By a bee-line N to and E along the railway to the railway bridge on River Irwell.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

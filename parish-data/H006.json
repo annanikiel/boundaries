@@ -1,23 +1,33 @@
 {
   "id": "H006",
   "name": "Our Lady of Perpetual Succour, Blackburn",
+  "shortName": "Our Lady of Perpetual Succour",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H006_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H006_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Roman Road and Stopes Brow, W by Stopes Brow, Rakes Bridge, Fore Street to River Darwen. Then N by River Darwen, to Bolton Road, and N along Bolton Road, then S E (after bent) by Longshaw Lane, Pritchard Street, Lyndhurst Road, Park Lee Road, and S by Roman Road to its junction with Stopes Brow.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H006_20170415_A3.pdf",
+      "description": "From the junction of Roman Road and Stopes Brow, W by Stopes Brow, Rakes Bridge, Fore Street to River Darwen. Then N by River Darwen, to Bolton Road, and N along Bolton Road, then S E (after bent) by Longshaw Lane, Pritchard Street, Lyndhurst Road, Park Lee Road, and S by Roman Road to its junction with Stopes Brow.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

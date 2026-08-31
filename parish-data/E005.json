@@ -1,23 +1,33 @@
 {
   "id": "E005",
   "name": "St Anne and St Michael, Oldham",
+  "shortName": "St Anne and St Michael",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E005_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the S border of Lower Strinesdale Reservoir, S along Saddleworth Civil Parish boundary to Greenacres Road. Then W by Greenacres Road, Esther Street, Clarksfield Road, Brewerton Road, Roundthorn Road and by a bee-line to the River Medlock near, and including Coverham Avenue and Ferndale Close. S by River Medlock to Abbey Hills Road, Lees New Road to, but excluding Cockfields Farm. Then W by a beeline to and N along Snipe Clough and King’s Road to the point opposite Belgrave Road. By a bee-line to and NW by Belgrave Road and Scottfield road, and by a bee-line to Park Road, excluing Eldon Street and Brookfield Street estate. E by Park Road, then NE by Woodstock Street, Waterloo Street and NE by a footpath s of Oldham Way to the junction of Oldham Way and Lees Road, and N by the Railway to the junction of Spencer Street and Arnold Street. Then by Arnold Street, Derker Street, Prince Charlie Street, Vulcan Street, Shrewsbury Avenue, Little Moor Lane, Vincent Avenue, Leamington Street and by a beeline to Sharples Hall Street. Then N along Sharples Hall Street, NW border of Waterhead Park, Furze Lane to the end of the road and by a bee-line to S border of Lower Strinesdale Reservoir, including all of Armdale Rise estate.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E005_20170415_A3.pdf",
+      "description": "From the S border of Lower Strinesdale Reservoir, S along Saddleworth Civil Parish boundary to Greenacres Road. Then W by Greenacres Road, Esther Street, Clarksfield Road, Brewerton Road, Roundthorn Road and by a bee-line to the River Medlock near, and including Coverham Avenue and Ferndale Close. S by River Medlock to Abbey Hills Road, Lees New Road to, but excluding Cockfields Farm. Then W by a beeline to and N along Snipe Clough and King’s Road to the point opposite Belgrave Road. By a bee-line to and NW by Belgrave Road and Scottfield road, and by a bee-line to Park Road, excluing Eldon Street and Brookfield Street estate. E by Park Road, then NE by Woodstock Street, Waterloo Street and NE by a footpath s of Oldham Way to the junction of Oldham Way and Lees Road, and N by the Railway to the junction of Spencer Street and Arnold Street. Then by Arnold Street, Derker Street, Prince Charlie Street, Vulcan Street, Shrewsbury Avenue, Little Moor Lane, Vincent Avenue, Leamington Street and by a beeline to Sharples Hall Street. Then N along Sharples Hall Street, NW border of Waterhead Park, Furze Lane to the end of the road and by a bee-line to S border of Lower Strinesdale Reservoir, including all of Armdale Rise estate.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

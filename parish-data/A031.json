@@ -1,23 +1,43 @@
 {
   "id": "A031",
   "name": "St Joseph and Holy Family",
+  "shortName": "St Joseph and Holy Family",
+  "location": null,
   "deaneryId": "A",
   "status": "proposed",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A022A023_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022A023_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022A023_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A022A023_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hyde Road and Wall Way, N along Debdale Park (west border) and Gorton Lower Reservoir (W, then N border). Then S by Debdale lane to and S along Manchester – Tameside District boundary to the point opposite Clumber Road and by a bee-line E past Wilton Paddock to, and E along Hyde Road. Then S by M60 Motorway to and SW along the Denton - Reddish railway, to the railway junction and then S along the railway to and S along River Tame to the point opposite Lune Way. Then by a beeline SW to and W along Willow Avenue, N along Reddish Road, Birkdale Road, SE along Greg Street, E along Whitehill Street, then N along Manchester Road, Broadstone Road and Nelstrop Road to its junction with Carnforth Road. Then along a footpath to Black Brook and by a beeline to and N along Manchester – Stockport District boundary to Broadfield Road and by a beeline to Bowling Road, Turnbull Road, Brighton Range and Hyde Road to its junction with Wall Way.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Joseph, Reddish and Holy Family",
+        "description": "From the Denton – Reddish and Brinnington – Reddish railway junction, W along Brinnington – Reddish railway to Winsmill Lane. NW along Windmill Lane and Longford Road to its junction with Nelstrop Road North."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A022A023_20170415_A3.pdf",
+      "description": "From the junction of Hyde Road and Wall Way, N along Debdale Park (west border) and Gorton Lower Reservoir (W, then N border). Then S by Debdale lane to and S along Manchester – Tameside District boundary to the point opposite Clumber Road and by a bee-line E past Wilton Paddock to, and E along Hyde Road. Then S by M60 Motorway to and SW along the Denton - Reddish railway, to the railway junction and then S along the railway to and S along River Tame to the point opposite Lune Way. Then by a beeline SW to and W along Willow Avenue, N along Reddish Road, Birkdale Road, SE along Greg Street, E along Whitehill Street, then N along Manchester Road, Broadstone Road and Nelstrop Road to its junction with Carnforth Road. Then along a footpath to Black Brook and by a beeline to and N along Manchester – Stockport District boundary to Broadfield Road and by a beeline to Bowling Road, Turnbull Road, Brighton Range and Hyde Road to its junction with Wall Way.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Joseph, Reddish and Holy Family",
+          "description": "From the Denton – Reddish and Brinnington – Reddish railway junction, W along Brinnington – Reddish railway to Winsmill Lane. NW along Windmill Lane and Longford Road to its junction with Nelstrop Road North."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

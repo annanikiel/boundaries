@@ -1,23 +1,33 @@
 {
   "id": "D005",
   "name": "St James the Lees, Rawtenstall",
+  "shortName": "St James the Lees",
+  "location": "Rawtenstall",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D005_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of the Hyndburn, Rossendale and Burnley District Boundaries at Higher Moor, (to the E of Accrington) E by the Rossendale - Burnley District boundary to the inflow into Clowbridge Reservoir at Limy Water, S in a straight line to Edge Lane, Dobbin Lane and Peel Street crossing Bacup, Road A681 and S from the junction with Hill End Lane to Cowpe Lowe to meet the end of Sand Beds Lane. W in a straight line to the boundary stone on Burnley Road, continuing in a straight line to and N along the A56(T) by-pass to the roundabout connecting the A56(T), the A680 and the B6527, N by a straight line crossing Haslingdon Road A681 to the junction of Kirkhill Road and Haslingden Old Road at Height End, N by Laund Lane to Cribden End Lane and N by the track to Cribden Side and N by the King’s Highway to and along the Rossendale - Hyndburn District Boundary to Higher Moor where the boundaries of Hyndburn, Rossendale and Burnley Districts meet.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D005_20170415_A3.pdf",
+      "description": "From the junction of the Hyndburn, Rossendale and Burnley District Boundaries at Higher Moor, (to the E of Accrington) E by the Rossendale - Burnley District boundary to the inflow into Clowbridge Reservoir at Limy Water, S in a straight line to Edge Lane, Dobbin Lane and Peel Street crossing Bacup, Road A681 and S from the junction with Hill End Lane to Cowpe Lowe to meet the end of Sand Beds Lane. W in a straight line to the boundary stone on Burnley Road, continuing in a straight line to and N along the A56(T) by-pass to the roundabout connecting the A56(T), the A680 and the B6527, N by a straight line crossing Haslingdon Road A681 to the junction of Kirkhill Road and Haslingden Old Road at Height End, N by Laund Lane to Cribden End Lane and N by the track to Cribden Side and N by the King’s Highway to and along the Rossendale - Hyndburn District Boundary to Higher Moor where the boundaries of Hyndburn, Rossendale and Burnley Districts meet.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

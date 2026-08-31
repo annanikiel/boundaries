@@ -1,23 +1,33 @@
 {
   "id": "A018",
   "name": "St Richard, Longsight",
+  "shortName": "St Richard",
+  "location": "Longsight",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 15,
+  "note": "Now part of a new parish of St Robert of Newminster (22.09.2017)",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A018_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A018_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A018_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A018_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Pottery Lane and Hyde Road, E along Hyde Road, Kirkmanshulme Lane, Pink Bank Lane, (including Woodhill Close, Totland Close, Calbourne Close, Newsham Walk, Cullercoats Walk, Wylam Walk, Specton Walk), Longsight Road, Mount Road, Manor Road, Barlow Road and Stockport Road, Park Grove, Old Hall Lane, Birchfields Road, Birch Hall Lane, Stamford Road, Stockport Road, Stanley Grove to and N along the railway to and NE along Kirkmanshulme Lane to its junction with Hyde Road and Pottery Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A018_20170415_A3.pdf",
+      "description": "From the junction of Pottery Lane and Hyde Road, E along Hyde Road, Kirkmanshulme Lane, Pink Bank Lane, (including Woodhill Close, Totland Close, Calbourne Close, Newsham Walk, Cullercoats Walk, Wylam Walk, Specton Walk), Longsight Road, Mount Road, Manor Road, Barlow Road and Stockport Road, Park Grove, Old Hall Lane, Birchfields Road, Birch Hall Lane, Stamford Road, Stockport Road, Stanley Grove to and N along the railway to and NE along Kirkmanshulme Lane to its junction with Hyde Road and Pottery Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,37 @@
 {
   "id": "A010",
   "name": "English Martyrs, Whalley Range",
+  "shortName": "English Martyrs",
+  "location": "Whalley Range",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Upper Chorlton Road and Withington Road, along Withington Road, Yarburgh Street, Claremont Road, Broadfield Road, Parkside Road, Lloyd Street South, Platt Lane, Princess Road to and by the Platt Brook to Alexandra Road South, along Alexandra Road South, Mauldeth Road West, Withington Road and Egerton Road South, Wyverne Road, Wilbraham Road, Morville Road, Manley Road, Marlborough Avenue (both sides in St John’s, Chorlton), Clarendon Road, York Avenue, Milton Grove, Upper Chorlton Road to its junction with Withington Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A010_20170415_A3.pdf",
+      "description": "From the junction of Upper Chorlton Road and Withington Road, along Withington Road, Yarburgh Street, Claremont Road, Broadfield Road, Parkside Road, Lloyd Street South, Platt Lane, Princess Road to and by the Platt Brook to Alexandra Road South, along Alexandra Road South, Mauldeth Road West, Withington Road and Egerton Road South, Wyverne Road, Wilbraham Road, Morville Road, Manley Road, Marlborough Avenue (both sides in St John’s, Chorlton), Clarendon Road, York Avenue, Milton Grove, Upper Chorlton Road to its junction with Withington Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {
-    "geojsonUrl": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/geojson/A010.geojson",
+    "geojsonUrl": null,
     "center": [
       -250986.477620635,
       7066301.0

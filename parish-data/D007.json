@@ -1,23 +1,33 @@
 {
   "id": "D007",
   "name": "St John the Baptist and St Philip the Apostle, Padiham",
+  "shortName": "St John the Baptist and St Philip the Apostle",
+  "location": "Padiham",
   "deaneryId": "D",
   "status": "closed",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D007_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D007_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "S from Barrowford Road via Moor Isles Clough to its confluence with the River Calder. W by River Calder to its confluence with Whittaker Clough and by a straight line S to the junction of Padiham Road (A671) and Kiddrow Lane (A646) W along Padiham Road to and S along Cowley Crescent, Scott Street, Knotts Lane (both sides of all these three streets  in St Mary Magdalene's parish) to and S along Green Brook and to M65 Motorway. S by the brook to the W end of Burnley Cemetery, then by a straight line to Higher Moor and by the Hyndburn - Burnley boundary to Burnley Road (A679) N by the A56(T) to the M65 Motorway W by the M65 to Shorten Brook and by Shorten Brook to its confluence with the River Calder by Altham Bridge, by the River Calder to Sabden Brook and by Sabden Brook to Read Old Bridge E by Old Roman Road, Back Lane and Stump Hall Road to the junction with Guide Lane at Haddings Head, S by Guide Lane to Barrowford Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D007_20170415_A3.pdf",
+      "description": "S from Barrowford Road via Moor Isles Clough to its confluence with the River Calder. W by River Calder to its confluence with Whittaker Clough and by a straight line S to the junction of Padiham Road (A671) and Kiddrow Lane (A646) W along Padiham Road to and S along Cowley Crescent, Scott Street, Knotts Lane (both sides of all these three streets  in St Mary Magdalene's parish) to and S along Green Brook and to M65 Motorway. S by the brook to the W end of Burnley Cemetery, then by a straight line to Higher Moor and by the Hyndburn - Burnley boundary to Burnley Road (A679) N by the A56(T) to the M65 Motorway W by the M65 to Shorten Brook and by Shorten Brook to its confluence with the River Calder by Altham Bridge, by the River Calder to Sabden Brook and by Sabden Brook to Read Old Bridge E by Old Roman Road, Back Lane and Stump Hall Road to the junction with Guide Lane at Haddings Head, S by Guide Lane to Barrowford Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

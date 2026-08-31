@@ -1,23 +1,33 @@
 {
   "id": "F011",
   "name": "St John Fisher, Kearsley",
+  "shortName": "St John Fisher",
+  "location": "Kearsley",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F011_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F011_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point on the Manchester, Bolton and Bury Canal opposite Lavender Street, by a beeline SE to Ringley Road West (A667), including Shore Top Farm, but excluding Mount Sion House. E by Rigley Road West to its junction with Wood Street S and by Bury – Bolton District boundary, then W by Salford – Bolton District boundary to Cedar Drive and by a beeline to M60 Motorway near junction 15. W by a M60 & M61 Motorway to M61 junction 3 to the point M61 Motorway (Kearsley Spur) meets Moss Road near Kearsley Academy. Then NE by a beeline to Stoneclough Road (A667) and along Stoneclough Road to Kearsley Station. Then by a beeline N to and W along River Irwell to the point opposite Mount Sion Road and by a beeline to Manchester, Bolton and Bury Canal.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F011_20170415_A3.pdf",
+      "description": "From the point on the Manchester, Bolton and Bury Canal opposite Lavender Street, by a beeline SE to Ringley Road West (A667), including Shore Top Farm, but excluding Mount Sion House. E by Rigley Road West to its junction with Wood Street S and by Bury – Bolton District boundary, then W by Salford – Bolton District boundary to Cedar Drive and by a beeline to M60 Motorway near junction 15. W by a M60 & M61 Motorway to M61 junction 3 to the point M61 Motorway (Kearsley Spur) meets Moss Road near Kearsley Academy. Then NE by a beeline to Stoneclough Road (A667) and along Stoneclough Road to Kearsley Station. Then by a beeline N to and W along River Irwell to the point opposite Mount Sion Road and by a beeline to Manchester, Bolton and Bury Canal.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

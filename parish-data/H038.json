@@ -1,23 +1,59 @@
 {
   "id": "H038",
   "name": "St Oscar Romero, Blackburn",
+  "shortName": "St Oscar Romero",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 4,
+  "note": "Ss Mary and John parish includes St Paul chapel of ease",
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H038_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H038_20181209_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H038_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H038_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the crossing of Sandy Lane and M65 Motorway, westerly by the motorway to the Diocesan boundary and N following the River Roddlesworth to its confluence with the River Darwen and upstream along the River Darwen otherwise the Blackburn with Darwen – Chorley district boundary, to its confluence with the Alum House Brook and north east to Arley Brook otherwise the Blackburn with Darwen – Ribble Valey district boundary to but excluding Arley Farm and southward by the tracks passing by and excluding Westholme School and across Meins Road to Billinge End Road. Eastwards along Billinge End Road to and along Killards Lane and the track to Under Billinge Lane and by this lane, Lawley Road and Billinge Avenue (both of which are wholly in the parish of the Sacred Heart and St Anne) to and along Buncer Lane to its junction with Wensley Road then along Wensley Road, Garden Street, Bank Top, Whalley Banks, King Street, Astley Gate, Church Street and Railway Street to Blackburn Station; then south easterly by the railway line to Darwen Bridge and along Great Bolton Street and Bolton Road to the River Darwen. From the River Darwen along Sandy Lane (both sides in the Sacred Heart and St Joseph parish Darwen) to Bolton Road and M65 motorway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St John Vianney and St Peter in Chains",
+        "description": "From crossing of M65 Motorway and Stockclough Lane, along Stockclough Lane and a track via Fowler Fold, but excluding Lower Whitehalgh Farm to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm and by a straight line to between 531 and 533 Livesey Branch Road, then by a beeline to and along Beechwood Drive and Leeds and Liverpool Canal to the point opposite Amberwood Drive."
+      },
+      {
+        "name": "Former boundary between St Peter and SS Mary and John",
+        "description": "From Leeds and Liverpool Canal (opposite Amberwood Drive), then N to and along St Francis Road, Preston Old Road to its junction with an unnamed road N of river Darwen, and by a beeline to the junction of Buncer Lane and Wensley Road."
+      },
+      {
+        "name": "Former boundary between St John Vianney and Ss Mary and John",
+        "description": "From Bolton Road junction with Longshaw Lane, along Bolton Road to its junction with and N along Aqueduct Road, then W along Leeds and Liverpool Canal (opposite Amberwood Drive)."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H038_20181209_A3.pdf",
+      "description": "From the crossing of Sandy Lane and M65 Motorway, westerly by the motorway to the Diocesan boundary and N following the River Roddlesworth to its confluence with the River Darwen and upstream along the River Darwen otherwise the Blackburn with Darwen – Chorley district boundary, to its confluence with the Alum House Brook and north east to Arley Brook otherwise the Blackburn with Darwen – Ribble Valey district boundary to but excluding Arley Farm and southward by the tracks passing by and excluding Westholme School and across Meins Road to Billinge End Road. Eastwards along Billinge End Road to and along Killards Lane and the track to Under Billinge Lane and by this lane, Lawley Road and Billinge Avenue (both of which are wholly in the parish of the Sacred Heart and St Anne) to and along Buncer Lane to its junction with Wensley Road then along Wensley Road, Garden Street, Bank Top, Whalley Banks, King Street, Astley Gate, Church Street and Railway Street to Blackburn Station; then south easterly by the railway line to Darwen Bridge and along Great Bolton Street and Bolton Road to the River Darwen. From the River Darwen along Sandy Lane (both sides in the Sacred Heart and St Joseph parish Darwen) to Bolton Road and M65 motorway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St John Vianney and St Peter in Chains",
+          "description": "From crossing of M65 Motorway and Stockclough Lane, along Stockclough Lane and a track via Fowler Fold, but excluding Lower Whitehalgh Farm to the junction of Horden Rake and Brokenstone Road, excluding Horden Farm and by a straight line to between 531 and 533 Livesey Branch Road, then by a beeline to and along Beechwood Drive and Leeds and Liverpool Canal to the point opposite Amberwood Drive."
+        },
+        {
+          "name": "Former boundary between St Peter and SS Mary and John",
+          "description": "From Leeds and Liverpool Canal (opposite Amberwood Drive), then N to and along St Francis Road, Preston Old Road to its junction with an unnamed road N of river Darwen, and by a beeline to the junction of Buncer Lane and Wensley Road."
+        },
+        {
+          "name": "Former boundary between St John Vianney and Ss Mary and John",
+          "description": "From Bolton Road junction with Longshaw Lane, along Bolton Road to its junction with and N along Aqueduct Road, then W along Leeds and Liverpool Canal (opposite Amberwood Drive)."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

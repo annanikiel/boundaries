@@ -1,27 +1,41 @@
 {
   "id": "G003",
   "name": "Our Lady of Dolours, Kersal",
+  "shortName": "Our Lady of Dolours",
+  "location": "Kersal",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G003_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G003_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Bury New Road and St Mary’s Road, W along St Mary’s Road, Rectory Lane, Whittaker Lane, Bent Lane, Ostrich Lane. Then N along Bury Old Road, Singleton Road, Park Lane, Bury New Road to the point opposite its junction with Broom Lane. Then W by a bee-line to and NW along River Irwell to the point opposite Kingsley Avenue and by a straight line to the junction of Kingsley Avenue, South Radford Streey and Monsal Avenue by a bee-line to the River Irwell to the point opposite Grundy Avenue and E to the junction of Grundy Avenue and Cawley Avenue. Then E along Cawley Avenue, Lowther Road, Shrewsbury Road, Butterstile Lane and N along Bury New Road to its junction with St Mary’s Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G003_20170415_A3.pdf",
+      "description": "From the junction of Bury New Road and St Mary’s Road, W along St Mary’s Road, Rectory Lane, Whittaker Lane, Bent Lane, Ostrich Lane. Then N along Bury Old Road, Singleton Road, Park Lane, Bury New Road to the point opposite its junction with Broom Lane. Then W by a bee-line to and NW along River Irwell to the point opposite Kingsley Avenue and by a straight line to the junction of Kingsley Avenue, South Radford Streey and Monsal Avenue by a bee-line to the River Irwell to the point opposite Grundy Avenue and E to the junction of Grundy Avenue and Cawley Avenue. Then E along Cawley Avenue, Lowther Road, Shrewsbury Road, Butterstile Lane and N along Bury New Road to its junction with St Mary’s Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G003_20170602_A3.pdf",
+      "description": "From the junction of Bury New Road and St Mary’s Road, W along St Mary’s Road, Rectory Lane, Whittaker Lane, Bent Lane, Ostrich Lane. Then N along Bury Old Road, Singleton Road, Park Lane, Bury New Road to the point opposite its junction with Broom Lane. Then W by a bee-line to and NW along River Irwell to the point opposite Kingsley Avenue and by a straight line to the junction of Kingsley Avenue, South Radford Streey and Monsal Avenue by a bee-line to the River Irwell to the point opposite Grundy Avenue and E to the junction of Grundy Avenue and Cawley Avenue. Then E along Cawley Avenue, Lowther Road, Shrewsbury Road, Butterstile Lane and N along Bury New Road to its junction with St Mary’s Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,41 @@
 {
   "id": "E006",
   "name": "St Christopher, Hurst Cross",
+  "shortName": "St Christopher",
+  "location": "Hurst Cross",
   "deaneryId": "E",
   "status": "closed",
+  "parishNumber": 5,
+  "note": "Now part of a new parish of Holy Cross and St Helen (22.09.2017)",
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E006_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E006_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E006_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E006_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Lees Road and Lily Lanes, E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). Then S along that road and diocesan boundary (River Tame), to its crossing with Clarence Street. Then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction, and by a bee-line to that junction.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E006_20170415_A3.pdf",
+      "description": "From the junction of Lees Road and Lily Lanes, E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). Then S along that road and diocesan boundary (River Tame), to its crossing with Clarence Street. Then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction, and by a bee-line to that junction.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E006_20170628_A3.pdf",
+      "description": "From the junction of Lees Road and Lily Lanes, E along Lily Lanes to its junction with unnamed road leading to Knott Hill Farm. Then by a bee-line crossing Mossley Road and Luzley Road to Manchester Road (A635). Then S along that road and diocesan boundary (River Tame), to its crossing with Clarence Street. Then N along Clarence Street, the middle of Stamford park, W along Darnton Road to its junction with Arundel Street. Then W by a bee-line to the junction of Montague Road and Curzon Road and W along Curzon Road, Ladbrooke Road, Broadoak Road, Wood Lane, Gambrel Bank Road, Holland Grove, to and along Aston to Oldham Greenway to the point opposite Lees Road and Lily Lanes junction, and by a bee-line to that junction.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

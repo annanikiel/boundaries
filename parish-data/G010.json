@@ -1,27 +1,41 @@
 {
   "id": "G010",
   "name": "St Joseph, Ramsbottom",
+  "shortName": "St Joseph",
+  "location": "Ramsbottom",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G010_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G010_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Blackburn with Darwen, Rossendale and Bury District boundaries meet, E along Rossendale – Bury District Boundary to Bull Hill and by a beeline to the junction of Moor Road and Helmshore Road then by a track to Broadacres, Kenyon Clough, Irwell Vale to the River Irwell and N by it to the railway bridge opposite Fish Rake Lane. S along A56 to its crossing with Blackburn Road and then E by a bee-line to the end of the Sand Beds Lane and by Rossendale Way track to Grain Brook (near Coal Road and Turf Moor) by Grain Brook, Cheesden Brook, to its crossing with Edenfield Road, then in a straight line to Closes Farm and N by Croston Close Road, Buckhurst Road, then by a line following the road leading to Ridshaw Farm and Kirkbys Farm (including both farms) to Bury Old Road, then in a straight line to Bass Lane (crossing M66 Motorway). W Along Bass Lane to the end of the road and then N by a bee-line to River Irwell, and W along the River Irwell to its confluence with a stream going through Broad Hey Wood and along the stream to and then W along Bolton Road (A676) to the point where it meets Blackburn with Darwen – Bury District boundary, N along that boundary to the point where it meets Rossendale District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G010_20170415_A3.pdf",
+      "description": "From the point where Blackburn with Darwen, Rossendale and Bury District boundaries meet, E along Rossendale – Bury District Boundary to Bull Hill and by a beeline to the junction of Moor Road and Helmshore Road then by a track to Broadacres, Kenyon Clough, Irwell Vale to the River Irwell and N by it to the railway bridge opposite Fish Rake Lane. S along A56 to its crossing with Blackburn Road and then E by a bee-line to the end of the Sand Beds Lane and by Rossendale Way track to Grain Brook (near Coal Road and Turf Moor) by Grain Brook, Cheesden Brook, to its crossing with Edenfield Road, then in a straight line to Closes Farm and N by Croston Close Road, Buckhurst Road, then by a line following the road leading to Ridshaw Farm and Kirkbys Farm (including both farms) to Bury Old Road, then in a straight line to Bass Lane (crossing M66 Motorway). W Along Bass Lane to the end of the road and then N by a bee-line to River Irwell, and W along the River Irwell to its confluence with a stream going through Broad Hey Wood and along the stream to and then W along Bolton Road (A676) to the point where it meets Blackburn with Darwen – Bury District boundary, N along that boundary to the point where it meets Rossendale District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G010_20170602_A3.pdf",
+      "description": "From the point where Blackburn with Darwen, Rossendale and Bury District boundaries meet, E along Rossendale – Bury District Boundary to Bull Hill and by a beeline to the junction of Moor Road and Helmshore Road then by a track to Broadacres, Kenyon Clough, Irwell Vale to the River Irwell and N by it to the railway bridge opposite Fish Rake Lane. S along A56 to its crossing with Blackburn Road and then E by a bee-line to the end of the Sand Beds Lane and by Rossendale Way track to Grain Brook (near Coal Road and Turf Moor) by Grain Brook, Cheesden Brook, to its crossing with Edenfield Road, then in a straight line to Closes Farm and N by Croston Close Road, Buckhurst Road, then by a line following the road leading to Ridshaw Farm and Kirkbys Farm (including both farms) to Bury Old Road, then in a straight line to Bass Lane (crossing M66 Motorway). W Along Bass Lane to the end of the road and then N by a bee-line to River Irwell, and W along the River Irwell to its confluence with a stream going through Broad Hey Wood and along the stream to and then W along Bolton Road (A676) to the point where it meets Blackburn with Darwen – Bury District boundary, N along that boundary to the point where it meets Rossendale District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

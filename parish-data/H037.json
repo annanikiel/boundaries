@@ -1,23 +1,43 @@
 {
   "id": "H037",
   "name": "St Alban, Blackburn",
+  "shortName": "St Alban",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 2,
+  "note": "St Alban parish includes Good Shepherd Church",
   "maps": {
     "updated": "15/12/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H037_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H037_20171215_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H037_20171215_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H037_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Blackburn Railway Station, along Railway Road, Ainsworth Street, Barbara Castle Way, Preston New Road, East Park Road, Brantfell Road and via the steps to and along Revidge Road, Paignton Road and by a beeline to and N along Lammack Road, crossing Ramsgreave Drive A6119 and Barker Lane to the junction with Zechariah Brow and Higher Ramsgreave Road, N by Saccary Lane and Anderton House, NW by Showley Brook and footpath S of Clayton Hey Farm, SE by Ribchester Road, crossing Whalley Road A666 by Hollowhead Lane, Rishton Road, Blackburn Old Road to the Hyndburn – Blackburn with Darwen Boundary, S along this boundary to the Leeds and Liverpool Canal and by the canal to the railway line and by the railway line to a point opposite Harwood Street, then by Harwood Street to and along the Liverpool and Leeds Canal to Cicely Street and by Cicely Lane to and along the railway to Blackburn Railway Station.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Alban and Holy Souls",
+        "description": "From Lammack Road SE across the playing fields to the new estate, including Swallowfields and Curlew Close but excluding Kingfisher Close and Aspinall Fold and by the footpath south of 53 Pleckgate Road to Pleckgate Road and by Pleck Farm Avenue and Openshaw Drive to the “circle” and then by a line behind 96 Openshaw Drive to Whalley New Road by the Skew Bridge, including Sycamore Road and Sycamore Close but excluding Briar Road and Rosewood Avenue, and by Clarendon Road to and along Brownhill Drive to and along the footpath running parallel to and between Whalley Old Road and Cunliffe Road"
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/12/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H037_20171215_A3.pdf",
+      "description": "From Blackburn Railway Station, along Railway Road, Ainsworth Street, Barbara Castle Way, Preston New Road, East Park Road, Brantfell Road and via the steps to and along Revidge Road, Paignton Road and by a beeline to and N along Lammack Road, crossing Ramsgreave Drive A6119 and Barker Lane to the junction with Zechariah Brow and Higher Ramsgreave Road, N by Saccary Lane and Anderton House, NW by Showley Brook and footpath S of Clayton Hey Farm, SE by Ribchester Road, crossing Whalley Road A666 by Hollowhead Lane, Rishton Road, Blackburn Old Road to the Hyndburn – Blackburn with Darwen Boundary, S along this boundary to the Leeds and Liverpool Canal and by the canal to the railway line and by the railway line to a point opposite Harwood Street, then by Harwood Street to and along the Liverpool and Leeds Canal to Cicely Street and by Cicely Lane to and along the railway to Blackburn Railway Station.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Alban and Holy Souls",
+          "description": "From Lammack Road SE across the playing fields to the new estate, including Swallowfields and Curlew Close but excluding Kingfisher Close and Aspinall Fold and by the footpath south of 53 Pleckgate Road to Pleckgate Road and by Pleck Farm Avenue and Openshaw Drive to the “circle” and then by a line behind 96 Openshaw Drive to Whalley New Road by the Skew Bridge, including Sycamore Road and Sycamore Close but excluding Briar Road and Rosewood Avenue, and by Clarendon Road to and along Brownhill Drive to and along the footpath running parallel to and between Whalley Old Road and Cunliffe Road"
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

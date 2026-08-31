@@ -1,23 +1,33 @@
 {
   "id": "H008",
   "name": "Sacred Heart, Blackburn",
+  "shortName": "Sacred Heart",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H008_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H008_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H008_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H008_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Ribble Valley – Blackburn District boundary crosses Lammack Road, S along Lammack Road, to the bend in Lammack Road near West Leigh Road, and by a beeline to and along Paignton Road, W along Revidge Road and S along Brantfell Road, SW along East Park Road, W along Preston New Road, SW along Crosshill Road and by a bee-line to the junction of Wensley Road and Buncer Lane, then N along Buncer Lane to its junction with Billinge Avenue (both sides in Sacred Heart parish) and SW by a beeline to south end of Lawley Road (both sides in Sacred Heart parish). N by Lawley Road, W by Under Billinge Lane and N following W boundary of Billinge Wood to and along Killiard Lane and Billinge End Road. Then by a beeline N to and along western boundary of Westholme Senior School and Sixth Form (but excluding the schools), continuing N to and E along Ribble Valley - Blackburn District boundary (near, but excluding Arley Farm) to its crossing with Lammack Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H008_20170415_A3.pdf",
+      "description": "From the point where Ribble Valley – Blackburn District boundary crosses Lammack Road, S along Lammack Road, to the bend in Lammack Road near West Leigh Road, and by a beeline to and along Paignton Road, W along Revidge Road and S along Brantfell Road, SW along East Park Road, W along Preston New Road, SW along Crosshill Road and by a bee-line to the junction of Wensley Road and Buncer Lane, then N along Buncer Lane to its junction with Billinge Avenue (both sides in Sacred Heart parish) and SW by a beeline to south end of Lawley Road (both sides in Sacred Heart parish). N by Lawley Road, W by Under Billinge Lane and N following W boundary of Billinge Wood to and along Killiard Lane and Billinge End Road. Then by a beeline N to and along western boundary of Westholme Senior School and Sixth Form (but excluding the schools), continuing N to and E along Ribble Valley - Blackburn District boundary (near, but excluding Arley Farm) to its crossing with Lammack Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

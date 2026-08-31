@@ -1,23 +1,33 @@
 {
   "id": "H020",
   "name": "St Mary, Sabden",
+  "shortName": "St Mary",
+  "location": "Sabden",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H020_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H020_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H020_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H020_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "NE from Apronfull Hill OS778394 by the civil parish boundary to Ogden Clough, and along it to and along the Ribble Valley and Pendle District Boundary over Pendle Hill, by a straight line from crossing of Ribble Valley - Pendle District boundary and Ogden Clough to 376670,438451 near Wymondhouses Farm (315 trig point near Jeppe Knave Grave OS762380). Then SE by the edge of the wood to and along the track and road past Wiswell Moor Houses to the track at Lower Clerk Farm OS751364, then by the stream to its confluence with Sabden Brook and by Sabden Brook to Old Read Bridge OS752354, then E along Old Roman Road, Back Lane and Stump Hall Road and Haddings Lane past Haddings Head, and right along the unnamed road and track to Spenbrook Road OS822383 and NW by tracks via Bull Hole to Well Head OS816393 on Well Head Road, then by straight lines to Driver Height, Spence Moor and Apronfull Hill.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H020_20170415_A3.pdf",
+      "description": "NE from Apronfull Hill OS778394 by the civil parish boundary to Ogden Clough, and along it to and along the Ribble Valley and Pendle District Boundary over Pendle Hill, by a straight line from crossing of Ribble Valley - Pendle District boundary and Ogden Clough to 376670,438451 near Wymondhouses Farm (315 trig point near Jeppe Knave Grave OS762380). Then SE by the edge of the wood to and along the track and road past Wiswell Moor Houses to the track at Lower Clerk Farm OS751364, then by the stream to its confluence with Sabden Brook and by Sabden Brook to Old Read Bridge OS752354, then E along Old Roman Road, Back Lane and Stump Hall Road and Haddings Lane past Haddings Head, and right along the unnamed road and track to Spenbrook Road OS822383 and NW by tracks via Bull Hole to Well Head OS816393 on Well Head Road, then by straight lines to Driver Height, Spence Moor and Apronfull Hill.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

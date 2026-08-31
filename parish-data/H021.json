@@ -1,23 +1,33 @@
 {
   "id": "H021",
   "name": "St Michael and St John, Clitheroe",
+  "shortName": "St Michael and St John",
+  "location": "Clitheroe",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H021_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H021_20170415_A3.pdf"
+      "a3": null,
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H021_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Ogden Clough meets Ribble Valley and Pendle District boundary, N by that boundary to the diocesan boundary at Helliwell Wood OS833428 NW by the diocesan boundary across Twiston Moor to the start of Ings Brook W by this brook via Clough Head, Ings End OS815447 to its confluence with Swanside Beck OS785454 and by Smithies Brook to Smithies Bridge on the A59. (former boundary between St Hubert and St Michael and St John: by river Ribble point opposite the confluence of Pig Hill Brook OS723394 SE by a straight line to the junction of the A671 and the A59T and by a second straight line to the 315 trig point near Jeppe Knave Grave OS762380 and by a straight line the point where Ogden Clough meets Ribble Valley and Pendle District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": null,
+      "description": "From the point where Ogden Clough meets Ribble Valley and Pendle District boundary, N by that boundary to the diocesan boundary at Helliwell Wood OS833428 NW by the diocesan boundary across Twiston Moor to the start of Ings Brook W by this brook via Clough Head, Ings End OS815447 to its confluence with Swanside Beck OS785454 and by Smithies Brook to Smithies Bridge on the A59. (former boundary between St Hubert and St Michael and St John: by river Ribble point opposite the confluence of Pig Hill Brook OS723394 SE by a straight line to the junction of the A671 and the A59T and by a second straight line to the 315 trig point near Jeppe Knave Grave OS762380 and by a straight line the point where Ogden Clough meets Ribble Valley and Pendle District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {
@@ -26,6 +36,6 @@
       -261424.110348552,
       7146399.0
     ],
-    "zoom": 11
+    "zoom": null
   }
 }

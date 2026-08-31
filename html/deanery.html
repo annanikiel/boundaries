@@ -15,7 +15,6 @@
 	
 	<!-- Stylesheet files -->
 	<link href="../css/style.css" rel="stylesheet" media="screen" />
-	<link href="../css/style.css.map" rel="stylesheet" media="screen" />
 	<link href="../css/flexnav.css" rel="stylesheet" media="screen" />
 		
 	<!-- Fonts -->
@@ -43,7 +42,7 @@
                 <div class="menu-button">Menu</div>
                 <nav>
                     <ul data-breakpoint="1080" class="flexnav">
-                        <li><a href="/">Home</a></li>
+                        <li><a href="../">Home</a></li>
                         <li><a href="deaneries">Deaneries</a></li>
                         <li><a href="map">Interactive map</a></li>
                         <li><a href="what-parish">What parish?</a></li>
@@ -113,6 +112,8 @@
     </div>
 
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="../js/jquery.flexnav.js"></script>
   <script src="../js/data.js"></script>
   <script>
     function parishLink(p) {
@@ -135,12 +136,7 @@
     const img = document.getElementById("deaneryMapImg");
     const caption = document.getElementById("deaneryMapCaption");
 
-    // Use the current page as the base for resolving relative paths
-    const base = location.href; // includes querystring but URL() handles it fine
-
-    const fallback = new URL("../assets/placeholder.png", base).href;
-
-    img.src = d?.mapImage ? new URL(d.mapImage, base).href : fallback;
+    img.src = dataURL(d?.mapImage || "assets/placeholder.png");
     img.alt = d?.mapAlt || `${d?.name || "Deanery"} highlighted on the diocesan map`;
 
     if (caption) caption.textContent = img.alt;
@@ -168,6 +164,18 @@
     console.error(err);
     document.getElementById("currentList").innerHTML = "<li>Failed to load parishes.</li>";
   });
+  </script>
+
+  <script>
+    $(".flexnav").flexNav({
+      animationSpeed: 250,
+      transitionOpacity: true,
+      buttonSelector: ".menu-button",
+      hoverIntent: false,
+      hoverIntentTimeout: 150,
+      calcItemWidths: true,
+      hover: true
+    });
   </script>
 
 </body>

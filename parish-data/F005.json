@@ -1,23 +1,33 @@
 {
   "id": "F005",
   "name": "Sacred Heart of Jesus, Westhoughton",
+  "shortName": "Sacred Heart of Jesus",
+  "location": "Westhoughton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F005_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the bridge over the Lostock – Blackrod railway, E along the railway to Lostock station and S along Rumworth Road and by a beeline to M61 Motorway near junction 5 (excluding Winslow Road estate), E along the Motorway then S along Westhoughton Civil Parish boundary, to Bolton – Wigan District boundary and along that boundary and Westhoughton Civil Parish boundary crossing Manchester Road (A6) and by a bee-line across the fields to the bridge over Lostock – Blackrod railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F005_20170415_A3.pdf",
+      "description": "From the bridge over the Lostock – Blackrod railway, E along the railway to Lostock station and S along Rumworth Road and by a beeline to M61 Motorway near junction 5 (excluding Winslow Road estate), E along the Motorway then S along Westhoughton Civil Parish boundary, to Bolton – Wigan District boundary and along that boundary and Westhoughton Civil Parish boundary crossing Manchester Road (A6) and by a bee-line across the fields to the bridge over Lostock – Blackrod railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

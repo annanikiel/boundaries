@@ -1,23 +1,33 @@
 {
   "id": "B011",
   "name": "St Luke, Irlams o'-th'-Height",
+  "shortName": "St Luke",
+  "location": "Irlams o'-th'-Height",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B011_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B011_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B011_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B011_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Agecroft Road crosses the railway, S along Salford Crescent – Clifton railway then by a bee-line to Salford Crescent – Swinton railway to Laundry Street. W along Laundry Street, Nave Court, Charles Street, Broad Street and by a bee-line to Chasely Road, Eccles Old Road, Claremont Road, Cholmondeley Road, N along Lancaster Road and along Sunningdale Drive and Welwyn Drive (including both sides of these roads), E along East Lancashire Road and Manchester road. Then by a bee-line NE to and along Highfiled Drive, Fairway, NW along Bolton Road and Agevroft Road to the point it crosses the railway.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B011_20170415_A3.pdf",
+      "description": "From the point where Agecroft Road crosses the railway, S along Salford Crescent – Clifton railway then by a bee-line to Salford Crescent – Swinton railway to Laundry Street. W along Laundry Street, Nave Court, Charles Street, Broad Street and by a bee-line to Chasely Road, Eccles Old Road, Claremont Road, Cholmondeley Road, N along Lancaster Road and along Sunningdale Drive and Welwyn Drive (including both sides of these roads), E along East Lancashire Road and Manchester road. Then by a bee-line NE to and along Highfiled Drive, Fairway, NW along Bolton Road and Agevroft Road to the point it crosses the railway.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

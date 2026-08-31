@@ -1,23 +1,43 @@
 {
   "id": "B024",
   "name": "The Three Martyrs: St Sebastian, St Boniface and St Thomas of Canterbury, Salford",
+  "shortName": "The Three Martyrs: St Sebastian, St Boniface and St Thomas of Canterbury",
+  "location": "Salford",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/12/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B024_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B023_20171215_a3.pdf"
+      "a3": null,
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B024_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Bury Old Road and Singleton Road, E along Bury Old Road, Waterloo Road, S along Bury New Road and Sherborne Steet West to the end of the road and by a beeline to and W along River Irwell to the point opposite the junction of University Road and Wallness Lane. Then W by the University Road to the railway, and by Salford Crescent – Swinton railway to the point opposite the junction of Barfield Road and Bolton Road and by a beeline N to the Salford Crescent – Clifton railway. By that railway to and E along Agecroft Road to and S along River Irwell to the point opposite Regatta Street. By a beeline NE to and along South Radford Street, Kingsley Avenue and by a beeline to the River Irwell. E along the River Irwell to the point opposite the junction of Bury New Road and Broom Lane. N along Bury New Road, Park Lane and Singleton Road to its junction with Bury Old Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Thomas of Canterbury and St Sebastian and St Boniface",
+        "description": "From the junction of Bury New Road and Broughton Lane along Broughton Lane, Great Clowes Street and the Priory to its junction with Lower Broughton Road. Then by a beeline W to the River Irwell, and N along the river to the point opposite the junction of Bury New Road and Broom Lane."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/12/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": null,
+      "description": "From the junction of Bury Old Road and Singleton Road, E along Bury Old Road, Waterloo Road, S along Bury New Road and Sherborne Steet West to the end of the road and by a beeline to and W along River Irwell to the point opposite the junction of University Road and Wallness Lane. Then W by the University Road to the railway, and by Salford Crescent – Swinton railway to the point opposite the junction of Barfield Road and Bolton Road and by a beeline N to the Salford Crescent – Clifton railway. By that railway to and E along Agecroft Road to and S along River Irwell to the point opposite Regatta Street. By a beeline NE to and along South Radford Street, Kingsley Avenue and by a beeline to the River Irwell. E along the River Irwell to the point opposite the junction of Bury New Road and Broom Lane. N along Bury New Road, Park Lane and Singleton Road to its junction with Bury Old Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Thomas of Canterbury and St Sebastian and St Boniface",
+          "description": "From the junction of Bury New Road and Broughton Lane along Broughton Lane, Great Clowes Street and the Priory to its junction with Lower Broughton Road. Then by a beeline W to the River Irwell, and N along the river to the point opposite the junction of Bury New Road and Broom Lane."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

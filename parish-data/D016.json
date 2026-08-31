@@ -1,23 +1,33 @@
 {
   "id": "D016",
   "name": "St Mary, Clayton-le-Moors",
+  "shortName": "St Mary",
+  "location": "Clayton-le-Moors",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D016_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D016_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the confluence of Hyndburn Brook and River Calder, by the River Calder to its confluence with Shorten Brook at Altham Bridge on Burnley Road A678 S by Shorten Brook to the M65 Motorway (junction 8) SW by Clough Brook and Whinney Hill Road via and including Sankey House Farm Caravan site from the bend in Whinney Hill Road by a straight line to Haworth Street, Whalley Road along First Avenue (including both sides) to the junction of First Avenue and Dill Hall Lane W by a straight line to the centre of the M65 interchange junction 7 with the A6185 Dunkenhalgh Way, W along the Motorway to junction with Hyndburn Brook N along this Brook to its confluence with River Calder.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D016_20170415_A3.pdf",
+      "description": "From the confluence of Hyndburn Brook and River Calder, by the River Calder to its confluence with Shorten Brook at Altham Bridge on Burnley Road A678 S by Shorten Brook to the M65 Motorway (junction 8) SW by Clough Brook and Whinney Hill Road via and including Sankey House Farm Caravan site from the bend in Whinney Hill Road by a straight line to Haworth Street, Whalley Road along First Avenue (including both sides) to the junction of First Avenue and Dill Hall Lane W by a straight line to the centre of the M65 interchange junction 7 with the A6185 Dunkenhalgh Way, W along the Motorway to junction with Hyndburn Brook N along this Brook to its confluence with River Calder.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

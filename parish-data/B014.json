@@ -1,23 +1,33 @@
 {
   "id": "B014",
   "name": "St Mary, Eccles",
+  "shortName": "St Mary",
+  "location": "Eccles",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B014_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Rocky Lane and Chorlton Fold, E along Folly Brook to the border of Eccles College then by a beeline SW to Ellesmere Road (excluding Godolphin Close and Welbeck Road – both in Ss Peter and Paul parish). SW along Ellesmere Road, E along Victoria Crescent, Half Edge Lane, Eccles Old Road, Stott Lane to its junction with Eccles New Road. Then by a beeline SW to the roundabout joining Coronet Way and Centenary Way, S along Centenary Way and W by Manchester Ship Canal to the point opposite Ashbourne Road. Then NW by a beeline to the junction of Ashbourne Road and Barton Lane, and W along Barton Lane. N along Fairless Road, Trafford Road, Renshae Avenue, Mellor Street (excluding both sides), Liverpool Road, Green Lane, Canal Bank, Bridgewater Way and by a beeline to Folly Brook and E along Folly Brook to the junction of Rocky Lane and Chorlton Fold.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B014_20170415_A3.pdf",
+      "description": "From the junction of Rocky Lane and Chorlton Fold, E along Folly Brook to the border of Eccles College then by a beeline SW to Ellesmere Road (excluding Godolphin Close and Welbeck Road – both in Ss Peter and Paul parish). SW along Ellesmere Road, E along Victoria Crescent, Half Edge Lane, Eccles Old Road, Stott Lane to its junction with Eccles New Road. Then by a beeline SW to the roundabout joining Coronet Way and Centenary Way, S along Centenary Way and W by Manchester Ship Canal to the point opposite Ashbourne Road. Then NW by a beeline to the junction of Ashbourne Road and Barton Lane, and W along Barton Lane. N along Fairless Road, Trafford Road, Renshae Avenue, Mellor Street (excluding both sides), Liverpool Road, Green Lane, Canal Bank, Bridgewater Way and by a beeline to Folly Brook and E along Folly Brook to the junction of Rocky Lane and Chorlton Fold.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "B004",
   "name": "St Charles, Moorside",
+  "shortName": "St Charles",
+  "location": "Moorside",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B004_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B004_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Chorley Road and Elm Street, E along Chorley Road, Partington Lane (B5231), Worsley Road, Campbell Road, and by a beeline S to the W border of Eccles College and Folly Brook. Then W along the brook going across Rocky Lane, Worsley Golf Course and by a beeline near Clubhouse to the Bridgewater way (water line). W by the Bridgewater Way to M60 (junction 13) and N by M60 then E just past junction 15 and by a beeline N to the middle of Sindsley Road, then by a beeline SE to the junction of Moss Bank Road and Charles Street, including all of Ardens Close estate. Then by a beeline S to Mulgrave Street, Westminster Street, Cemetery Road to and E along the railway and by a beeline S to and along Elm Street to its junction with Chorley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B004_20170415_A3.pdf",
+      "description": "From the junction of Chorley Road and Elm Street, E along Chorley Road, Partington Lane (B5231), Worsley Road, Campbell Road, and by a beeline S to the W border of Eccles College and Folly Brook. Then W along the brook going across Rocky Lane, Worsley Golf Course and by a beeline near Clubhouse to the Bridgewater way (water line). W by the Bridgewater Way to M60 (junction 13) and N by M60 then E just past junction 15 and by a beeline N to the middle of Sindsley Road, then by a beeline SE to the junction of Moss Bank Road and Charles Street, including all of Ardens Close estate. Then by a beeline S to Mulgrave Street, Westminster Street, Cemetery Road to and E along the railway and by a beeline S to and along Elm Street to its junction with Chorley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

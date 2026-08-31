@@ -1,23 +1,43 @@
 {
   "id": "B028",
-  "name": "Our Lady of Mount Carmel and St Joseph, Salford",
+  "name": "Our Lady of Mount Carmel and Saint Joseph, Salford",
+  "shortName": "Our Lady of Mount Carmel and Saint Joseph",
+  "location": "Salford",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "03/11/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B028_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B028_20191103_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B028_20191103_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B028_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of University Road and Wallness Lane, by a straight line E to River Irwell. Then along the River Irwelland Manchester Ship Canal to the point opposite the footpath near SIS Live Teleport (Media City UK), then by a bee-line NE to and E along Broadway, to the point opposite Olympic Court. By a bee-line N to and along Olympic Court, Montford Street, West Ashton Street, Eccles New Road, to the point opposite Cyprus Close. By a bee-line N to and E along the railway to the roundabout joining M602 and Albion Way (A5063). N by Albion Way and Salford Crescent – Swinton railway and by a beeline NE to the University Road and its junction with Wallness Lane.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St John the Evangelist and St Joseph, Ordsall",
+        "description": "Along the railway from railway bridge on river Irwell to to the roundabout joining M602 and Albion Way (A5063)."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "03/11/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B028_20191103_A3.pdf",
+      "description": "From the junction of University Road and Wallness Lane, by a straight line E to River Irwell. Then along the River Irwelland Manchester Ship Canal to the point opposite the footpath near SIS Live Teleport (Media City UK), then by a bee-line NE to and E along Broadway, to the point opposite Olympic Court. By a bee-line N to and along Olympic Court, Montford Street, West Ashton Street, Eccles New Road, to the point opposite Cyprus Close. By a bee-line N to and E along the railway to the roundabout joining M602 and Albion Way (A5063). N by Albion Way and Salford Crescent – Swinton railway and by a beeline NE to the University Road and its junction with Wallness Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St John the Evangelist and St Joseph, Ordsall",
+          "description": "Along the railway from railway bridge on river Irwell to to the roundabout joining M602 and Albion Way (A5063)."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

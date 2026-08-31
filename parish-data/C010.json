@@ -1,23 +1,33 @@
 {
   "id": "C010",
   "name": "St John Bosco, Blackley",
+  "shortName": "St John Bosco",
+  "location": "Blackley",
   "deaneryId": "C",
   "status": "closed",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C010_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From M60 Motorway junction 20, E along the Motorway, to the point opposite Manchester Creative & Media Academy. Then E by Victoria Ave East, Moston Lane and Crowden Road to the end of the road, and then by a bee-line across Boggart Hole Clough to the junction of Glen Avenue and Clough Road and by a beeline to the junction of Polefield Road and Charlestown Road and by a bee-line between Dam Head Drive and Earby Grove to a point opposite Churston Ave, and E across White Moss Road, Levedale Road and N along Rochdale Road to the M60 Motorway junction 20.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C010_20170415_A3.pdf",
+      "description": "From M60 Motorway junction 20, E along the Motorway, to the point opposite Manchester Creative & Media Academy. Then E by Victoria Ave East, Moston Lane and Crowden Road to the end of the road, and then by a bee-line across Boggart Hole Clough to the junction of Glen Avenue and Clough Road and by a beeline to the junction of Polefield Road and Charlestown Road and by a bee-line between Dam Head Drive and Earby Grove to a point opposite Churston Ave, and E across White Moss Road, Levedale Road and N along Rochdale Road to the M60 Motorway junction 20.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

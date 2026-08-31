@@ -1,23 +1,33 @@
 {
   "id": "B003",
   "name": "Ss Peter and Paul, Pendleton",
+  "shortName": "Ss Peter and Paul",
+  "location": "Pendleton",
   "deaneryId": "B",
   "status": "closed",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B003_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B003_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B003_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B003_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Lancaster Road and Cholmondeley Road, E along Cholmondeley Road, Claremont Road, Eccles Old Road, Half Edge Lane, Victoria Crescent, Ellesmere Road to the end of the road. Then NW by a beeline to Folly Brook (including all Welbeck Road and Godolphin Close estate in the Ss Peter and Paul parish) and by a beeline across Eccles College to the S border of Swinton Park Golf Club. E along Sunningdale Drive (both sides in St Luke’s parish) and Lancaster Road to its junction with Cholmondeley Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B003_20170415_A3.pdf",
+      "description": "From the junction of Lancaster Road and Cholmondeley Road, E along Cholmondeley Road, Claremont Road, Eccles Old Road, Half Edge Lane, Victoria Crescent, Ellesmere Road to the end of the road. Then NW by a beeline to Folly Brook (including all Welbeck Road and Godolphin Close estate in the Ss Peter and Paul parish) and by a beeline across Eccles College to the S border of Swinton Park Golf Club. E along Sunningdale Drive (both sides in St Luke’s parish) and Lancaster Road to its junction with Cholmondeley Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

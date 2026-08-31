@@ -1,23 +1,43 @@
 {
   "id": "C023",
   "name": "Our Lady of Mount Carmel with Saint John Bosco, Blackley",
+  "shortName": "Our Lady of Mount Carmel with Saint John Bosco",
+  "location": "Blackley",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 2,
+  "note": null,
   "maps": {
     "updated": "07/10/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C023_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C023_20181007_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C023_20181007_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C023_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From M60 Motorway junction 20, E along the Motorway, to the point opposite Manchester Creative & Media Academy. Then E by Victoria Ave East, Moston Lane and Crowden Road to the end of the road, and then by a bee-line across Boggart Hole Clough to the junction of Glen Avenue and Clough Road. Along Clough Road (both sides being in Mount Carmel parish), Moston Lane, Hillier Street North to its end at the Moston Pub, directly across the footpath to the east of The Moston to the corner of Hillier Street and Princedom Street, along Hillier Street to its junction with Church Lane to its junction with Upper Conran Street, along Fernclough Road to Bentwood Walk (Naughton Walk, Saltburn Walk and Burntwood Walk all being in the parish of St Dunstan) to and across Broadwell Drive to Conran Street and its junction with Carisbrook Street opposite the Harpurhey Community Church, along Carisbrook Road and Rochdale Road to a point opposite the northern boundary of Manchester General Cemetery, and by a bee-line along this boundary to the River Irk, by the River Irk to Mill Brow, then by Mill Brow, Chapel Lane and Plant Hill Road to its junction with French Barn Lane, then by a bee-line to the junction of Hill Lane and Hilldale Avenue, and along Hilldale Avenue to its junction with Rochdale Road and N along Rochdale Road to M60 Motorway junction 20.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Mount Carmel and St John Bosco",
+        "description": "From the junction of Hilldale Avenue and Rochdale Road, along Levedale Road, Elmton Road and White Moss Road to a point opposite Churston Ave, then buy a bee-line to a point between Dam Head Drive and Earby Grove, then by a bee-line to the junction of Charlestown Road and Polefield Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "07/10/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C023_20181007_A3.pdf",
+      "description": "From M60 Motorway junction 20, E along the Motorway, to the point opposite Manchester Creative & Media Academy. Then E by Victoria Ave East, Moston Lane and Crowden Road to the end of the road, and then by a bee-line across Boggart Hole Clough to the junction of Glen Avenue and Clough Road. Along Clough Road (both sides being in Mount Carmel parish), Moston Lane, Hillier Street North to its end at the Moston Pub, directly across the footpath to the east of The Moston to the corner of Hillier Street and Princedom Street, along Hillier Street to its junction with Church Lane to its junction with Upper Conran Street, along Fernclough Road to Bentwood Walk (Naughton Walk, Saltburn Walk and Burntwood Walk all being in the parish of St Dunstan) to and across Broadwell Drive to Conran Street and its junction with Carisbrook Street opposite the Harpurhey Community Church, along Carisbrook Road and Rochdale Road to a point opposite the northern boundary of Manchester General Cemetery, and by a bee-line along this boundary to the River Irk, by the River Irk to Mill Brow, then by Mill Brow, Chapel Lane and Plant Hill Road to its junction with French Barn Lane, then by a bee-line to the junction of Hill Lane and Hilldale Avenue, and along Hilldale Avenue to its junction with Rochdale Road and N along Rochdale Road to M60 Motorway junction 20.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Mount Carmel and St John Bosco",
+          "description": "From the junction of Hilldale Avenue and Rochdale Road, along Levedale Road, Elmton Road and White Moss Road to a point opposite Churston Ave, then buy a bee-line to a point between Dam Head Drive and Earby Grove, then by a bee-line to the junction of Charlestown Road and Polefield Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

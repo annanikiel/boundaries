@@ -1,27 +1,41 @@
 {
   "id": "D002",
   "name": "St Hubert with St Wulstan, Great Harwood",
+  "shortName": "St Hubert with St Wulstan",
+  "location": "Great Harwood",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "29/07/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D002_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002_20170729_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002_20170729_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D002_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From junction of Blackburn Old Road and Wilpshire Road, N along Wiplshire Road, York Road to and E along Ribble Valley – Hyndburn District boundary bend on Shawcliffe Lane near Hill Side, then by a beeline to and SE along River Calder crossing A680 Whalley Road, to its confluence with Hyndburn Brook, and SW along the that brook to the point opposite Barons Way, then W by Norden Brook, Lee Lane, N by Wilpshire Road to its junction with Blackburn Old Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002_20170415_A3.pdf",
+      "description": "From junction of Blackburn Old Road and Wilpshire Road, N along Wiplshire Road, York Road to and E along Ribble Valley – Hyndburn District boundary bend on Shawcliffe Lane near Hill Side, then by a beeline to and SE along River Calder crossing A680 Whalley Road, to its confluence with Hyndburn Brook, and SW along the that brook to the point opposite Barons Way, then W by Norden Brook, Lee Lane, N by Wilpshire Road to its junction with Blackburn Old Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "29/07/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D002_20170729_A3.pdf",
+      "description": "From junction of Blackburn Old Road and Wilpshire Road, N along Wiplshire Road, York Road to and E along Ribble Valley – Hyndburn District boundary bend on Shawcliffe Lane near Hill Side, then by a beeline to and SE along River Calder crossing A680 Whalley Road, to its confluence with Hyndburn Brook, and SW along the that brook to the point opposite Barons Way, then W by Norden Brook, Lee Lane, N by Wilpshire Road to its junction with Blackburn Old Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

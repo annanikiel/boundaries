@@ -1,23 +1,33 @@
 {
   "id": "E004",
   "name": "St Aidan and St Oswald, Royton",
+  "shortName": "St Aidan and St Oswald",
+  "location": "Royton",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E004_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E004_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E004_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E004_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Rochdale – Oldham boundary crosses Thornham Lane, N and then E along that boundary to the junction of Thornham Lane and Castleton Road. Then by a straight line to the footpath and S to and along Narrow Gate Brow, Fir Lane to its junction with Grasmere Road. Then by a bee-line SE to the High Barn Road, SW along Shaw Road, Turfland Avenue, Turfland Avenue to the end of the road. Then by a bee-line to the junction of Salmon Fields and Leonard Way and by a straight line along the footpath to Higgshaw Lane. Then by a bee-line across Oldham Edge to the junction of Godson Street and Crompton Street, W along Crompton Street, Rochdale Road, Featherstall Road North (A6048), Chadderton Way and A627 (M) Motorway. Then by a bee-line to Cinder Hill Lane past Woodside Farm and N along Cinder Hill Lane to and along the Rochdale – Oldham District boundary to the point where it crosses Thornham Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E004_20170415_A3.pdf",
+      "description": "From the point where Rochdale – Oldham boundary crosses Thornham Lane, N and then E along that boundary to the junction of Thornham Lane and Castleton Road. Then by a straight line to the footpath and S to and along Narrow Gate Brow, Fir Lane to its junction with Grasmere Road. Then by a bee-line SE to the High Barn Road, SW along Shaw Road, Turfland Avenue, Turfland Avenue to the end of the road. Then by a bee-line to the junction of Salmon Fields and Leonard Way and by a straight line along the footpath to Higgshaw Lane. Then by a bee-line across Oldham Edge to the junction of Godson Street and Crompton Street, W along Crompton Street, Rochdale Road, Featherstall Road North (A6048), Chadderton Way and A627 (M) Motorway. Then by a bee-line to Cinder Hill Lane past Woodside Farm and N along Cinder Hill Lane to and along the Rochdale – Oldham District boundary to the point where it crosses Thornham Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,56 @@
 {
   "id": "F026",
   "name": "Corpus Christi, Bromley Cross",
+  "shortName": "Corpus Christi",
+  "location": "Bromley Cross",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "26/08/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F026_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F026_20190826_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F026_20190826_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F026_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Broadhead Road crosses Twitchels Brook, S along Blackburn – Rossendale District boundary, Blackburn - Bury District boundary and Bolton - Bury District boundary to and NW along Arthur Lane, Stitch-Mi-Lane, New Lane, Blair Lane and Thicketford Road. Then N along Crompton Way (A58) to intersection with railway line at Hall-i-th-Wood and N along the railway line to its crossing with Oaks Lane and then W along Oaks Lane to the River Croal and N along the River Croal to Eagley Brook. NW by Eagley Brook, Eagley Way, Blackburn Road (A666), Eagley Brook, Dewhurst Clough, Delph Brook and by Blackburn – Bolton District boundary to Blackburn Road (A666). N by Blackburn Road to Cadshaw Brook and along northern boundary of North Turton civil parish to the crossing of Broadhead Road and Twitchels Brook.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Brendan and St John Evangelist",
+        "description": "From the confluence of River Croal and Eagley Brook, N to and E along Darwen Road, Turton Road and Printers Lane. Then N along Bradshaw Brook, across Jumbles Reservoir to and N along Blackburn – Bolton District boundary to the point it meets Bury boundary."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
-      "date": "26/08/2019",
-      "status": "approved"
+      "date": "09/11/2017",
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F026_20171109_A3.pdf",
+      "description": "From the point where Broadhead Road crosses Twitchels Brook, S along Blackburn – Rossendale District boundary, Blackburn - Bury District boundary and Bolton - Bury District boundary to and NW along Arthur Lane, Stitch-Mi-Lane, New Lane, Blair Lane, Thicketford Road to and N along Broadshaw Brook to its crossing with Printers Lane, and W along Printers Lane, N and then W along Turton Road, then across Birtenshaw School and by a footpath to Eagley Brook. N by Eagly Brook, Dewhurst Clough, Delph Brook and by Blackburn – Bolton District boundary to Blackburn Road (A666). N by Blackburn Road to Cadshaw Brook and along northern boundary of North Turton civil parish to the crossing of Broadhead Road and Twitchels Brook.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Brendan and St John Evangelist",
+          "description": "From the point where Broadshaw Brook crosses Printers Lane, N along Broadshaw brook, across Jumbles Reservoir to and N along Blackburn – Bolton District boundary to the point it meets Bury boundary."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
-      "date": "09/11/2017",
-      "status": "approved"
+      "date": "26/08/2019",
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F026_20190826_A3.pdf",
+      "description": "From the point where Broadhead Road crosses Twitchels Brook, S along Blackburn – Rossendale District boundary, Blackburn - Bury District boundary and Bolton - Bury District boundary to and NW along Arthur Lane, Stitch-Mi-Lane, New Lane, Blair Lane and Thicketford Road. Then N along Crompton Way (A58) to intersection with railway line at Hall-i-th-Wood and N along the railway line to its crossing with Oaks Lane and then W along Oaks Lane to the River Croal and N along the River Croal to Eagley Brook. NW by Eagley Brook, Eagley Way, Blackburn Road (A666), Eagley Brook, Dewhurst Clough, Delph Brook and by Blackburn – Bolton District boundary to Blackburn Road (A666). N by Blackburn Road to Cadshaw Brook and along northern boundary of North Turton civil parish to the crossing of Broadhead Road and Twitchels Brook.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Brendan and St John Evangelist",
+          "description": "From the confluence of River Croal and Eagley Brook, N to and E along Darwen Road, Turton Road and Printers Lane. Then N along Bradshaw Brook, across Jumbles Reservoir to and N along Blackburn – Bolton District boundary to the point it meets Bury boundary."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

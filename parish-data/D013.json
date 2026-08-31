@@ -1,23 +1,33 @@
 {
   "id": "D013",
   "name": "St Mary and St Anselm, Whitworth",
+  "shortName": "St Mary and St Anselm",
+  "location": "Whitworth",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D013_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D013_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Clough Bottom reservoir, along the Rossendale - Burnley District boundary to and along the Rossendale - Calderdale boundary to and along the Rossendale – Rochdale Metropolitan boundary across the A671 and along the same boundary to the track by the boundary stone at Old Sink Slack and by the track to the boundary stone at Jackson's Moor, then by a bee-line to the south east corner of the cemetery and by Lee Road and Glen St to Newchurch Road, Rushton Street, and east along Anvil Street to the steps, then by a line drawn between the Fernhill Estate (Newchurch parish) and the Rockcliffe Estate (Bacup parish) to the path north of Wesley Place and by this path to Newchurch Old Road and by a bee-line to the Rossendale - Burnley District boundary at Clough Bottom Reservoir.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D013_20170415_A3.pdf",
+      "description": "From Clough Bottom reservoir, along the Rossendale - Burnley District boundary to and along the Rossendale - Calderdale boundary to and along the Rossendale – Rochdale Metropolitan boundary across the A671 and along the same boundary to the track by the boundary stone at Old Sink Slack and by the track to the boundary stone at Jackson's Moor, then by a bee-line to the south east corner of the cemetery and by Lee Road and Glen St to Newchurch Road, Rushton Street, and east along Anvil Street to the steps, then by a line drawn between the Fernhill Estate (Newchurch parish) and the Rockcliffe Estate (Bacup parish) to the path north of Wesley Place and by this path to Newchurch Old Road and by a bee-line to the Rossendale - Burnley District boundary at Clough Bottom Reservoir.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

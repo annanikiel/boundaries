@@ -1,24 +1,39 @@
 {
   "id": "H016",
   "name": "St Mary, Bamber Bridge",
+  "shortName": "St Mary",
+  "location": "Bamber Bridge",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H016_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H016_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H016_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H016_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Kittlingbourne Bridge over the M6 at junction 30 at Prospect Hill, S by M61 to junction 9 at a point adjacent to the junction of Clayton Brook Road and Great Green Lane, NW crossing the A6 following the River Lostock on the N side of Riverside and Holme Road, SW crossing A6 to Stone Bridge, N at Todd Lane South to Todd Lane North at Limekiln Cottage, E to corner of Charnley Fold and Cottage Lane to Kittlingbourne Bridge at Prospect Hill.",
+    "internalBoundaries": [],
+    "supplementaryNote": {
+      "title": "Area served from Liverpool Archdiocese",
+      "text": "NW along the ‘greenway corridor’ (which marks the Salford Diocese – Liverpool Archdiocese boundary, formerly the Hundred of Blackburnshire) and which separates the following streets in Salford Diocese: Great Green Lane, Tunley Holme, School Field, Clayton Brook and most of Daisy Meadow, from the following streets in Liverpool Archdiocese: The Heathers, Well Orchard and part of Daisy Meadow, to a point where it meets Preston Road A6 at Clayton Brook SW by this brook and the Ribble-Chorley civic boundary to the River Lostock and NW across the complex junction of M6 and M65."
+    }
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
       "status": "draft",
-      "note": "NW along the \u2018greenway corridor\u2019 (which marks the Salford Diocese \u2013 Liverpool Archdiocese boundary,  formerly the Hundred of Blackburnshire) and which separates the following streets in Salford Diocese: Great Green Lane, Tunley Holme, School Field, Clayton Brook and most of Daisy Meadow, from the following streets in Liverpool Archdiocese: The Heathers, Well Orchard and part of Daisy Meadow, to a point where it meets Preston Road A6 at Clayton Brook SW by this brook and the Ribble-Chorley civic boundary to the River Lostock and NW across the complex junction of M6 and M65."
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H016_20170415_A3.pdf",
+      "description": "From Kittlingbourne Bridge over the M6 at junction 30 at Prospect Hill, S by M61 to junction 9 at a point adjacent to the junction of Clayton Brook Road and Great Green Lane, NW crossing the A6 following the River Lostock on the N side of Riverside and Holme Road, SW crossing A6 to Stone Bridge, N at Todd Lane South to Todd Lane North at Limekiln Cottage, E to corner of Charnley Fold and Cottage Lane to Kittlingbourne Bridge at Prospect Hill.",
+      "internalBoundaries": [],
+      "supplementaryNote": {
+        "title": "Area served from Liverpool Archdiocese",
+        "text": "NW along the ‘greenway corridor’ (which marks the Salford Diocese – Liverpool Archdiocese boundary, formerly the Hundred of Blackburnshire) and which separates the following streets in Salford Diocese: Great Green Lane, Tunley Holme, School Field, Clayton Brook and most of Daisy Meadow, from the following streets in Liverpool Archdiocese: The Heathers, Well Orchard and part of Daisy Meadow, to a point where it meets Preston Road A6 at Clayton Brook SW by this brook and the Ribble-Chorley civic boundary to the River Lostock and NW across the complex junction of M6 and M65."
+      }
     }
   ],
   "map": {

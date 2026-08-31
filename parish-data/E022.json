@@ -1,23 +1,43 @@
 {
   "id": "E022",
   "name": "St Francis of Assisi, Oldham",
+  "shortName": "St Francis of Assisi",
+  "location": "Oldham",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E022_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E022_20181209_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E022_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E022_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Ripponden Road and Ship Lane, along Saddleworth Civil Parish boundary to Greenacres Road. Then W by Greenacres Road, Esther Street, Clarksfield Road, Brewerton Road, Roundthorn Road and by a bee-line to the River Medlock near, and including Coverham Avenue and Ferndale Close. S by River Medlock to Abbey Hills Road, Lees New Road to, but excluding Cockfields Farm. Then W by a beeline to and N along Snipe Clough and King’s Road to the point opposite Belgrave Road. By a bee-line to and NW by Belgrave Road and Scottfield road, and by a bee-line to Park Road, excluing Eldon Street and Brookfield Street estate. E by Park Road, then NE by Woodstock Street, Waterloo Street and NE by a footpath s of Oldham Way to the junction of Oldham Way and Lees Road, and N by the Railway to the point opposite Sumner Streer, and E to the Saddleworth Civil Parish boundary and Lower Dingle. E along Lower Dingle to Ripponden Road and its junction with Ship Lane.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Sacred Heart with Our Lady and St Anne with St Michael",
+        "description": "From the S border of Lower Strinesdale Reservoir. Then W by a bee-line to Furze Lane (all of Armdale Rise estate in St Anne and St Michael parish). SW along Furze Lane, NW border of Waterhead Park and then S by Sharples Hall Street and by a beeline to and along Leamington Street, Vincent Avenue, Little Moor Lane, Shrewsbury Avenue, Vulcan Street, Prince Charlie Street, Derker Street, Arnold Street to the Railway."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E022_20181209_A3.pdf",
+      "description": "From the junction of Ripponden Road and Ship Lane, along Saddleworth Civil Parish boundary to Greenacres Road. Then W by Greenacres Road, Esther Street, Clarksfield Road, Brewerton Road, Roundthorn Road and by a bee-line to the River Medlock near, and including Coverham Avenue and Ferndale Close. S by River Medlock to Abbey Hills Road, Lees New Road to, but excluding Cockfields Farm. Then W by a beeline to and N along Snipe Clough and King’s Road to the point opposite Belgrave Road. By a bee-line to and NW by Belgrave Road and Scottfield road, and by a bee-line to Park Road, excluing Eldon Street and Brookfield Street estate. E by Park Road, then NE by Woodstock Street, Waterloo Street and NE by a footpath s of Oldham Way to the junction of Oldham Way and Lees Road, and N by the Railway to the point opposite Sumner Streer, and E to the Saddleworth Civil Parish boundary and Lower Dingle. E along Lower Dingle to Ripponden Road and its junction with Ship Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Sacred Heart with Our Lady and St Anne with St Michael",
+          "description": "From the S border of Lower Strinesdale Reservoir. Then W by a bee-line to Furze Lane (all of Armdale Rise estate in St Anne and St Michael parish). SW along Furze Lane, NW border of Waterhead Park and then S by Sharples Hall Street and by a beeline to and along Leamington Street, Vincent Avenue, Little Moor Lane, Shrewsbury Avenue, Vulcan Street, Prince Charlie Street, Derker Street, Arnold Street to the Railway."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

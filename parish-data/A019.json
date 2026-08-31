@@ -1,23 +1,33 @@
 {
   "id": "A019",
   "name": "St Mary, Levenshulme",
+  "shortName": "St Mary",
+  "location": "Levenshulme",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 15,
+  "note": "Now part of a new parish of St Robert of Newminster (22.09.2017)",
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A019_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A019_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A019_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A019_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Birchfields Road and Old Hall Lane, E along Old Hall Lane, Park Grove, Stockport Road, Barlow Road, Manor Road, Sandford Lane, Nelstrop Lane North and then by a beeline between Wilsthorpe Grove (St Mary’s parish) and Simon Freeman Close (St Joseph’s, Reddish parish) to and along Norfolk Avenue, Wellington Road North, Crossley Road, Grangethorpe Drive, N along Kingsway, Mossley Road and Birchfields Road to its junction with Old Hall Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A019_20170415_A3.pdf",
+      "description": "From the junction of Birchfields Road and Old Hall Lane, E along Old Hall Lane, Park Grove, Stockport Road, Barlow Road, Manor Road, Sandford Lane, Nelstrop Lane North and then by a beeline between Wilsthorpe Grove (St Mary’s parish) and Simon Freeman Close (St Joseph’s, Reddish parish) to and along Norfolk Avenue, Wellington Road North, Crossley Road, Grangethorpe Drive, N along Kingsway, Mossley Road and Birchfields Road to its junction with Old Hall Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

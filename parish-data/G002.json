@@ -1,23 +1,33 @@
 {
   "id": "G002",
   "name": "Our Lady and St Joseph, Heywood",
+  "shortName": "Our Lady and St Joseph",
+  "location": "Heywood",
   "deaneryId": "G",
   "status": "current",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G002_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G002_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G002_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G002_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bury, Rossendale and Rochdale District boundaries meet, near Birtle Edge Farm, along Rossendale – Rochdale boundary to Cheesden Brook, E through Cleggs Wood and Black Dad Wood, by a beeline to the junction of Ashworth Road and School Lane,S along Ashworth Road, E along Bury and Rochdale Old Road and S along Queen’s Park Road to River Roch to the point opposite Matthew Moss High School on Bolton Road (A58), and by a bee-line to and SW along Bolton Road, then by a footpath going through Francil, Heys Farm to the Heywood railway, E by that railway to, and W along the M62 Motorway to Whittle Brook, then by that brook and Bury – Rochdale District boundary N to M66 Motorway junction 3. N by the motorway to junction 2 and by Bury – Rochdale District boundary W, NW to the point where it meets Rossendale District boundary.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G002_20170415_A3.pdf",
+      "description": "From the point where Bury, Rossendale and Rochdale District boundaries meet, near Birtle Edge Farm, along Rossendale – Rochdale boundary to Cheesden Brook, E through Cleggs Wood and Black Dad Wood, by a beeline to the junction of Ashworth Road and School Lane,S along Ashworth Road, E along Bury and Rochdale Old Road and S along Queen’s Park Road to River Roch to the point opposite Matthew Moss High School on Bolton Road (A58), and by a bee-line to and SW along Bolton Road, then by a footpath going through Francil, Heys Farm to the Heywood railway, E by that railway to, and W along the M62 Motorway to Whittle Brook, then by that brook and Bury – Rochdale District boundary N to M66 Motorway junction 3. N by the motorway to junction 2 and by Bury – Rochdale District boundary W, NW to the point where it meets Rossendale District boundary.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

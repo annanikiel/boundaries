@@ -1,23 +1,43 @@
 {
   "id": "H039",
   "name": "Sacred Heart and St Anne, Blackburn",
+  "shortName": "Sacred Heart and St Anne",
+  "location": "Blackburn",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H039_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H03920181209_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H039_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H039_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Ribble Valley – Blackburn District boundary crosses Lammack Road, S along Lammack Road, to the bend in Lammack Road near West Leigh Road, and by a beeline to and along Paignton Road, W along Revidge Road and S along Brantfell Road, SW along East Park Road. East along Preston New Road and Barbara Castle Way. By a beeline S to and along Ainsworth Street, then W along Church Street, Higher Church Street, NW along Astley Gate, King Street, Whalley Banks and Bank Top. Then N along Garden Street, W along Wensley Road, to its junction with Buncer Lane, then N along Buncer Lane to its junction with Billinge Avenue (both sides in Sacred Heart & St Anne parish) and SW by a beeline to south end of Lawley Road (both sides in Sacred Heart & St Anne parish). N by Lawley Road, W by Under Billinge Lane and N following W boundary of Billinge Wood to and along Killiard Lane and Billinge End Road. Then by a beeline N to and along W boundary of Westholme Senior School and Sixth Form, continuing N to and E along Ribble Valley - Blackburn District boundary (near, but excluding Arley Farm) to its crossing with Lammack Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Sacred Heart and St Anne",
+        "description": "West along Preston New Road, NW along Crosshill Road and by a bee-line to the junction of Wensley Road and Buncer Lane."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H039_20181209_A3.pdf",
+      "description": "From the point where Ribble Valley – Blackburn District boundary crosses Lammack Road, S along Lammack Road, to the bend in Lammack Road near West Leigh Road, and by a beeline to and along Paignton Road, W along Revidge Road and S along Brantfell Road, SW along East Park Road. East along Preston New Road and Barbara Castle Way. By a beeline S to and along Ainsworth Street, then W along Church Street, Higher Church Street, NW along Astley Gate, King Street, Whalley Banks and Bank Top. Then N along Garden Street, W along Wensley Road, to its junction with Buncer Lane, then N along Buncer Lane to its junction with Billinge Avenue (both sides in Sacred Heart & St Anne parish) and SW by a beeline to south end of Lawley Road (both sides in Sacred Heart & St Anne parish). N by Lawley Road, W by Under Billinge Lane and N following W boundary of Billinge Wood to and along Killiard Lane and Billinge End Road. Then by a beeline N to and along W boundary of Westholme Senior School and Sixth Form, continuing N to and E along Ribble Valley - Blackburn District boundary (near, but excluding Arley Farm) to its crossing with Lammack Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Sacred Heart and St Anne",
+          "description": "West along Preston New Road, NW along Crosshill Road and by a bee-line to the junction of Wensley Road and Buncer Lane."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

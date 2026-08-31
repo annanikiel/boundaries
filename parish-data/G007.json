@@ -1,27 +1,41 @@
 {
   "id": "G007",
   "name": "Sacred Heart, Rochdale",
+  "shortName": "Sacred Heart",
+  "location": "Rochdale",
   "deaneryId": "G",
   "status": "closed",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G007_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G007_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G007_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G007_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Smithy Bridge Railway station, E along Smithy Bridge Road and in a straight line across Hollingworth Lake to M62 Motorway near Lower Booth Hollins Farm. Then E along M62 Rochdale – Calderdale District boundary. Then S by the diocesan boundary to the junction of Ripponden Road (A672) and Buckstones Road (B6197) at Grains Bar. NW along Buckstones Road to Brunchapel Farm, then N by a beeline to the W boundary of the Brushes Clough Reservoir and by a stream following into it from the west to the point opposite Golden Street, then by a bee-line to the junction of Dunwoods Park Courst and Milnrow Road, N along Milnrow Road (Shaw Road, NewHey Road, Elizabethan Way to M62 junction 21, and W along the Motorway and Road A6193 to its junction with Kingsway), the N along Moss Bridge Road, Channing Street, Church Road, to the Rochdale – Smithy Bridge railway and E along that railway to Smithy Bridge station.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G007_20170415_A3.pdf",
+      "description": "From Smithy Bridge Railway station, E along Smithy Bridge Road and in a straight line across Hollingworth Lake to M62 Motorway near Lower Booth Hollins Farm. Then E along M62 Rochdale – Calderdale District boundary. Then S by the diocesan boundary to the junction of Ripponden Road (A672) and Buckstones Road (B6197) at Grains Bar. NW along Buckstones Road to Brunchapel Farm, then N by a beeline to the W boundary of the Brushes Clough Reservoir and by a stream following into it from the west to the point opposite Golden Street, then by a bee-line to the junction of Dunwoods Park Courst and Milnrow Road, N along Milnrow Road (Shaw Road, NewHey Road, Elizabethan Way to M62 junction 21, and W along the Motorway and Road A6193 to its junction with Kingsway), the N along Moss Bridge Road, Channing Street, Church Road, to the Rochdale – Smithy Bridge railway and E along that railway to Smithy Bridge station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G007_20170602_A3.pdf",
+      "description": "From Smithy Bridge Railway station, E along Smithy Bridge Road and in a straight line across Hollingworth Lake to M62 Motorway near Lower Booth Hollins Farm. Then E along M62 Rochdale – Calderdale District boundary. Then S by the diocesan boundary to the junction of Ripponden Road (A672) and Buckstones Road (B6197) at Grains Bar. NW along Buckstones Road to Brunchapel Farm, then N by a beeline to the W boundary of the Brushes Clough Reservoir and by a stream following into it from the west to the point opposite Golden Street, then by a bee-line to the junction of Dunwoods Park Courst and Milnrow Road, N along Milnrow Road (Shaw Road, NewHey Road, Elizabethan Way to M62 junction 21, and W along the Motorway and Road A6193 to its junction with Kingsway), the N along Moss Bridge Road, Channing Street, Church Road, to the Rochdale – Smithy Bridge railway and E along that railway to Smithy Bridge station.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

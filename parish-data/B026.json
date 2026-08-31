@@ -1,23 +1,43 @@
 {
   "id": "B026",
   "name": "St John Paul II, Eccles",
+  "shortName": "St John Paul II",
+  "location": "Eccles",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "09/12/2018",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B026_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B026_20181209_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B026_20181209_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B026_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Rocky Lane and Chorlton Fold, E along Folly Brook to the border of Eccles College then by a beeline SW to Ellesmere Road (Godolphin Close and Welbeck Road both in Ss Peter and Paul parish). SW along Ellesmere Road, E along Victoria Crescent, Half Edge Lane, Eccles Old Road, Stott Lane to its junction with Eccles New Road. Then by a beeline SW to the roundabout joining Coronet Way and Centenary Way, S along Centenary Way and W by Manchester Ship Canal. Then W by the canal to the point and by a beeline to and along SW border of Boysnope Park Golf Club and by a footpath crossing Raspberry Lane and Twelve Yards Road to the railway. W along the railway and N by a Wigan – Salford District boundary to Bridgewater Canal. Then E by the Canal and Bridgewater Way to its confluence with Folly Brook to the junction of Rocky Lane and Chorlton Fold.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between Holy Cross, St Matthew and St Gilbert with St Mary",
+        "description": "From the Manchester Ship Canal opposite Ashbourne Road and NW by a beeline to the junction of Ashbourne Road and Barton Lane, and W along Barton Lane. N along Fairless Road, Trafford Road, Renshae Avenue, Mellor Street, Liverpool Road, Green Lane, Canal Bank, Bridgewater Way and by a beeline to Folly Brook."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "09/12/2018",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B026_20181209_A3.pdf",
+      "description": "From the junction of Rocky Lane and Chorlton Fold, E along Folly Brook to the border of Eccles College then by a beeline SW to Ellesmere Road (Godolphin Close and Welbeck Road both in Ss Peter and Paul parish). SW along Ellesmere Road, E along Victoria Crescent, Half Edge Lane, Eccles Old Road, Stott Lane to its junction with Eccles New Road. Then by a beeline SW to the roundabout joining Coronet Way and Centenary Way, S along Centenary Way and W by Manchester Ship Canal. Then W by the canal to the point and by a beeline to and along SW border of Boysnope Park Golf Club and by a footpath crossing Raspberry Lane and Twelve Yards Road to the railway. W along the railway and N by a Wigan – Salford District boundary to Bridgewater Canal. Then E by the Canal and Bridgewater Way to its confluence with Folly Brook to the junction of Rocky Lane and Chorlton Fold.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between Holy Cross, St Matthew and St Gilbert with St Mary",
+          "description": "From the Manchester Ship Canal opposite Ashbourne Road and NW by a beeline to the junction of Ashbourne Road and Barton Lane, and W along Barton Lane. N along Fairless Road, Trafford Road, Renshae Avenue, Mellor Street, Liverpool Road, Green Lane, Canal Bank, Bridgewater Way and by a beeline to Folly Brook."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

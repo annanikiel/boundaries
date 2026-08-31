@@ -1,23 +1,33 @@
 {
   "id": "A013",
   "name": "St Edward, Rusholme",
+  "shortName": "St Edward",
+  "location": "Rusholme",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A013_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A013_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A013_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A013_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Denmark Road and Oxford Road, S along Oxfod Road, Hathersage Road, Upper Brook Street, Anson Road, Birchfields Road, Old Hall Lane, Wilmslow Road, Platt Lane, Parkfield Street, Arnside Street, Yew Tree Road, Claremont Road, Broadfield Road, Moss Lane East, Lloyd Street North and Denmark Road to its junction with Oxford Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A013_20170415_A3.pdf",
+      "description": "From the junction of Denmark Road and Oxford Road, S along Oxfod Road, Hathersage Road, Upper Brook Street, Anson Road, Birchfields Road, Old Hall Lane, Wilmslow Road, Platt Lane, Parkfield Street, Arnside Street, Yew Tree Road, Claremont Road, Broadfield Road, Moss Lane East, Lloyd Street North and Denmark Road to its junction with Oxford Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

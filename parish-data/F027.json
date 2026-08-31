@@ -1,23 +1,43 @@
 {
   "id": "F027",
   "name": "Christ the Redeemer, Bolton",
+  "shortName": "Christ the Redeemer",
+  "location": "Bolton",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "15/12/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F027_a4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F027_20171215_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F027_20171215_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F027_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hight Street and Brigdeman Steet, NE along Bridgeman Street to the railway. S along the railway to the point opposite Ashby Close. By a beeline to Lower Doe Hey Reservoir (exluding Ashby Close), W along the middle of Lower and Higher Doe Hey Reservoir and Doe Hey Brook to Slack Fold Lane and by a beeline to and N along Smethurst Lane to Plodder Lane. E along Plodder Lane, Watergate Lane to M61 Motorway junction 4 and W along the Motorway, past junction 5 and by a beeline N including all of Winslow Road Estate, to the junction of Tempest Road and Junction Road West, N along Rumworth Road to Lostock station and E along the railway to the point opposite Gilnow Lane, and S along Gilnow Lane to and E along Deane Road, Cannon Street, Derby Street and Hight Street to its junction with Bridgeman Street.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Ethelbert and St William of York",
+        "description": "From the junction of High Street and Bridgeman Street, SW along Bridgeman Street, S along Adelaide Street and by a beeline to and SW along Ellesmere Road, Moors Green Lane, Sapling Road, Smethurst Lane to the point opposite Top O’ Th’ Height Farm."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/12/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F027_20171215_A3.pdf",
+      "description": "From the junction of Hight Street and Brigdeman Steet, NE along Bridgeman Street to the railway. S along the railway to the point opposite Ashby Close. By a beeline to Lower Doe Hey Reservoir (exluding Ashby Close), W along the middle of Lower and Higher Doe Hey Reservoir and Doe Hey Brook to Slack Fold Lane and by a beeline to and N along Smethurst Lane to Plodder Lane. E along Plodder Lane, Watergate Lane to M61 Motorway junction 4 and W along the Motorway, past junction 5 and by a beeline N including all of Winslow Road Estate, to the junction of Tempest Road and Junction Road West, N along Rumworth Road to Lostock station and E along the railway to the point opposite Gilnow Lane, and S along Gilnow Lane to and E along Deane Road, Cannon Street, Derby Street and Hight Street to its junction with Bridgeman Street.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Ethelbert and St William of York",
+          "description": "From the junction of High Street and Bridgeman Street, SW along Bridgeman Street, S along Adelaide Street and by a beeline to and SW along Ellesmere Road, Moors Green Lane, Sapling Road, Smethurst Lane to the point opposite Top O’ Th’ Height Farm."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

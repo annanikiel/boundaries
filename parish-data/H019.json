@@ -1,23 +1,33 @@
 {
   "id": "H019",
   "name": "St Mary, Osbaldeston",
+  "shortName": "St Mary",
+  "location": "Osbaldeston",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H019_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H019_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H019_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H019_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "SW at Clayton Hey Farm and by the footpath W of the Sewerage Works. W by Showley Brook to and S by Saccary Lane, Zechariah Brow  and Barker Lane. W by Arley Brook and the Ribble Valley - Blackburn with Darwen civil boundary crossing Preston New Road A677 just north of Yew Tree Drive A6119 to the Ribble Valley - Blackburn with Darwen civil boundary then to the Ribble Valley - South Ribble civil boundary to where it crosses Further Lane near Alum Scar Lane then by a  straight line north to Higher Barn Farm (presently KFC takeaway) crossing Preston New Road by a straight line NW  across Samlesbury airfield to meet the Ribble Valley - South Ribble civil boundary  at Myerscough Smithy on the A59, then by Ribble Valley - South Ribble civil boundary to the River Ribble at Spring Wood along River Ribble to Waterside Farm, and by a beeline to and along Ribchester Road to Clayton Hey Farm.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H019_20170415_A3.pdf",
+      "description": "SW at Clayton Hey Farm and by the footpath W of the Sewerage Works. W by Showley Brook to and S by Saccary Lane, Zechariah Brow  and Barker Lane. W by Arley Brook and the Ribble Valley - Blackburn with Darwen civil boundary crossing Preston New Road A677 just north of Yew Tree Drive A6119 to the Ribble Valley - Blackburn with Darwen civil boundary then to the Ribble Valley - South Ribble civil boundary to where it crosses Further Lane near Alum Scar Lane then by a  straight line north to Higher Barn Farm (presently KFC takeaway) crossing Preston New Road by a straight line NW  across Samlesbury airfield to meet the Ribble Valley - South Ribble civil boundary  at Myerscough Smithy on the A59, then by Ribble Valley - South Ribble civil boundary to the River Ribble at Spring Wood along River Ribble to Waterside Farm, and by a beeline to and along Ribchester Road to Clayton Hey Farm.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

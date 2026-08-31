@@ -1,28 +1,56 @@
 {
   "id": "B019",
   "name": "St Teresa of Avila and St Joseph, Irlam",
+  "shortName": "St Teresa of Avila and St Joseph",
+  "location": "Irlam",
   "deaneryId": "B",
   "status": "current",
+  "parishNumber": 7,
+  "note": null,
   "maps": {
     "updated": "13/07/2022",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B019_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B019_20220713_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B019_20220713_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/B019_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Wigan – Salford District boundary crosses the railway, E along the railway, then S along the footpath going past Manor Farm and Bartonmoss Farm, crossing M62 Motorway, continuing in a straight line to the SW border of Boysnope Park Golf Club. Along that border and by a bee-line to Manchester Ship Canal (Salford – Trafford District boundary). Then N along Warrington – Salford District boundary and E along Wigan – Salford District boundary to the point where it crosses the railway.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Teresa and St Joseph",
+        "description": "From the point opposite Fairhills Road, W along Fairhills Road, Roscoe Road, Astley Road to the Wigan – Salford District boundary."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B009B022_20170415_A3.pdf",
+      "description": "From the point where Wigan – Salford District boundary crosses the railway, E along the railway, then S along the footpath going past Manor Farm and Bartonmoss Farm, crossing M62 Motorway, continuing in a straight line to the SW border of Boysnope Park Golf Club. Along that border and by a bee-line to Manchester Ship Canal (Salford – Trafford District boundary). Then N along Warrington – Salford District boundary and E along Wigan – Salford District boundary to the point where it crosses the railway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Teresa and St Joseph",
+          "description": "From the point opposite Fairhills Road, W along Fairhills Road, Roscoe Road, Astley Road to the Wigan – Salford District boundary."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "13/07/2022",
       "status": "approved",
-      "note": " "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/B019_20220713_A3.pdf",
+      "description": "From the point where Wigan – Salford District boundary crosses the railway, E along the railway, then S along the footpath going past Manor Farm and Bartonmoss Farm, crossing M62 Motorway, continuing in a straight line to the SW border of Boysnope Park Golf Club. Along that border and by a bee-line to Manchester Ship Canal (Salford – Trafford District boundary). Then N along Warrington – Salford District boundary and E along Wigan – Salford District boundary to the point where it crosses the railway.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Teresa and St Joseph",
+          "description": "From the point opposite Fairhills Road, W along Fairhills Road, Roscoe Road, Astley Road to the Wigan – Salford District boundary."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

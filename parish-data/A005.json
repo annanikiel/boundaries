@@ -1,23 +1,33 @@
 {
   "id": "A005",
   "name": "St Ann, Stretford",
+  "shortName": "St Ann",
+  "location": "Stretford",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A005_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A005_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Wharfside Way crosses Bridgewater Canal, S along Wharfside Way, White City Way and by a beeline to and SW along the railway. Then S by Great Stone Road and Kings Road to its junction with Marston Road and by a beeline to and SW along Trafford – Manchester District boundary to River Mersey. W along the River Mersey to the point opposite Lawson Grove, then N by a straight line to and along Anchorage Road, E along Urmstone Lane, Manor Road, Barton Road to the railway. E along the railway, then N along Park Road to Bridgewater Canal Stretford and Leigh Branch. E along that canal to its confluence with Bridgewater Canal Towpath and along that Canal, to the point where it crosses Wharfside Way.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A005_20170415_A3.pdf",
+      "description": "From the point where Wharfside Way crosses Bridgewater Canal, S along Wharfside Way, White City Way and by a beeline to and SW along the railway. Then S by Great Stone Road and Kings Road to its junction with Marston Road and by a beeline to and SW along Trafford – Manchester District boundary to River Mersey. W along the River Mersey to the point opposite Lawson Grove, then N by a straight line to and along Anchorage Road, E along Urmstone Lane, Manor Road, Barton Road to the railway. E along the railway, then N along Park Road to Bridgewater Canal Stretford and Leigh Branch. E along that canal to its confluence with Bridgewater Canal Towpath and along that Canal, to the point where it crosses Wharfside Way.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

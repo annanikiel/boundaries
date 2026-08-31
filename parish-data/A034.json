@@ -1,23 +1,43 @@
 {
   "id": "A034",
   "name": "St Joseph and St Edward, Longsight & Rusholme",
+  "shortName": "St Joseph and St Edward",
+  "location": "Longsight & Rusholme",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "17/07/2019",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A034_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A034_20190717_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A034_20190717_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A034_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hyde Road and Kirkmanshulme Lane, S along Kirkmanshulme Lane, the railway and W along Stanley Grove. Then SE along Stockport Road, Stamford Road, S along Birch Hall Lane, Birchfields Road, Old Hall Lane, Wilmslow Road, Platt Lane, Parkfield Street, Arnside Street, Yew Tree Road, Claremont Road, Broadfield Road, Moss Lane East, Lloyd Street North and Denmark Road. Then N along Oxford Road, Grafton Street, Upper Brook Street to its junction with Plymouth Grove. Then along Plymouth Grove to Bryant Close, Lauderdale Crescent, W along Stockport Road, Higher Ardwick, to Ardwick – Levenshulme railway and S along the railway to and E along Hyde Road to its junction with Kirkmanshulme Lane.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Joseph and St Edward",
+        "description": "From the junction of Birchfields Road and Anson Road, along Anson Road, Upper Brook Street, Hathersage Road and Oxford Road to its junction with Denmark Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "17/07/2019",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A034_20190717_A3.pdf",
+      "description": "From the junction of Hyde Road and Kirkmanshulme Lane, S along Kirkmanshulme Lane, the railway and W along Stanley Grove. Then SE along Stockport Road, Stamford Road, S along Birch Hall Lane, Birchfields Road, Old Hall Lane, Wilmslow Road, Platt Lane, Parkfield Street, Arnside Street, Yew Tree Road, Claremont Road, Broadfield Road, Moss Lane East, Lloyd Street North and Denmark Road. Then N along Oxford Road, Grafton Street, Upper Brook Street to its junction with Plymouth Grove. Then along Plymouth Grove to Bryant Close, Lauderdale Crescent, W along Stockport Road, Higher Ardwick, to Ardwick – Levenshulme railway and S along the railway to and E along Hyde Road to its junction with Kirkmanshulme Lane.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Joseph and St Edward",
+          "description": "From the junction of Birchfields Road and Anson Road, along Anson Road, Upper Brook Street, Hathersage Road and Oxford Road to its junction with Denmark Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,27 +1,41 @@
 {
   "id": "E009",
   "name": "St Joseph, Mossley",
+  "shortName": "St Joseph",
+  "location": "Mossley",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 6,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E009_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E009_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E009_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E009_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Rhodes Hill and South Hill, E along Saddleworth Civil Parish boundary and the diocesan boundary (including Mossley Road, Stamford Street, Arundel Street, AFC Mossley and King George Fields in St Joseph’s parish) to the footbridge on River Tame, near The Hoho restaurant. W by a bee-line and N border of Ashton-under-Lyne Golf Club to the junction Lily Lanes and unnamed road leading to the Golf Club fields, SW by Lily lanes to its junction with Lees Road and by a straight line W to Ashton to Oldham Greenway. N along the Greenway and then by a bee-line to the junction of Park Brigde Road and Alt Hill Lane and to the River Medlock and Oldham – Tameside District boundary. N by that boundary and by a beeline to the point opposite St Martin’s CoE Junior School, and E by a straight line, crossing Alt Lane and River Medlock to Lees Road. N by Lees Road to River Medlock, Holts Lane and Thornley Brook to the junction of Rhodes Hill and South Hill.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E009_20170415_A3.pdf",
+      "description": "From the junction of Rhodes Hill and South Hill, E along Saddleworth Civil Parish boundary and the diocesan boundary (including Mossley Road, Stamford Street, Arundel Street, AFC Mossley and King George Fields in St Joseph’s parish) to the footbridge on River Tame, near The Hoho restaurant. W by a bee-line and N border of Ashton-under-Lyne Golf Club to the junction Lily Lanes and unnamed road leading to the Golf Club fields, SW by Lily lanes to its junction with Lees Road and by a straight line W to Ashton to Oldham Greenway. N along the Greenway and then by a bee-line to the junction of Park Brigde Road and Alt Hill Lane and to the River Medlock and Oldham – Tameside District boundary. N by that boundary and by a beeline to the point opposite St Martin’s CoE Junior School, and E by a straight line, crossing Alt Lane and River Medlock to Lees Road. N by Lees Road to River Medlock, Holts Lane and Thornley Brook to the junction of Rhodes Hill and South Hill.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E009_20170628_A3.pdf",
+      "description": "From the junction of Rhodes Hill and South Hill, E along Saddleworth Civil Parish boundary and the diocesan boundary (including Mossley Road, Stamford Street, Arundel Street, AFC Mossley and King George Fields in St Joseph’s parish) to the footbridge on River Tame, near The Hoho restaurant. W by a bee-line and N border of Ashton-under-Lyne Golf Club to the junction Lily Lanes and unnamed road leading to the Golf Club fields, SW by Lily lanes to its junction with Lees Road and by a straight line W to Ashton to Oldham Greenway. N along the Greenway and then by a bee-line to the junction of Park Brigde Road and Alt Hill Lane and to the River Medlock and Oldham – Tameside District boundary. N by that boundary and by a beeline to the point opposite St Martin’s CoE Junior School, and E by a straight line, crossing Alt Lane and River Medlock to Lees Road. N by Lees Road to River Medlock, Holts Lane and Thornley Brook to the junction of Rhodes Hill and South Hill.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

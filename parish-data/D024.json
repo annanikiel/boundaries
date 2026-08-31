@@ -1,27 +1,56 @@
 {
   "id": "D024",
   "name": "St Anne and St Joseph, Accrington",
+  "shortName": "St Anne and St Joseph",
+  "location": "Accrington",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 4,
+  "note": "Amalgamation of St Anne and St Joseph",
   "maps": {
     "updated": "22/09/2017",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D024_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D024_20170922_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D024_20170922_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D024_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the M65 Motorway junction  7 with the A6185 Dunkenhalgh Way, by a straight line to the junction of  Dill Hall Lane and First Avenue, then by First Avenue (both sides in St Mary's Parish, Clayton le Moors) to and by Whalley Road to and along Haworth Street, excluding Epping Av., then by a straight line to the bend in Whinney Hill Road via but excluding  Sankey House Farm Caravan Site and by Whinney Hill Road and Clough Brook to the M65 Motorway, then eastwards by the M65 junction 8  with the A56(T). Then south by the A56(T)  Easterly  By-Pass to the junction with the A679 Burnley Road, by the Hyndburn and Burnley boundary and then westwards by the Hyndburn and Rossendale Boundary crossing the A56(T)  and the A680 (Manchester Road/Blackburn Road) to the line of the former Haslingden -Accrington railway line; then northwards by the cycleway that runs along the former railway to a point by the junction of Bath Street and Riley Street (both in St Anne's parish) and westwards by a bee-line to the junction of Ormerod Street and Willows Lane and north along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to the A679 Hyndburn Road, and north by the Dunkenhalgh Way to the M65 Motorway junction 7.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Anne and St Joseph",
+        "description": "From the junction of the Easterly By-Pass A56 with A679 Burnley Road, then south to the parking lay-by then in a straight line to and along Water Street, Alice Street, Burnley Road, Eastgate, A679 Hyndburn Road to the junction with Park Road."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "18/09/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D024_20170918_A3.pdf",
+      "description": "From the M65 Motorway junction  7 with the A6185 Dunkenhalgh Way, by a straight line to the junction of  Dill Hall Lane and First Avenue, then by First Avenue (both sides in St Mary's Parish, Clayton le Moors) to and by Whalley Road to and along Haworth Street, excluding Epping Av., then by a straight line to the bend in Whinney Hill Road via but excluding  Sankey House Farm Caravan Site and by Whinney Hill Road and Clough Brook to the M65 Motorway, then eastwards by the M65 junction 8  with the A56(T). Then south by the A56(T)  Easterly  By-Pass to the junction with the A679 Burnley Road, by the Hyndburn and Burnley boundary and then westwards by the Hyndburn and Rossendale Boundary crossing the A56(T)  and the A680 (Manchester Road/Blackburn Road) to the line of the former Haslingden -Accrington railway line; then northwards by the cycleway that runs along the former railway to a point by the junction of Bath Street and Riley Street (both in St Anne's parish) and westwards by a bee-line to the junction of Ormerod Street and Willows Lane and north along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to the A679 Hyndburn Road, and north by the Dunkenhalgh Way to the M65 Motorway junction 7.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Anne and St Joseph",
+          "description": "From the junction of the Easterly By-Pass A56 with A679 Burnley Road, then south to the parking lay-by then in a straight line to and along Water Street, Alice Street, Burnley Road, Eastgate, A679 Hyndburn Road to the junction with Park Road."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "22/09/2017",
-      "status": "approved"
+      "status": "approved",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D024_20170922_A3.pdf",
+      "description": "From the M65 Motorway junction  7 with the A6185 Dunkenhalgh Way, by a straight line to the junction of  Dill Hall Lane and First Avenue, then by First Avenue (both sides in St Mary's Parish, Clayton le Moors) to and by Whalley Road to and along Haworth Street, excluding Epping Av., then by a straight line to the bend in Whinney Hill Road via but excluding  Sankey House Farm Caravan Site and by Whinney Hill Road and Clough Brook to the M65 Motorway, then eastwards by the M65 junction 8  with the A56(T). Then south by the A56(T)  Easterly  By-Pass to the junction with the A679 Burnley Road, by the Hyndburn and Burnley boundary and then westwards by the Hyndburn and Rossendale Boundary crossing the A56(T)  and the A680 (Manchester Road/Blackburn Road) to the line of the former Haslingden -Accrington railway line; then northwards by the cycleway that runs along the former railway to a point by the junction of Bath Street and Riley Street (both in St Anne's parish) and westwards by a bee-line to the junction of Ormerod Street and Willows Lane and north along Willows Lane to Blackburn Road, then west along Blackburn Road to Park Road, and by Park Road (both sides being in St Anne's parish) to the A679 Hyndburn Road, and north by the Dunkenhalgh Way to the M65 Motorway junction 7.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Anne and St Joseph",
+          "description": "From the junction of the Easterly By-Pass A56 with A679 Burnley Road, then south to the parking lay-by then in a straight line to and along Water Street, Alice Street, Burnley Road, Eastgate, A679 Hyndburn Road to the junction with Park Road."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

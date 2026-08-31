@@ -1,27 +1,41 @@
 {
   "id": "H018",
   "name": "St Mary, Langho",
+  "shortName": "St Mary",
+  "location": "Langho",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 12,
+  "note": null,
   "maps": {
     "updated": "29/07/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H018_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H018_20170729_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H018_20170729_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H018_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the boundary stone on Shawcliffe Lane SW  along the Ribble Valley / Hyndburn civil boundary, to  York Road,  Rishton Road and N along Hollowhead Lane, crossing Whalley New Road A666 then along  Ribchester Road B6245 and W along River Ribble.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": null,
+      "description": "From the boundary stone on Shawcliffe Lane SW  along the Ribble Valley / Hyndburn civil boundary, to  York Road,  Rishton Road and N along Hollowhead Lane, crossing Whalley New Road A666 then along  Ribchester Road B6245 and W along River Ribble.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "29/07/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H018_20170729_A3.pdf",
+      "description": "From the boundary stone on Shawcliffe Lane SW  along the Ribble Valley / Hyndburn civil boundary, to  York Road,  Rishton Road and N along Hollowhead Lane, crossing Whalley New Road A666 then along  Ribchester Road B6245 and W along River Ribble.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

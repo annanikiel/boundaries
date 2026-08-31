@@ -1,23 +1,33 @@
 {
   "id": "H022",
   "name": "St Peter and St Joseph, Stonyhurst",
+  "shortName": "St Peter and St Joseph",
+  "location": "Stonyhurst",
   "deaneryId": "H",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H022_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H022_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H022_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H022_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the Craven Heifer by the track to and including Barracks, then north-westerly to and by the stream by and including Wallbanks to its confluence with the River Hodder, then downstream along the River Hodder to its confluence with the River Ribble, then downstream by the River Ribble to its confluence with Starling Book, and upstream by Starling Brook to a bridge north of Grindlestone House, then westerly by a bee-line passing south of Grimshaw House to the Duddel Brook, and upstream under Dean Brow to a bridge then southward by a path to Huntington Hall Road continuing by a bee-line to a track junction with Old Clitheroe Road and northwards by this track and footpath to the watershed of Longridge Fell and along the watershed via Spire Hill towards Harehill, then by a bee-line and track northwards to the road, turning left by the road to the Craven Heifer.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H022_20170415_A3.pdf",
+      "description": "From the Craven Heifer by the track to and including Barracks, then north-westerly to and by the stream by and including Wallbanks to its confluence with the River Hodder, then downstream along the River Hodder to its confluence with the River Ribble, then downstream by the River Ribble to its confluence with Starling Book, and upstream by Starling Brook to a bridge north of Grindlestone House, then westerly by a bee-line passing south of Grimshaw House to the Duddel Brook, and upstream under Dean Brow to a bridge then southward by a path to Huntington Hall Road continuing by a bee-line to a track junction with Old Clitheroe Road and northwards by this track and footpath to the watershed of Longridge Fell and along the watershed via Spire Hill towards Harehill, then by a bee-line and track northwards to the road, turning left by the road to the Craven Heifer.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

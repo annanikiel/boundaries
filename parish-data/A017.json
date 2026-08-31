@@ -1,23 +1,33 @@
 {
   "id": "A017",
   "name": "St Joseph, Longsight",
+  "shortName": "St Joseph",
+  "location": "Longsight",
   "deaneryId": "A",
   "status": "closed",
+  "parishNumber": 11,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A017_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A017_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A017_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A017_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Hyde Road and Kirkmanshulme Lane, S along Kirkmanshulme Lane, the railway and W along Stanley Grove. Then SE along Stockport Road, Stamford Road, S along Birch Hall Lane, Birchfields Road, Anson Road, Upper Brook Street, W along Hathersage Road, N along Oxford Road, Grafton Street, Upper Brook Street to its junction with Plymouth Grove. Then along Plymouth Grove to Bryant Close, Lauderdale Crescent, W along Stockport Road, Higher Ardwick, to Ardwick – Levenshulme railway and S along the railway to and E along Hyde Road to its junction with Kirkmanshulme Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A017_20170415_A3.pdf",
+      "description": "From the junction of Hyde Road and Kirkmanshulme Lane, S along Kirkmanshulme Lane, the railway and W along Stanley Grove. Then SE along Stockport Road, Stamford Road, S along Birch Hall Lane, Birchfields Road, Anson Road, Upper Brook Street, W along Hathersage Road, N along Oxford Road, Grafton Street, Upper Brook Street to its junction with Plymouth Grove. Then along Plymouth Grove to Bryant Close, Lauderdale Crescent, W along Stockport Road, Higher Ardwick, to Ardwick – Levenshulme railway and S along the railway to and E along Hyde Road to its junction with Kirkmanshulme Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

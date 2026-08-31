@@ -1,23 +1,33 @@
 {
   "id": "D012",
   "name": "St Marie, Haslingden",
+  "shortName": "St Marie",
+  "location": "Haslingden",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where a beeline from the Boundary Stone on Burnley Road to the railway bridge over the River Irwell crosses the A56(T), along this beeline to the railway bridge and by the River Irwell to Irwell Vale, then by Kenyon Clough to Broadacres and on by the track to Helmshore Road and by a bee-line to Bull Hill, and by the Bury Metropolitan and Lancashire District Boundary and the Blackburn with Darwen and Lancashire District Boundary to the junction of Long Hey Lane and Broadhead Road and by the Hyndburn and Rossendale Boundary across Grane Road and on through Rising Bridge to King’s Highway and southwards along King’s Highway and the bridle track by Cribden Side and southwards by the track to Cribden End Lane and by Laund Lane to Height End road junction, then by a bee-line via the junction of Haslingden Road and Laneside Road to the roundabout where the A680 and B6527 meet the A56(T) and by the A56(T) to the point where the beeline from the Boundary Stone on Burnley Road to the railway bridge over the River Irwell crosses the A56(T).",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D012_20170415_A3.pdf",
+      "description": "From the point where a beeline from the Boundary Stone on Burnley Road to the railway bridge over the River Irwell crosses the A56(T), along this beeline to the railway bridge and by the River Irwell to Irwell Vale, then by Kenyon Clough to Broadacres and on by the track to Helmshore Road and by a bee-line to Bull Hill, and by the Bury Metropolitan and Lancashire District Boundary and the Blackburn with Darwen and Lancashire District Boundary to the junction of Long Hey Lane and Broadhead Road and by the Hyndburn and Rossendale Boundary across Grane Road and on through Rising Bridge to King’s Highway and southwards along King’s Highway and the bridle track by Cribden Side and southwards by the track to Cribden End Lane and by Laund Lane to Height End road junction, then by a bee-line via the junction of Haslingden Road and Laneside Road to the roundabout where the A680 and B6527 meet the A56(T) and by the A56(T) to the point where the beeline from the Boundary Stone on Burnley Road to the railway bridge over the River Irwell crosses the A56(T).",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

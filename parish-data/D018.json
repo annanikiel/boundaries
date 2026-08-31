@@ -1,28 +1,41 @@
 {
   "id": "D018",
   "name": "The Good Shepherd, Pendle",
+  "shortName": "The Good Shepherd",
+  "location": "Pendle",
   "deaneryId": "D",
   "status": "current",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "15/07/2022",
     "approval": "approved",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D018_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D018_20220715_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D018_20220715_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/D018_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Barrowford - Nelson civil parish boundary meets Barrowford Road, W along Barrowford Road to the roundabout by Parrock Road, and by the track past and including Laund Farm to Wheatley Lane Road, and by Wheatley Lane Road to the track east of the White Swan Hotel and by this track to Spen End and by the track to Spen Height and along the track past the radio mast to Spenbrook Road and north-westerly by tracks via Bull Hole to Well Head on Well Head Road. Then by bee-lines to Driver Height, Spence Moor and Apronfull Hill and by the civil parish boundary to Ogden Clough and along the Ribble Valley and Pendle District Boundary over Pendle Hill to the diocesan boundary at Helliwell Wood and by the diocesan boundary to Hey Slack then via Red Spar to the Upper Coldwell Reservoir and by Back Lane and then N by Trawden Forest - Nelson civil parish boundary, W by Colne - Nelson civil parish boundary and Barrowford - Nelson civil parish boundary to the point where it meets Barrowford Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D018_20170415_A3.pdf",
+      "description": "From the M65 Motorway at junction 13, along Barrowford Road to the roundabout by Parrock Road, and by the track past and including Laund Farm to Wheatley Lane Road, and by Wheatley Lane Road to the track east of the White Swan Hotel and by this track to Spen End and by the track to Spen Height and along the track past the radio mast to Spenbrook Road and north-westerly by tracks via Bull Hole to Well Head on Well Head Road. Then by bee-lines to Driver Height, Spence Moor and Apronfull Hill and by the civil parish boundary to Ogden Clough and along the Ribble Valley and Pendle District Boundary over Pendle Hill to the diocesan boundary at Helliwell Wood and by the diocesan boundary to Hey Slack then via Red Spar to the Upper Coldwell Reservoir and by Back Lane, Delves Lane, Barkerhouse Road, Netherfield Road, Sagar Street, New Scotland Road, Scotland Road to the M65 Motorway at Junction 13.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "15/07/2022",
       "status": "approved",
-      "note": " "
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/D018_20220715_A3.pdf",
+      "description": "From the point where Barrowford - Nelson civil parish boundary meets Barrowford Road, W along Barrowford Road to the roundabout by Parrock Road, and by the track past and including Laund Farm to Wheatley Lane Road, and by Wheatley Lane Road to the track east of the White Swan Hotel and by this track to Spen End and by the track to Spen Height and along the track past the radio mast to Spenbrook Road and north-westerly by tracks via Bull Hole to Well Head on Well Head Road. Then by bee-lines to Driver Height, Spence Moor and Apronfull Hill and by the civil parish boundary to Ogden Clough and along the Ribble Valley and Pendle District Boundary over Pendle Hill to the diocesan boundary at Helliwell Wood and by the diocesan boundary to Hey Slack then via Red Spar to the Upper Coldwell Reservoir and by Back Lane and then N by Trawden Forest - Nelson civil parish boundary, W by Colne - Nelson civil parish boundary and Barrowford - Nelson civil parish boundary to the point where it meets Barrowford Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

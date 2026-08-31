@@ -1,23 +1,33 @@
 {
   "id": "E010",
   "name": "St Joseph, Shaw",
+  "shortName": "St Joseph",
+  "location": "Shaw",
   "deaneryId": "E",
   "status": "current",
+  "parishNumber": 3,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E010_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E010_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E010_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/E010_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where the railway crosses Milnrow Road, S by Milnrow Road to its junction with Higher Park, then E by a bee-line along Shore Avenue, Cliff Hill Road and Buckstones Road (including both sides of these roads in St Joseph’s), to the Old Brook (near Golden Street). E by the brook to and along W border of Blushes Clough Reservoir and S by a straight line to and along Buckstones Road and Ripponden Road to the point where it meets Lower Dingle. W along Lower Dingle to and S along the railway to the point opposite Chepstow Drive (near Stoneleigh Academy), and W by a bee-line to Higginshaw Lane. Then by a bee-line to the junction of Salmon Fields and Leonard Way, along E border of the Hospice (in Ss Aidan and Oswald parish), to Tufland Avenue (both sides in Ss Aidan and Oswald parish) to and NE along Shaw Road, High Barn Road, to the point it bends, then by a bee-line NW to the junction of Fir Lane and Grasmere Road, and N along Fir Lane, Narrow Gate Brow and the footpath to the point opposite junction of Castleton Road and Thornham Lane. Then E by the bee-line crossing Rochdale Road and including all of Greenhill Avenue, Moss Grove estates to and along Mossgate Road and by a bee-line to the point where the railway crosses Milnrow Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/E010_20170415_A3.pdf",
+      "description": "From the point where the railway crosses Milnrow Road, S by Milnrow Road to its junction with Higher Park, then E by a bee-line along Shore Avenue, Cliff Hill Road and Buckstones Road (including both sides of these roads in St Joseph’s), to the Old Brook (near Golden Street). E by the brook to and along W border of Blushes Clough Reservoir and S by a straight line to and along Buckstones Road and Ripponden Road to the point where it meets Lower Dingle. W along Lower Dingle to and S along the railway to the point opposite Chepstow Drive (near Stoneleigh Academy), and W by a bee-line to Higginshaw Lane. Then by a bee-line to the junction of Salmon Fields and Leonard Way, along E border of the Hospice (in Ss Aidan and Oswald parish), to Tufland Avenue (both sides in Ss Aidan and Oswald parish) to and NE along Shaw Road, High Barn Road, to the point it bends, then by a bee-line NW to the junction of Fir Lane and Grasmere Road, and N along Fir Lane, Narrow Gate Brow and the footpath to the point opposite junction of Castleton Road and Thornham Lane. Then E by the bee-line crossing Rochdale Road and including all of Greenhill Avenue, Moss Grove estates to and along Mossgate Road and by a bee-line to the point where the railway crosses Milnrow Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

@@ -1,23 +1,33 @@
 {
   "id": "A014",
   "name": "St Kentigern, Fallowfield",
+  "shortName": "St Kentigern",
+  "location": "Fallowfield",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 8,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A014_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Broadfield Road and Claremont Road, along Claremont Road, Yew Tree Road, Arnside Street, Parkfield Street, Platt Lane, Wilmslow Road, Old Hall Lane, Birchfields Road, Mossley Rd, Kingsway, Kingswood Road, Ladybarn Lane to the bridge over the course of the former railway line, and along the course of the former railway line to Wellington Road, then by Wellington Road, Victoria Road, Birchington Road, Mauldeth Road West, Princess Road, Platt Lane, Lloyd St South, Parkside Road and Broadfield Rd to its junction with Claremont Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A014_20170415_A3.pdf",
+      "description": "From the junction of Broadfield Road and Claremont Road, along Claremont Road, Yew Tree Road, Arnside Street, Parkfield Street, Platt Lane, Wilmslow Road, Old Hall Lane, Birchfields Road, Mossley Rd, Kingsway, Kingswood Road, Ladybarn Lane to the bridge over the course of the former railway line, and along the course of the former railway line to Wellington Road, then by Wellington Road, Victoria Road, Birchington Road, Mauldeth Road West, Princess Road, Platt Lane, Lloyd St South, Parkside Road and Broadfield Rd to its junction with Claremont Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

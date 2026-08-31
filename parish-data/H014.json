@@ -1,23 +1,33 @@
 {
   "id": "H014",
   "name": "St Joseph, Darwen",
+  "shortName": "St Joseph",
+  "location": "Darwen",
   "deaneryId": "H",
   "status": "closed",
+  "parishNumber": 5,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H014_20170415_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H014_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/H014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From Davy Field Bridge on the M65 at Roman Road passing N of New Waterside Paper Mill and Bank Fold Farm, excluding Belthorn to and along Belthorn Road, Elton Road, then W by Rossendale - Hyndburn district boundary, and S by Blackburn – Rossendale district boundary and W along the north boundary of North Turton civil parish, to and N along diocesan boundary to the bridge over the River Roddlesworth.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/H014_20170415_A3.pdf",
+      "description": "From Davy Field Bridge on the M65 at Roman Road passing N of New Waterside Paper Mill and Bank Fold Farm, excluding Belthorn to and along Belthorn Road, Elton Road, then W by Rossendale - Hyndburn district boundary, and S by Blackburn – Rossendale district boundary and W along the north boundary of North Turton civil parish, to and N along diocesan boundary to the bridge over the River Roddlesworth.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

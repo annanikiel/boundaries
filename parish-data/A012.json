@@ -1,23 +1,33 @@
 {
   "id": "A012",
   "name": "St Ambrose, Chorlton",
+  "shortName": "St Ambrose",
+  "location": "Chorlton",
   "deaneryId": "A",
   "status": "current",
+  "parishNumber": 1,
+  "note": null,
   "maps": {
     "updated": "15/04/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A012_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A012_20170415_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A012_20170415_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/A012_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Nell Lane and Mauldeth Road West, SE along Nell Lane, Northern Grove, Barlow Moor Road, S along Palatine Road to the point where it meets River Mersey, and N along River Mersey to the point opposite Rifle Road. Then by a beeline E to Hardy Lane, excluding Betel UK – Manchester. E along Hardy Lane and Mauldeth Road West to its junction with Nell Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/A012_20170415_A3.pdf",
+      "description": "From the junction of Nell Lane and Mauldeth Road West, SE along Nell Lane, Northern Grove, Barlow Moor Road, S along Palatine Road to the point where it meets River Mersey, and N along River Mersey to the point opposite Rifle Road. Then by a beeline E to Hardy Lane, excluding Betel UK – Manchester. E along Hardy Lane and Mauldeth Road West to its junction with Nell Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

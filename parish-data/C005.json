@@ -1,27 +1,41 @@
 {
   "id": "C005",
   "name": "St Anne, Crumpsall",
+  "shortName": "St Anne",
+  "location": "Crumpsall",
   "deaneryId": "C",
   "status": "current",
+  "parishNumber": 4,
+  "note": null,
   "maps": {
     "updated": "31/05/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C005_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C005_20170531_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C005_20170531_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/C005_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the junction of Sheepfold Lane and Meade Hill Road, along Meade Hill Road, Blackley New Road to and E along River Irk to and along Smedley Lane, Cheetham Hill Road, Bury Old Road, Sheepfoot Lane to its junction with Meade Hill Road.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C005_20170415_A3.pdf",
+      "description": "From the junction of Sheepfold Lane and Meade Hill Road, along Meade Hill Road, Blackley New Road to and E along River Irk to and along Smedley Lane, Bellott Street, Waterloo Road, Cheetham Hill Road, Bury Old Road, Sheepfoot Lane to its junction with Meade Hill Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "31/05/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/C005_20170531_A3.pdf",
+      "description": "From the junction of Sheepfold Lane and Meade Hill Road, along Meade Hill Road, Blackley New Road to and E along River Irk to and along Smedley Lane, Cheetham Hill Road, Bury Old Road, Sheepfoot Lane to its junction with Meade Hill Road.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {

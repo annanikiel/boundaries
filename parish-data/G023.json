@@ -1,27 +1,56 @@
 {
   "id": "G023",
   "name": "St Mary with St Philip Neri and St Michael with St Bernadette",
+  "shortName": "St Mary with St Philip Neri and St Michael with St Bernadette",
+  "location": null,
   "deaneryId": "G",
   "status": "proposed",
+  "parishNumber": 10,
+  "note": null,
   "maps": {
     "updated": "02/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G012G014_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012G014_20170602_A3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012G014_20170602_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/G012G014_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, to its confluence with River Roch. N by River Roch to its confluence with and E along Hollins Brook, crossing Croft Lane and M66 Motorway, then along Whittle Brook to M62 Motorway and S to junction 18, then along M60 to the railway just before Junction 17. N along the railway, then W along Moss Lane, Pinfold Lane, Park Lane Philips Park Road West to its end at Hill Crest and by a beeline to and along M60 Motorway to and N along Salford-Bury District Boundary and Bolton-Bury District Boundary to 353 Ringley Rd W, N by a bee-line to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+    "internalBoundaries": [
+      {
+        "name": "Former boundary between St Mary with St Philip Neri and St Michael with St Bernadette",
+        "description": "From the confluence of River Irwell and River Roch, S by River Irwell and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to its junction with Wood Street."
+      }
+    ],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012G014_20170415_A3.pdf",
+      "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, to its confluence with River Roch. N by River Roch to its confluence with and E along Hollins Brook, crossing Croft Lane and M66 Motorway, then along Whittle Brook to M62 Motorway and S to junction 18, then along M60 to the railway just before Junction 17. N along the railway, then W along Moss Lane, Pinfold Lane, Park Lane Philips Park Road West to its end at Hill Crest and by a beeline to and along M60 Motorway to and N along Salford-Bury District Boundary and Bolton-Bury District Boundary to 353 Ringley Rd W, N by a bee-line to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary with St Philip Neri and St Michael with St Bernadette",
+          "description": "From the confluence of River Irwell and River Roch, S by River Irwell and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to its junction with Wood Street."
+        }
+      ],
+      "supplementaryNote": null
     },
     {
       "date": "02/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/G012G014_20170602_A3.pdf",
+      "description": "From the point where Bolton-Bury District boundary crosses Bury New Road, E along Bury New Road, and Bury and Bolton Road to its junction with Watling Street, then SE by a beeline through Elton Reservoir, including Higher Spenmoor Farm, but excluding Cygnet Hospital (Bury), then NE to Hinds Lane and E by a beeline to and S along River Irwell, to its confluence with River Roch. N by River Roch to its confluence with and E along Hollins Brook, crossing Croft Lane and M66 Motorway, then along Whittle Brook to M62 Motorway and S to junction 18, then along M60 to the railway just before Junction 17. N along the railway, then W along Moss Lane, Pinfold Lane, Park Lane Philips Park Road West to its end at Hill Crest and by a beeline to and along M60 Motorway to and N along Salford-Bury District Boundary and Bolton-Bury District Boundary to 353 Ringley Rd W, N by a bee-line to Manchester Bury and Bolton Canal, including all Mount Sion Road, W along the canal to and N along Bolton – Bury District Boundary to its crossing with Bury New Road.",
+      "internalBoundaries": [
+        {
+          "name": "Former boundary between St Mary with St Philip Neri and St Michael with St Bernadette",
+          "description": "From the confluence of River Irwell and River Roch, S by River Irwell and by a beeline to Radcliffe New Road, crossing the railway and through Hollinhurst Playing Fields, including Jubilee Ave, Oak Street and Beech Street to the junction of Stand Lane and Chapelfield and by the N and W boundaries of Stand Golf Course to and W along Ringley Road and Ringley Road West to its junction with Wood Street."
+        }
+      ],
+      "supplementaryNote": null
     }
   ],
   "map": {

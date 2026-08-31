@@ -1,27 +1,41 @@
 {
   "id": "F001",
   "name": "The Holy Family, New Springs",
+  "shortName": "The Holy Family",
+  "location": "New Springs",
   "deaneryId": "F",
   "status": "current",
+  "parishNumber": 9,
+  "note": null,
   "maps": {
     "updated": "28/06/2017",
     "approval": "draft",
     "links": {
-      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F001_A4.pdf",
-      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001_20170628_a3.pdf"
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001_20170628_A3.pdf",
+      "a4": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a4/F001_A4.pdf"
     }
   },
-  "description": {
-    "available": false
+  "boundary": {
+    "description": "From the point where Borsdane Brook crosses Dicconson Lane, S along the Brook, including Mill Lane and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the point where it crosses New Road, and by a bee-line SE to and E along Wigan Road, Bolton Road to its junction with Hall Lane, by a bee-line to Borsdane Brook and by that brook to the point where it crosses Dicconson Lane.",
+    "internalBoundaries": [],
+    "supplementaryNote": null
   },
   "auditTrail": [
     {
       "date": "15/04/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001_20170415_A3.pdf",
+      "description": "From the point where Borsdane Brook crosses Dicconson Lane, S along the Brook, including Mill Lane and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the point where it crosses New Road, and by a bee-line SE to and E along Wigan Road, Bolton Road to its junction with Hall Lane, by a bee-line to Borsdane Brook and by that brook to the point where it crosses Dicconson Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     },
     {
       "date": "28/06/2017",
-      "status": "draft"
+      "status": "draft",
+      "a3": "https://dos-boundaries.s3.eu-west-2.amazonaws.com/a3/F001_20170628_A3.pdf",
+      "description": "From the point where Borsdane Brook crosses Dicconson Lane, S along the Brook, including Mill Lane and Millbrook Close in the Holy Family parish. Then along the diocesan boundary to the point where it crosses New Road, and by a bee-line SE to and E along Wigan Road, Bolton Road to its junction with Hall Lane, by a bee-line to Borsdane Brook and by that brook to the point where it crosses Dicconson Lane.",
+      "internalBoundaries": [],
+      "supplementaryNote": null
     }
   ],
   "map": {
