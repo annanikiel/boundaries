@@ -1,30 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <!-- Meta tags -->
 	<meta charset="utf-8" />
-	<meta name="Description" content="Collection of maps showing current and proposed parish boundaries in the Diocese of Salford." />
-	<meta name="Keywords" content="Diocese of Salford, parish boundaries, parishes, location of catholic churches, catholic churches, location of catholic schools, catholic schools" />
-	    
-	<!-- Apple users -->
+	<meta name="Description" content="Find which parish of the Diocese of Salford a postcode falls in." />
+	<meta name="Keywords" content="Diocese of Salford, parish boundaries, what parish, postcode, find my parish, catholic churches" />
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
-	
-	<!-- Shortcut & address bar icon -->
+
 	<link href="../assets/favicon.png" rel="icon" type="image/png" />
-	
-	<!-- Stylesheet files -->
+
 	<link href="../css/style.css" rel="stylesheet" media="screen" />
 	<link href="../css/flexnav.css" rel="stylesheet" media="screen" />
-		
-	<!-- Fonts -->
+	<link href="../css/parish.css" rel="stylesheet" media="screen" />
+
 	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
 
-	
-	
-	<!-- Page title -->
-	<title> 
-	Parishes | Diocese of Salford Parish Boundaries
+	<title>
+	What parish? | Diocese of Salford Parish Boundaries
 	</title>
 </head>
 
@@ -32,9 +25,8 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col"><img src="../assets/dioc_banner.jpg" class="mx-auto d-block logo" /></div>
+            <div class="col"><img src="../assets/dioc_banner.jpg" class="mx-auto d-block logo" alt="Diocese of Salford" /></div>
         </div>
-
 
         <!-- Navigation -->
         <div class="row">
@@ -51,71 +43,48 @@
                 </nav>
             </div>
         </div>
+
 <div class="row mt-5 body-height">
-		
+
 		<div class="d-none d-md-block col-1">&nbsp;</div>
-					
+
 		<div class="col-12 col-md-6">
 
-			<h2 class="fw-bold">What parish</h2>
-			
-			
-<p class="lead pb-5"><span class="fw-bold">Deanery: </span><span id="deaneryName">name</span></p>
-    <div class="pb-5">
-		<h3>Current parishes</h3>
-		<p><span class="fw-bold">Total: </span><span id="currentCount" class="count"></span></p>
-		<p class="lh-lg">
-            <ul id="currentList" class="parish-list"></ul>
-        </p>
-   </div>
+			<h2 class="fw-bold">What parish am I in?</h2>
+			<p>To find out which parish you are in, please enter your postcode below.</p>
 
-     <div class="pb-5">
-		<h3>Proposed amalgamations</h3>
-		<p><span class="fw-bold">Total: </span><span id="proposedCount" class="count"></span></p>
-		<p class="lh-lg"> 
-            <ul id="proposedList" class="parish-list"></ul>
-        </p>
-   </div>
-    
-     <div class="pb-5">
-		<h3>Archive</h3>
-		<p><span class="fw-bold">Total: </span><span id="closedCount" class="count"></span></p>
-        <ul id="closedList" class="parish-list"></ul>
-		<p class="lh-lg"> 
-        </p>
-   </div>
-    </div>
-		
-		<div class="col-12 col-md-4">
-            
-            <figure class="deanery-map">
-                <img
-                    id="deaneryMapImg"
-                    src=""
-                    alt=""
-                    loading="lazy"
-                    style="width:75%;" 
-                    class="rounded mx-auto d-block"
-                />
-                <figcaption id="deaneryMapCaption" class="sr-only"></figcaption>
-            </figure>
-            
-            </div>
+			<form id="postcodeForm" class="postcode-form" novalidate>
+				<label class="visually-hidden" for="postcode">Postcode</label>
+				<input
+					type="text"
+					id="postcode"
+					name="postcode"
+					class="form-control border border-primary p-3"
+					placeholder="Postcode"
+					autocomplete="postal-code"
+					autocapitalize="characters"
+					spellcheck="false"
+				/>
+				<button class="btn btn-primary p-3" type="submit">Search</button>
+			</form>
+
+			<div id="result" class="lookup-panel" hidden></div>
+		</div>
+
 		<div class="d-none d-md-block col-1">&nbsp;</div>
 
 		</div> <!-- Footer -->
         <div class="footer">
-            <p>Copyright © Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+            <p>Copyright &copy; Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
         </div>
-
 
     </div>
 
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="../js/jquery.flexnav.js"></script>
-  <script src="../js/data.js"></script>
-
+    <script src="../js/data.js"></script>
+    <script src="../js/boundaries.js"></script>
+    <script src="../js/what-parish.js"></script>
 
 </body>
 </html>

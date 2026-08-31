@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="Description" content="Interactive map of the current parish boundaries in the Diocese of Salford." />
+	<meta name="Keywords" content="Diocese of Salford, parish boundaries, parishes, interactive map, location of catholic churches, catholic churches" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+	<link href="../assets/favicon.png" rel="icon" type="image/png" />
+
+	<link href="../css/style.css" rel="stylesheet" media="screen" />
+	<link href="../css/flexnav.css" rel="stylesheet" media="screen" />
+	<link href="../css/parish.css" rel="stylesheet" media="screen" />
+
+	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@7.3.0/ol.css" type="text/css">
+	<script src="https://cdn.jsdelivr.net/npm/ol@7.3.0/dist/ol.js"></script>
+
+	<title>
+	Interactive map | Diocese of Salford Parish Boundaries
+	</title>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col"><img src="../assets/dioc_banner.jpg" class="mx-auto d-block logo" alt="Diocese of Salford" /></div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="row">
+            <div class="col">
+                <div class="menu-button">Menu</div>
+                <nav>
+                    <ul data-breakpoint="1080" class="flexnav">
+                        <li><a href="../">Home</a></li>
+                        <li><a href="deaneries">Deaneries</a></li>
+                        <li><a href="map">Interactive map</a></li>
+                        <li><a href="what-parish">What parish?</a></li>
+                        <li><a href="contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+<div class="row mt-5 body-height">
+
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+
+		<div class="col-12 col-md-10">
+
+			<h2 class="fw-bold">Interactive map</h2>
+			<p>
+				The eight deaneries are outlined across the whole diocese. Zoom in to
+				see the parish boundaries within them, and click a parish to open its
+				page.
+			</p>
+
+			<div id="map" class="diocese-map"></div>
+			<p id="info" class="map-info">&nbsp;</p>
+
+			<p class="fst-italic">
+				The written description is the official record of the boundary.
+				Maps are illustrative only.
+			</p>
+		</div>
+
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+
+		</div> <!-- Footer -->
+        <div class="footer">
+            <p>Copyright &copy; Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+        </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="../js/jquery.flexnav.js"></script>
+    <script src="../js/data.js"></script>
+    <script src="../js/boundaries.js"></script>
+    <script src="../js/map.js"></script>
+
+</body>
+</html>

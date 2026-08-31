@@ -9,7 +9,11 @@ JSON from this repository.
     css/                  compiled Bootstrap build, flexnav, parish page styles
     js/data.js            loaders for the JSON data
     js/parish.js          the parish page
-    data/                 deaneries, statuses, and the parish index
+    js/boundaries.js      the boundary layer and the point-in-parish test
+    js/map.js             the interactive map
+    js/what-parish.js     the postcode lookup
+    data/                 deaneries, statuses, the parish index, and the
+                          combined boundary layer (generated)
     parish-data/          one record per parish, generated (see below)
     assets/               banners, deanery maps, and the CSV database extracts
     tools/                the generator and its supporting data
@@ -63,6 +67,30 @@ merged over the generated record by the build:
 its own maps and its own descriptions in PDF and Word. The live site gives
 this parish a bespoke page rather than the standard one, and so do we, via
 `"template": "stages"`.
+
+## data/parish-boundaries.geojson
+
+Generated. Rebuild with:
+
+    python3 tools/build_parish_boundaries.py
+
+The diocese maintains one combined layer in S3, `geojson/parishes20220715.geojson`.
+It is authoritative geometry, but it predates some approvals: 17 of its features
+are keyed to the ids parishes held before they were approved (H026 for what is
+now H039, B027 for B037), and Holy Apostles and Sacred Heart, Darwen are each
+split across two features. The build resolves the ids, merges the split
+parishes, reprojects to WGS84 and trims the precision to about a metre. The
+result is all 108 current parishes in 240 KB — 57 KB gzipped — which is what
+makes the postcode lookup a static file rather than a server.
+
+One id needs care: the source file uses `F022` for Holy Infant, but this site
+uses `F022` for the Bolton staged-restructuring page, so it is remapped to F002.
+
+The result was checked against the live site's own lookup over 138 real
+postcodes spread across all eight deaneries: 132 agreed, and the six that did
+not are all cases where the live site returns a parish that has since been
+amalgamated (St Patrick, Rochdale and St James the Lees are both closed). No
+point fell inside two parishes.
 
 ## Assets outside the database
 

@@ -140,3 +140,95 @@
 .stage-item {
   font-weight: 700;
 }
+
+/* Interactive map. */
+.diocese-map {
+  width: 100%;
+  height: 70vh;
+  min-height: 24rem;
+  border: 1px solid #d8ccd3;
+  border-radius: 4px;
+}
+
+.map-info {
+  margin: 0.6rem 0 1.5rem;
+  min-height: 1.5em;
+  color: #6b5c64;
+}
+
+.map-info a {
+  font-weight: 700;
+}
+
+/* Postcode lookup. */
+.postcode-form {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 26rem;
+  margin: 0 0 1.75rem;
+}
+
+.postcode-form input {
+  flex: 1 1 auto;
+  min-width: 0;
+  text-transform: uppercase;
+}
+
+.postcode-form button {
+  flex: none;
+}
+
+.lookup-panel {
+  border-left: 4px solid #5f3c53;
+  background: #f5eff3;
+  padding: 1.1rem 1.3rem;
+}
+
+.lookup-panel h3 {
+  margin: 0 0 0.75rem;
+}
+
+.lookup-panel p:last-child {
+  margin-bottom: 0;
+}
+
+.lookup-result {
+  margin: 0 0 1rem;
+}
+
+.lookup-result dt {
+  font-weight: 700;
+}
+
+.lookup-result dd {
+  margin: 0 0 0.6rem;
+}
+
+.lookup-caveat {
+  font-size: 0.92rem;
+  color: #6b5c64;
+}
+
+.lookup-error {
+  color: #8a2f2d;
+  margin: 0;
+}
+
+/* OpenLayers draws its attribution as a list; Bootstrap would give it bullets
+   and indentation. */
+.diocese-map .ol-attribution ul,
+.map .ol-attribution ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.diocese-map .ol-attribution,
+.map .ol-attribution {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 3px;
+  padding: 0.15rem 0.4rem;
+}

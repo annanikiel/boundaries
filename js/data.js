@@ -10,6 +10,14 @@ const SITE_BASE = (function () {
   return self ? new URL("../", self).href : new URL("/", location.href).href;
 })();
 
+function escapeHTML(value) {
+  return String(value == null ? "" : value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
 function dataURL(path) {
   return new URL(path, SITE_BASE).href;
 }

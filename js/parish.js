@@ -1,13 +1,5 @@
 // Parish page. Renders one record from parish-data/{id}.json.
 
-function escapeHTML(value) {
-  return String(value == null ? "" : value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
-}
-
 function setText(id, value, fallback) {
   const el = document.getElementById(id);
   if (el) el.textContent = value || fallback || "";
