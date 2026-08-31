@@ -194,17 +194,11 @@ function initParishMap(parish) {
 
   document.title = `${parish.name} | Diocese of Salford Parish Boundaries`;
   setText("parishName", parish.name, "Parish");
-  setText("parishLocation", parish.location);
   setText("parishStatus", statusLabel);
 
   const deaneryLink = document.getElementById("deaneryLink");
   deaneryLink.textContent = deanery ? deanery.name : "Deaneries";
   deaneryLink.href = deanery ? `deanery?id=${encodeURIComponent(deanery.id)}` : "deaneries";
-
-  if (parish.parishNumber != null) {
-    setText("parishNumber", parish.parishNumber);
-    document.getElementById("parishNumberRow").hidden = false;
-  }
 
   if (parish.note) {
     setText("parishNoteText", parish.note);
