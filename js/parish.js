@@ -228,17 +228,3 @@ function initParishMap(parish) {
   document.getElementById("boundaryDescription").innerHTML =
     `<p class="boundary-missing">This parish could not be loaded. Please return to the <a href="deaneries">list of deaneries</a>.</p>`;
 });
-
-// The menu plugin is the page's only use of jQuery. If the CDN is unavailable
-// the parish content must still render, so guard the call.
-if (window.jQuery && jQuery.fn.flexNav) {
-  jQuery(".flexnav").flexNav({
-    animationSpeed: 250,
-    transitionOpacity: true,
-    buttonSelector: ".menu-button",
-    hoverIntent: false,
-    hoverIntentTimeout: 150,
-    calcItemWidths: true,
-    hover: true
-  });
-}

@@ -76,15 +76,3 @@ document.getElementById("postcodeForm").addEventListener("submit", function (eve
 
 // Warm the boundary file while the visitor is typing.
 loadParishBoundaries().catch(() => {});
-
-if (window.jQuery && jQuery.fn.flexNav) {
-  jQuery(".flexnav").flexNav({
-    animationSpeed: 250,
-    transitionOpacity: true,
-    buttonSelector: ".menu-button",
-    hoverIntent: false,
-    hoverIntentTimeout: 150,
-    calcItemWidths: true,
-    hover: true
-  });
-}

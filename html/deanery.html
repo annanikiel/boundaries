@@ -112,9 +112,8 @@
     </div>
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="../js/jquery.flexnav.js"></script>
   <script src="../js/data.js"></script>
+  <script src="../js/nav.js"></script>
   <script>
     function parishLink(p) {
     return `<li><a href="parish?id=${encodeURIComponent(p.id)}">${p.name}</a></li>`;
@@ -171,19 +170,6 @@
   });
   </script>
 
-  <script>
-    if (window.jQuery && jQuery.fn.flexNav) {
-    jQuery(".flexnav").flexNav({
-      animationSpeed: 250,
-      transitionOpacity: true,
-      buttonSelector: ".menu-button",
-      hoverIntent: false,
-      hoverIntentTimeout: 150,
-      calcItemWidths: true,
-      hover: true
-    });
-    }
-  </script>
 
 </body>
 </html>

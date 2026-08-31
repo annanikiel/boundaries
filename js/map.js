@@ -132,15 +132,3 @@ if (window.ol) {
   const info = document.getElementById("info");
   if (info) info.textContent = "The map could not be loaded.";
 }
-
-if (window.jQuery && jQuery.fn.flexNav) {
-  jQuery(".flexnav").flexNav({
-    animationSpeed: 250,
-    transitionOpacity: true,
-    buttonSelector: ".menu-button",
-    hoverIntent: false,
-    hoverIntentTimeout: 150,
-    calcItemWidths: true,
-    hover: true
-  });
-}
