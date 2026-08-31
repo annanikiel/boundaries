@@ -4,7 +4,7 @@
     "name": "St John - Salford",
     "slug": "st-john",
     "order": 1,
-    "mapImage": "/assets/B.png",
+    "mapImage": "assets/B.png",
     "mapAlt": "St John deanery highlighted on the diocesan map"
   },
 
@@ -13,7 +13,7 @@
     "name": "St Ambrose Barlow - South Manchester",
     "slug": "st-ambrose",
     "order": 2,
-    "mapImage": "/assets/A.png",
+    "mapImage": "assets/A.png",
     "mapAlt": "St Ambrose deanery highlighted on the diocesan map"
   },
 
@@ -22,7 +22,7 @@
     "name": "St Chad - North Manchester",
     "slug": "st-chad",
     "order": 3,
-    "mapImage": "/assets/C.png",
+    "mapImage": "assets/C.png",
     "mapAlt": "St Chad's deanery highlighted on the diocesan map"
   },
 
@@ -31,7 +31,7 @@
     "name": "St John Vianney - Burnley",
     "slug": "st-john-vianney",
     "order": 4,
-    "mapImage": "/assets/D.png",
+    "mapImage": "assets/D.png",
     "mapAlt": "St John Vianney deanery highlighted on the diocesan map"
   },
 
@@ -40,7 +40,7 @@
     "name": "Mount Carmel - Oldham",
     "slug": "mount-carmel",
     "order": 5,
-    "mapImage": "/assets/E.png",
+    "mapImage": "assets/E.png",
     "mapAlt": "Mount Carmel deanery highlighted on the diocesan map"
   },
 
@@ -49,7 +49,7 @@
     "name": "St Joseph - Bolton",
     "slug": "st-joseph",
     "order": 6,
-    "mapImage": "/assets/F.png",
+    "mapImage": "assets/F.png",
     "mapAlt": "St Joseph deanery highlighted on the diocesan map"
   },
 
@@ -58,7 +58,7 @@
     "name": "St Therese of Lisieux - Rochdale, Bury",
     "slug": "st-therese",
     "order": 7,
-    "mapImage": "/assets/G.png",
+    "mapImage": "assets/G.png",
     "mapAlt": "St Therese of Lisieux deanery highlighted on the diocesan map"
   },
 
@@ -67,7 +67,7 @@
     "name": "St John Southworth - Blackburn",
     "slug": "st-john-southworth",
     "order": 8,
-    "mapImage": "/assets/H.png",
+    "mapImage": "assets/H.png",
     "mapAlt": "St John Southworth deanery highlighted on the diocesan map"
   }
 ]

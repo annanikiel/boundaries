@@ -82,8 +82,12 @@ ids (H026 for H039, B027 for B037, and so on) and need remapping first.
 
     python3 -m http.server 8000
 
-Then open <http://localhost:8000/>. The data loaders use root-relative paths,
-so the server must be rooted at the repository root.
+Then open <http://localhost:8000/>.
+
+The site works both at a domain root and under a subpath such as
+`/boundaries/` on GitHub Pages: `js/data.js` derives the base from its own
+script URL, and every other path is relative. Nothing should hard-code a
+leading `/`.
 
 ## Still to do
 
