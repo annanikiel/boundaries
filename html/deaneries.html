@@ -95,7 +95,8 @@
     </script>
 
     <script>
-        $(".flexnav").flexNav({
+        if (window.jQuery && jQuery.fn.flexNav) {
+        jQuery(".flexnav").flexNav({
             'animationSpeed': 250, // default for drop down animation speed
             'transitionOpacity': true, // default for opacity animation
             'buttonSelector': '.menu-button', // default menu button class name
@@ -104,6 +105,7 @@
             'calcItemWidths': true, // dynamically calcs top level nav item widths
             'hover': true // would you like hover support?  	  
         });
+        }
     </script>
 </body>
 

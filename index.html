@@ -20,6 +20,9 @@
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
 
+	<!-- Forwards bookmarks from the old query-string URLs. Must run before render. -->
+	<script src="js/legacy-redirect.js"></script>
+
  
 </head>
 <body>
@@ -89,7 +92,8 @@
     <script src="js/data.js"></script>
 
     <script>
-        $(".flexnav").flexNav({
+        if (window.jQuery && jQuery.fn.flexNav) {
+        jQuery(".flexnav").flexNav({
             'animationSpeed': 250, // default for drop down animation speed
             'transitionOpacity': true, // default for opacity animation
             'buttonSelector': '.menu-button', // default menu button class name
@@ -98,6 +102,7 @@
             'calcItemWidths': true, // dynamically calcs top level nav item widths
             'hover': true // would you like hover support?  	  
         });
+        }
     </script>
 </body>
 

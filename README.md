@@ -117,6 +117,34 @@ The site works both at a domain root and under a subpath such as
 script URL, and every other path is relative. Nothing should hard-code a
 leading `/`.
 
+## Moving the domain
+
+GitHub Pages currently serves the site at `annanikiel.github.io/boundaries`. To
+serve it from `boundaries.stjosephsmanchester.co.uk`:
+
+1. Add a DNS CNAME record for the `boundaries` subdomain pointing at
+   `annanikiel.github.io.` — the host only; a CNAME cannot include a path.
+2. In the repository's Settings → Pages, set the custom domain. That writes a
+   `CNAME` file here, and Pages then serves the repository at the root of that
+   domain, so the `/boundaries/` prefix disappears.
+3. Leave "Enforce HTTPS" until the certificate has been issued, usually within
+   the hour.
+
+Old URLs keep working. The previous site put every page in a query string on
+`/`, so `js/legacy-redirect.js`, loaded in the head of `index.html`, forwards
+them:
+
+    /?page=diocese          ->  /html/deaneries
+    /?page=H                ->  /html/deanery?id=H
+    /?page=H&id=H031        ->  /html/parish?id=H031
+    /?page=X&id=maps        ->  /html/map
+    /?page=parish_postcode  ->  /html/what-parish
+    /?page=contact          ->  /html/contact
+
+`404.html` covers the one old URL that was not on `/`: the generated
+descriptions at `/desc/pdf.php?id=H031&date=...`, which now go to the parish
+page, where the description is shown inline.
+
 ## Still to do
 
 The maps, boundary polygons and PDFs are still served from S3. See the

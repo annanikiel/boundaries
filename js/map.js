@@ -20,12 +20,14 @@ function deaneryStyle(feature, resolution) {
   });
 }
 
-const parishStyle = new ol.style.Style({
-  fill: new ol.style.Fill({ color: "rgba(255,255,255,0.01)" }),
-  stroke: new ol.style.Stroke({ color: "#5F3C53", width: 2 })
-});
-
 function initMap() {
+  // Built here, not at load time: if the OpenLayers CDN is unavailable the
+  // page must fall back to the message below rather than throwing.
+  const parishStyle = new ol.style.Style({
+    fill: new ol.style.Fill({ color: "rgba(255,255,255,0.01)" }),
+    stroke: new ol.style.Stroke({ color: "#5F3C53", width: 2 })
+  });
+
   const deaneryLayer = new ol.layer.Vector({
     source: new ol.source.Vector({
       url: DEANERY_BOUNDARIES_URL,

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex" />
+
+	<link href="/assets/favicon.png" rel="icon" type="image/png" />
+
+	<link href="/css/style.css" rel="stylesheet" media="screen" />
+	<link href="/css/flexnav.css" rel="stylesheet" media="screen" />
+	<link href="/css/parish.css" rel="stylesheet" media="screen" />
+
+	<link href="https://fonts.googleapis.com/css?family=Merienda|Arimo" rel="stylesheet">
+
+	<title>Page not found | Diocese of Salford Parish Boundaries</title>
+
+	<script>
+	  // The old site served each parish's written description from
+	  // /desc/pdf.php?id=H031&date=... . The description is now on the parish
+	  // page itself, so send those bookmarks there.
+	  (function () {
+	    if (!/\/desc\/pdf\.php$/.test(location.pathname)) return;
+	    var id = new URLSearchParams(location.search).get("id");
+	    if (id && /^[A-H]\d{3}$/.test(id)) {
+	      location.replace("/html/parish?id=" + encodeURIComponent(id));
+	    }
+	  })();
+	</script>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col"><img src="/assets/dioc_banner.jpg" class="mx-auto d-block logo" alt="Diocese of Salford" /></div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div class="menu-button">Menu</div>
+                <nav>
+                    <ul data-breakpoint="1080" class="flexnav">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/html/deaneries">Deaneries</a></li>
+                        <li><a href="/html/map">Interactive map</a></li>
+                        <li><a href="/html/what-parish">What parish?</a></li>
+                        <li><a href="/html/contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+<div class="row mt-5 body-height">
+
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+
+		<div class="col-12 col-md-6">
+			<h2 class="fw-bold">Page not found</h2>
+			<p class="lh-lg">
+				This page does not exist. It may have moved when the site was rebuilt.
+			</p>
+			<p class="lh-lg">
+				You can browse the
+				<a href="/html/deaneries">deaneries</a>, look at the
+				<a href="/html/map">interactive map</a>, or
+				<a href="/html/what-parish">find a parish by postcode</a>.
+			</p>
+		</div>
+
+		<div class="d-none d-md-block col-1">&nbsp;</div>
+
+		</div> <!-- Footer -->
+        <div class="footer">
+            <p>Copyright &copy; Diocesan Boundaries Board (Diocese of Salford) 2026.</p>
+        </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/jquery.flexnav.js"></script>
+    <script>
+      if (window.jQuery && jQuery.fn.flexNav) {
+        jQuery(".flexnav").flexNav({
+          animationSpeed: 250,
+          transitionOpacity: true,
+          buttonSelector: ".menu-button",
+          hoverIntent: false,
+          hoverIntentTimeout: 150,
+          calcItemWidths: true,
+          hover: true
+        });
+      }
+    </script>
+
+</body>
+</html>
